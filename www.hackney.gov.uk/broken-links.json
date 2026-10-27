@@ -1,0 +1,84 @@
+{
+ "domain": "www.hackney.gov.uk",
+ "updatedAt": "2026-10-27T22:51:42.610Z",
+ "links": {
+  "https://hackney.gov.uk/node/403": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://hackney.gov.uk/housing/homelessness/support-avoid-homelessness/advice-if-youre-worried-youre-about-become-homeless"
+   ]
+  },
+  "https://www.hta.co.uk/activities/planning-approval-for-clare-house/": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/broadway-market-and-regents-court"
+   ]
+  },
+  "https://www.stephentaylorarchitects.co.uk/": {
+   "status": 0,
+   "reason": "timeout",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/kings-crescent"
+   ]
+  },
+  "https://www.specialguardiansnorthlondon.co.uk/": {
+   "status": 0,
+   "reason": "ENOTFOUND",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://hackney.gov.uk/health-and-social-care/children-and-families/fostering/hackney-kinship-care-local-offer"
+   ]
+  },
+  "https://www.chatworkshackney.co.uk/": {
+   "status": 0,
+   "reason": "UND_ERR_CONNECT_TIMEOUT",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://hackney.gov.uk/health-and-social-care/children-and-families/fostering/hackney-kinship-care-local-offer"
+   ]
+  },
+  "https://www.london-fire.gov.uk/safety/the-home/booking-a-home-fire-safety-visit/": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://hackney.gov.uk/housing/stay-safe-your-home/fire-safety/private-and-housing-association-homes-fire-safety"
+   ]
+  }
+ }
+}

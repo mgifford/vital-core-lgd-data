@@ -1,0 +1,942 @@
+{
+ "domain": "www.lbhf.gov.uk",
+ "week": "2026-W44",
+ "generatedAt": "2026-10-27T22:51:42.356Z",
+ "pagesScanned": 1,
+ "pagesAudited": 1,
+ "coverage": {
+  "axe": 1,
+  "resources": 1,
+  "security": 1
+ },
+ "blocked": null,
+ "axe": {
+  "violationTotal": 4,
+  "pagesWithViolations": 1,
+  "pagesScanned": 1,
+  "medianViolations": 4,
+  "rules": {
+   "label-content-name-mismatch": {
+    "count": 1,
+    "pages": 1,
+    "impact": "serious",
+    "help": "Elements must have their visible text as part of their accessible name",
+    "helpUrl": "https://dequeuniversity.com/rules/axe/4.14/label-content-name-mismatch?application=axeAPI",
+    "tags": [
+     "wcag21a",
+     "wcag253"
+    ],
+    "examplePages": [
+     "https://www.lbhf.gov.uk/"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://www.lbhf.gov.uk/",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://www.lbhf.gov.uk/",
+      "target": ".lgd-header__toggle--primary",
+      "html": "<button class=\"lgd-header__toggle lgd-header__toggle--primary\" data-target=\"lgd-header__nav--primary\" aria-controls=\"lgd-header__nav--primary\" aria-expanded=\"false\" aria-label=\"Toggle Primary Navigati"
+     }
+    ]
+   },
+   "landmark-unique": {
+    "count": 1,
+    "pages": 1,
+    "impact": "moderate",
+    "help": "Landmarks should have a unique role or role/label/title (i.e. accessible name) combination",
+    "helpUrl": "https://dequeuniversity.com/rules/axe/4.14/landmark-unique?application=axeAPI",
+    "tags": [
+     "best-practice"
+    ],
+    "examplePages": [
+     "https://www.lbhf.gov.uk/"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://www.lbhf.gov.uk/",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://www.lbhf.gov.uk/",
+      "target": "#our-services-drawer",
+      "html": "<div data-parent-id=\"our-services-id\" class=\"lgd-header__nav lbhf-header-drawer-item lbhf-header-drawer-item__sm\" id=\"our-services-drawer\" tabindex=\"-1\" aria-labelledby=\"our-services-id\" role=\"region\""
+     }
+    ]
+   },
+   "page-has-heading-one": {
+    "count": 1,
+    "pages": 1,
+    "impact": "moderate",
+    "help": "Page should contain a level-one heading",
+    "helpUrl": "https://dequeuniversity.com/rules/axe/4.14/page-has-heading-one?application=axeAPI",
+    "tags": [
+     "best-practice"
+    ],
+    "examplePages": [
+     "https://www.lbhf.gov.uk/"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://www.lbhf.gov.uk/",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://www.lbhf.gov.uk/",
+      "target": "html",
+      "html": "<html lang=\"en\" dir=\"ltr\" prefix=\"og: https://ogp.me/ns#\" class=\"sticky-header-html\">"
+     }
+    ]
+   },
+   "region": {
+    "count": 1,
+    "pages": 1,
+    "impact": "moderate",
+    "help": "All page content should be contained by landmarks",
+    "helpUrl": "https://dequeuniversity.com/rules/axe/4.14/region?application=axeAPI",
+    "tags": [
+     "best-practice"
+    ],
+    "examplePages": [
+     "https://www.lbhf.gov.uk/"
+    ],
+    "affectedPages": [
+     {
+      "url": "https://www.lbhf.gov.uk/",
+      "instances": 1
+     }
+    ],
+    "instances": [
+     {
+      "url": "https://www.lbhf.gov.uk/",
+      "target": ".focusable",
+      "html": "<a href=\"#main-content\" class=\"visually-hidden focusable skip-link\">\n      Skip to main content\n    </a>"
+     }
+    ]
+   }
+  }
+ },
+ "alfa": {
+  "failedTotal": 0,
+  "pagesWithFailures": 0,
+  "pagesScanned": 0,
+  "medianFailures": null,
+  "rules": {}
+ },
+ "consensus": {
+  "uniqueIssues": 4,
+  "consensus": 0,
+  "axeOnly": 4,
+  "alfaOnly": 0,
+  "rawAxe": 4,
+  "rawAlfa": 0,
+  "byKey": {
+   "act:2ee8b8": {
+    "actRuleId": "2ee8b8",
+    "axeRules": [
+     "label-content-name-mismatch"
+    ],
+    "alfaRules": [],
+    "pages": 1,
+    "engines": "axe"
+   },
+   "axe-core:landmark-unique": {
+    "actRuleId": null,
+    "axeRules": [
+     "landmark-unique"
+    ],
+    "alfaRules": [],
+    "pages": 1,
+    "engines": "axe"
+   },
+   "axe-core:page-has-heading-one": {
+    "actRuleId": null,
+    "axeRules": [
+     "page-has-heading-one"
+    ],
+    "alfaRules": [],
+    "pages": 1,
+    "engines": "axe"
+   },
+   "axe-core:region": {
+    "actRuleId": null,
+    "axeRules": [
+     "region"
+    ],
+    "alfaRules": [],
+    "pages": 1,
+    "engines": "axe"
+   }
+  }
+ },
+ "sustainability": null,
+ "deprecatedHtml": null,
+ "resources": {
+  "total": 44,
+  "byType": {
+   "pdf": 41,
+   "document": 2,
+   "iframe": 1
+  },
+  "list": [
+   {
+    "url": "https://adtarget.com.tr/adtarget-privacy-policy-2020.pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://advanttechnology.com/wp-content/uploads/2020/11/Advant-Technology-Ltd-privacy-policy.pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://bealion.com/wp-content/uploads/2024/06/politica_privacidad_2024.pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://appush.com/wp-content/uploads/2022/06/Platform-Privacy-Policy-Appush.pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://arcspire.io/privacy.pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/6a60d7ba9642c77ea9576924/6a86c900a7487087043bea3f_2026.07.30%20LO_UK%20Privacy%20Policy%20EN.docx.pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://audience-solutions.com/privacy-policy-en.pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://en.betweenx.com/pdata.pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://cdn.bidtheatre.com/LIA_ferq.pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://collector.brandmetrics.com/brandmetrics_privacypolicy.pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://castoola.com/wp-content/uploads/2022/01/castoola_pp_06.01.2022.pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://cignal.io/Cignal-Privacy-Policy.pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://www.cnd-motionmedia.de/media/pdf/datenschutz_b2b.pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://www.lotame.com/wp-content/uploads/2024/07/TC_String_Legitimate_Interests_Assessment_Lotame.pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://www.exponential.com/wp-content/uploads/2018/04/Balancing-Assessment-for-Legitimate-Interest-Publishers-v2.pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://gemius.com/documents/57/20240812_LIC_Gemius.pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://app.holid.io/assets/documents/PrivacyPolicyHolid.pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://cdn.hubvisor.io/assets/policy.pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://growone.sg/static/PrivacyPolicy.pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://growone.sg/static/GDPRPrivacyAddendum.pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://limpid.tv/wp-content/uploads/2026/03/Limpid-Privacy-Policy.pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://gdpr.m6tech.net/politique-confidentialite-partenaires-groupeM6.pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://madopi.com/wp-content/uploads/2026/03/Madopi-Privacy-Policy-March-26-1.pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://www.marketperf.com/assets/images/app/marketperf/pdf/privacy-policy.pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://mobupps.com/pdf/Mobupps_Privacy_policy.pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://cdn.thenewsroom.io/docs/cookies.pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://assets.adagio.io/legal/Adagio_LIAs-combined.pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://www.pinpoll.com/pdf/data-protection-declaration.pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://terms.podscribe.com/LIAs.pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://www.raipubblicita.it/wp-content/uploads/public-documents/-hi-legal/raipubblicita_lia_special-purposes_1_2_3_220626.pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://go.rakutenadvertising.com/hubfs/Services-Privacy-Policy-English.pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://roivenue.com/wp-content/uploads/2024/02/Privacy-Policy-Roivenue.pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://www.sarigato.com/polityka_prywatnosci_sarigato_sataku.pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://www.smartmeanalytics.com/static/docs/Politica_privacidad_Smartmeanalytics.pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://cdn.streamwise.it/streamwise/EN-Privacy-e-Cookie-policy-Streamwise-services.pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://www.tec-do.com/upfiles/setting/202604/DV7J50HT96QQ.pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://xroads.b-cdn.net/Leap4-Privacy_Policy.pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://s42464.pcdn.co/wp-content/uploads/2025/09/Viant-Ad-Platform-Privacy-Policy-September-2025.pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://fastad.pro/assets/docx/Privacy_Policy.docx",
+    "type": "document",
+    "pages": 1,
+    "examplePages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://fastad.pro/assets/docx/Legitimate_Interest_Statement_Fastad.docx",
+    "type": "document",
+    "pages": 1,
+    "examplePages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://vrtcal.com/docs/PrivacyPolicy-Advertising.pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/6807d92154a94fd97bd0a9fb/68383d795014c0593e1838b1_Winvid-PP-2024.pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/6807d92154a94fd97bd0a9fb/68383d79fb97431149f2447c_Winvid-TC-2024%20(1).pdf",
+    "type": "pdf",
+    "pages": 1,
+    "examplePages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://consentcdn.cookiebot.com/sdk/bc-v5.min.html",
+    "type": "iframe",
+    "pages": 1,
+    "examplePages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   }
+  ]
+ },
+ "standards": null,
+ "resilience": null,
+ "security": {
+  "checks": [
+   {
+    "id": "https",
+    "label": "Served over HTTPS",
+    "pass": true,
+    "detail": "https:"
+   },
+   {
+    "id": "hsts",
+    "label": "HTTP Strict Transport Security (HSTS)",
+    "pass": true,
+    "detail": ""
+   },
+   {
+    "id": "csp",
+    "label": "Content Security Policy (CSP)",
+    "pass": false,
+    "detail": ""
+   },
+   {
+    "id": "x-content-type-options",
+    "label": "X-Content-Type-Options: nosniff",
+    "pass": true,
+    "detail": ""
+   },
+   {
+    "id": "clickjacking",
+    "label": "Clickjacking protection (X-Frame-Options or CSP frame-ancestors)",
+    "pass": true,
+    "detail": ""
+   },
+   {
+    "id": "gov-tld",
+    "label": "Sponsored government TLD (.gov/.mil/.edu)",
+    "pass": false,
+    "detail": "uk"
+   },
+   {
+    "id": "security-txt",
+    "label": "Published security.txt",
+    "pass": true,
+    "detail": ""
+   },
+   {
+    "id": "www-resolution",
+    "label": "Resolves with and without www",
+    "pass": true,
+    "detail": "lbhf.gov.uk"
+   }
+  ],
+  "passed": 6,
+  "total": 8
+ },
+ "publicInterest": null,
+ "plainLanguage": null,
+ "lighthouse": null,
+ "linkCheck": {
+  "brokenCount": 11,
+  "broken": [
+   {
+    "url": "https://admaxmedia.io/privacy-policy/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://policy.adquery.io/",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://adttribution.com/privacy-policy.php",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://www.alliancegravity.com/politiquedeprotectiondesdonneespersonnelles",
+    "status": 503,
+    "reason": "HTTP 503",
+    "foundOn": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://insights.appsamurai.com/offerwall-privacy-policy",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://www.adyoulike.com/pages/privacy_en.php",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://go.pl/polityka-prywatnosci/",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://www.ninedollars.tv/privacy-policy",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://www.ninedollars.tv/legitimateinterests",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://evorra.com/product-privacy-policy/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://www.experian.co.uk/privacy/consumer-information-portal/",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   }
+  ]
+ },
+ "errorPages": [],
+ "tech": null,
+ "images": {
+  "pagesScanned": 1,
+  "totalImages": 0,
+  "uniqueImages": 0,
+  "missingAlt": 0,
+  "decorative": 0,
+  "withAlt": 0,
+  "altVerdicts": {}
+ },
+ "techFindings": null,
+ "thirdParty": null,
+ "componentClusters": {
+  "design_system": "none",
+  "design_system_label": "none",
+  "design_system_theme": null,
+  "template_page_threshold": 10,
+  "total_clusters": 4,
+  "clusters": [
+   {
+    "id": "cc-4bac58551856",
+    "engine_key": "axe-core",
+    "rule_id": "label-content-name-mismatch",
+    "severity": "Critical",
+    "rule_pages_affected": 1,
+    "pages_affected": 1,
+    "instances": 1,
+    "selector_path": ".lgd-header__toggle--primary",
+    "snippet_shape": "button:aria",
+    "representative_selector": ".lgd-header__toggle--primary",
+    "representative_snippet": "<button class=\"lgd-header__toggle lgd-header__toggle--primary\" data-target=\"lgd-header__nav--primary\" aria-controls=\"lgd-header__nav--primary\" aria-expanded=\"false\" aria-label=\"Toggle Primary Navigati",
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 1,
+    "action_score": 4.8,
+    "estimated_fix_impact": {
+     "findings": 1,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "id": "cc-aa372a587774",
+    "engine_key": "axe-core",
+    "rule_id": "landmark-unique",
+    "severity": "Serious",
+    "rule_pages_affected": 1,
+    "pages_affected": 1,
+    "instances": 1,
+    "selector_path": "#our-services-drawer",
+    "snippet_shape": "div:aria+role",
+    "representative_selector": "#our-services-drawer",
+    "representative_snippet": "<div data-parent-id=\"our-services-id\" class=\"lgd-header__nav lbhf-header-drawer-item lbhf-header-drawer-item__sm\" id=\"our-services-drawer\" tabindex=\"-1\" aria-labelledby=\"our-services-id\" role=\"region\"",
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 1,
+    "action_score": 3.6,
+    "estimated_fix_impact": {
+     "findings": 1,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "id": "cc-8cbe4219c5ad",
+    "engine_key": "axe-core",
+    "rule_id": "page-has-heading-one",
+    "severity": "Serious",
+    "rule_pages_affected": 1,
+    "pages_affected": 1,
+    "instances": 1,
+    "selector_path": "html",
+    "snippet_shape": "html:",
+    "representative_selector": "html",
+    "representative_snippet": "<html lang=\"en\" dir=\"ltr\" prefix=\"og: https://ogp.me/ns#\" class=\"sticky-header-html\">",
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 1,
+    "action_score": 3.6,
+    "estimated_fix_impact": {
+     "findings": 1,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "id": "cc-ae14d9223a40",
+    "engine_key": "axe-core",
+    "rule_id": "region",
+    "severity": "Serious",
+    "rule_pages_affected": 1,
+    "pages_affected": 1,
+    "instances": 1,
+    "selector_path": ".focusable",
+    "snippet_shape": "a:href",
+    "representative_selector": ".focusable",
+    "representative_snippet": "<a href=\"#main-content\" class=\"visually-hidden focusable skip-link\">\n      Skip to main content\n    </a>",
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 1,
+    "action_score": 3.6,
+    "estimated_fix_impact": {
+     "findings": 1,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   }
+  ],
+  "top_actions": [
+   {
+    "id": "cc-4bac58551856",
+    "engine_key": "axe-core",
+    "rule_id": "label-content-name-mismatch",
+    "severity": "Critical",
+    "rule_pages_affected": 1,
+    "pages_affected": 1,
+    "instances": 1,
+    "selector_path": ".lgd-header__toggle--primary",
+    "snippet_shape": "button:aria",
+    "representative_selector": ".lgd-header__toggle--primary",
+    "representative_snippet": "<button class=\"lgd-header__toggle lgd-header__toggle--primary\" data-target=\"lgd-header__nav--primary\" aria-controls=\"lgd-header__nav--primary\" aria-expanded=\"false\" aria-label=\"Toggle Primary Navigati",
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 1,
+    "action_score": 4.8,
+    "estimated_fix_impact": {
+     "findings": 1,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "id": "cc-aa372a587774",
+    "engine_key": "axe-core",
+    "rule_id": "landmark-unique",
+    "severity": "Serious",
+    "rule_pages_affected": 1,
+    "pages_affected": 1,
+    "instances": 1,
+    "selector_path": "#our-services-drawer",
+    "snippet_shape": "div:aria+role",
+    "representative_selector": "#our-services-drawer",
+    "representative_snippet": "<div data-parent-id=\"our-services-id\" class=\"lgd-header__nav lbhf-header-drawer-item lbhf-header-drawer-item__sm\" id=\"our-services-drawer\" tabindex=\"-1\" aria-labelledby=\"our-services-id\" role=\"region\"",
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 1,
+    "action_score": 3.6,
+    "estimated_fix_impact": {
+     "findings": 1,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "id": "cc-8cbe4219c5ad",
+    "engine_key": "axe-core",
+    "rule_id": "page-has-heading-one",
+    "severity": "Serious",
+    "rule_pages_affected": 1,
+    "pages_affected": 1,
+    "instances": 1,
+    "selector_path": "html",
+    "snippet_shape": "html:",
+    "representative_selector": "html",
+    "representative_snippet": "<html lang=\"en\" dir=\"ltr\" prefix=\"og: https://ogp.me/ns#\" class=\"sticky-header-html\">",
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 1,
+    "action_score": 3.6,
+    "estimated_fix_impact": {
+     "findings": 1,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   },
+   {
+    "id": "cc-ae14d9223a40",
+    "engine_key": "axe-core",
+    "rule_id": "region",
+    "severity": "Serious",
+    "rule_pages_affected": 1,
+    "pages_affected": 1,
+    "instances": 1,
+    "selector_path": ".focusable",
+    "snippet_shape": "a:href",
+    "representative_selector": ".focusable",
+    "representative_snippet": "<a href=\"#main-content\" class=\"visually-hidden focusable skip-link\">\n      Skip to main content\n    </a>",
+    "design_components": [],
+    "drift": false,
+    "drift_tokens": [],
+    "likely_source": "content",
+    "distinct_components_for_rule": 1,
+    "action_score": 3.6,
+    "estimated_fix_impact": {
+     "findings": 1,
+     "pages": 1,
+     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+    },
+    "affected_pages": [
+     "https://www.lbhf.gov.uk/"
+    ]
+   }
+  ],
+  "design_component_usage": [],
+  "page_component_usage": [],
+  "drift_page_count": 0,
+  "drift_pages": [],
+  "drift_clusters": []
+ },
+ "pagesAttempted": 1,
+ "pagesSucceeded": 1
+}
