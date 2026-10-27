@@ -1,0 +1,165 @@
+{
+ "runId": "2026-10-27T23-00-41-622Z-ce52fd",
+ "week": "2026-W44",
+ "domain": "www.hackney.gov.uk",
+ "startedAt": "2026-10-27T23:00:41.977Z",
+ "scanned": [
+  "e8ec22f96d3b4492",
+  "408e3894f94063fc",
+  "1b4addead39a8726",
+  "e2c82ea68d012ec5",
+  "efd87bcb2dafac59",
+  "fa125cd0ae5d9e3b",
+  "b238e7279aa8974d",
+  "35d80b005f446a03",
+  "0a040251ad7ae82f",
+  "3239433e6413a6dc",
+  "1bdd7ab512a3a91f",
+  "e4711f42cb4b2c5a",
+  "3df527e09163b929",
+  "8e284ae57dfd414d",
+  "cc81e2030952565f",
+  "c14f646fb8a75fea",
+  "c17a0ee7708bfd6e",
+  "72ed79226af82e09",
+  "8a26cd4eaa7e3cc0",
+  "e9559ace3d794427",
+  "f5dbd8754147e8e9",
+  "89bc2f4d8880ab59",
+  "a1a61d0b7b72d123",
+  "f2638ea351bcc12f",
+  "2c8777ffef84e631",
+  "5d5db459de06379a",
+  "0f396d364116b899",
+  "6be61a77157388fb",
+  "e3a537a7b1a6f022",
+  "c3788994e9be183f",
+  "cc7d99e424a8b4b2",
+  "0389e78464745cfe",
+  "9a96d6dc4974521b",
+  "886f05479c476e96",
+  "29410e3136b3712f",
+  "c12d3e053d6dc5d4",
+  "7e83ccca88424d11",
+  "4b0bbc24a5a40d02",
+  "496198af272ad9ee",
+  "d481a7f6c9db9ee4",
+  "6347556d32efa458",
+  "33f35cc7196ced11",
+  "1bfe2f0edf76d784",
+  "e8cb098549a57305",
+  "4aa5d840bda0c25f",
+  "282f9f06537ac644",
+  "03fd03954b9ff6ac",
+  "b800edc175b2fded",
+  "32f356970bdc4095",
+  "e900be90e9e06ce6"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 728,
+  "checked": 500,
+  "brokenCount": 7,
+  "broken": [
+   {
+    "url": "https://suppliersupport.proactisservicedesk.com/s/?language=en_US",
+    "status": 503,
+    "reason": "HTTP 503",
+    "foundOn": [
+     "https://hackney.gov.uk/business-and-licensing/procurement-tenders-and-contracts/tenders-and-contracts"
+    ]
+   },
+   {
+    "url": "https://procontract.due-north.com/Opportunities/Index?p=2241eb95-058a-e511-80f7-000c29c9ba21&v=1",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://hackney.gov.uk/business-and-licensing/procurement-tenders-and-contracts/tenders-and-contracts"
+    ]
+   },
+   {
+    "url": "https://procontract.due-north.com/ContractsRegister/Index?p=2241eb95-058a-e511-80f7-000c29c9ba21&v=1",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://hackney.gov.uk/business-and-licensing/procurement-tenders-and-contracts/tenders-and-contracts"
+    ]
+   },
+   {
+    "url": "https://energyadvice.london/financial-support/",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "https://hackney.gov.uk/council-tax-and-benefits/applying-extra-financial-help-council/help-rising-cost-living"
+    ]
+   },
+   {
+    "url": "https://olioex.com/",
+    "status": 0,
+    "reason": "ERR_SSL_SSL/TLS_ALERT_HANDSHAKE_FAILURE",
+    "foundOn": [
+     "https://hackney.gov.uk/council-tax-and-benefits/applying-extra-financial-help-council/help-rising-cost-living"
+    ]
+   },
+   {
+    "url": "https://hackney.sishost.co.uk/Agenda/OnlineBooking/appointment.html?pg=516b2d47-f329-42c3-bf63-252a11a919ee",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://hackney.gov.uk/births-deaths-marriages-and-citizenship/births"
+    ]
+   },
+   {
+    "url": "https://hackney.sishost.co.uk/Agenda/OnlineBooking/copycertificate.html?pg=2f908f1a-5bef-4638-a058-c0c6df1384df",
+    "status": 0,
+    "reason": "ECONNREFUSED",
+    "foundOn": [
+     "https://hackney.gov.uk/births-deaths-marriages-and-citizenship/births"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 50,
+  "resources": 50,
+  "images": 50,
+  "standards": 28,
+  "link-check": 50,
+  "alfa": 25,
+  "deprecated-html": 8,
+  "lighthouse": 8,
+  "tech": 7,
+  "plain-language": 25,
+  "sustainability": 7,
+  "third-party": 10,
+  "security": 3,
+  "public-interest": 5
+ },
+ "tally": {
+  "ok": 50,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-27T23:09:45.095Z"
+}
