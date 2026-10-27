@@ -1,0 +1,172 @@
+{
+ "runId": "2026-10-27T23-00-37-069Z-5fba1b",
+ "week": "2026-W44",
+ "domain": "www.lbhf.gov.uk",
+ "startedAt": "2026-10-27T23:00:37.519Z",
+ "scanned": [
+  "8f34fae25282ac60",
+  "d725f9ddc04105d1",
+  "e5d0e6cda07c8791",
+  "daa53bd33797f177",
+  "7010654ccb2b7ce9",
+  "b33bd38610bb69c0",
+  "5d14b9bdb21eb93e",
+  "9ac9c34dea9d6673",
+  "d4543ea81a72ed3b",
+  "d54bbe40bc28d1b6",
+  "c9c77b1a0f93bf34",
+  "f3510c649f86e163",
+  "d759adf16fdd1dc0",
+  "d2e7470c36617f65",
+  "92bfbdf516e8481d",
+  "6f8b5061c18c5376",
+  "dd5917b98faae8d7",
+  "a01278bd2f454c36",
+  "98a15f69a9dd2a5d",
+  "70fe1e86e0477e59",
+  "5bbd5ae92267365c",
+  "1c5c7e5678a4f47f",
+  "469885feb1c53344",
+  "b1f8d2c974d4af83",
+  "fb3d96f80222142d",
+  "390248303bba59c7",
+  "32df04a08396ab1a",
+  "62c6e9d67061bd72",
+  "a66a1cca554f2a4a",
+  "d152a75f862ad6df",
+  "9a0817395762b90f",
+  "eeff10c8addf64f9",
+  "2fe6ace4d1e6f19b",
+  "b93995f00e8ab2b0",
+  "13b9377e9bf06190",
+  "b4a67fed70f6c2a2",
+  "db782af57d06cae2",
+  "471d946236c75df8",
+  "6b0a92113db547e7",
+  "badac177e729ce3f"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 1322,
+  "checked": 500,
+  "brokenCount": 10,
+  "broken": [
+   {
+    "url": "https://admaxmedia.io/privacy-policy/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://www.lbhf.gov.uk/business"
+    ]
+   },
+   {
+    "url": "https://policy.adquery.io/",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.lbhf.gov.uk/business"
+    ]
+   },
+   {
+    "url": "https://adttribution.com/privacy-policy.php",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.lbhf.gov.uk/business"
+    ]
+   },
+   {
+    "url": "https://www.alliancegravity.com/politiquedeprotectiondesdonneespersonnelles",
+    "status": 503,
+    "reason": "HTTP 503",
+    "foundOn": [
+     "https://www.lbhf.gov.uk/business"
+    ]
+   },
+   {
+    "url": "https://insights.appsamurai.com/offerwall-privacy-policy",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.lbhf.gov.uk/business"
+    ]
+   },
+   {
+    "url": "https://www.adyoulike.com/pages/privacy_en.php",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.lbhf.gov.uk/business"
+    ]
+   },
+   {
+    "url": "https://go.pl/polityka-prywatnosci/",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "https://www.lbhf.gov.uk/business"
+    ]
+   },
+   {
+    "url": "https://www.ninedollars.tv/legitimateinterests",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.lbhf.gov.uk/business"
+    ]
+   },
+   {
+    "url": "https://www.ninedollars.tv/privacy-policy",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.lbhf.gov.uk/business"
+    ]
+   },
+   {
+    "url": "https://evorra.com/product-privacy-policy/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.lbhf.gov.uk/business"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 1,
+  "plain-language": 1,
+  "resources": 1,
+  "images": 1,
+  "public-interest": 1,
+  "link-check": 1,
+  "sustainability": 1
+ },
+ "tally": {
+  "ok": 1,
+  "blocked": 39,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-27T23:04:32.821Z"
+}
