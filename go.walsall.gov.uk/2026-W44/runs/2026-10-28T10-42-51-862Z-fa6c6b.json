@@ -1,0 +1,229 @@
+{
+ "runId": "2026-10-28T10-42-51-862Z-fa6c6b",
+ "week": "2026-W44",
+ "domain": "go.walsall.gov.uk",
+ "startedAt": "2026-10-28T10:42:52.311Z",
+ "scanned": [
+  "9be167bd29b47f5b",
+  "fe4655f9a5cd22f7",
+  "87e17ae472eef250",
+  "8fc90c3ba0f44381",
+  "46bee8fe0f55648c",
+  "4245e4887668db8c",
+  "9395558ef316e42c",
+  "39902cbf4e4ec942",
+  "89a7f663e73e5209",
+  "2e183bef8f0e7fd8",
+  "40c59ccd4e594545",
+  "05bbe8d305490b36",
+  "99ba3fabc8cc2dfa",
+  "a6244dfc2f7955a5",
+  "d733cb3fefd5eab3",
+  "f5dec063c64cc943",
+  "7e40ca4828fbb0f6",
+  "6c637eb342a15920",
+  "83a29d7525f42ccd",
+  "f17737660a8f801d",
+  "1ac629fbd281d6ff",
+  "1d91354f0e74df8d",
+  "e107549197739d8a",
+  "e8d3575717b23574",
+  "8f9284f83c3b7907",
+  "49ebcf21cba37c9b",
+  "198bb7baa8e44424",
+  "b0d60485f11587b9",
+  "26f4071bdd7c3e86",
+  "1abcd597731fc023",
+  "fdfff37471e6042f",
+  "6e0086a54c77e839",
+  "b4f50053f03a5b0d",
+  "2ae86b672875c700",
+  "ddc9b887cefe1f29",
+  "4db42ad171ea007a",
+  "d95470cce82d1723",
+  "87555c014615baf1",
+  "5aad5f3fa8241464",
+  "d0ca83fad043ffc3",
+  "a24bdc7a8b70270d",
+  "7ad23a91417bd83a",
+  "58dd41f07ddc54ee",
+  "bb38f742e2205b5b",
+  "9a86d05c246c73a8",
+  "222904aa6bd76ffc",
+  "b7cc2f586b4af88f",
+  "f3bd62367ade4579",
+  "f187fdf8e68dff11",
+  "52994f48fad22936"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 417,
+  "checked": 417,
+  "brokenCount": 15,
+  "broken": [
+   {
+    "url": "https://www.actiononaddiction.org.uk/addiction-awareness-week-2024",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/councils-approach-tackle-addiction-part-addiction-awareness-week"
+    ]
+   },
+   {
+    "url": "https://www.nhs.uk/Services/hospitals/Overview/DefaultView.aspx?id=154455",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/children-and-young-people/early-help/early-help-parents/emotional-health-and-wellbeing"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.gypsy-traveller.org%2Fgrthm&data=05%7C02%7CBecky.Read%40walsall.gov.uk%7C6321419952d543dba5c908dec5482d48%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639165110957614395%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=O5101vjim0SDwiigONoLbd9z7dZKxLx2xNsXMfqDUds%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "http://go.walsall.gov.uk/events/gypsy-roma-and-traveller-grt-history-month-2026-exhibition"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.walsall.gov.uk%2Fwalsall-libraries&data=05%7C02%7CBecky.Read%40walsall.gov.uk%7C6321419952d543dba5c908dec5482d48%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639165110957641547%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=a%2FoSs6tzJT0etwslsSDbMhoa7O7B54NuyADSkyptwNM%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "http://go.walsall.gov.uk/events/gypsy-roma-and-traveller-grt-history-month-2026-exhibition"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.walsallcouncilwebcasts.com%2F&data=05%7C02%7CJoan.Omionawele%40walsall.gov.uk%7C687aafefc92744ece51308deb5a3e7ba%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639147913000048498%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=XTHG1GktOyQoDLvjFbU7mPKolNhjMpyvZdyGO2cHAD4%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/councillor-alan-fleming-qrm-elected-mayor-walsall-2026-27"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcmispublic.walsall.gov.uk%2Fcmis%2FMeetings%2Ftabid%2F70%2Fctl%2FViewMeetingPublic%2Fmid%2F397%2FMeeting%2F4170%2FCommittee%2F542%2FSelectedTab%2FDocuments%2FDefault.aspx&data=05%7C02%7CJoan.Omionawele%40walsall.gov.uk%7C687aafefc92744ece51308deb5a3e7ba%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639147913000075913%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=NPH7FpdWm5jJXVwpFAhhnVaaIMFAn6svsuYi0to09K4%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/councillor-alan-fleming-qrm-elected-mayor-walsall-2026-27"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1Cf83gcjG2%2F&data=05%7C02%7CJoan.Omionawele%40walsall.gov.uk%7C687aafefc92744ece51308deb5a3e7ba%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639147913000111889%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=qPsUsH%2Bxv1wikICAibSQh9EAPYs5ts3af0Gi%2F3dPjXM%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/councillor-alan-fleming-qrm-elected-mayor-walsall-2026-27"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.streetlycommunitysports.com%2F&data=05%7C02%7CJoan.Omionawele%40walsall.gov.uk%7C687aafefc92744ece51308deb5a3e7ba%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639147913000093758%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=flcny7aMKCZwlxU3qGq9DzaUKauyPbzyvTCasYiIQ%2F8%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/councillor-alan-fleming-qrm-elected-mayor-walsall-2026-27"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1Kde6BPT2K%2F&data=05%7C02%7CJoan.Omionawele%40walsall.gov.uk%7C687aafefc92744ece51308deb5a3e7ba%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639147913000128242%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=BTbV%2BGelAhrVuq8lBUqI5xw6kI8eTPa6kOfUyCMBW9g%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/councillor-alan-fleming-qrm-elected-mayor-walsall-2026-27"
+    ]
+   },
+   {
+    "url": "https://walsallpcn.net/find-my-pcn/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/further-vaccination-clinics-take-place-walsall-offering-mmr-vaccines"
+    ]
+   },
+   {
+    "url": "https://www.rethink.org/help-in-your-area/services/community-support/walsall-sanctuary-hub/",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "http://go.walsall.gov.uk/health-and-social-care/looking-after-your-mental-health/mental-health-and-wellbeing-support"
+    ]
+   },
+   {
+    "url": "https://www.rethink.org/help-in-your-area/services/community-support/sanctuary-community-mental-health-service-walsall/",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "http://go.walsall.gov.uk/health-and-social-care/looking-after-your-mental-health/mental-health-and-wellbeing-support"
+    ]
+   },
+   {
+    "url": "https://www.walsallcollege.ac.uk/adults/?utm_term=adult%20courses&utm_campaign=%5BAdults%5D+Adult+Guide+Sep+2026&utm_source=adwords&utm_medium=ppc&utm_id=24084418959&hsa_acc=7063713410&hsa_cam=24084418959&hsa_grp=199282845336&hsa_ad=819051157361&hsa_src=g&hsa_tgt=kwd-30589333&hsa_kw=adult%20courses&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=24084418959&gclid=EAIaIQobChMItpz0koSglgMVRJxQBh3zPhUoEAAYASAAEgKP3_D_BwE",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "http://go.walsall.gov.uk/health-and-social-care/looking-after-your-mental-health/mental-health-and-wellbeing-support"
+    ]
+   },
+   {
+    "url": "https://www.nhs.uk/services/service-directory/walsall-specialist-stop-smoking-service-pregnant-clients/N10928360",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/quit-smoking-good-2025-and-breathe-easier-free-support-walsall"
+    ]
+   },
+   {
+    "url": "https://wslc.walsall.gov.uk/leisurehub/identity/login",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "http://go.walsall.gov.uk/sport-and-leisure/activities"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 50,
+  "resources": 50,
+  "images": 50,
+  "standards": 22,
+  "link-check": 50,
+  "alfa": 26,
+  "plain-language": 29,
+  "lighthouse": 2,
+  "sustainability": 2,
+  "third-party": 17,
+  "public-interest": 4,
+  "tech": 6,
+  "security": 2,
+  "deprecated-html": 5
+ },
+ "tally": {
+  "ok": 50,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-28T10:58:56.483Z"
+}
