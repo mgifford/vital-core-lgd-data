@@ -1,0 +1,230 @@
+{
+ "runId": "2026-10-28T11-39-08-625Z-a566e5",
+ "week": "2026-W44",
+ "domain": "go.walsall.gov.uk",
+ "startedAt": "2026-10-28T11:39:08.987Z",
+ "scanned": [
+  "b1f101d09faa01d2",
+  "71700713ee1024eb",
+  "d82ddbeedfa08d8a",
+  "e237ab67f20284ea",
+  "3546f5e711038aa9",
+  "3d4f41b0815a1463",
+  "cd40147834f6e568",
+  "a8906a91ef74cc1a",
+  "b7922dc6b71e5f4b",
+  "fa29f271f255532d",
+  "1c488e0564de898a",
+  "96c93b2c451f92da",
+  "37ab662c2d29dbb4",
+  "5ce37ae4f2ececd9",
+  "71a52f56516e7b14",
+  "55ff2a340eaa0292",
+  "9bc7adfc29b1cfbc",
+  "d45a285ed27a9d34",
+  "60ef53578374a0db",
+  "273c11c7c61585b2",
+  "4e8a49355a5e3b0c",
+  "57332081ff7deaaa",
+  "51a75bb2640af2d1",
+  "77c9649a60b2ebc9",
+  "3a72cdc97b30b3c7",
+  "4a9047e2e4f0ce17",
+  "d98baffdeb687029",
+  "dca48971c4bfc2b6",
+  "41553d44dc531213",
+  "42f587ca88a6771b",
+  "fc86ed9356e34495",
+  "1e5892b288ad9644",
+  "35ff8c8950ecc3db",
+  "9cf7f17615b508f3",
+  "c2164e05462cc541",
+  "a61f207d0932a400",
+  "2aa3f7ed2a217e0d",
+  "1252efb68b121931",
+  "8f45bf3f3e4a843a",
+  "2493c5eea3fe2802",
+  "31c87afdf0c74e8f",
+  "b43e061859439e07",
+  "5225703a51342a70",
+  "f772fece299e0673",
+  "8baba144e635d36e",
+  "a9b364cc92c9ce0b",
+  "6e7ecaa48e762599",
+  "85d368a57bf167a8",
+  "113239eaf7d9f2b1",
+  "5bbd34cc28aaa634"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 344,
+  "checked": 344,
+  "brokenCount": 15,
+  "broken": [
+   {
+    "url": "http://www.twitter.com/wolvescouncil",
+    "status": 520,
+    "reason": "HTTP 520",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/street-racing-injunction-review-hearing-next-week"
+    ]
+   },
+   {
+    "url": "https://thebloxidgetallygraph.webs.com/bloxwichparkshistory.htm",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "http://go.walsall.gov.uk/parks-and-green-spaces/visit-our-parks-and-play-areas/king-george-v-memorial-playing-fields"
+    ]
+   },
+   {
+    "url": "https://wslc.walsall.gov.uk/leisurehub/identity/login?",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "http://go.walsall.gov.uk/events/pool-inflatable-fun-session-oak-park-active-living-centre-2"
+    ]
+   },
+   {
+    "url": "https://wslc.walsall.gov.uk/leisurehub/identity/login",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "http://go.walsall.gov.uk/events/pool-floats-fun-session-oak-park-active-living-centre-14",
+     "http://go.walsall.gov.uk/events/pool-inflatable-fun-session-bloxwich-active-living-centre-13"
+    ]
+   },
+   {
+    "url": "https://www.go.walsall.gov.uk/parks-and-green-spaces/visit-our-parks-and-play-areas/walsall-arboretum",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/blockbuster-free-event-mark-150th-anniversary-walsall-arboretum"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fthestreetlink.org.uk%2F&data=05%7C02%7CCharlotte.Gough%40walsall.gov.uk%7C16c8005d98274802df5b08ddd8c12579%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638905046259331455%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=ryuKu%2FiVu3%2F00p17wwz%2B7ebnWpZ5EAp7rf%2Foyrokv%2B0%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/take-extra-care-amber-heat-health-alert-issued-west-midlands"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fstreetsupport.net%2F&data=05%7C02%7CCharlotte.Gough%40walsall.gov.uk%7C16c8005d98274802df5b08ddd8c12579%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638905046259374483%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=vgO2gumEgScb3MVICqwHLmhWXysissRuVzVTLMIdxY8%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/take-extra-care-amber-heat-health-alert-issued-west-midlands"
+    ]
+   },
+   {
+    "url": "https://www.metoffice.gov.uk/public/weather/heat-health/?tab=heatHealth&season=normal",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/take-extra-care-amber-heat-health-alert-issued-west-midlands"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.walsall.gov.uk%2FPollingDistrictReview&data=05%7C02%7CJoan.Omionawele%40walsall.gov.uk%7C084004f42c11418c7e3408dda1c7ee89%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638844602244407333%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=gz0tb7fFaq4IWkVgc1O2djpFa3TYM9BKuNH6dnoJlZY%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/have-your-say-polling-districts-walsall"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.walsall.gov.uk%2Fmuseums-libraries-and-galleries%2Fwalsall-heritage-strategy%2Fapply-heritage-spark-grant&data=05%7C01%7CAnnabel.Clarke%40walsall.gov.uk%7C42e3fab316de45acc83508db9a5aac8f%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638273486452122431%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=59GkdqCXsU2IQkI48XORtUmOiwlZ3hZ0shVzm8N6EnI%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/new-government-grant-support-walsall-organisations-deliver-heritage-related-activities"
+    ]
+   },
+   {
+    "url": "https://www.tescoplc.com/sustainability/communities/fruit-and-veg-challenge",
+    "status": 503,
+    "reason": "HTTP 503",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/walsall-pupils-award-winning-healthy-recipe-reach-1500-schools-across-uk"
+    ]
+   },
+   {
+    "url": "https://www.nhs.uk/Services/hospitals/Overview/DefaultView.aspx?id=154455",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "http://go.walsall.gov.uk/children-and-young-people/family-help/health-and-wellbeing-your-family/emotional-health-and"
+    ]
+   },
+   {
+    "url": "https://gbr01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.wmnow.co.uk%2F&data=05%7C02%7Candrew.richardson%40westmidlands.police.uk%7Cbcc345cc55754cb1ede308dd78e8d20d%7C2b0f1af29e024cfb982fc61fd716ee98%7C0%7C0%7C638799663557610966%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Pp3c05RK%2Fk%2F7H7V0E%2BrEH44nmQ8Eysf3CuVamiw5DbE%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/council-leader-calls-upon-cross-border-support-tackle-illegal-road-bikes"
+    ]
+   },
+   {
+    "url": "https://gbr01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.westmidlands.police.uk%2Fadvice%2Fadvice-and-information%2Fasb%2Fasb%2Fantisocial-behaviour%2Fvehicle-nuisance-involving-cars-bikes-and-mopeds%2F&data=05%7C02%7Candrew.richardson%40westmidlands.police.uk%7Cbcc345cc55754cb1ede308dd78e8d20d%7C2b0f1af29e024cfb982fc61fd716ee98%7C0%7C0%7C638799663557638099%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=BJ%2FFZcAHoOJrh1H1sbxnJoWOJkVnPvzQR3YlgV6Nc%2Fk%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/council-leader-calls-upon-cross-border-support-tackle-illegal-road-bikes"
+    ]
+   },
+   {
+    "url": "https://espws.necsws.com/ords/pwslive/call_initial_apex_page.nes_selfsrv?service=CAHOMEPAGE&la=WAL&language=ENG&options=HOME",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "http://go.walsall.gov.uk/council-tax"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 50,
+  "alfa": 27,
+  "deprecated-html": 4,
+  "resources": 50,
+  "images": 50,
+  "standards": 25,
+  "public-interest": 4,
+  "link-check": 50,
+  "plain-language": 28,
+  "third-party": 16,
+  "lighthouse": 8,
+  "tech": 4,
+  "sustainability": 4,
+  "security": 4
+ },
+ "tally": {
+  "ok": 50,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-28T11:54:41.305Z"
+}
