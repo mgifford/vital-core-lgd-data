@@ -1,0 +1,136 @@
+{
+ "runId": "2026-10-28T16-18-53-940Z-ec0186",
+ "week": "2026-W44",
+ "domain": "go.walsall.gov.uk",
+ "startedAt": "2026-10-28T16:18:55.333Z",
+ "scanned": [
+  "4381c1fca337e354",
+  "f8afa6de70207482",
+  "3e1b38ad0a8326d0",
+  "aff1bd5b29a96843",
+  "4c015d65a34371c3",
+  "fb5cc1a157459bd7",
+  "bc165e2a648a15e8",
+  "b3c186644a9fb930",
+  "17d5d9be564c1ee5",
+  "3331a6718c782f79",
+  "f062efe4843d61e4",
+  "2439b401a8a6c32c",
+  "04aa9ed01ea74b75",
+  "9c8061b1bb01e495",
+  "60b8dfaa7d3a5f6a",
+  "7978835c81b20102",
+  "1438c8713d5241c9",
+  "e64e65f2081c574a",
+  "9ce518e88317e1ed",
+  "71517d229e54e09e",
+  "abf22eee085f65ee",
+  "6737efaa99c3a90e",
+  "bcdbc51beeee3de0",
+  "74527c25edea95c2",
+  "b10967fe5eaeafb0",
+  "2ecd5cc4100ff177",
+  "273883a90320acee",
+  "5248d42dff765ce5",
+  "1b861d402b66f535",
+  "46237a29a2bb85d7",
+  "3eaca68ae3c7d96b",
+  "b7aa4558d3338c94",
+  "f1f09dd0ec45e877",
+  "52e2689476bcd388",
+  "5f2c1a65db35d4a8",
+  "d850261213b67c2c",
+  "24279ead7393d355",
+  "2520b6f3cbd7e7b3",
+  "be3beff174a02eaf",
+  "d0681e4127ee8f7c",
+  "adc584dda2f56056",
+  "8ce0d28c4c83aeed",
+  "603538eded7d44dc",
+  "ddf40666d73af87a",
+  "a755526b39197856",
+  "d3ce322fe07b106a",
+  "757b7a3dfdb644e3",
+  "c1fb2168da6a5fad",
+  "3fe8a56396b5d01c",
+  "0ce7d9e01e782294"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 321,
+  "checked": 321,
+  "brokenCount": 3,
+  "broken": [
+   {
+    "url": "https://live-ace-walsall.pantheonsite.io/walsall-libraries/our-libraries/streetly-district-library",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "http://go.walsall.gov.uk/events/reading-friends-19"
+    ]
+   },
+   {
+    "url": "https://wslc.walsall.gov.uk/leisurehub/identity/login",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "http://go.walsall.gov.uk/sport-and-leisure/activities/parties/parties-walsall-gala-swimming-and-fitness-centre",
+     "http://go.walsall.gov.uk/events/inflatable-and-floats-session-oak-park-active-living-centre-0",
+     "http://go.walsall.gov.uk/events/pool-inflatable-fun-session-bloxwich-active-living-centre-11",
+     "http://go.walsall.gov.uk/sport-and-leisure"
+    ]
+   },
+   {
+    "url": "http://www.martakochanek.com/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/striking-artwork-brings-walsall-community-together"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 50,
+  "resources": 50,
+  "images": 50,
+  "standards": 32,
+  "link-check": 50,
+  "alfa": 21,
+  "plain-language": 19,
+  "deprecated-html": 8,
+  "sustainability": 5,
+  "security": 4,
+  "third-party": 13,
+  "public-interest": 8,
+  "tech": 5,
+  "lighthouse": 1
+ },
+ "tally": {
+  "ok": 50,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-28T16:32:27.575Z"
+}
