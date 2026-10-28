@@ -1,0 +1,223 @@
+{
+ "runId": "2026-10-28T05-23-22-166Z-8b29a5",
+ "week": "2026-W44",
+ "domain": "go.walsall.gov.uk",
+ "startedAt": "2026-10-28T05:23:22.646Z",
+ "scanned": [
+  "d77f526574dd9e84",
+  "460bf60286a631a4",
+  "02dc4cd5faa4840d",
+  "bffc791b70090d4a",
+  "e2831f94d6ebcf34",
+  "31847a5a76ae25eb",
+  "d42a0ce004e56915",
+  "9e23c709221af861",
+  "38e78ce9d4824c3f",
+  "277c7690a73bbfa0",
+  "e182db2d6de62497",
+  "4850b4b3120ad236",
+  "cf6eda289fe752b8",
+  "0f7554be535fd3e0",
+  "768237616821c5ef",
+  "6e5d07295e448a5e",
+  "858d9f78b47b9022",
+  "fcfc1c686d58fcef",
+  "00fefa42089ac991",
+  "db1772db8b52ed28",
+  "3fd3daf28714ca7c",
+  "4b237569e81f8a50",
+  "45bfb69cc62fd27d",
+  "2466615ae61f1b4a",
+  "28eceb70711831a4",
+  "a2757003629cb8a1",
+  "a67d70900a63e1bf",
+  "bdc850bf47b2011a",
+  "d94ab487b7fb8f54",
+  "a966bfca43fdc6a3",
+  "7b6b4d39db9bc634",
+  "3ebfb9f585af8f17",
+  "0b8bb2d95bf80d5a",
+  "92d0a0380e6fe261",
+  "7f04d26da29afa4a",
+  "5609d0c104b85219",
+  "1f8e349e45b8d7ce",
+  "18c08ac965847da7",
+  "2ea4a983d9a5091b",
+  "90d17a2edbeeaf71",
+  "d481ca20438bd979",
+  "f76b71a7b1222a44",
+  "3432d5434f5d0302",
+  "8675716c72be6d02",
+  "61136e54e489c25a",
+  "e1634c1baf7639f3",
+  "c4b1cb632dd94985",
+  "05dd6e18a569f7ca",
+  "09bf710c86c3dd3a",
+  "85ff0fe1ad140ded"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 379,
+  "checked": 379,
+  "brokenCount": 14,
+  "broken": [
+   {
+    "url": "https://wslc.walsall.gov.uk/leisurehub/identity/login",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "http://go.walsall.gov.uk/sport-and-leisure/activities/swimming-lessons-adults",
+     "http://go.walsall.gov.uk/events/splash-and-play-bloxwich-active-living-centre-1",
+     "http://go.walsall.gov.uk/events/pool-inflatable-fun-session-oak-park-active-living-centre-7"
+    ]
+   },
+   {
+    "url": "https://fingertips.phe.org.uk/profile/adult-mental-health-wellbeing/data",
+    "status": 0,
+    "reason": "UND_ERR_SOCKET",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/walsall-council-marks-loneliness-awareness-week-2026-call-lets-connect"
+    ]
+   },
+   {
+    "url": "https://fingertips.phe.org.uk/search/social%20isol",
+    "status": 0,
+    "reason": "UND_ERR_SOCKET",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/walsall-council-marks-loneliness-awareness-week-2026-call-lets-connect"
+    ]
+   },
+   {
+    "url": "https://gbr01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.heritagefund.org.uk%2Fabout%2Fheritage-2033-our-10-year-strategy&data=05%7C01%7CJoy.Corcec%40heritagefund.org.uk%7Cb1683b401cec45d28a9a08dbe9daf220%7C242ef33def184a01b2940da2d8fc58e3%7C0%7C0%7C638360898800888921%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=C23l5Ut9RxqDPO7%2F1JyKYvlOSCs8cjAixhYbPlDdM2g%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/new-sculpture-trail-has-walsall-park-buzz"
+    ]
+   },
+   {
+    "url": "https://gbr01.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FHeritageFundUK&data=05%7C01%7CJoy.Corcec%40heritagefund.org.uk%7Cb1683b401cec45d28a9a08dbe9daf220%7C242ef33def184a01b2940da2d8fc58e3%7C0%7C0%7C638360898800888921%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=KlkyP63b6kuLsUlL664ETPLnvfdFomJUEY%2FH93H6AcU%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/new-sculpture-trail-has-walsall-park-buzz"
+    ]
+   },
+   {
+    "url": "https://gbr01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.facebook.com%2FHeritageFundUK&data=05%7C01%7CJoy.Corcec%40heritagefund.org.uk%7Cb1683b401cec45d28a9a08dbe9daf220%7C242ef33def184a01b2940da2d8fc58e3%7C0%7C0%7C638360898801045083%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=6PLqQUsjfXS4ddzmtkdeeTYa07xzaZg1C1%2BgBsP5fvs%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/new-sculpture-trail-has-walsall-park-buzz"
+    ]
+   },
+   {
+    "url": "https://gbr01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.heritagefund.org.uk%2F&data=05%7C01%7CJoy.Corcec%40heritagefund.org.uk%7Cb1683b401cec45d28a9a08dbe9daf220%7C242ef33def184a01b2940da2d8fc58e3%7C0%7C0%7C638360898801045083%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=N2QZmmHmEXDVZf%2B4xtsvJQyVEB5ApEsxAYmSn0MQOFM%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/new-sculpture-trail-has-walsall-park-buzz"
+    ]
+   },
+   {
+    "url": "https://gbr01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.instagram.com%2Fheritagefunduk%2F&data=05%7C01%7CJoy.Corcec%40heritagefund.org.uk%7Cb1683b401cec45d28a9a08dbe9daf220%7C242ef33def184a01b2940da2d8fc58e3%7C0%7C0%7C638360898801045083%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=F1tQQDsUb0WQx681xVg6FwB1l8t4uyWQSd9j%2BmGfXcY%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/new-sculpture-trail-has-walsall-park-buzz"
+    ]
+   },
+   {
+    "url": "https://wslc.walsall.gov.uk/leisurehub/identity/login?",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "http://go.walsall.gov.uk/events/pool-inflatable-fun-session-bloxwich-active-living-centre-3"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcarersuk.org%2Fnews-and-campaigns%2Four-campaigns%2Fcarers-rights-day&data=05%7C02%7CStevie.Cattell%40walsall.gov.uk%7C814425bad26a43b6d24408de278462b6%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638991646703290359%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Ld%2FP5HDoEaoiFkUtaZTznvd%2FsTe3nm5yDxsX3x4X7e4%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/know-your-rights-join-councils-carers-rights-day-walsall-manor-hospital"
+    ]
+   },
+   {
+    "url": "http://www.fccenvironment.co.uk/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/funding-confirmed-new-childrens-play-area-and-outdoor-gym-pleck-park"
+    ]
+   },
+   {
+    "url": "https://thebloxidgetallygraph.webs.com/bloxwichparkshistory.htm",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "http://go.walsall.gov.uk/parks-and-green-spaces/visit-our-parks-and-play-areas/bloxwich-park-and-promenade-gardens"
+    ]
+   },
+   {
+    "url": "https://www.epic-danceacademy.co.uk/",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/whats-walsall-april-2026"
+    ]
+   },
+   {
+    "url": "https://go.walsall.gov.uk/sport-and-leisure%C2%A0%C2%A0",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/easter-holiday-fun-returns-walsall-leisure-centres-packed-activities-families"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 50,
+  "alfa": 36,
+  "resources": 50,
+  "images": 50,
+  "standards": 25,
+  "lighthouse": 8,
+  "link-check": 50,
+  "plain-language": 23,
+  "third-party": 10,
+  "public-interest": 5,
+  "tech": 7,
+  "sustainability": 5,
+  "security": 1,
+  "deprecated-html": 7
+ },
+ "tally": {
+  "ok": 50,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-28T05:42:25.770Z"
+}
