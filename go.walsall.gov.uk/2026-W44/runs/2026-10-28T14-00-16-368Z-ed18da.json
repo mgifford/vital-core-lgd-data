@@ -1,0 +1,183 @@
+{
+ "runId": "2026-10-28T14-00-16-368Z-ed18da",
+ "week": "2026-W44",
+ "domain": "go.walsall.gov.uk",
+ "startedAt": "2026-10-28T14:00:18.088Z",
+ "scanned": [
+  "b2e9d68014f840f5",
+  "845cc6f015dc6877",
+  "54996009080b682a",
+  "f26dba696f3d67d8",
+  "6727c76860f88654",
+  "7184a711d0ae2589",
+  "583680ba3d48118b",
+  "c8a6e8da4e258280",
+  "cdd4e8eea28e7b7b",
+  "56b075270624db48",
+  "eb0e62f225549afb",
+  "e18bfc2300977dd2",
+  "3958eca525d94221",
+  "3c100641334de4e4",
+  "5fdda7e6516eb523",
+  "e1133045874097b7",
+  "30a77bc2d93f0f16",
+  "4c53b0a1680a46c9",
+  "595733c731b6256d",
+  "eaff93db6652da25",
+  "8b52095ac3f0509d",
+  "44e1318c42b5e294",
+  "c1ae05ecdaac2d37",
+  "83cf4e48d51c3a84",
+  "36e0f47b9e007460",
+  "6da67ff74855d406",
+  "a55c6980618992bb",
+  "60fab2c31abfebb1",
+  "3ee430c4baadf901",
+  "82333d25e932d08f",
+  "7da6acbf4075753d",
+  "ceee54c10e93fd68",
+  "315633fc795dee6a",
+  "40dcdd05b4ed1d5a",
+  "213cdb5111e4cf97",
+  "e0bbee94d5a3238d",
+  "dcf4806ec34ab473",
+  "352b9ca9aa85ffd0",
+  "0050ff854642b291",
+  "4f2f17764a8c9234",
+  "5a07e2c7c43d8996",
+  "bb5eefd4505dd753",
+  "ab750458d4b92caf",
+  "f2d3f99301a01c10",
+  "f0de854580d2269d",
+  "66170b0f4a52bc8f",
+  "b5fbe29ec7fab9b9",
+  "1b793825d59432d9",
+  "9c2f107cbf42d846",
+  "2f0fe1a0df992b63"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 360,
+  "checked": 360,
+  "brokenCount": 9,
+  "broken": [
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.ticketsource.com%2Fhealthyspaces&data=05%7C02%7CDaniel.Peters%40walsall.gov.uk%7C779f41f8664d4cadfe4c08df13f2652a%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639251604276499293%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=omK53MyJiRad0KAo2HnOi%2BSrynB3f8kmoio%2BUqKgI3w%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/whats-walsall-october-2026"
+    ]
+   },
+   {
+    "url": "https://www.registertovote.service.gov.uk/register-to-vote/privacy",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "http://go.walsall.gov.uk/your-council/privacy-statement"
+    ]
+   },
+   {
+    "url": "https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DDesktop&hl=en",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "http://go.walsall.gov.uk/your-council/privacy-statement",
+     "https://go.walsall.gov.uk/your-council/privacy-statement/web-and-cookie-notice"
+    ]
+   },
+   {
+    "url": "https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "http://go.walsall.gov.uk/your-council/privacy-statement",
+     "https://go.walsall.gov.uk/your-council/privacy-statement/web-and-cookie-notice"
+    ]
+   },
+   {
+    "url": "https://www.curriebrown.com/en/media/news/2023/uk-construction-market-outlook-report/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/pioneering-grant-fund-programme-aims-bridge-construction-skills-gap-bloxwich"
+    ]
+   },
+   {
+    "url": "https://www.walsallcollege.ac.uk/all-subjects/construction-the-built-environment-courses/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/pioneering-grant-fund-programme-aims-bridge-construction-skills-gap-bloxwich"
+    ]
+   },
+   {
+    "url": "https://data.gov.uk/terms",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "http://go.walsall.gov.uk/your-council/open-data/datasets"
+    ]
+   },
+   {
+    "url": "https://wslc.walsall.gov.uk/leisurehub/identity/login",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "http://go.walsall.gov.uk/events/pool-floats-fun-session-oak-park-active-living-centre-13"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwalsall.access.preservica.com%2Fportal%2Fen-GB&data=05%7C02%7CDaniel.Peters%40walsall.gov.uk%7C408ce0f2196e4896a36008dee3d3262f%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639198693188497325%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=zwVXJwl5HUuwWN%2BVvZ1d5x6mpEMPhnmNBr3Tv7hci44%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/walsalls-history-now-just-click-away-new-digital-archive-goes-live"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 50,
+  "resources": 50,
+  "images": 50,
+  "standards": 19,
+  "tech": 6,
+  "third-party": 11,
+  "lighthouse": 10,
+  "link-check": 50,
+  "deprecated-html": 10,
+  "plain-language": 24,
+  "alfa": 22,
+  "public-interest": 4,
+  "security": 1,
+  "sustainability": 1
+ },
+ "tally": {
+  "ok": 50,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-28T14:19:10.619Z"
+}
