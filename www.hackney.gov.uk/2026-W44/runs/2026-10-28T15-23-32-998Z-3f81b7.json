@@ -1,0 +1,239 @@
+{
+ "runId": "2026-10-28T15-23-32-998Z-3f81b7",
+ "week": "2026-W44",
+ "domain": "www.hackney.gov.uk",
+ "startedAt": "2026-10-28T15:23:34.583Z",
+ "scanned": [
+  "f93f39194c1896c2",
+  "5f886cd3302726aa",
+  "bcdea23efae24c62",
+  "d491361a866ecb2b",
+  "9cbd0ab8ec05ecb0",
+  "b49a0a6f35d66709",
+  "5d2f30b208d02c29",
+  "2f272d73e4ae2efc",
+  "174cb368a9ebe21b",
+  "edab9cd4871c7aa6",
+  "97d569f0010130fd",
+  "32a7ffd4b15f719f",
+  "6802dc8dfce22734",
+  "676e7a8402a97270",
+  "d596163e431ba92f",
+  "895a3ee144af8b42",
+  "5e3d9efdbbd4bdbc",
+  "174a741dce1858fe",
+  "5daa4d05c8f81062",
+  "94189a1b6da49f63",
+  "656af9e4793765c7",
+  "5b1e9a79be11c5b5",
+  "61914a67e732a2b4",
+  "022b4e8fcf45e0ce",
+  "ee7e2f62dab4faec",
+  "8c5054ef0806b3a1",
+  "d5fe053850ef207d",
+  "4f8ac70d6ea6f427",
+  "e955bf8316dc4265",
+  "7ddc8588cce63a7a",
+  "0aafcc42fd8caad1",
+  "e426078a62d4dddd",
+  "11b11cbe3f6e8894",
+  "e0fc26061cdb6461",
+  "c7383427e90a3f68",
+  "0fa35ce2f7c6809e",
+  "223e04e71603fdb4",
+  "efdb7da1bdb227c5",
+  "650becc91c7a8754",
+  "1f591310dced7dfc",
+  "5e42dd9428a0c300",
+  "f1b3913e3e08df6c",
+  "c18bcca13d1fbc7a",
+  "d19d62cf1d04324a",
+  "f5ffbced7f451cb3",
+  "2d828cd553d25fad",
+  "c0c4e267a484e16b",
+  "ac153573f1cf70f9",
+  "efc509e42771f0e5",
+  "cb646dc20b8322c3"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 602,
+  "checked": 500,
+  "brokenCount": 16,
+  "broken": [
+   {
+    "url": "http://www.richardhouse.org.uk/",
+    "status": 0,
+    "reason": "ECONNREFUSED",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/children-and-families/support-children-and-families"
+    ]
+   },
+   {
+    "url": "https://quakersocialaction.org.uk/we-can-help/helping-funerals/down-earth/information-guidance/raising-money-toward",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://hackney.gov.uk/node/16"
+    ]
+   },
+   {
+    "url": "http://www.lgo.org.uk/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/children-and-families/childrens-social-care-complaints"
+    ]
+   },
+   {
+    "url": "https://developmentandhousing.hackney.gov.uk/",
+    "status": 406,
+    "reason": "HTTP 406",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/building-control/building-control-service"
+    ]
+   },
+   {
+    "url": "https://onedigital.hackney.gov.uk/publicaccesslive/selfservice/citizenportal/registration.htm?_flowId=citizenportal%2Fregistration&_flowExecutionKey=e1s1",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/view-your-landlord-payment-account",
+     "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/view-your-housing-benefit-and-council-tax-reduction-account"
+    ]
+   },
+   {
+    "url": "https://www.schoolvaccination.uk/catch-up-clinics/hackney",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/children-and-families/childhood-vaccinations",
+     "https://hackney.gov.uk/health-and-social-care/children-and-families/childhood-vaccinations"
+    ]
+   },
+   {
+    "url": "https://news.hackney.gov.uk/download/70203/wetlandsmap-2.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/connecting-green-spaces"
+    ]
+   },
+   {
+    "url": "https://support.google.com/mail/answer/56256?hl=en-GB",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://hackney.gov.uk/education/computers-and-digital-skills/improve-your-digital-skills"
+    ]
+   },
+   {
+    "url": "https://support.google.com/a/users/answer/9259846",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://hackney.gov.uk/education/computers-and-digital-skills/improve-your-digital-skills"
+    ]
+   },
+   {
+    "url": "https://support.google.com/a/users/answer/10197229?hl=en&ref_topic=9247638,7394060,2938454,&visit_id=637436344922760359-2990019082&rd=1",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://hackney.gov.uk/education/computers-and-digital-skills/improve-your-digital-skills"
+    ]
+   },
+   {
+    "url": "https://www.learnmyway.com/explore-the-subjects/using-email",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://hackney.gov.uk/education/computers-and-digital-skills/improve-your-digital-skills"
+    ]
+   },
+   {
+    "url": "https://web-content-api.hackney.gov.uk/wp-content/uploads/Hackney-SuDS-Proforma.xlsx",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://hackney.gov.uk/parking-streets-and-transport/roads-streets-and-pavements/roadworks-and-maintenance/sustainable-drainage-systems-suds"
+    ]
+   },
+   {
+    "url": "http://www.workingtogetheronline.co.uk/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://hackney.gov.uk/health-and-social-care/children-and-families/if-youre-worried-about-child-or-young-person/local-authority-designated-officer-lado"
+    ]
+   },
+   {
+    "url": "https://www.teensagainstabuse.org/index.php?q=controlWheel",
+    "status": 0,
+    "reason": "EAI_AGAIN",
+    "foundOn": [
+     "https://hackney.gov.uk/domestic-abuse-support"
+    ]
+   },
+   {
+    "url": "https://web.archive.org/web/20230329102040mp_/http://claudiajones.org/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://hackney.gov.uk/domestic-abuse-support"
+    ]
+   },
+   {
+    "url": "https://web.archive.org/web/20230329102040mp_/https://www.hackneyicare.org.uk/kb5/hackney/asch/service.page?id=xKLqkZIEk2o",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://hackney.gov.uk/domestic-abuse-support"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 49,
+  "alfa": 25,
+  "plain-language": 23,
+  "resources": 49,
+  "images": 49,
+  "link-check": 49,
+  "deprecated-html": 5,
+  "standards": 21,
+  "security": 7,
+  "third-party": 6,
+  "tech": 5,
+  "sustainability": 2,
+  "lighthouse": 4,
+  "public-interest": 1
+ },
+ "tally": {
+  "ok": 49,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-28T15:33:07.489Z"
+}
