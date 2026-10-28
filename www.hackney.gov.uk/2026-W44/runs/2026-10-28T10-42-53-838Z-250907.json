@@ -1,0 +1,173 @@
+{
+ "runId": "2026-10-28T10-42-53-838Z-250907",
+ "week": "2026-W44",
+ "domain": "www.hackney.gov.uk",
+ "startedAt": "2026-10-28T10:42:54.100Z",
+ "scanned": [
+  "3b057ecac66b350b",
+  "d0fb3ed0961508f7",
+  "b29b4c4bc6622787",
+  "f27e872498dcbea2",
+  "d4f64847dde67582",
+  "dc0f5ca43602c0c5",
+  "85e0131a8ba4777a",
+  "38c9a14a1003dff7",
+  "78279cc036a3a0ee",
+  "ee1f508768461698",
+  "b2ec823a6c3952eb",
+  "81ed7b76b2fa0fb8",
+  "e61a2d4d7867bd42",
+  "c173c69669f9f1be",
+  "fb406fd23544e69d",
+  "7cb22c69d7312487",
+  "d0444071e6b3fd0b",
+  "fbfb08ab66bf7af4",
+  "29669c6e376bb866",
+  "2eadf9be13bd8363",
+  "8b010a85a99ab8e2",
+  "a3cd563ab7f2cccb",
+  "3738820560c065ba",
+  "cf1a6878b3218b00",
+  "d38ba04c5c0bbf8a",
+  "9db81ee9912725f1",
+  "592d38083bebdb10",
+  "3fa8d47cb991fc71",
+  "13ecde383871130c",
+  "a94821afea717ca5",
+  "9aa1f974c102f5c1",
+  "7d6c7383c0999d51",
+  "e4d94186e72b7039",
+  "a6ba848403cf5ea9",
+  "fbfd3935c95b3d7c",
+  "bb5553b6dd85a719",
+  "c5a1cbe2659cf989",
+  "72cf71fe9da3ea62",
+  "8e580c8a20ed0ead",
+  "2ee11714415f604d",
+  "55f4f644ab42d283",
+  "959918e2f9f217a6",
+  "b4646e2eae246965",
+  "0f43f7c5bde7738d",
+  "b16417d405603dc2",
+  "6be42b8ae5d140bd",
+  "dcc753a8911d32f0",
+  "e3ac77e125fb53fb",
+  "0539b03658f99a94",
+  "fdc9608511eebde8"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 545,
+  "checked": 500,
+  "brokenCount": 8,
+  "broken": [
+   {
+    "url": "https://developmentandhousing.hackney.gov.uk/planning/index.html",
+    "status": 406,
+    "reason": "HTTP 406",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/view-and-comment-planning-applications"
+    ]
+   },
+   {
+    "url": "https://www.teensagainstabuse.org/index.php?q=controlWheel",
+    "status": 0,
+    "reason": "EAI_AGAIN",
+    "foundOn": [
+     "https://hackney.gov.uk/community-safety-and-environment/domestic-abuse/domestic-abuse-support"
+    ]
+   },
+   {
+    "url": "https://web.archive.org/web/20230329102040mp_/http://claudiajones.org/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://hackney.gov.uk/community-safety-and-environment/domestic-abuse/domestic-abuse-support"
+    ]
+   },
+   {
+    "url": "https://web.archive.org/web/20230329102040mp_/https://www.hackneyicare.org.uk/kb5/hackney/asch/service.page?id=xKLqkZIEk2o",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://hackney.gov.uk/community-safety-and-environment/domestic-abuse/domestic-abuse-support"
+    ]
+   },
+   {
+    "url": "https://www.homerton.nhs.uk/u26",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://hackney.gov.uk/health-and-social-care/sexual-health"
+    ]
+   },
+   {
+    "url": "http://bodyandsoulcharity.org/get-support/becoming-a-member/self-referral-form/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://hackney.gov.uk/health-and-social-care/sexual-health"
+    ]
+   },
+   {
+    "url": "http://bodyandsoulcharity.org/get-support/becoming-a-member/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://hackney.gov.uk/health-and-social-care/sexual-health"
+    ]
+   },
+   {
+    "url": "http://www.lgo.org.uk/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://hackney.gov.uk/council-and-elections/consultations-and-complaints/feedback-and-complaints"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 50,
+  "plain-language": 23,
+  "resources": 50,
+  "images": 50,
+  "public-interest": 12,
+  "link-check": 50,
+  "alfa": 32,
+  "deprecated-html": 8,
+  "third-party": 10,
+  "sustainability": 7,
+  "standards": 24,
+  "security": 6,
+  "tech": 4,
+  "lighthouse": 6
+ },
+ "tally": {
+  "ok": 50,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-28T10:50:46.296Z"
+}
