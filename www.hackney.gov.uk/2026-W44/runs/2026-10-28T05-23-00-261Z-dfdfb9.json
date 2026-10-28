@@ -1,0 +1,229 @@
+{
+ "runId": "2026-10-28T05-23-00-261Z-dfdfb9",
+ "week": "2026-W44",
+ "domain": "www.hackney.gov.uk",
+ "startedAt": "2026-10-28T05:23:01.027Z",
+ "scanned": [
+  "444332761d8d3366",
+  "280f84b8cec0b57c",
+  "b62432aad72c868d",
+  "4c34d08cc3f79adc",
+  "f58000b16a97f623",
+  "703d4a066e3d05a9",
+  "6c066597ef581fae",
+  "8f79f700d593eee4",
+  "38b01b631d84c496",
+  "485caafb7058cbb6",
+  "93bf486f3ff56b07",
+  "074afae6f7fde837",
+  "45c46eab4063ca2b",
+  "c72caa87e3953cb4",
+  "b224a32be7dddf77",
+  "805f9d983b5685d1",
+  "c23cb8ca183aaf09",
+  "60e5578ec8b060ad",
+  "88885778534bb1a6",
+  "828bbde142cb97ba",
+  "7fc7f096e984b3f8",
+  "c20b222fca09f6e0",
+  "89446f9a02414ce0",
+  "bb2a4e27b2f22388",
+  "9e2571ecab1b27b5",
+  "ca4ce8a5b4542657",
+  "ba422486429b81ac",
+  "c6a7534b88e1f82a",
+  "50ba128c03afe51a",
+  "d9e5109c269e6285",
+  "abf0ae58ebf4e116",
+  "295a583fd9f1b572",
+  "3daf94f871f70bb6",
+  "c6acec8601d65405",
+  "f934441150c30518",
+  "7c63aff80083035b",
+  "a518ae602c7b0327",
+  "297f1835a411a0c8",
+  "9fe0e37718b86350",
+  "ec50de39ba43dabc",
+  "65b537fb19bdccc5",
+  "4601ffca952e0e6b",
+  "491cda5aeb15a3a3",
+  "9d4c311e268f8f82",
+  "ca4cd514b0e25b70",
+  "416c6cda394e4596",
+  "2c4c2d04754bba6f",
+  "c8704a0214aa88b9",
+  "282e8c25f89a7afc",
+  "64b5c3c727296745"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 506,
+  "checked": 500,
+  "brokenCount": 15,
+  "broken": [
+   {
+    "url": "https://www.food.gov.uk/business-guidance/applying-for-approval-of-a-food-establishment",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://hackney.gov.uk/business-and-licensing/food-safety/food-establishment-approval"
+    ]
+   },
+   {
+    "url": "http://www.windowsphone.com/en-gb/store/app/ringgo/b7105f7c-4239-4f60-8793-c2f045bfca29",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://hackney.gov.uk/parking-streets-and-transport/where-park/paying-short-stay-parking"
+    ]
+   },
+   {
+    "url": "https://www.sih.org/our-homes/supported-temporary-accommodation/bethany-house/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://hackney.gov.uk/housing/homelessness/help-if-youre-homeless-or-rough-sleeping/find-somewhere-stay-tonight"
+    ]
+   },
+   {
+    "url": "http://www.crg.uk.com/homecare/",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "https://hackney.gov.uk/health-and-social-care/adult-social-care/choose-who-provides-your-social-care"
+    ]
+   },
+   {
+    "url": "https://www.hackneyicare.org.uk/kb5/hackney/asch/service.page?id=TC822IfVtQo",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://hackney.gov.uk/health-and-social-care/adult-social-care/choose-who-provides-your-social-care"
+    ]
+   },
+   {
+    "url": "https://www.hackneyicare.org.uk/kb5/hackney/asch/service.page?id=PpOJW1HKzHk&adultchannel=0",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://hackney.gov.uk/health-and-social-care/adult-social-care/choose-who-provides-your-social-care"
+    ]
+   },
+   {
+    "url": "https://planningapps.hackney.gov.uk/planning/index.html",
+    "status": 406,
+    "reason": "HTTP 406",
+    "foundOn": [
+     "https://hackney.gov.uk/planning-and-building/local-land-charges-search"
+    ]
+   },
+   {
+    "url": "https://www.houseexchange.org.uk/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://hackney.gov.uk/housing/council-tenants/tenancy-agreement/move-your-social-home"
+    ]
+   },
+   {
+    "url": "https://www.nationalarchives.gov.uk/archives-sector/finding-funding/covid-19-archives-fund/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://hackney.gov.uk/libraries-parks-and-leisure/hackney-archives/projects-events-and-exhibitions"
+    ]
+   },
+   {
+    "url": "http://twitter.com/ArchivesHackney",
+    "status": 520,
+    "reason": "HTTP 520",
+    "foundOn": [
+     "https://hackney.gov.uk/libraries-parks-and-leisure/hackney-archives/projects-events-and-exhibitions"
+    ]
+   },
+   {
+    "url": "https://luisevormittag.com/Cracks",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://hackney.gov.uk/libraries-parks-and-leisure/hackney-archives/projects-events-and-exhibitions"
+    ]
+   },
+   {
+    "url": "https://olioex.com/",
+    "status": 0,
+    "reason": "ERR_SSL_SSL/TLS_ALERT_HANDSHAKE_FAILURE",
+    "foundOn": [
+     "https://hackney.gov.uk/rubbish-and-recycling/other-ways-reduce-reuse-and-recycle/ways-reduce-waste-and-reuse-items"
+    ]
+   },
+   {
+    "url": "http://mginternet.hackney.gov.uk/mgUserInfo.aspx?UID=1955",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://hackney.gov.uk/community-safety-and-environment/community-partnerships/strategic-partnership-board/hackney-community-strategy-partnership-inactive"
+    ]
+   },
+   {
+    "url": "http://mginternet.hackney.gov.uk/mgUserInfo.aspx?UID=136",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://hackney.gov.uk/community-safety-and-environment/community-partnerships/strategic-partnership-board/hackney-community-strategy-partnership-inactive"
+    ]
+   },
+   {
+    "url": "https://hackney.gov.uk/your-councillors",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://hackney.gov.uk/community-safety-and-environment/community-partnerships/strategic-partnership-board/hackney-community-strategy-partnership-inactive"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 50,
+  "resources": 50,
+  "images": 50,
+  "standards": 21,
+  "link-check": 50,
+  "plain-language": 25,
+  "deprecated-html": 5,
+  "third-party": 11,
+  "tech": 7,
+  "lighthouse": 4,
+  "alfa": 25,
+  "security": 9,
+  "public-interest": 5,
+  "sustainability": 5
+ },
+ "tally": {
+  "ok": 50,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-28T05:30:59.184Z"
+}
