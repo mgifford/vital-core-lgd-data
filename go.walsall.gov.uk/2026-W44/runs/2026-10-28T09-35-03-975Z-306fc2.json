@@ -1,0 +1,194 @@
+{
+ "runId": "2026-10-28T09-35-03-975Z-306fc2",
+ "week": "2026-W44",
+ "domain": "go.walsall.gov.uk",
+ "startedAt": "2026-10-28T09:35:04.723Z",
+ "scanned": [
+  "81f8820ddf148baa",
+  "bba9da8cc20b87e3",
+  "86beae7deee54c00",
+  "d0bc81761d77baca",
+  "c0e44ad2fbffbeca",
+  "893fd8e7caa32072",
+  "b9fc90bf0a744561",
+  "6536b3676ae1ef13",
+  "7c14f8cff96fc074",
+  "d024f27f5d26b548",
+  "a883c1ebb9200113",
+  "369e7b54425e0ab8",
+  "29ef8b95ef209608",
+  "415cd000dd411ba0",
+  "148edfa4e6a44950",
+  "41fd71c32eaca13f",
+  "98da6455d550168e",
+  "18ed4501c9ec2b0c",
+  "27ca6bb78a9670e8",
+  "246ec232008ca2ca",
+  "c01164f50bcaad79",
+  "53be10828d59017f",
+  "a407a1d28b0a85ac",
+  "7783c7bc99dbffa1",
+  "b1100c2a20b2e9cc",
+  "a8f940d27455fcc6",
+  "17d7155ecee5893b",
+  "9927f719782e1398",
+  "cce340f6aac7cca3",
+  "ad4fa689efaa8544",
+  "990a24a14f8b104b",
+  "fbb644c087be1370",
+  "4992bde75d049b90",
+  "ea6390f3c0c89b84",
+  "865f355349285f8d",
+  "6234c1b7d7f9e5c0",
+  "d83b6aeb63c071f8",
+  "af4af7e7a3f5be15",
+  "a6bfde86911ecff6",
+  "2b1a5b2db8a62438",
+  "d87c9cfc79d06deb",
+  "edd8609429b4530b",
+  "0fe3419e2d0a0b4a",
+  "7139e553000337f5",
+  "73a67743a4b8c820",
+  "8d3cc81ea38ed3e0",
+  "38b2a6bb2b2428fb",
+  "1b07be6217a2e956",
+  "d30c68a765d9e289"
+ ],
+ "errors": [
+  {
+   "pageId": "8fc90c3ba0f44381",
+   "url": "http://go.walsall.gov.uk/newsroom/council-supports-expansion-popular-bloxwich-community-and-play-centre",
+   "error": "TimeoutError: page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"http://go.walsall.gov.uk/newsroom/council-supports-expansion-popular-bloxwich-community-and-play-centre\", waiting until \"load\"\n"
+  }
+ ],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 395,
+  "checked": 395,
+  "brokenCount": 10,
+  "broken": [
+   {
+    "url": "https://www.moh.gov.sa/en/HealthAwareness/Pilgrims_Health/Pages/default.aspx",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/hajj-and-umrah-pilgrims-reminded-seek-travel-advice"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.walsall.gov.uk%2Fwalsallconnected&data=05%7C02%7CRebecca.Morris%40walsall.gov.uk%7C5992c671ca9344c44a9508deb256ca95%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639144283006370942%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=KwMeLHRvUOypPKV3AUChFlzWfBcyYpUfZPk395SI%2FWM%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/have-your-say-community-safety-and-crime-walsall-0"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fthestreetlink.org.uk%2F&data=05%7C02%7CKiran.Brach%40walsall.gov.uk%7Ce2bbf37e17ee4a55096c08de26b1f142%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638990742899691088%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=hEJMFzYKQ5M9DfuFukegHHVZJgRRYlPF1T87ZmIVAd8%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/cold-health-alert-issued-west-midlands-temperatures-drop"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fstreetsupport.net%2F&data=05%7C02%7CKiran.Brach%40walsall.gov.uk%7Ce2bbf37e17ee4a55096c08de26b1f142%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638990742899729335%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=z89L2Y%2BDPfBcZSXw6EcaGJcJqKbVZ5%2B8%2Bs8VCuwRzsA%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/cold-health-alert-issued-west-midlands-temperatures-drop"
+    ]
+   },
+   {
+    "url": "https://www.metoffice.gov.uk/weather/warnings-and-advice/seasonal-advice/cold-weather-alerts",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/cold-health-alert-issued-west-midlands-temperatures-drop"
+    ]
+   },
+   {
+    "url": "https://www.fosterline.info/",
+    "status": 522,
+    "reason": "HTTP 522",
+    "foundOn": [
+     "http://go.walsall.gov.uk/fostering/types-foster-carers/connected-foster-carers"
+    ]
+   },
+   {
+    "url": "https://www.thefosteringnetwork.org.uk/",
+    "status": 522,
+    "reason": "HTTP 522",
+    "foundOn": [
+     "http://go.walsall.gov.uk/fostering/types-foster-carers/connected-foster-carers"
+    ]
+   },
+   {
+    "url": "https://espws.necsws.com/ords/pwslive/call_initial_apex_page.nes_selfsrv?service=CAHOMEPAGE&la=WAL&language=ENG&options=HOME;BR",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "http://go.walsall.gov.uk/business/business-rates"
+    ]
+   },
+   {
+    "url": "https://www.walsallfamilyhubs.co.uk/0-2/feeding-your-baby",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/more-breastfeeding-support-groups-offered-mums-walsall"
+    ]
+   },
+   {
+    "url": "https://wslc.walsall.gov.uk/leisurehub/identity/login?",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "http://go.walsall.gov.uk/events/pool-inflatable-fun-session-bloxwich-active-living-centre-5"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 49,
+  "alfa": 21,
+  "plain-language": 15,
+  "resources": 49,
+  "images": 49,
+  "security": 5,
+  "link-check": 49,
+  "third-party": 9,
+  "standards": 27,
+  "public-interest": 7,
+  "tech": 3,
+  "lighthouse": 6,
+  "sustainability": 5,
+  "deprecated-html": 2
+ },
+ "tally": {
+  "ok": 49,
+  "blocked": 0,
+  "timeout": 1,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-28T09:51:13.150Z"
+}
