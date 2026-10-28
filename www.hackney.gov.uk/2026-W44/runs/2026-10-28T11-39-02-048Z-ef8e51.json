@@ -1,0 +1,141 @@
+{
+ "runId": "2026-10-28T11-39-02-048Z-ef8e51",
+ "week": "2026-W44",
+ "domain": "www.hackney.gov.uk",
+ "startedAt": "2026-10-28T11:39:02.369Z",
+ "scanned": [
+  "b021c56ad80890b4",
+  "ad6923581ffcc284",
+  "9b6ab9f5a8262f60",
+  "252e41cf66dd2428",
+  "cff6a9ca4809bb55",
+  "fc856897574a7b14",
+  "532eabe00c4f3780",
+  "d83bf9c1a759cc67",
+  "b80801781f84c835",
+  "7845b39eb344dee4",
+  "94c0a8bdb058977d",
+  "b5a4e9f8cd3c04ef",
+  "58077f6b6fd345bf",
+  "b1b8d8da536ca202",
+  "3495df07cdca368f",
+  "4077ca17e8c1e84f",
+  "429d0dc1291faa52",
+  "360c89d2f03f8cbd",
+  "df1ea283b40161d0",
+  "68715e7b658a9310",
+  "b337c4d95fffc1a8",
+  "01b2be5cc816e825",
+  "2ebce64054d79f93",
+  "ad1c67738db0796e",
+  "4ca64d469173f9d7",
+  "e66d4323ee5fe99f",
+  "4560f045a99a2655",
+  "75c1b2da64b95531",
+  "6e6999d31464328b",
+  "c1c7fa7b908a881b",
+  "ae649c1ca2a753f4",
+  "5898b8cf2b792dcb",
+  "8ef9ee053935cc0d",
+  "569ae9809e695de9",
+  "fd7bae9f0145e018",
+  "70497e943eaebe76",
+  "c769d3cd45a4e93b",
+  "a4e3b28fcf36eaec",
+  "a632ead5fc5a3c17",
+  "5e1911c3833ef29a",
+  "9d603792ce9fff82",
+  "d6faaa6a89da73cb",
+  "45af0f730a05d691",
+  "237a3a0b9625f3fd",
+  "22c7c68cd35a6e00",
+  "c477049838467a73",
+  "4446c20adb0c0033",
+  "ce7ed6f73c19ca74",
+  "896e31f491e71fd9",
+  "8110d9f8dfcf7ed3"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 822,
+  "checked": 500,
+  "brokenCount": 4,
+  "broken": [
+   {
+    "url": "https://www.advocacyproject.org.uk/news/the-advocacy-project-in-hackney/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://hackney.gov.uk/council-and-elections/equality-and-diversity/hackneys-demographics/disability"
+    ]
+   },
+   {
+    "url": "https://www.epilepsy.org.uk/info/learning-disabilities/publications",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://hackney.gov.uk/council-and-elections/equality-and-diversity/hackneys-demographics/disability"
+    ]
+   },
+   {
+    "url": "https://www.abneyparkusergroup.com/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/abney-park-cemetery"
+    ]
+   },
+   {
+    "url": "https://www.metoffice.gov.uk/weather/warnings-and-advice/uk-warnings",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/abney-park-cemetery"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "sustainability": 6,
+  "axe": 50,
+  "alfa": 24,
+  "resources": 50,
+  "images": 50,
+  "standards": 27,
+  "lighthouse": 6,
+  "link-check": 50,
+  "security": 5,
+  "public-interest": 5,
+  "plain-language": 19,
+  "deprecated-html": 5,
+  "third-party": 9,
+  "tech": 4
+ },
+ "tally": {
+  "ok": 50,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-28T11:47:25.940Z"
+}
