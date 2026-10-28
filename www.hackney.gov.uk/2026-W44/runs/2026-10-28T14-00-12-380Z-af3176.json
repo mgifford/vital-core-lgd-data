@@ -1,0 +1,173 @@
+{
+ "runId": "2026-10-28T14-00-12-380Z-af3176",
+ "week": "2026-W44",
+ "domain": "www.hackney.gov.uk",
+ "startedAt": "2026-10-28T14:00:13.785Z",
+ "scanned": [
+  "173bf4eb9e981390",
+  "cfd7f0f25dd6308a",
+  "13a1e431dbe81447",
+  "355bea630dba65a6",
+  "ae4a4cf1f262f3e2",
+  "1c430d05d23796c1",
+  "959c46d09f38a293",
+  "cb62cee5cf45b1e8",
+  "abae634df58e96f0",
+  "a6b0b7809250744e",
+  "fdc39b2d9de6cd43",
+  "792339956ef2346a",
+  "a6110ebd7adc11ea",
+  "0e59ca43180e64ae",
+  "f39ae4d5e69f412b",
+  "69bd3a2487c08c02",
+  "5d8202a08d8c565b",
+  "ca3cce2c8c452909",
+  "54a345927cfd5dbe",
+  "fd1ae26083684beb",
+  "99947d363ae8583a",
+  "00273d37f52e26b1",
+  "20414cb977b765a9",
+  "0270da9ce9259425",
+  "65367c843964fc7c",
+  "42171f7be3162e87",
+  "0e1ffc197bda7c4a",
+  "9e565635af7556b3",
+  "761222bd3ad57d54",
+  "983d1500852b75cc",
+  "c5fd53e9e6248c84",
+  "75553936a0317fa4",
+  "43487b227afa3524",
+  "33e60d94f18418f1",
+  "2335f167cf85e02e",
+  "d0807e22f7d772ff",
+  "d439f4a3a9acb455",
+  "962c9fa6e7bdaef9",
+  "5bad9efc596df880",
+  "1ce533f6a1077697",
+  "a6d295351cfa59cf",
+  "1f1a23dc43e51a15",
+  "26dfacb52b64de1f",
+  "5100cb483982b409",
+  "68309411b49ed192",
+  "f41957e64d4fec02",
+  "7bd58bedd6fdc5ce",
+  "479a884874d2c5d4",
+  "ab1f4ba67f346881",
+  "e5a573f7a4f3a22c"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 584,
+  "checked": 500,
+  "brokenCount": 8,
+  "broken": [
+   {
+    "url": "https://developmentandhousing.hackney.gov.uk/",
+    "status": 406,
+    "reason": "HTTP 406",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/make-planning-application/pre-application-services/get-pre-application-advice"
+    ]
+   },
+   {
+    "url": "http://www.richardhouse.org.uk/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://hackney.gov.uk/health-and-social-care/children-and-families/support-children-and-families"
+    ]
+   },
+   {
+    "url": "https://drive.google.com/open?id=1ZXOH5Eh7569fZZY0B7b17eVBxDZfGGu4",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/bridport-house"
+    ]
+   },
+   {
+    "url": "https://smokecontrol.defra.gov.uk/fuels.php?country=england",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/air-quality/smoke-and-emissions-burning"
+    ]
+   },
+   {
+    "url": "https://smokecontrol.defra.gov.uk/appliances.php?country=england",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/air-quality/smoke-and-emissions-burning"
+    ]
+   },
+   {
+    "url": "http://www.eastendcab.org.uk/",
+    "status": 0,
+    "reason": "timeout",
+    "foundOn": [
+     "https://hackney.gov.uk/council-tax-and-benefits/financial-advice-and-resources/setting-bank-account"
+    ]
+   },
+   {
+    "url": "https://developmentandhousing.hackney.gov.uk/planning/index.html",
+    "status": 406,
+    "reason": "HTTP 406",
+    "foundOn": [
+     "https://hackney.gov.uk/planning-and-building/view-and-comment-planning-applications"
+    ]
+   },
+   {
+    "url": "https://www.waitrose.com/",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://hackney.gov.uk/health-and-social-care/adult-social-care/help-home/help-meals"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 49,
+  "plain-language": 21,
+  "resources": 49,
+  "images": 49,
+  "standards": 22,
+  "security": 4,
+  "link-check": 49,
+  "alfa": 23,
+  "tech": 4,
+  "deprecated-html": 5,
+  "sustainability": 2,
+  "public-interest": 4,
+  "third-party": 13,
+  "lighthouse": 4
+ },
+ "tally": {
+  "ok": 49,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-28T14:08:55.181Z"
+}
