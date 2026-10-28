@@ -1,0 +1,141 @@
+{
+ "runId": "2026-10-28T17-42-05-206Z-c4c039",
+ "week": "2026-W44",
+ "domain": "go.walsall.gov.uk",
+ "startedAt": "2026-10-28T17:42:05.709Z",
+ "scanned": [
+  "75a99b50bdb00d93",
+  "36ca86a06f1d59b9",
+  "1e8b9344793ecbbe",
+  "613d25b99112e95e",
+  "23dba960898aa8c8",
+  "8341ba0aee2493bc",
+  "7abf41abd51b189a",
+  "88bfe109a9dd3020",
+  "8c8fdc7b59a0c736",
+  "666b496ebbdceada",
+  "0ff23c027c424b42",
+  "855c0294949ecadc",
+  "d08333b7f6188a6e",
+  "cf872d78af6dd92f",
+  "a4b6e5aba334c671",
+  "e6f5f438ce51ff99",
+  "13d30a4bfdc3b3d2",
+  "d4a03f45bba95712",
+  "ef1c9ea0939b0028",
+  "f552959e331fee1b",
+  "7992f7e622966d79",
+  "777cc808026cff25",
+  "208c2c2fae211e39",
+  "8f387cd66bf24f30",
+  "b713640b13640e3e",
+  "7541a9762c3b22c7",
+  "b1bb63a874867b00",
+  "ca2a845293219cc7",
+  "cecee3001eed048e",
+  "57ae8de6df1b8b6f",
+  "02b1de4cdd672635",
+  "666c15c696641c0d",
+  "3f9efc2f30e3e873",
+  "32787b27f5c4bf59",
+  "b0c206da0e8ce44e",
+  "8ea54485378b6159",
+  "b032bbeb64841024",
+  "e2e977d120915243",
+  "7253f61d03df6a74",
+  "f85b701a94440024",
+  "ea8f06fbcd32830b",
+  "f30cb1682a943e56",
+  "2fbba00682973210",
+  "0ec5ae7c9904eeda",
+  "9036d84f0735df7e",
+  "2648b44eb1bd9e5e",
+  "ca923e780acc01b5",
+  "6ca746ee91b74890",
+  "bd235df34fe935c2",
+  "3e7c927350ba8ab8"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 363,
+  "checked": 363,
+  "brokenCount": 4,
+  "broken": [
+   {
+    "url": "http://www.theibsnetwork.org/cant-wait-card",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "http://go.walsall.gov.uk/your-council/equality-and-diversity/radar-key"
+    ]
+   },
+   {
+    "url": "http://www.go.walsall.gov.uk/parks-and-green-spaces/visit-our-parks-and-play-areas/walsall-arboretum",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/walsall-arboretum-designated-first-west-midlands-ancient-tree-site-milestone-year"
+    ]
+   },
+   {
+    "url": "https://myaccount.walsall.gov.uk/feedback-type/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "http://go.walsall.gov.uk/myaccount-online-services/make-comment-or-compliment"
+    ]
+   },
+   {
+    "url": "https://live-ace-walsall.pantheonsite.io/walsall-libraries/our-libraries/streetly-district-library",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "http://go.walsall.gov.uk/events/reading-friends-25"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 50,
+  "plain-language": 33,
+  "resources": 50,
+  "images": 50,
+  "link-check": 50,
+  "standards": 18,
+  "third-party": 11,
+  "alfa": 27,
+  "sustainability": 6,
+  "lighthouse": 7,
+  "security": 1,
+  "deprecated-html": 6,
+  "tech": 2,
+  "public-interest": 1
+ },
+ "tally": {
+  "ok": 50,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-28T17:58:14.729Z"
+}
