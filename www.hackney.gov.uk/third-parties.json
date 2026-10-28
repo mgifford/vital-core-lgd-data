@@ -1,6 +1,6 @@
 {
  "domain": "www.hackney.gov.uk",
- "updatedAt": "2026-10-27T22:51:42.610Z",
+ "updatedAt": "2026-10-28T17:41:32.590Z",
  "vendors": {
   "hotjar.com": {
    "firstSeen": "2026-W44",
@@ -81,7 +81,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "isScriptVendor": false
+   "isScriptVendor": true
   },
   "hotjar.io": {
    "firstSeen": "2026-W44",
@@ -101,15 +101,6 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "dotdigital-pages.com": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": true
-  },
   "os.uk": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
@@ -118,6 +109,42 @@
    ],
    "weeksSeen": 1,
    "isScriptVendor": false
+  },
+  "youtube.com": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": true
+  },
+  "ytimg.com": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "doubleclick.net": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": true
+  },
+  "dotdigital-pages.com": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": true
   }
  }
 }

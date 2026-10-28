@@ -1,5 +1,670 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-10-27T22:51:42.544Z",
- "links": {}
+ "updatedAt": "2026-10-28T17:41:32.178Z",
+ "links": {
+  "https://wslc.walsall.gov.uk/leisurehub/identity/login": {
+   "status": 0,
+   "reason": "fetch failed",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://go.walsall.gov.uk/sport-and-leisure/activities/swimming-lessons-adults",
+    "http://go.walsall.gov.uk/events/splash-and-play-bloxwich-active-living-centre-1",
+    "http://go.walsall.gov.uk/events/pool-inflatable-fun-session-oak-park-active-living-centre-7",
+    "http://go.walsall.gov.uk/sport-and-leisure/activities",
+    "http://go.walsall.gov.uk/events/pool-floats-fun-session-oak-park-active-living-centre-14",
+    "http://go.walsall.gov.uk/events/pool-inflatable-fun-session-bloxwich-active-living-centre-13",
+    "http://go.walsall.gov.uk/events/pool-floats-fun-session-oak-park-active-living-centre-13",
+    "http://go.walsall.gov.uk/sport-and-leisure/activities/parties/parties-walsall-gala-swimming-and-fitness-centre",
+    "http://go.walsall.gov.uk/events/inflatable-and-floats-session-oak-park-active-living-centre-0",
+    "http://go.walsall.gov.uk/events/pool-inflatable-fun-session-bloxwich-active-living-centre-11"
+   ]
+  },
+  "https://fingertips.phe.org.uk/profile/adult-mental-health-wellbeing/data": {
+   "status": 0,
+   "reason": "UND_ERR_SOCKET",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://go.walsall.gov.uk/newsroom/walsall-council-marks-loneliness-awareness-week-2026-call-lets-connect"
+   ]
+  },
+  "https://fingertips.phe.org.uk/search/social%20isol": {
+   "status": 0,
+   "reason": "UND_ERR_SOCKET",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://go.walsall.gov.uk/newsroom/walsall-council-marks-loneliness-awareness-week-2026-call-lets-connect"
+   ]
+  },
+  "https://gbr01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.heritagefund.org.uk%2Fabout%2Fheritage-2033-our-10-year-strategy&data=05%7C01%7CJoy.Corcec%40heritagefund.org.uk%7Cb1683b401cec45d28a9a08dbe9daf220%7C242ef33def184a01b2940da2d8fc58e3%7C0%7C0%7C638360898800888921%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=C23l5Ut9RxqDPO7%2F1JyKYvlOSCs8cjAixhYbPlDdM2g%3D&reserved=0": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://go.walsall.gov.uk/newsroom/new-sculpture-trail-has-walsall-park-buzz"
+   ]
+  },
+  "https://gbr01.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FHeritageFundUK&data=05%7C01%7CJoy.Corcec%40heritagefund.org.uk%7Cb1683b401cec45d28a9a08dbe9daf220%7C242ef33def184a01b2940da2d8fc58e3%7C0%7C0%7C638360898800888921%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=KlkyP63b6kuLsUlL664ETPLnvfdFomJUEY%2FH93H6AcU%3D&reserved=0": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://go.walsall.gov.uk/newsroom/new-sculpture-trail-has-walsall-park-buzz"
+   ]
+  },
+  "https://gbr01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.facebook.com%2FHeritageFundUK&data=05%7C01%7CJoy.Corcec%40heritagefund.org.uk%7Cb1683b401cec45d28a9a08dbe9daf220%7C242ef33def184a01b2940da2d8fc58e3%7C0%7C0%7C638360898801045083%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=6PLqQUsjfXS4ddzmtkdeeTYa07xzaZg1C1%2BgBsP5fvs%3D&reserved=0": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://go.walsall.gov.uk/newsroom/new-sculpture-trail-has-walsall-park-buzz"
+   ]
+  },
+  "https://gbr01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.heritagefund.org.uk%2F&data=05%7C01%7CJoy.Corcec%40heritagefund.org.uk%7Cb1683b401cec45d28a9a08dbe9daf220%7C242ef33def184a01b2940da2d8fc58e3%7C0%7C0%7C638360898801045083%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=N2QZmmHmEXDVZf%2B4xtsvJQyVEB5ApEsxAYmSn0MQOFM%3D&reserved=0": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://go.walsall.gov.uk/newsroom/new-sculpture-trail-has-walsall-park-buzz"
+   ]
+  },
+  "https://gbr01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.instagram.com%2Fheritagefunduk%2F&data=05%7C01%7CJoy.Corcec%40heritagefund.org.uk%7Cb1683b401cec45d28a9a08dbe9daf220%7C242ef33def184a01b2940da2d8fc58e3%7C0%7C0%7C638360898801045083%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=F1tQQDsUb0WQx681xVg6FwB1l8t4uyWQSd9j%2BmGfXcY%3D&reserved=0": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://go.walsall.gov.uk/newsroom/new-sculpture-trail-has-walsall-park-buzz"
+   ]
+  },
+  "https://wslc.walsall.gov.uk/leisurehub/identity/login?": {
+   "status": 0,
+   "reason": "fetch failed",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://go.walsall.gov.uk/events/pool-inflatable-fun-session-bloxwich-active-living-centre-3",
+    "http://go.walsall.gov.uk/events/pool-inflatable-fun-session-bloxwich-active-living-centre-5",
+    "http://go.walsall.gov.uk/events/pool-inflatable-fun-session-oak-park-active-living-centre-2"
+   ]
+  },
+  "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcarersuk.org%2Fnews-and-campaigns%2Four-campaigns%2Fcarers-rights-day&data=05%7C02%7CStevie.Cattell%40walsall.gov.uk%7C814425bad26a43b6d24408de278462b6%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638991646703290359%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Ld%2FP5HDoEaoiFkUtaZTznvd%2FsTe3nm5yDxsX3x4X7e4%3D&reserved=0": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://go.walsall.gov.uk/newsroom/know-your-rights-join-councils-carers-rights-day-walsall-manor-hospital"
+   ]
+  },
+  "http://www.fccenvironment.co.uk/": {
+   "status": 0,
+   "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://go.walsall.gov.uk/newsroom/funding-confirmed-new-childrens-play-area-and-outdoor-gym-pleck-park"
+   ]
+  },
+  "https://thebloxidgetallygraph.webs.com/bloxwichparkshistory.htm": {
+   "status": 0,
+   "reason": "ENOTFOUND",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://go.walsall.gov.uk/parks-and-green-spaces/visit-our-parks-and-play-areas/bloxwich-park-and-promenade-gardens",
+    "http://go.walsall.gov.uk/parks-and-green-spaces/visit-our-parks-and-play-areas/king-george-v-memorial-playing-fields"
+   ]
+  },
+  "https://www.epic-danceacademy.co.uk/": {
+   "status": 0,
+   "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://go.walsall.gov.uk/newsroom/whats-walsall-april-2026"
+   ]
+  },
+  "https://go.walsall.gov.uk/sport-and-leisure%C2%A0%C2%A0": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://go.walsall.gov.uk/newsroom/easter-holiday-fun-returns-walsall-leisure-centres-packed-activities-families"
+   ]
+  },
+  "https://www.moh.gov.sa/en/HealthAwareness/Pilgrims_Health/Pages/default.aspx": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://go.walsall.gov.uk/newsroom/hajj-and-umrah-pilgrims-reminded-seek-travel-advice"
+   ]
+  },
+  "https://eur01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.walsall.gov.uk%2Fwalsallconnected&data=05%7C02%7CRebecca.Morris%40walsall.gov.uk%7C5992c671ca9344c44a9508deb256ca95%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639144283006370942%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=KwMeLHRvUOypPKV3AUChFlzWfBcyYpUfZPk395SI%2FWM%3D&reserved=0": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://go.walsall.gov.uk/newsroom/have-your-say-community-safety-and-crime-walsall-0"
+   ]
+  },
+  "https://eur01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fthestreetlink.org.uk%2F&data=05%7C02%7CKiran.Brach%40walsall.gov.uk%7Ce2bbf37e17ee4a55096c08de26b1f142%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638990742899691088%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=hEJMFzYKQ5M9DfuFukegHHVZJgRRYlPF1T87ZmIVAd8%3D&reserved=0": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://go.walsall.gov.uk/newsroom/cold-health-alert-issued-west-midlands-temperatures-drop"
+   ]
+  },
+  "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fstreetsupport.net%2F&data=05%7C02%7CKiran.Brach%40walsall.gov.uk%7Ce2bbf37e17ee4a55096c08de26b1f142%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638990742899729335%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=z89L2Y%2BDPfBcZSXw6EcaGJcJqKbVZ5%2B8%2Bs8VCuwRzsA%3D&reserved=0": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://go.walsall.gov.uk/newsroom/cold-health-alert-issued-west-midlands-temperatures-drop"
+   ]
+  },
+  "https://www.metoffice.gov.uk/weather/warnings-and-advice/seasonal-advice/cold-weather-alerts": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://go.walsall.gov.uk/newsroom/cold-health-alert-issued-west-midlands-temperatures-drop"
+   ]
+  },
+  "https://www.fosterline.info/": {
+   "status": 522,
+   "reason": "HTTP 522",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://go.walsall.gov.uk/fostering/types-foster-carers/connected-foster-carers"
+   ]
+  },
+  "https://www.thefosteringnetwork.org.uk/": {
+   "status": 522,
+   "reason": "HTTP 522",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://go.walsall.gov.uk/fostering/types-foster-carers/connected-foster-carers"
+   ]
+  },
+  "https://espws.necsws.com/ords/pwslive/call_initial_apex_page.nes_selfsrv?service=CAHOMEPAGE&la=WAL&language=ENG&options=HOME;BR": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://go.walsall.gov.uk/business/business-rates"
+   ]
+  },
+  "https://www.walsallfamilyhubs.co.uk/0-2/feeding-your-baby": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://go.walsall.gov.uk/newsroom/more-breastfeeding-support-groups-offered-mums-walsall"
+   ]
+  },
+  "https://www.actiononaddiction.org.uk/addiction-awareness-week-2024": {
+   "status": 0,
+   "reason": "UND_ERR_CONNECT_TIMEOUT",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://go.walsall.gov.uk/newsroom/councils-approach-tackle-addiction-part-addiction-awareness-week"
+   ]
+  },
+  "https://www.nhs.uk/Services/hospitals/Overview/DefaultView.aspx?id=154455": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/children-and-young-people/early-help/early-help-parents/emotional-health-and-wellbeing",
+    "http://go.walsall.gov.uk/children-and-young-people/family-help/health-and-wellbeing-your-family/emotional-health-and"
+   ]
+  },
+  "https://eur01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.gypsy-traveller.org%2Fgrthm&data=05%7C02%7CBecky.Read%40walsall.gov.uk%7C6321419952d543dba5c908dec5482d48%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639165110957614395%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=O5101vjim0SDwiigONoLbd9z7dZKxLx2xNsXMfqDUds%3D&reserved=0": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://go.walsall.gov.uk/events/gypsy-roma-and-traveller-grt-history-month-2026-exhibition"
+   ]
+  },
+  "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.walsall.gov.uk%2Fwalsall-libraries&data=05%7C02%7CBecky.Read%40walsall.gov.uk%7C6321419952d543dba5c908dec5482d48%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639165110957641547%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=a%2FoSs6tzJT0etwslsSDbMhoa7O7B54NuyADSkyptwNM%3D&reserved=0": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://go.walsall.gov.uk/events/gypsy-roma-and-traveller-grt-history-month-2026-exhibition"
+   ]
+  },
+  "https://eur01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.walsallcouncilwebcasts.com%2F&data=05%7C02%7CJoan.Omionawele%40walsall.gov.uk%7C687aafefc92744ece51308deb5a3e7ba%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639147913000048498%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=XTHG1GktOyQoDLvjFbU7mPKolNhjMpyvZdyGO2cHAD4%3D&reserved=0": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://go.walsall.gov.uk/newsroom/councillor-alan-fleming-qrm-elected-mayor-walsall-2026-27"
+   ]
+  },
+  "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcmispublic.walsall.gov.uk%2Fcmis%2FMeetings%2Ftabid%2F70%2Fctl%2FViewMeetingPublic%2Fmid%2F397%2FMeeting%2F4170%2FCommittee%2F542%2FSelectedTab%2FDocuments%2FDefault.aspx&data=05%7C02%7CJoan.Omionawele%40walsall.gov.uk%7C687aafefc92744ece51308deb5a3e7ba%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639147913000075913%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=NPH7FpdWm5jJXVwpFAhhnVaaIMFAn6svsuYi0to09K4%3D&reserved=0": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://go.walsall.gov.uk/newsroom/councillor-alan-fleming-qrm-elected-mayor-walsall-2026-27"
+   ]
+  },
+  "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1Cf83gcjG2%2F&data=05%7C02%7CJoan.Omionawele%40walsall.gov.uk%7C687aafefc92744ece51308deb5a3e7ba%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639147913000111889%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=qPsUsH%2Bxv1wikICAibSQh9EAPYs5ts3af0Gi%2F3dPjXM%3D&reserved=0": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://go.walsall.gov.uk/newsroom/councillor-alan-fleming-qrm-elected-mayor-walsall-2026-27"
+   ]
+  },
+  "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.streetlycommunitysports.com%2F&data=05%7C02%7CJoan.Omionawele%40walsall.gov.uk%7C687aafefc92744ece51308deb5a3e7ba%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639147913000093758%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=flcny7aMKCZwlxU3qGq9DzaUKauyPbzyvTCasYiIQ%2F8%3D&reserved=0": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://go.walsall.gov.uk/newsroom/councillor-alan-fleming-qrm-elected-mayor-walsall-2026-27"
+   ]
+  },
+  "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1Kde6BPT2K%2F&data=05%7C02%7CJoan.Omionawele%40walsall.gov.uk%7C687aafefc92744ece51308deb5a3e7ba%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639147913000128242%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=BTbV%2BGelAhrVuq8lBUqI5xw6kI8eTPa6kOfUyCMBW9g%3D&reserved=0": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://go.walsall.gov.uk/newsroom/councillor-alan-fleming-qrm-elected-mayor-walsall-2026-27"
+   ]
+  },
+  "https://walsallpcn.net/find-my-pcn/": {
+   "status": 0,
+   "reason": "ENOTFOUND",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://go.walsall.gov.uk/newsroom/further-vaccination-clinics-take-place-walsall-offering-mmr-vaccines"
+   ]
+  },
+  "https://www.rethink.org/help-in-your-area/services/community-support/walsall-sanctuary-hub/": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://go.walsall.gov.uk/health-and-social-care/looking-after-your-mental-health/mental-health-and-wellbeing-support"
+   ]
+  },
+  "https://www.rethink.org/help-in-your-area/services/community-support/sanctuary-community-mental-health-service-walsall/": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://go.walsall.gov.uk/health-and-social-care/looking-after-your-mental-health/mental-health-and-wellbeing-support"
+   ]
+  },
+  "https://www.walsallcollege.ac.uk/adults/?utm_term=adult%20courses&utm_campaign=%5BAdults%5D+Adult+Guide+Sep+2026&utm_source=adwords&utm_medium=ppc&utm_id=24084418959&hsa_acc=7063713410&hsa_cam=24084418959&hsa_grp=199282845336&hsa_ad=819051157361&hsa_src=g&hsa_tgt=kwd-30589333&hsa_kw=adult%20courses&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=24084418959&gclid=EAIaIQobChMItpz0koSglgMVRJxQBh3zPhUoEAAYASAAEgKP3_D_BwE": {
+   "status": 0,
+   "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://go.walsall.gov.uk/health-and-social-care/looking-after-your-mental-health/mental-health-and-wellbeing-support"
+   ]
+  },
+  "https://www.nhs.uk/services/service-directory/walsall-specialist-stop-smoking-service-pregnant-clients/N10928360": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://go.walsall.gov.uk/newsroom/quit-smoking-good-2025-and-breathe-easier-free-support-walsall"
+   ]
+  },
+  "http://www.twitter.com/wolvescouncil": {
+   "status": 520,
+   "reason": "HTTP 520",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://go.walsall.gov.uk/newsroom/street-racing-injunction-review-hearing-next-week"
+   ]
+  },
+  "https://www.go.walsall.gov.uk/parks-and-green-spaces/visit-our-parks-and-play-areas/walsall-arboretum": {
+   "status": 0,
+   "reason": "ENOTFOUND",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://go.walsall.gov.uk/newsroom/blockbuster-free-event-mark-150th-anniversary-walsall-arboretum"
+   ]
+  },
+  "https://eur01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fthestreetlink.org.uk%2F&data=05%7C02%7CCharlotte.Gough%40walsall.gov.uk%7C16c8005d98274802df5b08ddd8c12579%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638905046259331455%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=ryuKu%2FiVu3%2F00p17wwz%2B7ebnWpZ5EAp7rf%2Foyrokv%2B0%3D&reserved=0": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://go.walsall.gov.uk/newsroom/take-extra-care-amber-heat-health-alert-issued-west-midlands"
+   ]
+  },
+  "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fstreetsupport.net%2F&data=05%7C02%7CCharlotte.Gough%40walsall.gov.uk%7C16c8005d98274802df5b08ddd8c12579%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638905046259374483%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=vgO2gumEgScb3MVICqwHLmhWXysissRuVzVTLMIdxY8%3D&reserved=0": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://go.walsall.gov.uk/newsroom/take-extra-care-amber-heat-health-alert-issued-west-midlands"
+   ]
+  },
+  "https://www.metoffice.gov.uk/public/weather/heat-health/?tab=heatHealth&season=normal": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://go.walsall.gov.uk/newsroom/take-extra-care-amber-heat-health-alert-issued-west-midlands"
+   ]
+  },
+  "https://eur01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.walsall.gov.uk%2FPollingDistrictReview&data=05%7C02%7CJoan.Omionawele%40walsall.gov.uk%7C084004f42c11418c7e3408dda1c7ee89%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638844602244407333%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=gz0tb7fFaq4IWkVgc1O2djpFa3TYM9BKuNH6dnoJlZY%3D&reserved=0": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://go.walsall.gov.uk/newsroom/have-your-say-polling-districts-walsall"
+   ]
+  },
+  "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.walsall.gov.uk%2Fmuseums-libraries-and-galleries%2Fwalsall-heritage-strategy%2Fapply-heritage-spark-grant&data=05%7C01%7CAnnabel.Clarke%40walsall.gov.uk%7C42e3fab316de45acc83508db9a5aac8f%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638273486452122431%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=59GkdqCXsU2IQkI48XORtUmOiwlZ3hZ0shVzm8N6EnI%3D&reserved=0": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://go.walsall.gov.uk/newsroom/new-government-grant-support-walsall-organisations-deliver-heritage-related-activities"
+   ]
+  },
+  "https://www.tescoplc.com/sustainability/communities/fruit-and-veg-challenge": {
+   "status": 503,
+   "reason": "HTTP 503",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://go.walsall.gov.uk/newsroom/walsall-pupils-award-winning-healthy-recipe-reach-1500-schools-across-uk"
+   ]
+  },
+  "https://gbr01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.wmnow.co.uk%2F&data=05%7C02%7Candrew.richardson%40westmidlands.police.uk%7Cbcc345cc55754cb1ede308dd78e8d20d%7C2b0f1af29e024cfb982fc61fd716ee98%7C0%7C0%7C638799663557610966%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Pp3c05RK%2Fk%2F7H7V0E%2BrEH44nmQ8Eysf3CuVamiw5DbE%3D&reserved=0": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://go.walsall.gov.uk/newsroom/council-leader-calls-upon-cross-border-support-tackle-illegal-road-bikes"
+   ]
+  },
+  "https://gbr01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.westmidlands.police.uk%2Fadvice%2Fadvice-and-information%2Fasb%2Fasb%2Fantisocial-behaviour%2Fvehicle-nuisance-involving-cars-bikes-and-mopeds%2F&data=05%7C02%7Candrew.richardson%40westmidlands.police.uk%7Cbcc345cc55754cb1ede308dd78e8d20d%7C2b0f1af29e024cfb982fc61fd716ee98%7C0%7C0%7C638799663557638099%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=BJ%2FFZcAHoOJrh1H1sbxnJoWOJkVnPvzQR3YlgV6Nc%2Fk%3D&reserved=0": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://go.walsall.gov.uk/newsroom/council-leader-calls-upon-cross-border-support-tackle-illegal-road-bikes"
+   ]
+  },
+  "https://espws.necsws.com/ords/pwslive/call_initial_apex_page.nes_selfsrv?service=CAHOMEPAGE&la=WAL&language=ENG&options=HOME": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://go.walsall.gov.uk/council-tax",
+    "https://go.walsall.gov.uk/council-tax"
+   ]
+  },
+  "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.ticketsource.com%2Fhealthyspaces&data=05%7C02%7CDaniel.Peters%40walsall.gov.uk%7C779f41f8664d4cadfe4c08df13f2652a%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639251604276499293%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=omK53MyJiRad0KAo2HnOi%2BSrynB3f8kmoio%2BUqKgI3w%3D&reserved=0": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/newsroom/whats-walsall-october-2026"
+   ]
+  },
+  "https://www.registertovote.service.gov.uk/register-to-vote/privacy": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "http://go.walsall.gov.uk/your-council/privacy-statement"
+   ]
+  }
+ }
 }

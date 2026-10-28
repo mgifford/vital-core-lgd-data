@@ -1,11 +1,20 @@
 {
  "domain": "www.lbhf.gov.uk",
- "updatedAt": "2026-10-27T22:51:42.358Z",
+ "updatedAt": "2026-10-28T17:41:31.677Z",
  "pages": {
   "https://www.lbhf.gov.uk/": {
    "pageId": "4572951835d2d172",
    "lastWeek": "2026-W44",
    "lastScannedAt": "2026-10-27T22:40:54.488Z",
+   "status": 202,
+   "axeViolations": 4,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.lbhf.gov.uk/business": {
+   "pageId": "8f34fae25282ac60",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-27T23:00:42.328Z",
    "status": 202,
    "axeViolations": 4,
    "alfaFailures": null,

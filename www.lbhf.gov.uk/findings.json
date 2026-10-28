@@ -1,22 +1,23 @@
 {
  "domain": "www.lbhf.gov.uk",
- "updatedAt": "2026-10-27T22:51:42.457Z",
+ "updatedAt": "2026-10-28T17:41:31.805Z",
  "findings": {
   "VS-860306d8": {
    "engine": "axe-core",
    "ruleId": "label-content-name-mismatch",
    "summary": "Elements must have their visible text as part of their accessible name (WCAG 2.5.3)",
    "wcag": "2.5.3",
-   "severity": "Critical",
+   "severity": "Serious",
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 1,
+   "lastPagesAffected": 2,
    "lastAffectedPages": [
-    "https://www.lbhf.gov.uk/"
+    "https://www.lbhf.gov.uk/",
+    "https://www.lbhf.gov.uk/business"
    ]
   },
   "VS-8806389c": {
@@ -24,16 +25,17 @@
    "ruleId": "landmark-unique",
    "summary": "Landmarks should have a unique role or role/label/title (i.e. accessible name) c (best practice, not a WCAG requirement)",
    "wcag": null,
-   "severity": "Serious",
+   "severity": "Moderate",
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 1,
+   "lastPagesAffected": 2,
    "lastAffectedPages": [
-    "https://www.lbhf.gov.uk/"
+    "https://www.lbhf.gov.uk/",
+    "https://www.lbhf.gov.uk/business"
    ]
   },
   "VS-fa44f293": {
@@ -41,16 +43,17 @@
    "ruleId": "page-has-heading-one",
    "summary": "Page should contain a level-one heading (best practice, not a WCAG requirement)",
    "wcag": null,
-   "severity": "Serious",
+   "severity": "Moderate",
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 1,
+   "lastPagesAffected": 2,
    "lastAffectedPages": [
-    "https://www.lbhf.gov.uk/"
+    "https://www.lbhf.gov.uk/",
+    "https://www.lbhf.gov.uk/business"
    ]
   },
   "VS-f18df681": {
@@ -58,16 +61,17 @@
    "ruleId": "region",
    "summary": "All page content should be contained by landmarks (best practice, not a WCAG requirement)",
    "wcag": null,
-   "severity": "Serious",
+   "severity": "Moderate",
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 1,
+   "lastPagesAffected": 2,
    "lastAffectedPages": [
-    "https://www.lbhf.gov.uk/"
+    "https://www.lbhf.gov.uk/",
+    "https://www.lbhf.gov.uk/business"
    ]
   }
  }
