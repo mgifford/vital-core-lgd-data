@@ -1,0 +1,164 @@
+{
+ "runId": "2026-10-28T15-23-41-081Z-fce2e2",
+ "week": "2026-W44",
+ "domain": "go.walsall.gov.uk",
+ "startedAt": "2026-10-28T15:23:43.682Z",
+ "scanned": [
+  "0a081c8effa8b7ac",
+  "679e5c32df811633",
+  "eaae730e7f3e0bed",
+  "011d385027b9b542",
+  "68621cda1322511a",
+  "ec51581c96d9f89d",
+  "8486738f0ebadfc3",
+  "262fc6b10cd708b1",
+  "561aed690b43b6d5",
+  "66c118a5033a3bac",
+  "f2a47db712da4d5e",
+  "d2bbcefe0f5df3e5",
+  "92a07dbfa38b6d2f",
+  "e38ee504687147f4",
+  "2a65ea3b100c088a",
+  "641f9ec4d69a4a8e",
+  "97934a84e92d685f",
+  "e633d169bdb8a4f7",
+  "e066d3afc7a4dd0c",
+  "04fc7c6d54e1f2da",
+  "13176b9944b4b01d",
+  "7e132a806be8cf33",
+  "d87cd6af2ec6ab05",
+  "7cdaf06c7af22a71",
+  "14cb092f588c7c16",
+  "0697323a62ea9326",
+  "6d881bbad8a94ffb",
+  "b8c71bbdd31d9a1a",
+  "552ea6cdab999701",
+  "41ad0317a2667865",
+  "23cb37b413cfc66c",
+  "125a6a6a782fe4c3",
+  "fcdbd66a3d487573",
+  "94cd6abf37ec7403",
+  "18711c7970a3aa34",
+  "58a608edad97863b",
+  "750852ea7af88b3f",
+  "867ecc7ef6c91257",
+  "9ef1efd19d245f55",
+  "692965757b462d7c",
+  "c372cbca268eb906",
+  "b66e3bb9882f48f6",
+  "e0941d912d5f382a",
+  "1f0e7a800f51e864",
+  "359ab3d6f073a928",
+  "552fe69a5c3bde41",
+  "0df9f3de8fd5c945",
+  "d786b2321e513319",
+  "feee3810dc9ea270",
+  "b1b5de9b9e494306"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 392,
+  "checked": 392,
+  "brokenCount": 7,
+  "broken": [
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fforms.office.com%2FPages%2FResponsePage.aspx%3Fid%3Dx3ncXWl-j0K6MISyShrZlG5rlMTnpFlLoL47foeMs3tUN0JJVU1KWkpQN0xRMTY1VEdLUU03NkMyMi4u&data=05%7C02%7CAlice.James%40walsall.gov.uk%7C8f6685bdc10149cc2dfd08dc644b80e2%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638495523169747751%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=B91SCMt%2FRQPFgBQuwMr4e3vbxI6pTfXmhOTHkToR49o%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/ps1000-cash-incentive-new-or-returning-early-years-workers-walsall"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.mywalsall.org%2Ffis%2Fprovider-homepage&data=05%7C02%7CAlice.James%40walsall.gov.uk%7C8f6685bdc10149cc2dfd08dc644b80e2%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638495523169760016%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=Ri7631XSUc5sgYHlcSUJ1S%2Fo2a6IM5t7Z%2F4Jri0xL6s%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/ps1000-cash-incentive-new-or-returning-early-years-workers-walsall"
+    ]
+   },
+   {
+    "url": "https://www.walsallhealthcare.nhs.uk/our-services/maternity/health-in-pregnancy-service-hips/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/walsall-council-marks-infant-mental-health-awareness-week-2024"
+    ]
+   },
+   {
+    "url": "https://go.walsall.gov.uk/www.walsall.gov.uk",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "http://go.walsall.gov.uk/your-council/open-data/datasets/grants"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.eventbrite.co.uk%2Fcc%2Fwalsall-mental-health-suicide-prevention-courses-2591059&data=05%7C02%7CAndrew.Wood%40walsall.gov.uk%7C28f9f430e43145b8500d08dc23c00153%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638424555511539408%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=U%2FdgnGO83QRXJr%2FbmfANcXaK5whJwAee1JUE%2FAx30Qk%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/walsall-suicide-prevention-strategy-be-refreshed"
+    ]
+   },
+   {
+    "url": "https://go.walsall.gov.uk/benefits/household-support-fund",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/walsall-residents-encouraged-apply-household-support-fund-grants"
+    ]
+   },
+   {
+    "url": "https://espws.necsws.com/ords/pwslive/call_initial_apex_page.nes_selfsrv?service=CAHOMEPAGE&la=WAL&language=ENG&options=HOME",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/council-tax"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 47,
+  "alfa": 24,
+  "resources": 47,
+  "images": 47,
+  "third-party": 12,
+  "link-check": 47,
+  "plain-language": 26,
+  "standards": 18,
+  "security": 6,
+  "public-interest": 7,
+  "sustainability": 4,
+  "deprecated-html": 3,
+  "tech": 9
+ },
+ "tally": {
+  "ok": 47,
+  "blocked": 3,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-28T15:36:21.331Z"
+}
