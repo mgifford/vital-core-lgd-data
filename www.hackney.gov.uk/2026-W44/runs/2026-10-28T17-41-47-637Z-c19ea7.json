@@ -1,0 +1,133 @@
+{
+ "runId": "2026-10-28T17-41-47-637Z-c19ea7",
+ "week": "2026-W44",
+ "domain": "www.hackney.gov.uk",
+ "startedAt": "2026-10-28T17:41:47.967Z",
+ "scanned": [
+  "1ac3d47dc9adb73a",
+  "14b849a3f3fbf15f",
+  "30035b8c5ed63365",
+  "05aa603cf0a2909c",
+  "b6e925ea5ee8745d",
+  "20368d829b0e77ae",
+  "3673468df708906c",
+  "b11d752053f4c3f3",
+  "0a846aa880b3bee7",
+  "8ba4d58d40676960",
+  "4e8935c8976e3765",
+  "245b9a19180eb22b",
+  "41477c6cfd2a94a5",
+  "c7dac8c71217788c",
+  "73e6c2ad9d869971",
+  "e24ba9023794e179",
+  "fa9f825dfc7e25e8",
+  "b108ba70c248008f",
+  "0c5a31ef57f486fc",
+  "eff8dbfaf66a3228",
+  "de45500dd5df2f95",
+  "fa503a8442c574f2",
+  "14064679228e901f",
+  "7c10e8ba2d0f9a38",
+  "03e2073fe7d37538",
+  "e04dbfdfed22f65f",
+  "f90e61188b6510c6",
+  "8e7d77051a1e242d",
+  "4aca6b839d6be614",
+  "6a814241a7652e61",
+  "cb11d78265dbfe64",
+  "f718cf541d36aca4",
+  "44b9ea17ee0675bd",
+  "887e916b16743c64",
+  "95d1b662cc1ac262",
+  "70355abdb5031cfb",
+  "e00976cb9cef72b1",
+  "2245d432e96c727a",
+  "76122146e6df7654",
+  "7771f18601ebc7e0",
+  "113a590a826e418f",
+  "61be524e19e314e5",
+  "ed956eadbe95a284",
+  "6b241933aaf68d14",
+  "8f41332e14b7c8e3",
+  "5cd01f8a3bfaea74",
+  "2b641f40af37116c",
+  "e94079bb93a7b2f7",
+  "af062197a62223ce",
+  "ce1c04a1699961dd"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 559,
+  "checked": 500,
+  "brokenCount": 3,
+  "broken": [
+   {
+    "url": "https://developmentandhousing.hackney.gov.uk/building_control/building_applications/index.html",
+    "status": 406,
+    "reason": "HTTP 406",
+    "foundOn": [
+     "https://hackney.gov.uk/planning-and-building/building-control/building-control-application-types"
+    ]
+   },
+   {
+    "url": "http://webarchive.nationalarchives.gov.uk/20130107105354/http://www.dh.gov.uk/en/Publicationsandstatistics/Publications/PublicationsPolicyAndGuidance/DH_095895",
+    "status": 405,
+    "reason": "HTTP 405",
+    "foundOn": [
+     "https://hackney.gov.uk/health-and-social-care/mental-health/deprivation-liberties-safeguards"
+    ]
+   },
+   {
+    "url": "http://webarchive.nationalarchives.gov.uk/20130107105354/http://www.dh.gov.uk/en/Publicationsandstatistics/Publications/PublicationsPolicyAndGuidance/DH_094346",
+    "status": 405,
+    "reason": "HTTP 405",
+    "foundOn": [
+     "https://hackney.gov.uk/health-and-social-care/mental-health/deprivation-liberties-safeguards"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 50,
+  "plain-language": 21,
+  "resources": 50,
+  "images": 50,
+  "standards": 28,
+  "tech": 4,
+  "link-check": 50,
+  "alfa": 24,
+  "third-party": 9,
+  "deprecated-html": 3,
+  "security": 5,
+  "lighthouse": 5,
+  "sustainability": 3,
+  "public-interest": 4
+ },
+ "tally": {
+  "ok": 50,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-28T17:49:59.513Z"
+}
