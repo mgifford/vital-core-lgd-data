@@ -1,0 +1,42 @@
+{
+ "runId": "2026-10-28T05-23-03-705Z-6cea2b",
+ "week": "2026-W44",
+ "domain": "www.blackburn.gov.uk",
+ "startedAt": "2026-10-28T05:23:13.909Z",
+ "scanned": [],
+ "errors": [
+  {
+   "pageId": "0ea340b1a3f3bf25",
+   "url": "https://www.blackburn.gov.uk/",
+   "error": "TimeoutError: page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.blackburn.gov.uk/\", waiting until \"load\"\n"
+  }
+ ],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "enginesRun": {},
+ "tally": {
+  "ok": 0,
+  "blocked": 0,
+  "timeout": 1,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-28T05:23:56.937Z"
+}
