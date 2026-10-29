@@ -1,0 +1,149 @@
+{
+ "runId": "2026-10-29T03-03-29-466Z-1511f7",
+ "week": "2026-W44",
+ "domain": "hackney.gov.uk",
+ "startedAt": "2026-10-29T03:03:31.948Z",
+ "scanned": [
+  "9b0da8ef825e5442",
+  "e2d6fdf99d5c4e08",
+  "23b75ab9c74c9b01",
+  "b534c317b2ac5b80",
+  "30627c4be252a1a2",
+  "c0fdc00bd00c8cdd",
+  "a5599289a889a359",
+  "97096c78ec41fdaf",
+  "c9556b19d660458b",
+  "e69922b3a4108d83",
+  "5e8401a0885d9706",
+  "50248313b22707bf",
+  "33c49632a45869d8",
+  "f5f0be01c469d74f",
+  "39f02a985dfaf443",
+  "deda288a5eabd959",
+  "628375248fb5e505",
+  "12c7b37102352edb",
+  "1ba2287e1fab11f5",
+  "4e9e085cd382c5bd",
+  "7b557e636872451c",
+  "f9e7c4263016df37",
+  "8e152a3729e64f89",
+  "1441936a07a8ab6d",
+  "9b81080a3024bdff",
+  "9a9d1aa7aff9ee77",
+  "b9fa640ba14c2d62",
+  "f611a5e69fef803a",
+  "ca7632b0aa4267c9",
+  "2e5491454969ac45",
+  "f039987cfa3bc290",
+  "7f83d88748189732",
+  "192ac8ffbdff8993",
+  "f407a72b23ec0acb",
+  "423033498101b73e",
+  "a444bff57432701a",
+  "f46466be91c6320b",
+  "16ac0368dc1a4edd",
+  "9fc8f591e8595ac5",
+  "62922650b0c309c4",
+  "a1c8a75356a54341",
+  "2a2ef96a75dc089e",
+  "f06449c2c65d8fc7",
+  "20de366e9e131cdf",
+  "a1b74713f5c8598c",
+  "f9b638020d87f7b4",
+  "5d71755690f733ca",
+  "cb149664f1025674",
+  "d483fb852e8c79c1",
+  "84c750fa681539f5"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 670,
+  "checked": 500,
+  "brokenCount": 5,
+  "broken": [
+   {
+    "url": "https://hackney.gov.uk/node/403",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://hackney.gov.uk/housing/homelessness/support-avoid-homelessness/advice-if-youre-worried-youre-about-become-homeless"
+    ]
+   },
+   {
+    "url": "https://www.hta.co.uk/activities/planning-approval-for-clare-house/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/broadway-market-and-regents-court"
+    ]
+   },
+   {
+    "url": "https://www.specialguardiansnorthlondon.co.uk/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://hackney.gov.uk/health-and-social-care/children-and-families/fostering/hackney-kinship-care-local-offer"
+    ]
+   },
+   {
+    "url": "https://www.chatworkshackney.co.uk/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://hackney.gov.uk/health-and-social-care/children-and-families/fostering/hackney-kinship-care-local-offer"
+    ]
+   },
+   {
+    "url": "https://www.london-fire.gov.uk/safety/the-home/booking-a-home-fire-safety-visit/",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://hackney.gov.uk/housing/stay-safe-your-home/fire-safety/private-and-housing-association-homes-fire-safety"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 50,
+  "alfa": 25,
+  "resources": 50,
+  "images": 50,
+  "standards": 25,
+  "link-check": 50,
+  "plain-language": 20,
+  "third-party": 13,
+  "deprecated-html": 3,
+  "security": 5,
+  "lighthouse": 6,
+  "tech": 3,
+  "sustainability": 5,
+  "public-interest": 3
+ },
+ "tally": {
+  "ok": 50,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-29T03:12:46.162Z"
+}
