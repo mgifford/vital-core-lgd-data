@@ -1,0 +1,157 @@
+{
+ "runId": "2026-10-29T14-13-20-663Z-e644c0",
+ "week": "2026-W44",
+ "domain": "www.luton.gov.uk",
+ "startedAt": "2026-10-29T14:13:21.182Z",
+ "scanned": [
+  "2a8090201f896df2",
+  "71252da2da04162b",
+  "3de67e613a42d13d",
+  "eb1235aa4ff3df36",
+  "834604014e7e7fcd",
+  "9571bbe76029d1ed",
+  "e5ac6b65de4e0df2",
+  "89842256755cca11",
+  "ec7e91f676394e03",
+  "73001e2060c3b506",
+  "b28c9c1aa02bed8d",
+  "cd30c9185bd04cb3",
+  "52f12a8bbb9629c5",
+  "da740769484abbef",
+  "40dd40507dea6cea",
+  "5f5d05079fd7a0f8",
+  "47932572d7ee435c",
+  "a8ba9324ff368a09",
+  "db1fad4ebad74444",
+  "855b9bef897044d8",
+  "11a6b93eae89628b",
+  "9debe5cc4a5951c9",
+  "297cd943e462519f",
+  "17d6b14cff890bfe",
+  "d3ad267cda41f269",
+  "c59facaf03ea7041",
+  "ff108bdff3e55219",
+  "f47752b74ba5b5da",
+  "6593778d6c327eaa",
+  "ecb311115cb8d4a4",
+  "70e46ae4d197b171",
+  "f43de68303aaeb81",
+  "2b0a9e49d6923b20",
+  "3e5a112c0e9a1d8d",
+  "2f1690b67d2c86fc",
+  "61b396d52793eeb6",
+  "cdf82b202e13843c",
+  "60745dcfe454f2f8",
+  "0d4440fa7379a05f",
+  "6c4176a88877679d",
+  "56926607cfda8d8e",
+  "71d37c7d3ad6856f",
+  "9be2bef83aa6ed2f",
+  "2e73e79e32350383",
+  "146a73724bd75905",
+  "1ad4bdc2040b088b",
+  "3faca4b8da298d9d",
+  "fc358a38aba2f140",
+  "a93dff8aa529f747",
+  "c0fe0527cf3520a6"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 403,
+  "checked": 403,
+  "brokenCount": 6,
+  "broken": [
+   {
+    "url": "https://www.icknieldprimary.co.uk/IDP/",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.luton.gov.uk/schools-education/special-educational-needs-disabilities-send/hearing-deafness-services"
+    ]
+   },
+   {
+    "url": "https://www.icknield.beds.sch.uk/SEND-and-HID/",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.luton.gov.uk/schools-education/special-educational-needs-disabilities-send/hearing-deafness-services"
+    ]
+   },
+   {
+    "url": "https://www.main-bvxea6i-t56d6ev3fp3fg.uk-1.platformsh.site/parking-streets-and-transport/parking-streets-and-transport/rights-way-and-accessing-land/find-1",
+    "status": 502,
+    "reason": "HTTP 502",
+    "foundOn": [
+     "https://www.luton.gov.uk/parking-streets-transport/rights-way-accessing-land/find-public-right-way"
+    ]
+   },
+   {
+    "url": "https://www.main-bvxea6i-t56d6ev3fp3fg.uk-1.platformsh.site/parking-streets-and-transport/parking-streets-and-transport/rights-way-and-accessing-land/find-3",
+    "status": 502,
+    "reason": "HTTP 502",
+    "foundOn": [
+     "https://www.luton.gov.uk/parking-streets-transport/rights-way-accessing-land/find-public-right-way"
+    ]
+   },
+   {
+    "url": "http://www.roada-bedford.org.uk/",
+    "status": 0,
+    "reason": "CERT_HAS_EXPIRED",
+    "foundOn": [
+     "https://www.luton.gov.uk/parking-streets-transport/road-safety/safer-speed-speed-cameras/driver-training"
+    ]
+   },
+   {
+    "url": "https://www.ferrars.org.uk/",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/ferrars-junior-school"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "sustainability": 6,
+  "axe": 50,
+  "alfa": 24,
+  "plain-language": 28,
+  "resources": 50,
+  "images": 50,
+  "link-check": 50,
+  "standards": 24,
+  "third-party": 13,
+  "tech": 7,
+  "security": 3,
+  "public-interest": 4,
+  "lighthouse": 2,
+  "deprecated-html": 4
+ },
+ "tally": {
+  "ok": 50,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-29T14:20:27.082Z"
+}
