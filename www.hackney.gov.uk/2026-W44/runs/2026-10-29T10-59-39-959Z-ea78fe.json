@@ -1,0 +1,233 @@
+{
+ "runId": "2026-10-29T10-59-39-959Z-ea78fe",
+ "week": "2026-W44",
+ "domain": "www.hackney.gov.uk",
+ "startedAt": "2026-10-29T10:59:40.321Z",
+ "scanned": [
+  "5b5135422378a3ae",
+  "da61f6ee7be50442",
+  "3b5cdead0910806f",
+  "1322d48bf5b6cc0b",
+  "4cd05d0fb4b11860",
+  "bcf6e9c8451a01de",
+  "54d331aad21e8376",
+  "e2b2257cbd5f6745",
+  "6ae4903b9ad6d017",
+  "ee3e364e5ee2278c",
+  "5973ed4a55516925",
+  "f6ec5617dbfe4f2e",
+  "9786ce3078518314",
+  "33b4a1495971b2c2",
+  "dc9948a66aac2a1d",
+  "e647cd13309ce507",
+  "8d71b2ba4cc305f5",
+  "2a3439a9214ea7ef",
+  "251df392224c4a4c",
+  "c6e9aa716245844b",
+  "ef91781ef5ca0a0f",
+  "045c0c815494973c",
+  "7dafad2fd271bdf5",
+  "0d90f869dce6de65",
+  "10980261e20223af",
+  "d5aea95c58f6f2cc",
+  "faca6b3dfb834f98",
+  "fa315e7f59689837",
+  "55de44d049b8c5ec",
+  "a49c054e52b7cbb3",
+  "a33fc5bbab69bee4",
+  "be05a9c54e127231",
+  "d281721fc223edeb",
+  "f72ffd0c17338083",
+  "19761f57ad4086f6",
+  "b430ccf6846aa758",
+  "cc0e2b06098849c2",
+  "1fcec68483c16c93",
+  "7e0682e5fc9a7e5b",
+  "356ee5b2a37c0551",
+  "3f66c5f531cb4b5c",
+  "0036a6b33e3891ca",
+  "fcdca702d4c72b36",
+  "b01bd1c753008ffa",
+  "64aee4978e5f1e80",
+  "24cdd7d00d881ed0",
+  "58c280b42579fe99",
+  "f7cae97ff2863450",
+  "f9440894e15de444"
+ ],
+ "errors": [
+  {
+   "pageId": "ff059b8b388b16e1",
+   "url": "https://hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/playgrounds",
+   "error": "TimeoutError: page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/playgrounds\", waiting until \"load\"\n"
+  }
+ ],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 660,
+  "checked": 500,
+  "brokenCount": 15,
+  "broken": [
+   {
+    "url": "https://www.hackneycircle.co.uk/",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/culture/culture-activities-events-and-funding-opportunities-hackney"
+    ]
+   },
+   {
+    "url": "https://www.lovehackney.uk/culturalhackney",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/culture/culture-activities-events-and-funding-opportunities-hackney"
+    ]
+   },
+   {
+    "url": "https://llc.ulverscroftulibrary.com/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/libraries/e-library"
+    ]
+   },
+   {
+    "url": "https://www.oxfordartonline.com/",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/libraries/e-library"
+    ]
+   },
+   {
+    "url": "https://www.oxfordscholarlyeditions.com/nos",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/libraries/e-library"
+    ]
+   },
+   {
+    "url": "https://www.oxforddnb.com/",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/libraries/e-library"
+    ]
+   },
+   {
+    "url": "https://www.oxfordmusiconline.com/",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/libraries/e-library"
+    ]
+   },
+   {
+    "url": "https://www.oxfordreference.com/",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/libraries/e-library"
+    ]
+   },
+   {
+    "url": "https://www.oxfordworldsclassics.com/",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/libraries/e-library"
+    ]
+   },
+   {
+    "url": "https://www.ukwhoswho.com/",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/libraries/e-library"
+    ]
+   },
+   {
+    "url": "http://www.awardsforall.org.uk/",
+    "status": 0,
+    "reason": "CERT_HAS_EXPIRED",
+    "foundOn": [
+     "https://hackney.gov.uk/parking-streets-and-transport/travel-plans/school-travel-plans/school-travel-plan-funding-opportunities"
+    ]
+   },
+   {
+    "url": "https://web-content-api.hackney.gov.uk/wp-content/uploads/Sustainable-Travel-To-School-Grants-application-form.doc",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://hackney.gov.uk/parking-streets-and-transport/travel-plans/school-travel-plans/school-travel-plan-funding-opportunities"
+    ]
+   },
+   {
+    "url": "https://twitter.com/wellstmarket",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://hackney.gov.uk/business-and-licensing/markets-and-street-trading/well-street-market"
+    ]
+   },
+   {
+    "url": "https://www.cityoflondon.gov.uk/services/waste-and-recycling/commercial-waste/hazardous-waste-collection",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/asbestos-management"
+    ]
+   },
+   {
+    "url": "https://www.hta.co.uk/services/planning",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/hoxton-west"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 49,
+  "alfa": 28,
+  "resources": 49,
+  "images": 49,
+  "tech": 5,
+  "third-party": 15,
+  "link-check": 49,
+  "plain-language": 27,
+  "standards": 31,
+  "lighthouse": 5,
+  "security": 5,
+  "sustainability": 5,
+  "deprecated-html": 3
+ },
+ "tally": {
+  "ok": 49,
+  "blocked": 0,
+  "timeout": 1,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-29T11:08:56.144Z"
+}
