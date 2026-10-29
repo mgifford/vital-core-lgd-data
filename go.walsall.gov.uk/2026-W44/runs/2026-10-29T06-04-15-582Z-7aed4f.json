@@ -1,0 +1,166 @@
+{
+ "runId": "2026-10-29T06-04-15-582Z-7aed4f",
+ "week": "2026-W44",
+ "domain": "go.walsall.gov.uk",
+ "startedAt": "2026-10-29T06:04:18.029Z",
+ "scanned": [
+  "7af919337d0f42b4",
+  "396a8ce628bb4276",
+  "b89023d8dc4bb6b7",
+  "6bb41b15f94849dd",
+  "319925d8f33318f6",
+  "a00ae144eaea838f",
+  "09bec28d547d1599",
+  "0f769f1bd902b64c",
+  "68db544efa64e04b",
+  "79fb6a52baef1123",
+  "49d6fee82be3e437",
+  "b203aa12e08ccffe",
+  "facdfc6836fa9bec",
+  "7be08dac46f46e86",
+  "06422c7e2644c907",
+  "a3c0b4f03f0a486f",
+  "6821efcafc90ab62",
+  "0825df56dca35612",
+  "feb2c667b82b0f6b",
+  "e3712d22820f0079",
+  "c5d0bf15a3efe102",
+  "cca8e77547f689e8",
+  "ad5997b55ada6fab",
+  "b86ab55705651cc8",
+  "797f73b03d8e7012",
+  "22b69dec9ef78b38",
+  "f2b532f5c62ca1d6",
+  "6578f373e6cce599",
+  "75698b357eac1750",
+  "23ead3ab63c2fd36",
+  "cbf89f5a5617cf51",
+  "2c73a900ef442f48",
+  "a8fabd6f7cc88b2c",
+  "286047846c2a0412",
+  "7438273351e686df",
+  "621077d4fb8ccb6f",
+  "85ae4d3c89dc2cb7",
+  "d45d667eaefc1113",
+  "91087b7cceda6ba3",
+  "39271592a468e457",
+  "49c820d9e0b46a7f",
+  "133d9fdeadd7e97f",
+  "e98003c50d83fc60",
+  "ecf753eccf6d853c",
+  "fa14b33bfd43ff17",
+  "6c3493009b867d4a",
+  "a55efbaeabeaacb0",
+  "cd6eafe00a30486c",
+  "01482c90ec7f3591",
+  "31399ed2c3dc1c1b"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 293,
+  "checked": 293,
+  "brokenCount": 7,
+  "broken": [
+   {
+    "url": "https://funeralplanningauthority.co.uk/",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "http://go.walsall.gov.uk/births-marriages-and-deaths/deaths-and-funerals/help-if-theres-nobody-to-arrange-a-funeral"
+    ]
+   },
+   {
+    "url": "https://beatthestreet.me/bloxwich/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/beat-street-brings-interactive-fitness-challenge-bloxwich"
+    ]
+   },
+   {
+    "url": "https://wslc.walsall.gov.uk/leisurehub/identity/login",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "http://go.walsall.gov.uk/events/pool-floats-fun-session-bloxwich-active-living-centre-9",
+     "http://go.walsall.gov.uk/events/pool-inflatable-fun-session-bloxwich-active-living-centre-10"
+    ]
+   },
+   {
+    "url": "http://go.walsall.gov.uk/accessibility/list-our-other-websites/webproject@walsall.gov.uk",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "http://go.walsall.gov.uk/accessibility/list-our-other-websites/accessibility-statement-tusker-cars-website"
+    ]
+   },
+   {
+    "url": "https://www.josephleckieacademy.co.uk/page/?title=Contact+Us&pid=9",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "http://go.walsall.gov.uk/schools-and-learning/schools-in-walsall/school-admissions/moving-to-a-different-school/transferring-to-a-different-secondary-school"
+    ]
+   },
+   {
+    "url": "https://qmgs.walsall.sch.uk/contact-details",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "http://go.walsall.gov.uk/schools-and-learning/schools-in-walsall/school-admissions/moving-to-a-different-school/transferring-to-a-different-secondary-school"
+    ]
+   },
+   {
+    "url": "https://brownhills.walsall.sch.uk/contact-us",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "http://go.walsall.gov.uk/schools-and-learning/schools-in-walsall/school-admissions/moving-to-a-different-school/transferring-to-a-different-secondary-school"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 48,
+  "alfa": 24,
+  "resources": 48,
+  "images": 48,
+  "standards": 24,
+  "third-party": 13,
+  "link-check": 48,
+  "security": 6,
+  "sustainability": 10,
+  "plain-language": 26,
+  "lighthouse": 3,
+  "public-interest": 5,
+  "tech": 4,
+  "deprecated-html": 2
+ },
+ "tally": {
+  "ok": 48,
+  "blocked": 2,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-29T06:19:15.973Z"
+}
