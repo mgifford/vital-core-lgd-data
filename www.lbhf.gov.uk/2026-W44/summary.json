@@ -1,7 +1,7 @@
 {
  "domain": "www.lbhf.gov.uk",
  "week": "2026-W44",
- "generatedAt": "2026-10-28T17:41:31.672Z",
+ "generatedAt": "2026-10-29T11:52:14.758Z",
  "pagesScanned": 41,
  "pagesAudited": 2,
  "coverage": {
@@ -733,6 +733,9 @@
   "medianReadingEase": null,
   "medianGrade": null,
   "topUnexplainedAcronyms": [],
+  "spellingLocales": [
+   "en-US"
+  ],
   "topMisspellings": [
    {
     "word": "LanguageEnglish",

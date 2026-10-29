@@ -1,6 +1,6 @@
 {
  "domain": "www.hackney.gov.uk",
- "updatedAt": "2026-10-28T17:41:32.590Z",
+ "updatedAt": "2026-10-29T11:52:16.055Z",
  "links": {
   "https://hackney.gov.uk/node/403": {
    "status": 404,
@@ -260,7 +260,8 @@
    ],
    "weeksBroken": 1,
    "foundOn": [
-    "https://hackney.gov.uk/planning-and-building/local-land-charges-search"
+    "https://hackney.gov.uk/planning-and-building/local-land-charges-search",
+    "https://www.hackney.gov.uk/planning-and-building/local-land-charges-search"
    ]
   },
   "https://www.houseexchange.org.uk/": {
@@ -526,7 +527,8 @@
    "weeksBroken": 1,
    "foundOn": [
     "https://www.hackney.gov.uk/planning-and-building/make-planning-application/pre-application-services/get-pre-application-advice",
-    "https://www.hackney.gov.uk/planning-and-building/building-control/building-control-service"
+    "https://www.hackney.gov.uk/planning-and-building/building-control/building-control-service",
+    "https://hackney.gov.uk/planning-and-building/planning-enforcement/planning-control-breaches"
    ]
   },
   "http://www.richardhouse.org.uk/": {
