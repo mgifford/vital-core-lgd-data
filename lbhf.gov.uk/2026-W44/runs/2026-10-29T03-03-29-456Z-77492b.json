@@ -1,0 +1,118 @@
+{
+ "runId": "2026-10-29T03-03-29-456Z-77492b",
+ "week": "2026-W44",
+ "domain": "lbhf.gov.uk",
+ "startedAt": "2026-10-29T03:03:30.583Z",
+ "scanned": [
+  "547aec41e728c773"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 1327,
+  "checked": 500,
+  "brokenCount": 8,
+  "broken": [
+   {
+    "url": "https://admaxmedia.io/privacy-policy/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://adttribution.com/privacy-policy.php",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://insights.appsamurai.com/offerwall-privacy-policy",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://www.adyoulike.com/pages/privacy_en.php",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://go.pl/polityka-prywatnosci/",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "https://lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://www.ninedollars.tv/privacy-policy",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://www.ninedollars.tv/legitimateinterests",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://lbhf.gov.uk/"
+    ]
+   },
+   {
+    "url": "https://evorra.com/product-privacy-policy/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://lbhf.gov.uk/"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 1,
+  "alfa": 1,
+  "plain-language": 1,
+  "resources": 1,
+  "images": 1,
+  "standards": 1,
+  "public-interest": 1,
+  "link-check": 1
+ },
+ "tally": {
+  "ok": 1,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-29T03:05:18.496Z"
+}
