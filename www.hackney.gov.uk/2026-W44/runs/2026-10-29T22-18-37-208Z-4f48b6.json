@@ -1,0 +1,188 @@
+{
+ "runId": "2026-10-29T22-18-37-208Z-4f48b6",
+ "week": "2026-W44",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-10-29T22:18:37.547Z",
+ "scanned": [
+  "dad06f9ebaa4c471",
+  "b5883fd13b59756b",
+  "1a86fd48792ae50d",
+  "3c324f856c2a5881",
+  "e39b354045a81808",
+  "db6240e5cea1c42f",
+  "747824d609d2a83e",
+  "b353c22be81e1e82",
+  "7be6c0724d89f206",
+  "d5733e6e9294cbbe",
+  "30e9a02742e2e555",
+  "d6ab5d179731ec0a",
+  "77d14c55aaf6c255",
+  "e36917f6acab23d3",
+  "7cd4d367519cadd4",
+  "1300b1013637cd41",
+  "d22366af32e65e88",
+  "f5a5454f11c22471",
+  "196028d25f7b3bca",
+  "0d0ee23fe722a9ca",
+  "19c5b0b1848f218c",
+  "97e02b831f81a07a",
+  "726eae16680c3c88",
+  "6cacd9666018a08e",
+  "715d02a8a16a9a79",
+  "f65aba0c43315fba",
+  "c855ddda5ca50557",
+  "217ad2e5801cc74b",
+  "76026204b4621c11",
+  "260f026d6ca43c2e",
+  "dae4a5fe19a510f9",
+  "726ad299e104e57c",
+  "959ad13ccd6c238d",
+  "0c6719f419381189",
+  "2ed962ab5a86f3bb",
+  "db88a81f029d3f6e",
+  "01a524492e6bae49",
+  "6f3a4906521490dc",
+  "3a975909cd5834a7",
+  "624bfbff6bab89c0",
+  "f7b4db28f32f68c9",
+  "511b35ddbf17bc26",
+  "bfcfe155ab8fe643",
+  "bd117f05d3faa462",
+  "5767c4a770e30f97",
+  "3dddbabc5b916c0b",
+  "e62cb218830639d5"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 454,
+  "checked": 454,
+  "brokenCount": 9,
+  "broken": [
+   {
+    "url": "http://webarchive.nationalarchives.gov.uk/20110322122009/http://www.dh.gov.uk/en/Publicationsandstatistics/Publications/PublicationsPolicyAndGuidance/DH_085476",
+    "status": 405,
+    "reason": "HTTP 405",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/safeguarding-adults/safeguarding-resources"
+    ]
+   },
+   {
+    "url": "https://www.autismtas.org.au/about-autism/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/support-disabled-people/autism"
+    ]
+   },
+   {
+    "url": "https://www.autismtas.org.au/about-autism/autism-strengths/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/support-disabled-people/autism"
+    ]
+   },
+   {
+    "url": "https://www.autismtas.org.au/wp-content/uploads/2022/03/Autism-and-Communication-Poster.pdf",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/support-disabled-people/autism"
+    ]
+   },
+   {
+    "url": "http://twitter.com/broadway_mkt",
+    "status": 520,
+    "reason": "HTTP 520",
+    "foundOn": [
+     "https://www.hackney.gov.uk/business-and-licensing/markets-and-street-trading/broadway-market"
+    ]
+   },
+   {
+    "url": "http://www.cyclescheme.co.uk/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.hackney.gov.uk/parking-streets-and-transport/travel-plans/school-travel-plans/cycling-school"
+    ]
+   },
+   {
+    "url": "https://trace.london/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.hackney.gov.uk/parking-streets-and-transport/enforcement-and-removal-vehicles/abandoned-vehicle-removal"
+    ]
+   },
+   {
+    "url": "https://www.whufc.com/fixtures/first-team/fixtures-and-results",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/parking-streets-and-transport/where-park/event-days-and-bank-holiday-parking/queen-elizabeth-olympic-park-events"
+    ]
+   },
+   {
+    "url": "https://www.holbornstudios.com/events/",
+    "status": 0,
+    "reason": "CERT_HAS_EXPIRED",
+    "foundOn": [
+     "https://www.hackney.gov.uk/births-deaths-marriages-and-citizenship/marriage-civil-partnership-and-other-ceremonies/find-venue-your-marriage-or-civil-partnership"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 47,
+  "alfa": 28,
+  "resources": 47,
+  "images": 47,
+  "standards": 23,
+  "link-check": 47,
+  "plain-language": 23,
+  "security": 4,
+  "lighthouse": 8,
+  "third-party": 10,
+  "deprecated-html": 4,
+  "tech": 2,
+  "sustainability": 5,
+  "public-interest": 6
+ },
+ "tally": {
+  "ok": 47,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 3,
+  "error": 0
+ },
+ "finishedAt": "2026-10-29T22:26:03.294Z"
+}
