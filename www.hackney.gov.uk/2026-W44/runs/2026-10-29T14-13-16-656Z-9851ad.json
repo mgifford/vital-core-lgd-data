@@ -1,0 +1,141 @@
+{
+ "runId": "2026-10-29T14-13-16-656Z-9851ad",
+ "week": "2026-W44",
+ "domain": "www.hackney.gov.uk",
+ "startedAt": "2026-10-29T14:13:17.341Z",
+ "scanned": [
+  "d30f82f3f305d7a8",
+  "d055abcc48723acd",
+  "0793a6b08d3e556d",
+  "971cfa0ba20f051f",
+  "3adee878d63be975",
+  "a6ec9c8e0f0aec95",
+  "ffb8c9cd3cb4bf91",
+  "f5188b443789a03b",
+  "5f88bb5a8b07427b",
+  "a5c722a6efc68fee",
+  "e4622ad6a8e0636d",
+  "9f4fe69ad866bf6d",
+  "3383959bfefc406e",
+  "9eabaa75bf925f7f",
+  "0365f7713ac17c78",
+  "1274fb08155aa764",
+  "5ccd637db76ff27e",
+  "04b3418dba70d8e7",
+  "aa709419befb5375",
+  "179052110b63c632",
+  "b2d2a7bbff4913df",
+  "47bb6019ceac5a1c",
+  "c66dccf33bd79b6a",
+  "a674021eb581675c",
+  "c58a14b2dad2ddd5",
+  "9d92a451cce6d821",
+  "15946ec45d790c6a",
+  "d39fa9b02e2649c0",
+  "e8479eee396c364b",
+  "66d2ed0a02b3fa58",
+  "f294d89ad2d55fbe",
+  "8632d5d27a6cda33",
+  "aa4a19bc9edb4e3a",
+  "0b9057e674c55895",
+  "3b1e75e8907e3a62",
+  "87fba95d3da0981d",
+  "dfb617250b8fccdb",
+  "79983eae46e39f29",
+  "c0b2b245c90d7186",
+  "9329a6deab430837",
+  "58372c7413a43a96",
+  "31f1bf37d8254ee7",
+  "bb61f6db3faa33cf",
+  "921ac99816f850fb",
+  "6f66d93cb10276c6",
+  "6267143ab7104d09",
+  "d257a8c68d8ee673",
+  "0aecb8e8a1eaa3ee",
+  "cc9337dc1f29a42a",
+  "52b61ff1269c9c55"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 480,
+  "checked": 480,
+  "brokenCount": 4,
+  "broken": [
+   {
+    "url": "https://www.riba.org/awards-and-competitions-landing-page/awards/riba-regional-awards/riba-london-award-winners/2019/the-colville-estate",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/colville-estate"
+    ]
+   },
+   {
+    "url": "https://web-content-api.hackney.gov.uk/wp-content/uploads/LA35-Application-to-vary-a_club-premises-certificate.doc",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://hackney.gov.uk/business-and-licensing/licensing/premises-licences/club-premises-certificate"
+    ]
+   },
+   {
+    "url": "https://web-content-api.hackney.gov.uk/wp-content/uploads/LA36-Club_premises-Variation-Newspaper-Advertisement.doc",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://hackney.gov.uk/business-and-licensing/licensing/premises-licences/club-premises-certificate"
+    ]
+   },
+   {
+    "url": "https://web-content-api.hackney.gov.uk/wp-content/uploads/LA37-Club-premises-variation-Site-Notice.doc",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://hackney.gov.uk/business-and-licensing/licensing/premises-licences/club-premises-certificate"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 49,
+  "plain-language": 34,
+  "resources": 49,
+  "images": 49,
+  "link-check": 49,
+  "standards": 31,
+  "third-party": 11,
+  "alfa": 24,
+  "security": 8,
+  "public-interest": 6,
+  "tech": 1,
+  "sustainability": 5,
+  "deprecated-html": 2,
+  "lighthouse": 2
+ },
+ "tally": {
+  "ok": 49,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-29T14:20:41.997Z"
+}
