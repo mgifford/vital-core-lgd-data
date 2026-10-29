@@ -1,0 +1,229 @@
+{
+ "runId": "2026-10-29T10-59-36-314Z-25554d",
+ "week": "2026-W44",
+ "domain": "go.walsall.gov.uk",
+ "startedAt": "2026-10-29T10:59:36.897Z",
+ "scanned": [
+  "4687130e68b98954",
+  "7a23ae48b998db13",
+  "8a7b851b32619ea2",
+  "1c48280b90f577db",
+  "5633ab58653e02fc",
+  "3ec619eb9ac99adc",
+  "d9fefc5715596480",
+  "4c0b2be47f9f2d01",
+  "618a1ce9e20df84c",
+  "6b1a14d57f93bd57",
+  "bfa8acefd2b70240",
+  "e6388cf1f91980ee",
+  "5cf86de1f7dd86f2",
+  "3627b6a71ef55dbd",
+  "a6d5697a495bd7fd",
+  "fd59601ad48c2ef5",
+  "5363a7e214d84d0d",
+  "1bfe9c0f903394af",
+  "0a16a0b708c58860",
+  "05e8623f896f6066",
+  "5ad19167134b3510",
+  "6b4b0e4c552a4c1a",
+  "86bcc163bf24f709",
+  "9efbf85b01c9dced",
+  "40d10007d85c5307",
+  "35bf11d38e652395",
+  "801a64356d222bee",
+  "85e07a983a65ab5a",
+  "445599b157897efb",
+  "e78a9750234cdfa4",
+  "3b7711702d74c4ec",
+  "15d29cd1e45b8add",
+  "ab1ae0a8f693877c",
+  "82f8ca8dbf521373",
+  "3754f61de8c53c8d",
+  "349c082f18021be4",
+  "f05163bd284b6893",
+  "2ae78619d5b10817",
+  "97093edd1d5da643",
+  "1daff73efa9ef877",
+  "9ab1c6d1b0ac80f6",
+  "bf3b9a7680256b1a",
+  "e1f73fab478f302f",
+  "097302e8968d4dd1",
+  "833b0f9a1973a199",
+  "c3c368f19f14d157",
+  "aa1527582c06e181",
+  "2d2c7d51785794d5",
+  "47135b1f938d5146",
+  "b9e177bc9388de06"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 429,
+  "checked": 429,
+  "brokenCount": 15,
+  "broken": [
+   {
+    "url": "https://www.tfwm.org.uk/plan-your-journey/ways-to-travel/cycling-and-walking/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/walsall-residents-encouraged-get-active-move-your-way-campaign"
+    ]
+   },
+   {
+    "url": "http://https//www.citizensadvice.org.uk/consumer/energy/energy-supply",
+    "status": 0,
+    "reason": "EAI_AGAIN",
+    "foundOn": [
+     "https://go.walsall.gov.uk/benefits/help-cost-living"
+    ]
+   },
+   {
+    "url": "https://send.walsall.gov.uk/money-and-financial-support/managing-your-childs-support-personal-budgets-and-direct-payments",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/benefits/help-cost-living"
+    ]
+   },
+   {
+    "url": "https://www.stwater.co.uk/my-account/help-with-account/am-i-eligible-to-get-money-off-my-bill/?iid=perserv:bds:pf1",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/benefits/help-cost-living"
+    ]
+   },
+   {
+    "url": "http://www.sswct.org/how_to_apply.asp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/benefits/help-cost-living"
+    ]
+   },
+   {
+    "url": "https://www.watmos.org.uk/debt-advice",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/benefits/help-cost-living"
+    ]
+   },
+   {
+    "url": "https://www.watmos.org.uk/help-with-bills-universal-credit",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/benefits/help-cost-living"
+    ]
+   },
+   {
+    "url": "https://www.blackcountryandwestbirmccg.nhs.uk/about-us/digital-technologies-black-country-and-west-birmingham/black-country-connected-healthier-future",
+    "status": 0,
+    "reason": "CERT_HAS_EXPIRED",
+    "foundOn": [
+     "https://go.walsall.gov.uk/benefits/help-cost-living"
+    ]
+   },
+   {
+    "url": "https://findajob.dwp.gov.uk/",
+    "status": 503,
+    "reason": "HTTP 503",
+    "foundOn": [
+     "https://go.walsall.gov.uk/benefits/help-cost-living"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.nhs.uk%2Fnhs-services%2Fonline-services%2Fnhs-login%2F&data=05%7C02%7CCatherine.Lister%40walsall.gov.uk%7Cfb37de4460de49331a2f08dd0e0675d7%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638682143098377668%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=mRyL8Z%2F31u%2B%2F%2F%2BF7BqNUgTJCMPwTtZsrO1SYuL6PjbU%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/walsall-libraries/resources/get-support-use-nhs-app-or-nhs-account"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdigital.nhs.uk%2Fservices%2Fnhs-app%2Ftoolkit%2Flibraries%2Fsetting-up-an-nhs-account&data=05%7C02%7CCatherine.Lister%40walsall.gov.uk%7Cfb37de4460de49331a2f08dd0e0675d7%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638682143098417714%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=VZxuM8gLSic69D%2BTGNHyBY3p1qTqak1ynbg8Qn2RkYA%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/walsall-libraries/resources/get-support-use-nhs-app-or-nhs-account"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.nhs.uk%2F&data=05%7C02%7CCatherine.Lister%40walsall.gov.uk%7Cfb37de4460de49331a2f08dd0e0675d7%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638682143098488074%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=LWJrmdhc7vWzT0LKomYnXarUJ2Lv2V%2FxJYizYvIkNsE%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/walsall-libraries/resources/get-support-use-nhs-app-or-nhs-account"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdigital.nhs.uk%2Fservices%2Fnhs-app%2Ftoolkit%2Flibraries%2Fnhs-account-on-the-nhs-website-walk-through-videos&data=05%7C02%7CCatherine.Lister%40walsall.gov.uk%7Cfb37de4460de49331a2f08dd0e0675d7%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638682143098449327%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=PQUjP1J%2BPF0QUkXKUIUtg4vnzCf3Ym46A601wW0eCyQ%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/walsall-libraries/resources/get-support-use-nhs-app-or-nhs-account"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdigital.nhs.uk%2Fservices%2Fnhs-app%2Ftoolkit%2Fwalk-through-videos&data=05%7C02%7CCatherine.Lister%40walsall.gov.uk%7Cfb37de4460de49331a2f08dd0e0675d7%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638682143098471064%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=xNb%2Fl1drK8cQUixH2IAXTjLcnKcbMs4QZJXtIAtGlmY%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/walsall-libraries/resources/get-support-use-nhs-app-or-nhs-account"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpiftick.org.uk%2Fmembers%2Ftick-members%2F&data=05%7C02%7CCatherine.Lister%40walsall.gov.uk%7Cfb37de4460de49331a2f08dd0e0675d7%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638682143098503421%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=fMRnMOn0%2BRQwkqU3sHmSUtefgwMr2ExY3Yj28kFpKlg%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/walsall-libraries/resources/get-support-use-nhs-app-or-nhs-account"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 48,
+  "resources": 48,
+  "images": 48,
+  "standards": 24,
+  "security": 6,
+  "link-check": 48,
+  "alfa": 28,
+  "plain-language": 22,
+  "lighthouse": 5,
+  "third-party": 12,
+  "sustainability": 5,
+  "tech": 5,
+  "deprecated-html": 3,
+  "public-interest": 4
+ },
+ "tally": {
+  "ok": 48,
+  "blocked": 2,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-29T11:15:22.189Z"
+}
