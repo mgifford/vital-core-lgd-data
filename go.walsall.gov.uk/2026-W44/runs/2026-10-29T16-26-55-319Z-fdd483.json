@@ -1,0 +1,134 @@
+{
+ "runId": "2026-10-29T16-26-55-319Z-fdd483",
+ "week": "2026-W44",
+ "domain": "go.walsall.gov.uk",
+ "startedAt": "2026-10-29T16:26:56.161Z",
+ "scanned": [
+  "e912061e3d88a030",
+  "46308d0f115ee296",
+  "c3c712dd97dc244d",
+  "cdbf6e4c7aaf8cb9",
+  "c54a9a58e42d38e1",
+  "3bb480312a603912",
+  "b364966d55ba39e5",
+  "22e3ba0e20d6f048",
+  "734cd3774ac05689",
+  "661110477c73aab7",
+  "eece0327c311fb85",
+  "5cf70660861b4075",
+  "f151cb87f30738d2",
+  "7e74babe15652c09",
+  "0b5001f313635150",
+  "5101329455965f62",
+  "6b7c89b709642975",
+  "b08d394b8a888110",
+  "80767decf478f10d",
+  "a60da22db9c1b83d",
+  "2ed51ae9a8e9eaff",
+  "d319c4a4ea3c91cd",
+  "c06ed4a1ae77bd15",
+  "51607d498fb8f919",
+  "77d7691903028ccc",
+  "e9c6419c7197822c",
+  "d706681aa37b3551",
+  "8a6dbbe0e8d142b1",
+  "6cbcff64bc60d378",
+  "792a25e6cdfb404d",
+  "3ac8084eec563e30",
+  "3d4d1cecd5e3ac57",
+  "25da6f362eeee3f4",
+  "ff0f1563a427afa6",
+  "08ef4344996b4e38",
+  "a3be8b12cfab5e66",
+  "e2f485bc87f0e34e",
+  "91ac9a3cc6d34b9d",
+  "6d85ff0af8eceb02",
+  "c530e5221f1043e2",
+  "53182a0465be175a",
+  "e28f6044d27078ae",
+  "00a18c055cbac5c0",
+  "c6a0579b46096254",
+  "67fad37eb7bf13ba",
+  "be0428aaa96a8d72",
+  "e1d8dff75b52ca45",
+  "92fd922fe6b41c0b",
+  "edc0d2b7e710a567",
+  "657e79cc62247e36"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 425,
+  "checked": 425,
+  "brokenCount": 3,
+  "broken": [
+   {
+    "url": "https://wslc.walsall.gov.uk/leisurehub/identity/login?",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "http://go.walsall.gov.uk/events/pool-inflatable-fun-session-bloxwich-active-living-centre-7"
+    ]
+   },
+   {
+    "url": "https://wslc.walsall.gov.uk/leisurehub/identity/login",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "http://go.walsall.gov.uk/events/pool-inflatable-fun-session-oak-park-active-living-centre-10",
+     "http://go.walsall.gov.uk/sport-and-leisure/activities/parties"
+    ]
+   },
+   {
+    "url": "https://espws.necsws.com/ords/pwslive/call_initial_apex_page.nes_selfsrv?service=CAHOMEPAGE&la=WAL&language=ENG&options=HOME",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/council-tax/what-happens-if-you-do-not-pay-your-council-tax"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 49,
+  "plain-language": 22,
+  "resources": 49,
+  "images": 49,
+  "standards": 28,
+  "third-party": 12,
+  "lighthouse": 5,
+  "link-check": 49,
+  "alfa": 15,
+  "tech": 2,
+  "security": 9,
+  "sustainability": 3,
+  "public-interest": 3,
+  "deprecated-html": 4
+ },
+ "tally": {
+  "ok": 49,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-29T16:41:24.624Z"
+}
