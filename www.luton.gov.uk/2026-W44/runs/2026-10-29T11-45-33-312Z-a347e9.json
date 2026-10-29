@@ -1,0 +1,165 @@
+{
+ "runId": "2026-10-29T11-45-33-312Z-a347e9",
+ "week": "2026-W44",
+ "domain": "www.luton.gov.uk",
+ "startedAt": "2026-10-29T11:45:33.720Z",
+ "scanned": [
+  "f6d5358667e916f1",
+  "3328b814049c6eae",
+  "baa1893aaa3bb740",
+  "6d0a044cf6c03913",
+  "d60c5e27f7da9e5b",
+  "f105a65806e66882",
+  "b52302a0fa89905e",
+  "ed1da561bfb93def",
+  "aeb2eeffbad98579",
+  "597cfe84660c95a8",
+  "36916230a5176430",
+  "59de98c1fbaa803e",
+  "1c276befa0e2cbd7",
+  "443498283e509d31",
+  "85a1cd77404daafd",
+  "2684850044ab67e9",
+  "c91e0a9b8ffa0330",
+  "8ff00ec4c3eaf69b",
+  "a38c35d62bfb31dc",
+  "4db223fb0d8ffd0f",
+  "70cc7dd9208ca5e0",
+  "30129591bb1183c9",
+  "087e2a165664e542",
+  "d74b7fde539b237d",
+  "86ba257032f4e94f",
+  "c19ce19b96b93454",
+  "1242739e1fdcc283",
+  "7efff2f80ec33174",
+  "501cdc2ad77677ea",
+  "29793b65321ae95f",
+  "3f360567b88b7925",
+  "c63d04be63c772e7",
+  "bd7eefdef0ba3dda",
+  "69eda7a1b4c01e9c",
+  "b266840a548b7324",
+  "10c5eff20284b947",
+  "f94f06799658165a",
+  "589d63806376a950",
+  "c274e8153c49da7a",
+  "39d34b9449eaa165",
+  "31ca123e780acf60",
+  "5bb3150333124a81",
+  "f73e2bcf7c2aa2eb",
+  "ed59803038a753bb",
+  "01571c042ab78157",
+  "e208659d528739a9",
+  "60d2df1d5ac9dc16",
+  "44d8b1042b6427ce",
+  "cbe93965dc461702",
+  "e3b42ff0bd8fa8e3"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 473,
+  "checked": 473,
+  "brokenCount": 7,
+  "broken": [
+   {
+    "url": "https://www.food.gov.uk/business-guidance/registering-and-managing-a-food-business",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.luton.gov.uk/business-licences-permits/food-safety/businesses/food-safety-guidance-businesses/food-safety-guidance-home-bakers"
+    ]
+   },
+   {
+    "url": "https://www.food.gov.uk/business-guidance/allergen-guidance-for-industry",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.luton.gov.uk/business-licences-permits/food-safety/businesses/food-safety-guidance-businesses/food-safety-guidance-home-bakers"
+    ]
+   },
+   {
+    "url": "https://www.lealands.luton.sch.uk/page/?title=Admissions+%26amp%3B+Transition&pid=60",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://www.luton.gov.uk/schools-education/schools-colleges/appeals-policies-arrangements-schools/foundation-school-admission-policies"
+    ]
+   },
+   {
+    "url": "https://www.lutonacl.ac.uk/news-events/upcoming-community-job-fair--19891.html",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.luton.gov.uk/news/2025/find-your-next-step-our-job-fair"
+    ]
+   },
+   {
+    "url": "https://permits.paysmarti.co.uk/acct/luton",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.luton.gov.uk/parking-streets-transport/parking/step-by-step/resident-parking-permits-step-step/renew-your-resident-parking-permit"
+    ]
+   },
+   {
+    "url": "https://www.williamaustininfants.co.uk/",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/william-austin-infant-school"
+    ]
+   },
+   {
+    "url": "https://www.williamaustininfants.co.uk/admissions",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/william-austin-infant-school"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 50,
+  "plain-language": 26,
+  "resources": 50,
+  "images": 50,
+  "standards": 22,
+  "link-check": 50,
+  "third-party": 12,
+  "lighthouse": 6,
+  "security": 4,
+  "public-interest": 3,
+  "alfa": 24,
+  "deprecated-html": 6,
+  "sustainability": 6,
+  "tech": 6
+ },
+ "tally": {
+  "ok": 50,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-29T11:53:51.125Z"
+}
