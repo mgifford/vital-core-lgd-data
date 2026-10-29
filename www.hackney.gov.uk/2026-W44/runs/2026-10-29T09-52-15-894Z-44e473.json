@@ -1,0 +1,142 @@
+{
+ "runId": "2026-10-29T09-52-15-894Z-44e473",
+ "week": "2026-W44",
+ "domain": "www.hackney.gov.uk",
+ "startedAt": "2026-10-29T09:52:16.987Z",
+ "scanned": [
+  "ed62ad5eed1c606d",
+  "238d50523f7c1df5",
+  "144ad2a9ddeeff72",
+  "4549681f4a497713",
+  "5274774e35d0d9d2",
+  "c6b39dd57f16e7a3",
+  "be6342196a5ee387",
+  "acc4fde4a389e7ad",
+  "015617faf1168009",
+  "2dfaef16db4de62a",
+  "98824e04c1331847",
+  "cd42815229241675",
+  "2a1da162aab45313",
+  "330f583c3f6d2a30",
+  "157bfcd70484c841",
+  "8fb0814f83d98175",
+  "8dc6c095ee3b20cf",
+  "0ce6186e9ba4d878",
+  "81f48b7a0953e438",
+  "582f8b2f68e6ac4f",
+  "acf225a24cfa8ace",
+  "0d6f5014029cc55d",
+  "c375ba850f622195",
+  "bae63994e320aa18",
+  "f1ce027e2c4b6d8a",
+  "5766fd390a97e2e5",
+  "01547f35706f356b",
+  "61a20cb895a3ad59",
+  "7c63fe9a4bd06407",
+  "188d9ac0229e99d4",
+  "5643e4a08efae55d",
+  "ba9f9cb88e3fcab4",
+  "73e7d30c86e6311b",
+  "d87ec9203eb7f712",
+  "9b1f35e590947206",
+  "b679df7762f10e8d",
+  "791659fd6cbd67d7",
+  "d46a99fc24707846",
+  "577790966111316a",
+  "3f22d548abcc3bb5",
+  "3c1c7432e87bdc0c",
+  "692ea44871c8e9a2",
+  "cd446257d4b1c4f6",
+  "c2fb0f447b5ec1c6",
+  "e92713ae1077a637",
+  "ec5aba5045e2b975",
+  "a982987b8e7fe685",
+  "ab4af277442a382e",
+  "783e20044ce5dbd5",
+  "957e4001a4adb214"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 449,
+  "checked": 449,
+  "brokenCount": 4,
+  "broken": [
+   {
+    "url": "https://planningapps.hackney.gov.uk/planning/index.html",
+    "status": 406,
+    "reason": "HTTP 406",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/local-land-charges-search"
+    ]
+   },
+   {
+    "url": "https://www.hta.co.uk/services/planning",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/fellows-court-and-weymouth-court",
+     "https://hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/parkside-estate"
+    ]
+   },
+   {
+    "url": "https://developmentandhousing.hackney.gov.uk/registers/index.html?fa=enforcement_register",
+    "status": 406,
+    "reason": "HTTP 406",
+    "foundOn": [
+     "https://hackney.gov.uk/planning-and-building/planning-enforcement/planning-control-breaches"
+    ]
+   },
+   {
+    "url": "https://developmentandhousing.hackney.gov.uk/",
+    "status": 406,
+    "reason": "HTTP 406",
+    "foundOn": [
+     "https://hackney.gov.uk/planning-and-building/planning-enforcement/planning-control-breaches"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 50,
+  "alfa": 27,
+  "resources": 50,
+  "images": 50,
+  "standards": 26,
+  "link-check": 50,
+  "plain-language": 27,
+  "security": 5,
+  "third-party": 9,
+  "deprecated-html": 6,
+  "lighthouse": 5,
+  "public-interest": 6,
+  "tech": 3,
+  "sustainability": 5
+ },
+ "tally": {
+  "ok": 50,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-29T10:00:01.555Z"
+}
