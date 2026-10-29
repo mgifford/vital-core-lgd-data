@@ -1,0 +1,141 @@
+{
+ "runId": "2026-10-29T06-06-24-886Z-77b59a",
+ "week": "2026-W44",
+ "domain": "www.luton.gov.uk",
+ "startedAt": "2026-10-29T06:06:25.679Z",
+ "scanned": [
+  "a76e5e8afc0e255d",
+  "75933192ab7b089d",
+  "716452278bc2d887",
+  "86bfd38a80bb9cad",
+  "bd7ce0486a5d5bf4",
+  "174c28af81b6982c",
+  "d94ba0e3b938f3a8",
+  "1ec50922dc6571a8",
+  "46615d3ce6812d2c",
+  "f9f00dfd4deb0a6e",
+  "cdd4c1ce9b635a76",
+  "2b2772a892737357",
+  "3570ebf54f5e698b",
+  "3bce4503aba2ef2c",
+  "31ad59c87beb1975",
+  "7f22e47b45b86c6e",
+  "f2970781c8ac1d02",
+  "1e7aed8e41ab3590",
+  "606f77b2d43ed3a3",
+  "3bf9590c5baeb708",
+  "6f434b9cb830840b",
+  "882946bf27b9fee8",
+  "f8dc1427ec38e96b",
+  "40f4270594fdfa4a",
+  "3e2945547ce4036c",
+  "dc4bcf9a2039db61",
+  "d6ef43d66912d0e2",
+  "044975f498135f1e",
+  "53bcb18b347d8d87",
+  "0b13647f0adfcd42",
+  "1ba51f85b5667786",
+  "3825c6efdea17d6e",
+  "bed184ad8f13d586",
+  "9e08425883598f96",
+  "b1ea90bdbe6da8d1",
+  "98298bc88892d6bc",
+  "b8c14d28da1a447c",
+  "5f17188e8b6f125c",
+  "b68ba646157fd1fb",
+  "72c75242cf12be95",
+  "17050885b515d7f6",
+  "d5b50aa0d7e1c7b1",
+  "6dcfe1f461fb489b",
+  "1eacdd98b4eb887b",
+  "1ea8caa136877bdd",
+  "ea0064b5891653a7",
+  "fccedd9d149b6d6a",
+  "a8f37d1745d49707",
+  "32036ed86e2f144f",
+  "c389b571c41a05e0"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 386,
+  "checked": 386,
+  "brokenCount": 4,
+  "broken": [
+   {
+    "url": "https://www.putteridgeprimaryschool.org.uk/",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/putteridge-primary-school"
+    ]
+   },
+   {
+    "url": "https://www.putteridgeprimaryschool.org.uk/page/?title=School+Admission+Arrangements&pid=40",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/putteridge-primary-school"
+    ]
+   },
+   {
+    "url": "https://www.luton.gov.uk/node/3128",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.luton.gov.uk/council-elections/strategies-policies-plans/corporate-complaints-policy"
+    ]
+   },
+   {
+    "url": "https://www.luton.gov.uk/Health_and_social_care/Lists/LutonDocuments/Word/Falls-prevention-self-assessment.docx",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.luton.gov.uk/health-social-care/health/public-health/preventing-falls"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 50,
+  "alfa": 24,
+  "plain-language": 30,
+  "resources": 50,
+  "images": 50,
+  "link-check": 50,
+  "standards": 21,
+  "third-party": 15,
+  "lighthouse": 6,
+  "sustainability": 5,
+  "security": 4,
+  "tech": 2,
+  "deprecated-html": 2,
+  "public-interest": 3
+ },
+ "tally": {
+  "ok": 50,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-29T06:13:32.516Z"
+}
