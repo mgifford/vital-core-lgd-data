@@ -1,0 +1,141 @@
+{
+ "runId": "2026-10-29T11-45-42-778Z-b843ed",
+ "week": "2026-W44",
+ "domain": "www.hackney.gov.uk",
+ "startedAt": "2026-10-29T11:45:43.154Z",
+ "scanned": [
+  "6d987a7cfa658649",
+  "45f7fa9e26d5a57e",
+  "bba59e269b12f0c6",
+  "32748516f3fb0075",
+  "3f7a6c577e154060",
+  "f5b3bf90c4ca6ac1",
+  "8faf575905788d79",
+  "ff059b8b388b16e1",
+  "eb31490b057f58a0",
+  "80455bde6ad61a5d",
+  "7b48943f16cd08ae",
+  "e6efe372cdf83f64",
+  "17b80fd52307d3bd",
+  "0cbda42b154ee6b2",
+  "31200e87c94c3c96",
+  "0e8285124fbd0e70",
+  "fe71742eac7cbf62",
+  "55024c3f4c28e755",
+  "06316e3e9cb42f73",
+  "0e53c892e9ff6727",
+  "fab44897bda3fee1",
+  "1a9084bf9298132f",
+  "a1e60b6b40641e18",
+  "f5e4fd9c9833301e",
+  "510aa0bb1857c40b",
+  "6c46d6c9a8f14fa6",
+  "974032f712628b3e",
+  "41f5fd387e76c0c9",
+  "4c0f451efbf80d57",
+  "0ca54aab6b112a84",
+  "9975f38785d0ea30",
+  "7af9d54f75c29140",
+  "b1a4e100f2e00833",
+  "f609962f49ce9a99",
+  "915c47d979f8edf5",
+  "73abcb925aed28ea",
+  "8798b43011f76ee9",
+  "6eb0ef7bae73c0b5",
+  "21eb84bac9287c5c",
+  "fc904fec5b78ec78",
+  "fa60cc0b59f249cf",
+  "f6c59465db4850e5",
+  "453acd938ab1a329",
+  "9e5b4f65e41b21bc",
+  "fd56186fe5b77d14",
+  "92343b9ee44e337b",
+  "c9765269ea9e987e",
+  "b2752a78932cef3e",
+  "8a5bad656dda4e94",
+  "d0905f4cb2870b95"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 745,
+  "checked": 500,
+  "brokenCount": 4,
+  "broken": [
+   {
+    "url": "https://www.specialguardiansnorthlondon.co.uk/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/children-and-families/fostering/hackney-kinship-care-local-offer"
+    ]
+   },
+   {
+    "url": "https://www.chatworkshackney.co.uk/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/children-and-families/fostering/hackney-kinship-care-local-offer"
+    ]
+   },
+   {
+    "url": "https://onedigital.hackney.gov.uk/publicaccesslive/selfservice/citizenportal/registration.htm?_flowId=citizenportal%2Fregistration&_flowExecutionKey=e1s1",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://hackney.gov.uk/council-tax-and-benefits/benefits/view-your-housing-benefit-and-council-tax-reduction-account"
+    ]
+   },
+   {
+    "url": "https://www.hta.co.uk/services/planning",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/clapton-park"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 50,
+  "plain-language": 26,
+  "resources": 50,
+  "images": 50,
+  "link-check": 50,
+  "alfa": 23,
+  "standards": 24,
+  "tech": 4,
+  "third-party": 11,
+  "deprecated-html": 5,
+  "sustainability": 7,
+  "public-interest": 6,
+  "security": 4,
+  "lighthouse": 3
+ },
+ "tally": {
+  "ok": 50,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-29T11:53:41.667Z"
+}
