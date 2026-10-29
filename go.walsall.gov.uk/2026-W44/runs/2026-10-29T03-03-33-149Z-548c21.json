@@ -1,0 +1,157 @@
+{
+ "runId": "2026-10-29T03-03-33-149Z-548c21",
+ "week": "2026-W44",
+ "domain": "go.walsall.gov.uk",
+ "startedAt": "2026-10-29T03:03:33.757Z",
+ "scanned": [
+  "7996ef44b17c7139",
+  "6a45bb91a4c1a32f",
+  "8b7e7fd508aa13b0",
+  "33de1297a6dd91c9",
+  "73c2ccd3b018bd2d",
+  "ee27432f65860daf",
+  "d8fad30dc9d72e8b",
+  "9f698421103276bb",
+  "c8e9628b0e68f23f",
+  "a9168d25db6b92a0",
+  "36ae8605ab7e18d1",
+  "f1e83522e08c5dba",
+  "85ff8b17ec0d127a",
+  "ba9cd481cd113449",
+  "914c955c34e03b35",
+  "855703b6841f3311",
+  "78546ed69e628015",
+  "09abcd316ae802b5",
+  "ce9057526bd727b9",
+  "e6b032fdafd42a57",
+  "945666fe38c5fac4",
+  "0a8d85487634c0b8",
+  "cfb4dc4757a9e25d",
+  "3bf2fd2be1e0bf68",
+  "dfc7b210d263c100",
+  "64007015eeb15f36",
+  "b5a4df95a225e1fb",
+  "f07bd8c26955b1a3",
+  "ead7fbac660f5187",
+  "b12ec7b3fb8db3bb",
+  "75bffd7969dc073c",
+  "5f616e980c3fffde",
+  "d743944bb29b54af",
+  "bdfa8f804112aa90",
+  "afa62d9786539a3c",
+  "23d18b00199cd95f",
+  "1729be5cffa3ebde",
+  "9135ded1ac263b29",
+  "b6070b0acae7e513",
+  "d9428a41ce69c96f",
+  "6c99105ba7027599",
+  "8162cff947e9eb55",
+  "46b6a0a5664d3330",
+  "fb796c1c40bedb66",
+  "901d2febeccbcb41",
+  "1b4a6fa598d96bd5",
+  "8db8de0e4bfdd9a3",
+  "d2f49c907e55c953",
+  "e528b3a37952eba8",
+  "f5d027e1a7ba0cde"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 333,
+  "checked": 333,
+  "brokenCount": 6,
+  "broken": [
+   {
+    "url": "https://myaccount.walsall.gov.uk/assisted-bin/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/myaccount-online-services/ask-assisted-bin-collection"
+    ]
+   },
+   {
+    "url": "https://www.ymcabc.org.uk/our-services/support-advice/small-street/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/people-and-communities/walsall-connected-get-help-get-online"
+    ]
+   },
+   {
+    "url": "https://manorfarmca.com/contact.php",
+    "status": 400,
+    "reason": "HTTP 400",
+    "foundOn": [
+     "https://go.walsall.gov.uk/people-and-communities/walsall-connected-get-help-get-online"
+    ]
+   },
+   {
+    "url": "https://nashdomcic.org/",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "https://go.walsall.gov.uk/people-and-communities/walsall-connected-get-help-get-online"
+    ]
+   },
+   {
+    "url": "https://apply-for-attendance-allowance.dwp.gov.uk/attall-apply-ui/claim-type",
+    "status": 503,
+    "reason": "HTTP 503",
+    "foundOn": [
+     "http://go.walsall.gov.uk/benefits/extra-help-you-may-be-able-get"
+    ]
+   },
+   {
+    "url": "https://espws.necsws.com/ords/pwslive/call_initial_apex_page.nes_selfsrv?service=CAHOMEPAGE&la=WAL&language=ENG&options=HOME",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "http://go.walsall.gov.uk/benefits/extra-help-you-may-be-able-get"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "sustainability": 6,
+  "axe": 50,
+  "resources": 50,
+  "images": 50,
+  "tech": 4,
+  "link-check": 50,
+  "plain-language": 30,
+  "standards": 13,
+  "alfa": 22,
+  "third-party": 18,
+  "deprecated-html": 7,
+  "security": 3,
+  "lighthouse": 8,
+  "public-interest": 6
+ },
+ "tally": {
+  "ok": 50,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-29T03:21:10.491Z"
+}
