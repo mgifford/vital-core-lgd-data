@@ -1,0 +1,157 @@
+{
+ "runId": "2026-10-29T03-06-01-112Z-8fad57",
+ "week": "2026-W44",
+ "domain": "www.luton.gov.uk",
+ "startedAt": "2026-10-29T03:06:03.736Z",
+ "scanned": [
+  "0a3e480762a06afa",
+  "3e71ab49fa2b98fb",
+  "c8d78c77a73305f8",
+  "b2e1eb46e7bbc525",
+  "486fa8f00c819155",
+  "c992ada656494e7b",
+  "fb5f82311f7b718d",
+  "fdda743bebee7b64",
+  "c182533bcc257a8f",
+  "c1a88995d9c52dd1",
+  "8a1a4f6b56d07ec6",
+  "20a54d4760e08021",
+  "865eb90805274b5d",
+  "3a53249094301bd8",
+  "26f83a5c6f66d3e9",
+  "be147bba319bda4d",
+  "b7b6f307c10dd4d5",
+  "b9f1e81fe0ca20d3",
+  "c80bc0658bf4d8e5",
+  "c9a095018a45385c",
+  "1e606b6755895dde",
+  "d2de80344bb20b8e",
+  "35ccb5adf2727e80",
+  "d227e31345fd1804",
+  "1bea396fdc06efbf",
+  "371394f3becbdcd7",
+  "68e3305592364b4f",
+  "41344a1820acf382",
+  "3bf1f58de14f8df2",
+  "d6734e39351926e8",
+  "d1836962177fa38d",
+  "8c7fbbf9c896b5a2",
+  "70c576d52330e5d6",
+  "2dba853dd6397279",
+  "2c93f8b41dd7c053",
+  "867c1336c4512916",
+  "8225d186f57b12b2",
+  "5a68faac88f0f1df",
+  "a7119bc6234b22df",
+  "71cf5a4ece034a8b",
+  "1335c5cb8b4839fd",
+  "258071b74a0517e0",
+  "a40848e50f1c565a",
+  "92efe669968f843f",
+  "1464c04a1ab64847",
+  "25d638de81f10509",
+  "1ead67cb4a9d1996",
+  "56c931bd0881a38d",
+  "5a7a1b0dbd3caff4",
+  "c740d7219dae8464"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 437,
+  "checked": 437,
+  "brokenCount": 6,
+  "broken": [
+   {
+    "url": "https://www.food.gov.uk/business-guidance/registering-and-managing-a-food-business",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.luton.gov.uk/business-licences-permits/food-safety/businesses/food-safety-guidance-businesses/food-safety-guidance-retailers"
+    ]
+   },
+   {
+    "url": "https://www.food.gov.uk/business-guidance/allergen-guidance-for-industry",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.luton.gov.uk/business-licences-permits/food-safety/businesses/food-safety-guidance-businesses/food-safety-guidance-retailers"
+    ]
+   },
+   {
+    "url": "https://permits.paysmarti.co.uk/login/luton/?wtrealm=https%3A%2F%2Fpermits.paysmarti.co.uk%2Flogin%2Fluton%2F&wctx=WsFedOwinState%3DoWP0_BAj4G2_rnli4uRugTQyrm-xDCz2lfIZ5Xxb8HYXF0IXvfoCO6rN8msobo8Rv55y1Dy80coodtCb1aWCVsnllW8oAU0Xk1SvtQ_3rYK86yinOEk436Jlf7MRV9I_pwOKCf3wLpA40aUVXXw_-w&wa=wsignin1.0&wreply=acct",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.luton.gov.uk/parking-streets-transport/parking/parking-traffic-restrictions/school-streets-traffic-exclusion-zones"
+    ]
+   },
+   {
+    "url": "https://www.luton.gov.uk/node/1492",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.luton.gov.uk/council-elections/property-assets"
+    ]
+   },
+   {
+    "url": "https://www.registertovote.service.gov.uk/privacy",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.luton.gov.uk/council-elections/finance-data-performance/data-protection-privacy-information-requests/privacy-notices/electoral-registration-privacy-notice"
+    ]
+   },
+   {
+    "url": "https://nationalcareers.service.gov.uk/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.luton.gov.uk/jobs-careers/help-finding-job-luton/where-look-jobs"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 50,
+  "alfa": 20,
+  "resources": 50,
+  "images": 50,
+  "public-interest": 5,
+  "lighthouse": 6,
+  "link-check": 50,
+  "sustainability": 4,
+  "third-party": 15,
+  "standards": 29,
+  "plain-language": 24,
+  "tech": 8,
+  "security": 8,
+  "deprecated-html": 4
+ },
+ "tally": {
+  "ok": 50,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-29T03:13:02.029Z"
+}
