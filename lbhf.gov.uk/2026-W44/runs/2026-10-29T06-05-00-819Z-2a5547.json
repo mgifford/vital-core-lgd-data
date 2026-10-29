@@ -1,0 +1,161 @@
+{
+ "runId": "2026-10-29T06-05-00-819Z-2a5547",
+ "week": "2026-W44",
+ "domain": "lbhf.gov.uk",
+ "startedAt": "2026-10-29T06:05:03.730Z",
+ "scanned": [
+  "c7094284311d0ad5",
+  "e173b6e618711775",
+  "a7a5cf54a096af0b",
+  "6278459ed4600b0f",
+  "b90700b4e5f8a36e",
+  "3deb5311e3f26f8f",
+  "77512fd131f1433b",
+  "8070b813f184cc00",
+  "8827471916245ece",
+  "3e4c5e44693628bd",
+  "b7e3acd7d84c294e",
+  "325112ac9bf9b391",
+  "0de8ff7d10e5b7d5",
+  "cfa2f38e368e64d6",
+  "2600be5041d711aa",
+  "873b97087dce748d",
+  "5b2deb3be052dc49",
+  "d60547441a757e9b",
+  "bdc2422cd2fc5190",
+  "8a67b9433c715938",
+  "b1793fdcfc47e97f",
+  "994a47c41ad17d9a",
+  "da52e62abbc54635",
+  "c8ecb5fd6373a85c",
+  "1b24bf1579c1dbbe",
+  "e1abf971b4168c09",
+  "a0b49d6c389f787c",
+  "f78c16bd972d5a7c",
+  "18e5b2064848627e",
+  "3d200d7fcc1f4f1e",
+  "56ba833d430d880a",
+  "a66a1cca554f2a4a",
+  "f9d714c8f944a8b3",
+  "38e19df52652abc5",
+  "25b17c4873c5edbb",
+  "95b0feb7eaabed86",
+  "a87c166a477a2ea2",
+  "35d1d87d376e0808",
+  "11edbf3ab1b42f49",
+  "015fca90bbeaf559",
+  "94922d94d934136e"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 1327,
+  "checked": 500,
+  "brokenCount": 8,
+  "broken": [
+   {
+    "url": "https://admaxmedia.io/privacy-policy/",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://lbhf.gov.uk/benefits"
+    ]
+   },
+   {
+    "url": "https://adttribution.com/privacy-policy.php",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://lbhf.gov.uk/benefits"
+    ]
+   },
+   {
+    "url": "https://insights.appsamurai.com/offerwall-privacy-policy",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://lbhf.gov.uk/benefits"
+    ]
+   },
+   {
+    "url": "https://www.adyoulike.com/pages/privacy_en.php",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://lbhf.gov.uk/benefits"
+    ]
+   },
+   {
+    "url": "https://go.pl/polityka-prywatnosci/",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "https://lbhf.gov.uk/benefits"
+    ]
+   },
+   {
+    "url": "https://www.ninedollars.tv/privacy-policy",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://lbhf.gov.uk/benefits"
+    ]
+   },
+   {
+    "url": "https://www.ninedollars.tv/legitimateinterests",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://lbhf.gov.uk/benefits"
+    ]
+   },
+   {
+    "url": "https://evorra.com/product-privacy-policy/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://lbhf.gov.uk/benefits"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "sustainability": 3,
+  "axe": 1,
+  "alfa": 1,
+  "plain-language": 1,
+  "resources": 1,
+  "images": 1,
+  "standards": 1,
+  "public-interest": 1,
+  "third-party": 1,
+  "lighthouse": 1,
+  "link-check": 1
+ },
+ "tally": {
+  "ok": 1,
+  "blocked": 40,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-29T06:11:19.990Z"
+}
