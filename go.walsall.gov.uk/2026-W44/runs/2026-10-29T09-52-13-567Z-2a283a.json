@@ -1,0 +1,317 @@
+{
+ "runId": "2026-10-29T09-52-13-567Z-2a283a",
+ "week": "2026-W44",
+ "domain": "go.walsall.gov.uk",
+ "startedAt": "2026-10-29T09:52:13.993Z",
+ "scanned": [
+  "23824805ad85b522",
+  "5e636e940f61f491",
+  "1cf57d4218fd7d04",
+  "a11670d77d036721",
+  "6f6bc72ece8d2b18",
+  "c8e960845a2a2606",
+  "fbde1f6d9d24fd85",
+  "a44ec441aca83339",
+  "2ce088c512b00f98",
+  "86201b11acbe7db1",
+  "5adcbe0d314a4bd7",
+  "62aca76c23562acd",
+  "625d5b22c26fef5f",
+  "94308f4e87e998d1",
+  "cea1b61645e69ba7",
+  "8a916a067e630e77",
+  "9bd27acb85504c05",
+  "e8364f9dd4f945e8",
+  "13146c9f37e5e46e",
+  "37583ee746715e4c",
+  "39013352f07f2599",
+  "136aaf96246b196e",
+  "2a74767c92a964bc",
+  "f2698e9c223f74b5",
+  "833d331fe1644f42",
+  "3e14e0df41e90550",
+  "960a75e0a666c3b7",
+  "e18486bc84273614",
+  "68c8e7367bb4de0a",
+  "2af0944914b1f743",
+  "6e332e7879596934",
+  "18f1a760475a5d8a",
+  "0ae81cd840f84727",
+  "5b3c0a5522d011f4",
+  "0533b60820a00e4a",
+  "14cd228ce9bc6a55",
+  "fa9e1ca92be36b36",
+  "b72ce0507dfac150",
+  "2da5f2ba29e05927",
+  "25b7e1a70f3af1ce",
+  "0eeef6825f68402d",
+  "74ad643de6351893",
+  "a2c2d9232b2a6914",
+  "301c6a5a4f280fae",
+  "f5df0d330927e585",
+  "b3e797b02a1795eb",
+  "2add7d709b51c8d3",
+  "feb3c5c0783ff81c",
+  "45f4a08831446348",
+  "2d3476213f95341b"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 350,
+  "checked": 350,
+  "brokenCount": 26,
+  "broken": [
+   {
+    "url": "https://myaccount.walsall.gov.uk/bulky-waste/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "http://go.walsall.gov.uk/bins/find-household-waste-recycling-centres-tips/fryers-road-household-waste-recycling-centre"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.walsall.gov.uk%2Fbusiness%2Ftrading-standards&data=05%7C02%7CRajvinder.Bains%40walsall.gov.uk%7Cd04eda21a9714048a09208de7541576e%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639077120675512900%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=tvo%2BF8ezRxZlWwmthM1pzCHVb4qvB5h3D2jLXJQOo1Y%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/walsall-trading-standards-ensures-road-safety-and-borough-wide-weighbridge-inspection"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fonline1.snapsurveys.com%2Fmaker-fest-2025&data=05%7C02%7CAnnabel.Clarke%40walsall.gov.uk%7C0f3b1e0bffaf4c7cbccb08dda995cf75%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638853183078996507%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=BsvK2Mr7mhNPYM4ffrlPJpaV4GdTFQlMq9lr%2F0GpGZc%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/call-makers-be-part-second-walsall-makerfest"
+    ]
+   },
+   {
+    "url": "https://espws.necsws.com/ords/pwslive/call_initial_apex_page.nes_selfsrv?service=CAR&la=WAL&language=ENG&options=BR",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/contact-walsall-council"
+    ]
+   },
+   {
+    "url": "https://espws.necsws.com/ords/pwslive/call_initial_apex_page.nes_selfsrv?service=CAR&la=WAL&language=ENG&options=CT",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/contact-walsall-council"
+    ]
+   },
+   {
+    "url": "https://walsallsp.co.uk/contact-us/concerned-about-an-adult/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/contact-walsall-council"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Faainahub.com%2F&data=05%7C01%7CNatasha.Mann%40walsall.gov.uk%7Cb728127f201c4b2376a708daa78e865c%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638006527818573176%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=htQKXW18aYX2cmpvqCf31hdCZATuji%2FPfDDZP%2BOcGuk%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/walsall-connected-launches-through-community-partners-across-borough"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.ymcabc.org.uk%2Fcontact-us%2F&data=05%7C01%7CNatasha.Mann%40walsall.gov.uk%7Cb728127f201c4b2376a708daa78e865c%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638006527818573176%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=%2BcWQyXKqrs8fUhrvqhRWTYsCcqTHJCIPCwHQu%2FEABtY%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/walsall-connected-launches-through-community-partners-across-borough"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fbloxwichcp.co.uk%2F&data=05%7C01%7CNatasha.Mann%40walsall.gov.uk%7Cb728127f201c4b2376a708daa78e865c%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638006527818573176%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=vuWMog9OwCXoejZhU0W%2FnP73uOyVqOxhxGouM4NQ0%2BU%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/walsall-connected-launches-through-community-partners-across-borough"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.brownhillsca.org.uk%2F%23%3A~%3Atext%3DContact%2520Us%250A%250ABrownhills%2520Community%2520Centre%250AChester%2520Road%2520North%250ABrownhills%250AWalsall%250AWS8%25207JS%250A%250APhone%253A%252001543%2520452%2520119%250AEmail%253A%2520info%2540brownhillsca.org.uk&data=05%7C01%7CNatasha.Mann%40walsall.gov.uk%7Cb728127f201c4b2376a708daa78e865c%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638006527818573176%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=n2fmYsjAgRxmL94ozYlj9vBg3Iop9DG1ggoiEXUFLZs%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/walsall-connected-launches-through-community-partners-across-borough"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fffhca.org.uk%2Fthe-hive-community-hub%2F&data=05%7C01%7CNatasha.Mann%40walsall.gov.uk%7Cb728127f201c4b2376a708daa78e865c%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638006527818573176%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=kJT%2BaNoDaF2LK3EvBVUmQX8dPse1F5vwOjbNALNtdk0%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/walsall-connected-launches-through-community-partners-across-borough"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fffhca.org.uk%2Fbeechdale-lifelong-learning-centre%2F&data=05%7C01%7CNatasha.Mann%40walsall.gov.uk%7Cb728127f201c4b2376a708daa78e865c%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638006527818573176%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=mC3WWdwk5gkjAMv3BFkO9q1MS6PcE6HTtV9vfsqvMRI%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/walsall-connected-launches-through-community-partners-across-borough"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.collingwoodcommunitycentre.co.uk%2F&data=05%7C01%7CNatasha.Mann%40walsall.gov.uk%7Cb728127f201c4b2376a708daa78e865c%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638006527818573176%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=tJzYC6VbjZ5DTjuG6WzpCJhqUv7l%2BtYA%2F05jLbIt300%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/walsall-connected-launches-through-community-partners-across-borough"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmanorfarmca.com%2Fcontact.php&data=05%7C01%7CNatasha.Mann%40walsall.gov.uk%7Cb728127f201c4b2376a708daa78e865c%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638006527818573176%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=zOd7FaohRGlLjIE4cZuA2CvmL4YOZtpCOCUPVgaHQfU%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/walsall-connected-launches-through-community-partners-across-borough"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmoxleypeoplescentre.org.uk%2F&data=05%7C01%7CNatasha.Mann%40walsall.gov.uk%7Cb728127f201c4b2376a708daa78e865c%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638006527818729429%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=m2k9dbtEiD5zEM2aVCYi%2Fgj7PbG6%2FVk%2FzBRbLW8bH7g%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/walsall-connected-launches-through-community-partners-across-borough"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fthemindkindprojects.com%2Fcontact-us%2F&data=05%7C01%7CNatasha.Mann%40walsall.gov.uk%7Cb728127f201c4b2376a708daa78e865c%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638006527818573176%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=1Dyhf5lv1LizMh0ZP7SgLchVcN7JzIqQMCrbqEz4nSU%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/walsall-connected-launches-through-community-partners-across-borough"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fnashdomcic.org%2F&data=05%7C01%7CNatasha.Mann%40walsall.gov.uk%7Cb728127f201c4b2376a708daa78e865c%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638006527818729429%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=j6LIGYZ%2BLnTHq8VAbH7xgY5HJM27iUN6LQOo9Qubu%2BU%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/walsall-connected-launches-through-community-partners-across-borough"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.pelsallcommunitycentre.co.uk%2F&data=05%7C01%7CNatasha.Mann%40walsall.gov.uk%7Cb728127f201c4b2376a708daa78e865c%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638006527818729429%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=Tc%2BfSEMI%2FKRpdFKvvLDX7oYPY4GXr3afvnzBn3EDAaY%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/walsall-connected-launches-through-community-partners-across-borough"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fohpp.org.uk%2Fcontact%23%3A~%3Atext%3DThe%2520Peoples%250APartnership%2CWalsall%252C%2520WS2%25200LS&data=05%7C01%7CNatasha.Mann%40walsall.gov.uk%7Cb728127f201c4b2376a708daa78e865c%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638006527818729429%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=xaHIlQszm5Q8Hps%2BditPp06Ac1XDUqk%2BCcpJp0IUAns%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/walsall-connected-launches-through-community-partners-across-borough"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Frmcentre.org.uk%2F&data=05%7C01%7CNatasha.Mann%40walsall.gov.uk%7Cb728127f201c4b2376a708daa78e865c%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638006527818729429%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=yhtZKEgK2slKRKh22b1L9PJ6Ay7jiuOxGdHQO4j5Gk0%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/walsall-connected-launches-through-community-partners-across-borough"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fen-gb.facebook.com%2Fgroups%2F1859893344276082%2F&data=05%7C01%7CNatasha.Mann%40walsall.gov.uk%7Cb728127f201c4b2376a708daa78e865c%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638006527818729429%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=nNdTOlZ5Rf6iempXw75nNh2oufsxi9ROvDkVcyY3ni0%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/walsall-connected-launches-through-community-partners-across-borough"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsites.google.com%2Fa%2Fryecroftnrc.org%2Fhub3%2F&data=05%7C01%7CNatasha.Mann%40walsall.gov.uk%7Cb728127f201c4b2376a708daa78e865c%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638006527818729429%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=PITaCRn2Oo%2BONbwBM3JovfidG43DHgaNCfKuuSb40Dg%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/walsall-connected-launches-through-community-partners-across-borough"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.walsallbsc.co.uk%2F%23%3A~%3Atext%3DCONTACT%2520US-%2CCONTACT%2CTel%252001922%2520616%2520996%250AFax%252001922%2520725%2520078%2C-PROJECTS&data=05%7C01%7CNatasha.Mann%40walsall.gov.uk%7Cb728127f201c4b2376a708daa78e865c%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638006527818729429%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=qBDubyWfP4ErfFHhNmPcqcWGp0CEbwsjgZ9nPE9Cfsk%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/walsall-connected-launches-through-community-partners-across-borough"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwillenhallchart.co.uk%2F&data=05%7C01%7CNatasha.Mann%40walsall.gov.uk%7Cb728127f201c4b2376a708daa78e865c%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638006527818729429%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=cUkPuQ3BHvSCHUid6rrEN9OMqz%2FLb6ZAiKclciBG%2F2s%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "http://go.walsall.gov.uk/newsroom/walsall-connected-launches-through-community-partners-across-borough"
+    ]
+   },
+   {
+    "url": "https://noapws.necsws.com/ords/pwslive/call_initial_apex_page.noa_selfsrv?service=CAL&la=WAL&language=ENG",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://go.walsall.gov.uk/contact-walsall-council"
+    ]
+   },
+   {
+    "url": "https://www.metoffice.gov.uk/weather/warnings-and-advice/seasonal-advice/your-home/protecting-your-property-from-flooding",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "http://go.walsall.gov.uk/roads-parking-and-travel/flooding-and-drainage/flooding-advice"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 49,
+  "plain-language": 23,
+  "resources": 49,
+  "images": 49,
+  "standards": 23,
+  "tech": 4,
+  "link-check": 49,
+  "alfa": 25,
+  "deprecated-html": 1,
+  "sustainability": 9,
+  "third-party": 15,
+  "public-interest": 4,
+  "security": 8,
+  "lighthouse": 5
+ },
+ "tally": {
+  "ok": 49,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-29T10:08:46.666Z"
+}
