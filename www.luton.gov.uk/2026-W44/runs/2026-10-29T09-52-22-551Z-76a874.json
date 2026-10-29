@@ -1,0 +1,165 @@
+{
+ "runId": "2026-10-29T09-52-22-551Z-76a874",
+ "week": "2026-W44",
+ "domain": "www.luton.gov.uk",
+ "startedAt": "2026-10-29T09:52:23.072Z",
+ "scanned": [
+  "c9548bceaf779149",
+  "4b73a0f2cad34115",
+  "fb8feef107ad1d14",
+  "393922730ad58b5a",
+  "570fa5f9b023e1f0",
+  "7e28c2aa95049bf9",
+  "f8f18cd8455c0414",
+  "08c76b6d0ad02e3f",
+  "f664aca1754d9640",
+  "847c6f1b5179d480",
+  "97851844d2309fba",
+  "4c112b3efd05fbe5",
+  "cbc4429c354ff0de",
+  "0ee74234607d1a9e",
+  "b634c6a54e52a3ef",
+  "6c0e027aaae4eac3",
+  "9be99d21b3603ffa",
+  "144a6fee2cea8c77",
+  "30a21c70eef3ab8b",
+  "d81225f48b4f839b",
+  "0d3606af64436eb4",
+  "e707096ba76cb7e3",
+  "430a91fd80df3d10",
+  "47a0fc07e9ad7b05",
+  "f13db5c5da9576c5",
+  "b7218ed73611b481",
+  "4bd85a48d0a56cfe",
+  "5840c3c6ccc9c587",
+  "d96097ca805d42fd",
+  "8414b24f39059212",
+  "4da0ac4a39e7833b",
+  "3ee7d647e237aad0",
+  "68a62b027b32c420",
+  "f8536ff54788b8ce",
+  "cff0795bde5dce0f",
+  "2f8911822295ff42",
+  "82730c7a084c1760",
+  "326f288c33ad0cc5",
+  "061bdb16025e7431",
+  "499d0f23103262fa",
+  "416514187998a1c5",
+  "acf02b0df6167108",
+  "d28c1ee2d887047d",
+  "dce1abdfd58679e1",
+  "bee251954e040053",
+  "0841d6f708afe673",
+  "af449a5a76f498cf",
+  "b4ecadac8d7f8b05",
+  "1b22942ddba4bb1c",
+  "5c64260433972509"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 502,
+  "checked": 500,
+  "brokenCount": 7,
+  "broken": [
+   {
+    "url": "https://www.luton.gov.uk/Page/Show/Health_and_social_care/adult_social_care/policies_and_feedback/Pages/The-Care-Act.aspx",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.luton.gov.uk/health-social-care/adult-social-care/eligibility-assessments-care-support/your-assessment-care-needs"
+    ]
+   },
+   {
+    "url": "https://socialcare.luton.gov.uk/",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.luton.gov.uk/health-social-care/adult-social-care/eligibility-assessments-care-support/your-assessment-care-needs"
+    ]
+   },
+   {
+    "url": "https://socialcare.luton.gov.uk/web/portal/pages/homecarer",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.luton.gov.uk/health-social-care/adult-social-care/eligibility-assessments-care-support/your-assessment-care-needs"
+    ]
+   },
+   {
+    "url": "https://socialcare.luton.gov.uk/web/portal/pages/preofa",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.luton.gov.uk/health-social-care/adult-social-care/eligibility-assessments-care-support/your-assessment-care-needs"
+    ]
+   },
+   {
+    "url": "https://www.luton.gov.uk/Leisure_and_culture/Lists/LutonDocuments/PDF/Arts%20and%20cultural/harnessing-momentum.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.luton.gov.uk/news/2025/luton-arts-programme-set-transform-towns-cultural-landscape"
+    ]
+   },
+   {
+    "url": "https://lutonarts.co.uk/application-hub/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.luton.gov.uk/news/2025/luton-arts-programme-set-transform-towns-cultural-landscape"
+    ]
+   },
+   {
+    "url": "https://www.luton.gov.uk/Council_government_and_democracy/Lists/LutonDocuments/PDF/black-unsung-heroes-awards-2024.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.luton.gov.uk/news/2025/council-makes-important-strides-workforce-diversity"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 50,
+  "resources": 50,
+  "images": 50,
+  "link-check": 50,
+  "alfa": 21,
+  "standards": 23,
+  "plain-language": 26,
+  "tech": 7,
+  "security": 5,
+  "sustainability": 7,
+  "third-party": 14,
+  "deprecated-html": 6,
+  "public-interest": 7,
+  "lighthouse": 4
+ },
+ "tally": {
+  "ok": 50,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-29T10:00:05.380Z"
+}
