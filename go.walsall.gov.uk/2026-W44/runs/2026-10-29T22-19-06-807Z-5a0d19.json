@@ -1,0 +1,175 @@
+{
+ "runId": "2026-10-29T22-19-06-807Z-5a0d19",
+ "week": "2026-W44",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-10-29T22:19:07.543Z",
+ "scanned": [
+  "5e9572bac6369d12",
+  "9449f958a4dd8a4c",
+  "4dd300506ed430b0",
+  "35585cbff677b72b",
+  "bdebb6b4e2fcbf77",
+  "f83361cb36139af5",
+  "2894680ab8ea98f2",
+  "8806f906273365be",
+  "32b01fe3d9f15d3b",
+  "d0b41ce2393a9ef0",
+  "00a8f985bed722e3",
+  "3063ad349deac78e",
+  "53c96e61a56d3032",
+  "0e0577297c710a1e",
+  "2f54faf805e52362",
+  "8d713f731411102b",
+  "a4e9b29df458493f",
+  "0dc1e0f824aecf03",
+  "21b6ed2d583e5f0b",
+  "e7db857b819cf074",
+  "f7804feee9e8d83f",
+  "5ea84b4fa518a4c9",
+  "10302c23e7a91e35",
+  "47ea71fdff851d09",
+  "a960093bd8037829",
+  "c4373253290b908f",
+  "eab252f34eae416b",
+  "f1f7335dc48e0a79",
+  "8cfb410d0ef8d8f5",
+  "5f636ea4cde73e03",
+  "764c391f91639913",
+  "aa6bcfe7b8f8c1bc",
+  "e28804e7700645cc",
+  "1a1875492a93865b",
+  "a59e836c1cf3e42a",
+  "9affee8a6e4e7daf",
+  "ea51da4123d082ba",
+  "0c38cd02c2f14f93",
+  "b28befab514ca3be",
+  "12edf134d9c0aa86",
+  "e6311c88d63b8575",
+  "87ffb42ea11b3d49",
+  "fc07ca17d010671d",
+  "6980a99a41c9580c",
+  "523a75259d0acdec",
+  "01676d8a0e9040ed",
+  "d76efe98fad23771",
+  "d0ae9e64e0c055c2",
+  "6cd69533b70ad217",
+  "1251dc174b7e90e9"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 282,
+  "checked": 282,
+  "brokenCount": 7,
+  "broken": [
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.heritagefund.org.uk%2Fabout%2Fheritage-2033-our-10-year-strategy&data=05%7C02%7CCharlotte.Gough%40walsall.gov.uk%7C77c2a12127de42491bb308ddbf00b8a3%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638876731999903652%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=HnQQkMLRpaI%2B%2BpPodLKcfynFP9JV8vbF8gHhr9YC8ic%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/art-exhibition-celebrate-walsalls-inspiring-women"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fx.com%2FHeritageFundUK&data=05%7C02%7CCharlotte.Gough%40walsall.gov.uk%7C77c2a12127de42491bb308ddbf00b8a3%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638876731999950822%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=FAEtZdr3O52R0pDfxcsb0bM%2FBturyC%2FCcpoRakVrQ%2Fw%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/art-exhibition-celebrate-walsalls-inspiring-women"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.heritagefund.org.uk%2F&data=05%7C02%7CCharlotte.Gough%40walsall.gov.uk%7C77c2a12127de42491bb308ddbf00b8a3%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638876731999931069%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=wBHhZ3YwqTuMQj70p%2F7v8EsQ3Qpsc%2BXsoHR0%2Bm%2F3ylM%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/art-exhibition-celebrate-walsalls-inspiring-women"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.facebook.com%2FHeritageFundUK&data=05%7C02%7CCharlotte.Gough%40walsall.gov.uk%7C77c2a12127de42491bb308ddbf00b8a3%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638876731999970458%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=LsBLirXQArUCz6BPFgphMj9sykZj6tYdsmxOGRU6glI%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/art-exhibition-celebrate-walsalls-inspiring-women"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.instagram.com%2Fheritagefunduk%2F&data=05%7C02%7CCharlotte.Gough%40walsall.gov.uk%7C77c2a12127de42491bb308ddbf00b8a3%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638876731999989163%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=JdPfkLyST6OQjuZuf4SZJBkcbyO7fYlurNXBllkLKI8%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/art-exhibition-celebrate-walsalls-inspiring-women"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fconnect.interpreterslive.co.uk%2Fvrs%3Filc%3DWalsallCouncil&data=05%7C02%7CRachael.Keating%40walsall.gov.uk%7C46fa2b2e0d3e4190258108dc96a42722%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638550879034561194%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=fe3HUxUF052p3jL02H0e8IXoaMhaLHBlumueGfT4q6E%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/walsall-council-launches-british-sign-language-video-interpreter-service"
+    ]
+   },
+   {
+    "url": "https://go.walsall.gov.uk/accessibility/list-our-other-websites/webproject@walsall.gov.uk",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/accessibility/list-our-other-websites/accessibility-statement-environmental-protection-public"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 50,
+  "alfa": 28,
+  "plain-language": 27,
+  "deprecated-html": 6,
+  "resources": 50,
+  "images": 50,
+  "standards": 22,
+  "link-check": 50,
+  "security": 5,
+  "third-party": 13,
+  "public-interest": 5,
+  "lighthouse": 5,
+  "sustainability": 5,
+  "tech": 6
+ },
+ "tally": {
+  "ok": 50,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-29T22:34:42.823Z"
+}
