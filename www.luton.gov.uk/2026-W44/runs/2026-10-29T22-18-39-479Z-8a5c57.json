@@ -1,0 +1,167 @@
+{
+ "runId": "2026-10-29T22-18-39-479Z-8a5c57",
+ "week": "2026-W44",
+ "domain": "www.luton.gov.uk",
+ "canonical": {
+  "origin": "https://www.luton.gov.uk",
+  "configured": "https://www.luton.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-10-29T22:18:39.927Z",
+ "scanned": [
+  "20030c19838ba8e3",
+  "206432368f87aaed",
+  "a6273a9a1bd60473",
+  "cb09a1d7a3385b61",
+  "c02b7fdd71cfd2aa",
+  "63ec116de6e81e76",
+  "d1b4ecc4eb385c8c",
+  "7434fae918c4d74d",
+  "15bdcf34b80c46c7",
+  "a3dd6189dff8b5b1",
+  "990d6a621912f721",
+  "413f537e09f8e611",
+  "f9abb8820c0fc3f7",
+  "c90a7f428650bedf",
+  "31c79166dae23cf4",
+  "7b33e6209133ec7c",
+  "d6f121f8407b9a08",
+  "efa223d38268b9a9",
+  "b1db316f130f91f8",
+  "df0a86bd9f9b7da2",
+  "0fb6ff5e39ed7098",
+  "66d7ada050c28287",
+  "5dbf1472d9d49eae",
+  "79866beae02ee1b6",
+  "6322d458de27f5d2",
+  "54a2acea7099ca6a",
+  "4b3617605c598b35",
+  "6a563f47b75b8bda",
+  "47dc18795746b9e3",
+  "28dfe0dd473cb55a",
+  "728fba23cc091d74",
+  "e3c426b6f048a9dd",
+  "6097516a11ac809f",
+  "69786b360bea0888",
+  "2ec3ba693da90410",
+  "46c701e478fa343d",
+  "56ede253187274b1",
+  "62705e10892da5fd",
+  "af05f2efdc6961d4",
+  "d75e653e435e1672",
+  "118d33adc5c51797",
+  "b3df08b4858e1ed8",
+  "11f5d33c5d65ea41",
+  "7ca33b10322ad293",
+  "5f7447f0b51c1874",
+  "fb38c9ee334811ee",
+  "8f11bdedd417b19c",
+  "16586152021e9116",
+  "42a1c5c816273f74",
+  "35ebee7639d1a472"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 496,
+  "checked": 496,
+  "brokenCount": 6,
+  "broken": [
+   {
+    "url": "https://www.richmondhillschool.co.uk/",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/richmond-hill-school-east"
+    ]
+   },
+   {
+    "url": "https://www.richmondhillschool.co.uk/admissions",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/richmond-hill-school-east"
+    ]
+   },
+   {
+    "url": "https://www.totalwellbeingluton.org/home",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.luton.gov.uk/health-social-care/health/public-health/adult-wellbeing/menopause"
+    ]
+   },
+   {
+    "url": "https://www.managemymenopause.co.uk/",
+    "status": 0,
+    "reason": "EAI_AGAIN",
+    "foundOn": [
+     "https://www.luton.gov.uk/health-social-care/health/public-health/adult-wellbeing/menopause"
+    ]
+   },
+   {
+    "url": "https://www.unison.org.uk/content/uploads/2019/10/25831.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.luton.gov.uk/health-social-care/health/public-health/adult-wellbeing/menopause"
+    ]
+   },
+   {
+    "url": "https://www.reesfoundation.org/crisis-payments.html%20Rent%20deposit",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.luton.gov.uk/health-social-care/children-young-people-families/childrens-social-care/care-leavers-local-offer/accommodation-care-leavers"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 48,
+  "alfa": 21,
+  "resources": 48,
+  "images": 48,
+  "link-check": 48,
+  "sustainability": 10,
+  "third-party": 13,
+  "plain-language": 23,
+  "standards": 20,
+  "lighthouse": 4,
+  "deprecated-html": 8,
+  "public-interest": 6,
+  "tech": 3,
+  "security": 4
+ },
+ "tally": {
+  "ok": 48,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 2,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-29T22:25:52.752Z"
+}
