@@ -1,0 +1,133 @@
+{
+ "runId": "2026-10-29T10-59-34-150Z-18d754",
+ "week": "2026-W44",
+ "domain": "www.luton.gov.uk",
+ "startedAt": "2026-10-29T10:59:34.890Z",
+ "scanned": [
+  "af9133b78cc1e541",
+  "e780e84015ddb768",
+  "5a3e699b0b88a8d4",
+  "93996e8261de0c5f",
+  "6c849138dfad2b71",
+  "5666b734abf36d50",
+  "32955c9295d59afc",
+  "486e2c357c3e5c05",
+  "2a4a70e1c23806e0",
+  "4ba4881d39b33d37",
+  "9f1ce9291a87f190",
+  "f06213fdc6ad34be",
+  "283ff764b1298e41",
+  "d578f65e98242f01",
+  "8094e078cfce7826",
+  "6a1883d1326ab451",
+  "63e72f38e3f77bee",
+  "7824313a47f17d82",
+  "dd98ec28d8d966da",
+  "26f0512df56a056e",
+  "df19e69bb9a1589b",
+  "dcb964eb40decadb",
+  "43b12efbbf4c52f0",
+  "f382cc143db4ec5d",
+  "3d86e59a76ff638e",
+  "d7f5f0569d509a28",
+  "8f7dbd34038b0d93",
+  "4bac3f5fe4de261b",
+  "b9b4ccd9c151334b",
+  "1298311a947acd1d",
+  "de6a916f6f34b398",
+  "ebb1639c82b63096",
+  "149f16bb9c82ee13",
+  "35329616f5c73115",
+  "005cf1980509e103",
+  "45093b5e4a3fa40b",
+  "ba38924a8439cbd7",
+  "3595ba0c2fb881e8",
+  "82e45d6106cbc369",
+  "31dc7cfbab437c4d",
+  "2cee58d7d7c822f6",
+  "25026510fe563674",
+  "9ea1298fd7bb7d4d",
+  "07aaf0311d796aa5",
+  "cb643f8b46a9e25e",
+  "d48d19b5c0c966bc",
+  "95aa7c89397e6ff2",
+  "b06c3374f12ee6a7",
+  "a105d6c17b6c3650",
+  "1336582dac39bb13"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 507,
+  "checked": 500,
+  "brokenCount": 3,
+  "broken": [
+   {
+    "url": "https://www.bedfordshirehospitals.nhs.uk/our-services/occupational-therapy-and-physiotherapy/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.luton.gov.uk/health-social-care/adult-social-care/how-adult-social-care-can-help/returning-hospital-stay-illness-or-fall"
+    ]
+   },
+   {
+    "url": "https://www.luton.gov.uk/Page/Show/Environment/Planning/article4/Pages/default.aspx",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.luton.gov.uk/planning-building-control/planning/article-4-directions/current-article-4-directions"
+    ]
+   },
+   {
+    "url": "https://www.luton.gov.uk/node/371",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.luton.gov.uk/housing/council-leaseholders/if-you-do-not-pay-your-rent-or-service-charge"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 50,
+  "alfa": 21,
+  "resources": 50,
+  "images": 50,
+  "link-check": 50,
+  "plain-language": 30,
+  "standards": 23,
+  "third-party": 12,
+  "security": 4,
+  "tech": 5,
+  "deprecated-html": 6,
+  "lighthouse": 6,
+  "sustainability": 4,
+  "public-interest": 3
+ },
+ "tally": {
+  "ok": 50,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-29T11:07:53.834Z"
+}
