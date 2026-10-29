@@ -1,0 +1,237 @@
+{
+ "runId": "2026-10-29T14-13-21-496Z-af2779",
+ "week": "2026-W44",
+ "domain": "go.walsall.gov.uk",
+ "startedAt": "2026-10-29T14:13:22.108Z",
+ "scanned": [
+  "c3c9d2b108874f2b",
+  "24d9138f128135eb",
+  "b7c572ca7900ccaf",
+  "73ab42f012c1979d",
+  "9bad56e807e59d9d",
+  "c70ac076d56d7393",
+  "2c58a44123905c05",
+  "96d11c1c94a79338",
+  "7c9327df4eeca809",
+  "28581e3395d2786e",
+  "9f65a4c0bc148989",
+  "b3d89613eb08297b",
+  "5d0a26859a56cf50",
+  "e38890234fa558e9",
+  "61ea14f8e400683c",
+  "7d2d375993619034",
+  "4356012c6aa072f7",
+  "15636f97a265122d",
+  "d67432b4c7a6ccd7",
+  "5be478135616df90",
+  "2818664233c4ee17",
+  "d993186268c11dfe",
+  "11649f8bd1f1e9b1",
+  "8c243dfc7b765a06",
+  "fe3385afe0c8f432",
+  "2fc804b21be28d07",
+  "611f467cff909fca",
+  "f958fc36252559f8",
+  "3a4c3e7e8173dc6b",
+  "8f94cc24f9cad00c",
+  "e52485d99171f20d",
+  "54fd806fb5b4a9b1",
+  "69c499dab013fbcb",
+  "322a0dbc8fa03bc3",
+  "a20d508b471137bc",
+  "3aeca033c7d72e68",
+  "bd7a9ff7c1ceb25a",
+  "1aed442d09190cba",
+  "d8954711bb7e5073",
+  "c35bc40b58b9ad36",
+  "d719c3189bd8126a",
+  "9caeba22c9119ef5",
+  "ef515cd4e27f05fb",
+  "76d755a9e264cf9f",
+  "3f3aa198cf0e1b8b",
+  "d3a21c57a3da92f5",
+  "c831fe54f712f5c7",
+  "886a4a8972c6c810",
+  "57194d53a7d88bbe",
+  "b06c579ca2511cc8"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 446,
+  "checked": 446,
+  "brokenCount": 16,
+  "broken": [
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.walsallintelligence.org.uk%2F&data=05%7C02%7CJoan.Omionawele%40walsall.gov.uk%7C0bbbe6772ff141f71fb308dcad5a0836%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638575849390330500%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=sPCjC99RkT%2F3Kju2gO6D%2FAz%2FbImiSJrSjE97Cc8uXLw%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/council-plan-consultation"
+    ]
+   },
+   {
+    "url": "https://go.walsall.gov.uk/en-GB/proposals/boroughwide-parking-restriction-proposals-january-2026",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/council-plan-consultation"
+    ]
+   },
+   {
+    "url": "https://go.walsall.gov.uk/en-GB/proposals/proposed-road-safety-scheme-a34-high-street-bloxwich",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/council-plan-consultation"
+    ]
+   },
+   {
+    "url": "https://go.walsall.gov.uk/en-GB/proposals/bloxwich-town-deal-highway-improvements-phase-2",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/council-plan-consultation"
+    ]
+   },
+   {
+    "url": "https://go.walsall.gov.uk/en-GB/proposals/proposed-adult-learning-centre",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/council-plan-consultation"
+    ]
+   },
+   {
+    "url": "https://go.walsall.gov.uk/en-GB/proposals/proposed-school-street-restrictions-public-survey",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/council-plan-consultation"
+    ]
+   },
+   {
+    "url": "https://go.walsall.gov.uk/en-GB/proposals/blakenall-area-wide-20mph",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/council-plan-consultation"
+    ]
+   },
+   {
+    "url": "https://go.walsall.gov.uk/en-GB/proposals/boroughwide-parking-restriction-proposals-august-2025",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/council-plan-consultation"
+    ]
+   },
+   {
+    "url": "https://go.walsall.gov.uk/en-GB/proposals/moving-traffic-enforcement-bridge-street-walsall",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/council-plan-consultation"
+    ]
+   },
+   {
+    "url": "https://go.walsall.gov.uk/en-GB/proposals/waste-strategy",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/council-plan-consultation"
+    ]
+   },
+   {
+    "url": "https://go.walsall.gov.uk/children-and-young-people/fostering-new/why-foster-walsall/fostering%20new",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/children-and-young-people/fostering-new/why-foster-walsall/support-foster-carers"
+    ]
+   },
+   {
+    "url": "https://wslc.walsall.gov.uk/leisurehub/identity/login?",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "http://go.walsall.gov.uk/events/roller-skating-oak-park-active-living-centre-1"
+    ]
+   },
+   {
+    "url": "https://www.everychildmatters.gov.uk/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "http://go.walsall.gov.uk/apply/make-complaint/make-complaint-about-childrens-social-care"
+    ]
+   },
+   {
+    "url": "https://www.dh.gov.uk/",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "http://go.walsall.gov.uk/apply/make-complaint/make-complaint-about-childrens-social-care"
+    ]
+   },
+   {
+    "url": "https://www.dfes.gov.uk/",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "http://go.walsall.gov.uk/apply/make-complaint/make-complaint-about-childrens-social-care"
+    ]
+   },
+   {
+    "url": "https://www.csci.org.uk/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "http://go.walsall.gov.uk/apply/make-complaint/make-complaint-about-childrens-social-care"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 49,
+  "alfa": 22,
+  "plain-language": 24,
+  "resources": 49,
+  "images": 49,
+  "standards": 23,
+  "link-check": 49,
+  "lighthouse": 5,
+  "security": 5,
+  "public-interest": 6,
+  "third-party": 9,
+  "tech": 6,
+  "deprecated-html": 7,
+  "sustainability": 5
+ },
+ "tally": {
+  "ok": 49,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-29T14:29:34.334Z"
+}
