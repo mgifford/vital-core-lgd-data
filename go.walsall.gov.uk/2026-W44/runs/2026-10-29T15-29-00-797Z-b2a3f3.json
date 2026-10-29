@@ -1,0 +1,157 @@
+{
+ "runId": "2026-10-29T15-29-00-797Z-b2a3f3",
+ "week": "2026-W44",
+ "domain": "go.walsall.gov.uk",
+ "startedAt": "2026-10-29T15:29:01.315Z",
+ "scanned": [
+  "3abf937ba235e75f",
+  "39245cacc93d4d51",
+  "457809123e944fd8",
+  "1fe8dd0b65461ca8",
+  "9c7c3ad18305d5b2",
+  "f7d556cbf8cad58c",
+  "be52db850a8e6f69",
+  "a28da1d698dbc807",
+  "8d811e712fd68be4",
+  "e4a908508fb101fa",
+  "a20e7654bc3c7f2a",
+  "c36f6663637518da",
+  "15398df7e03ad6f8",
+  "736830716f7548b3",
+  "89fe578018b3a474",
+  "114ca72e65a268e1",
+  "e47846285084b343",
+  "69ecf55f48b60929",
+  "17c9eba258ea6e27",
+  "9f633abb50650339",
+  "3fbb320098a4dc48",
+  "71956ee104fc8e3a",
+  "c95d7c5773a1af0d",
+  "c23881215a39cb79",
+  "db0a5b36d4fa571d",
+  "3ddabcfe6a466dd5",
+  "7d7b20be040dece7",
+  "570395e9314d2158",
+  "c9a392edb07f0745",
+  "a2ad4d1daccc3d8d",
+  "a7ef64317e6d8d41",
+  "b29f439cb8f18a96",
+  "c48044bfae103fad",
+  "fb7f955bcd13c908",
+  "850a9b077802ae9f",
+  "3d2f527689fa46db",
+  "e1d8085c25bd1242",
+  "28c9b83d9fc95253",
+  "3ce31dd7c1953a1f",
+  "6790ba20ee35028c",
+  "b2f2c6b7b3ce87e3",
+  "389cc7b0cc22eae4",
+  "e2b070858f162cc4",
+  "050ae8471b2b9f49",
+  "548e61f79b866ed8",
+  "7b5f90db54e52edd",
+  "07045bbdb30d656d",
+  "5fd4bbf9ca4f1ed4",
+  "d861338f801752af",
+  "531f901cdedf27ef"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 417,
+  "checked": 417,
+  "brokenCount": 6,
+  "broken": [
+   {
+    "url": "https://www.walsallintelligence.org.uk/wp-content/uploads/sites/6/2025/03/Walsall-Support-Services.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/health-and-social-care/public-health"
+    ]
+   },
+   {
+    "url": "https://go.walsall.gov.uk/transport_and_streets/highway_investment/walsall_economic_growth_and_infrastructure_package/mellish_road_roundabout_improvements",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "http://go.walsall.gov.uk/roads-parking-and-travel/transport-strategies/walsall-economic-growth-and-infrastructure-package-"
+    ]
+   },
+   {
+    "url": "https://myaccount.walsall.gov.uk/new-replacement-bin/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "http://go.walsall.gov.uk/myaccount-online-services/get-new-or-replacement-bin"
+    ]
+   },
+   {
+    "url": "http://midyear.admissions@walsall.gov.uk/",
+    "status": 0,
+    "reason": "Request cannot be constructed from a URL that includes credentials: http://midye",
+    "foundOn": [
+     "http://go.walsall.gov.uk/schools-and-learning/schools-in-walsall/school-admissions/moving-to-a-different-school/apply-to-transfer-to-a-different-primary-school"
+    ]
+   },
+   {
+    "url": "https://mymaps.walsall.gov.uk/walsallboundarysolo.html",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/CSTR"
+    ]
+   },
+   {
+    "url": "https://www.gov.uk/government/publications/model-agreement-for-a-shorthold-assured-tenancy",
+    "status": 410,
+    "reason": "HTTP 410",
+    "foundOn": [
+     "http://go.walsall.gov.uk/housing/advice-tenants/rented-property-need-repair"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 46,
+  "alfa": 24,
+  "plain-language": 22,
+  "resources": 46,
+  "images": 46,
+  "standards": 23,
+  "link-check": 46,
+  "third-party": 10,
+  "sustainability": 2,
+  "lighthouse": 10,
+  "deprecated-html": 3,
+  "tech": 3,
+  "security": 6,
+  "public-interest": 1
+ },
+ "tally": {
+  "ok": 46,
+  "blocked": 4,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-29T15:46:52.988Z"
+}
