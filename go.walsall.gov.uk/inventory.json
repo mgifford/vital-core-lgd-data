@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-10-30T13:46:40.311Z",
+ "updatedAt": "2026-10-30T23:26:47.396Z",
  "pages": {
   "http://go.walsall.gov.uk/children-and-young-people/holiday-activities-programme-haf/haf-and-send": {
    "pageId": "02dc4cd5faa4840d",
@@ -12033,6 +12033,1734 @@
    "status": 200,
    "axeViolations": 19,
    "alfaFailures": 87,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu": {
+   "pageId": "008c623039e92203",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T16:26:52.496Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 78,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fplanning-and-building-control%2Fplanning-policy%2Fhousing-land-supply&rating=Ok&title=Housing+land+supply": {
+   "pageId": "022a2d92bd69b51e",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T15:20:25.800Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-moves-forward-plans-improve-access-nature-across-borough&rating=Ok&title=Walsall+moves+forward+with+plans+to+improve+access+to+nature+across+the+borough": {
+   "pageId": "0248c40fa40be60b",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T23:15:02.198Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/newsroom/christmas-miracle-needed-walsall": {
+   "pageId": "03db9243de75a915",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T16:20:30.429Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 75,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Ffree-summer-adventure-scheme-returns-walsall-2026&rating=Good&title=Free+summer+adventure+scheme+returns+to+Walsall+for+2026+": {
+   "pageId": "041c39c8b734f734",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T16:17:24.409Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": 76,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fparks-and-green-spaces%2Fvisit-our-parks-and-play-areas%2Fclayhanger-park&rating=Good&title=Clayhanger+Park": {
+   "pageId": "043c8a32a8d87bf1",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T15:25:52.547Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": 80,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/board-games-library-23": {
+   "pageId": "06f40ee3a316ed8c",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T23:17:29.071Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/business/trading-standards/under-age-sales": {
+   "pageId": "07dd3c62c8e34727",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T15:19:56.754Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 80,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/newsroom/yorks-bridge-road-closure-be-lifted": {
+   "pageId": "097058766bf6be13",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T23:15:35.268Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/newsroom/rodent-infested-walsall-supermarket-forced-close": {
+   "pageId": "0f3afa03711e76f4",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T15:19:13.638Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/newsroom/volunteers-spruce-willenhall-memorial-park": {
+   "pageId": "106c9f17df086c8f",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T23:15:48.450Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": 78,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/newsroom/walsalls-foster-carers-recognised-their-commitment-celebration-event": {
+   "pageId": "10f6dc2ac4991f08",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T16:26:24.231Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 86,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/newsroom/walsall-outperforms-national-average-ofsted-judgments-good-or-better-ratings": {
+   "pageId": "11afdf21e81252c8",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T23:18:08.800Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": 78,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/newsroom/residents-encouraged-have-their-say-walsall-borough-local-plan": {
+   "pageId": "12d675a3888a9787",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T14:12:43.189Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/newsroom/explore-walsalls-great-outdoors-free-family-activities-summer": {
+   "pageId": "143927edb7f56876",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T23:21:56.306Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": 86,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/newsroom/former-mayor-raises-ps29000-local-charities": {
+   "pageId": "14829026c912f011",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T14:14:55.190Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 78,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events?page=0&venue=415": {
+   "pageId": "172fd932caa52171",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T15:16:02.276Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 112,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/museums-libraries-and-galleries/walsall-archives-0/your-visit-walsall-archives": {
+   "pageId": "1d7d15ea2bbb1289",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T16:26:16.103Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 79,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fmuseums-libraries-and-galleries%2Fwalsall-archives-0%2Fyour-visit-walsall-archives&rating=Ok&title=Your+visit+to+Walsall+Archives": {
+   "pageId": "201734e2b7f8f7ca",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T23:14:53.082Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 76,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/your-council/biography-current-mayor-walsall/mayoral-invitations": {
+   "pageId": "20d1f93f363ba209",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T23:18:38.512Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/junior-gym-oak-park-active-living-centre-0": {
+   "pageId": "22d52fff42d5325b",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T14:14:40.429Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/newsroom/walsall-council-flies-flag-commonwealth-day-2026": {
+   "pageId": "24b2fb646198911e",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T15:23:39.273Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fsport-and-leisure%2Factivities%2Fparties&rating=Poor&title=Parties": {
+   "pageId": "2502b8d8432a080a",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T15:17:39.910Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/business/doing-business-with-the-council/contracts-register": {
+   "pageId": "26fb0e6ce5d07ddd",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T16:24:32.624Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 74,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/rhyme-time-48": {
+   "pageId": "28864727ef3ace29",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T23:18:23.008Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": 74,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=service_type%3A357": {
+   "pageId": "2908d289bd378b59",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T14:11:12.943Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Ftwo-walsall-community-heroes-be-honoured-investiture&rating=Ok&title=Two+Walsall+community+heroes+to+be+honoured+at+Investiture": {
+   "pageId": "2b01e7111107eac2",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T15:22:58.209Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/newsroom/social-prescribing-open-day-take-place-march": {
+   "pageId": "2b7fb5e999b36d1f",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T15:20:39.928Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 83,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/newsroom/walsall-council-attending-years-ukreiif-showcase-walsalls-emerging-development": {
+   "pageId": "2ba26b572aa597d5",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T16:23:06.290Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 77,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/adult-reading-group-17": {
+   "pageId": "2d715534e4d300f5",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T14:13:38.719Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 76,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/board-games-library-24": {
+   "pageId": "2dc52789a784891f",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T15:18:47.227Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/sport-and-leisure/memberships/move-it-discount-scheme": {
+   "pageId": "2f186341f8dff4c0",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T14:15:27.795Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/find-out-about-fostering-walsall-manor-hospital-8": {
+   "pageId": "2f97fda71e4a9ac4",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T15:16:48.832Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 72,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A338&f%5B3%5D=localgov_directories_facets%3A31&f%5B4%5D=localgov_directories_facets%3A35&f%5B5%5D=service_type%3A357": {
+   "pageId": "3006132482a7c4af",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T23:14:39.856Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fbabyfest-brings-hundreds-walsall-families-together-world-breastfeeding-week&rating=Good&title=BabyFest+brings+hundreds+of+Walsall+families+together+for+World+Breastfeeding+Week": {
+   "pageId": "323afbd4cde9a709",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T14:13:23.855Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": 80,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Froads-parking-and-travel%2Freport-problem-skips-or-scaffolding&rating=Good&title=Report+a+problem+with+skips+or+scaffolding": {
+   "pageId": "324f30c412b3b155",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T15:14:48.354Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": 80,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Freport%2Freport-fly-tip-private-land&rating=Ok&title=Report+a+fly-tip+on+private+land": {
+   "pageId": "346fb42790fd17a4",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T15:26:07.272Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": 80,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory/darlaston-youth-centre-honour-based-abuse-training": {
+   "pageId": "34701b466a1d4e34",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T15:17:47.115Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fbenefits%2Fblue-badge-scheme&rating=Ok&title=Blue+badge+scheme": {
+   "pageId": "367c5c3ebf902aa5",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T14:13:09.927Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": 80,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fps44m-investment-increase-enforcement-across-walsall&rating=Good&title=%C2%A34.4m+investment+to+increase+enforcement+across+Walsall+": {
+   "pageId": "3685e3621e076b6a",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T16:17:55.586Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A33&f%5B4%5D=service_type%3A356": {
+   "pageId": "36ca253a975601d9",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T23:16:17.946Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwhats-walsall-april-2026&rating=Good&title=What%E2%80%99s+On+in+Walsall%3A+April+2026": {
+   "pageId": "37c055da4721b6a2",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T23:18:56.717Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 76,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fbenefits&rating=Poor&title=Benefits+and+cost+of+living+support": {
+   "pageId": "37d967a5a53b68e9",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T16:17:44.346Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/planning-and-building-control/planning-policy/statement-community-involvement-sci": {
+   "pageId": "380c5589ab76b09f",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T14:15:11.558Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 83,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fcabinet-report-outlines-success-councils-proud-transformation&rating=Poor&title=Cabinet+report+outlines+success+of+council%E2%80%99s+%E2%80%98Proud%E2%80%99+transformation+": {
+   "pageId": "3d456e6d2d54fd65",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T16:20:16.562Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": 76,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/reading-friends-0": {
+   "pageId": "3d511be82823d79a",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T16:19:48.180Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 72,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=service_type%3A357": {
+   "pageId": "4203fc38510b865c",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T16:25:43.052Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/business/support-your-business/apprenticeship-levy-transfer-scheme": {
+   "pageId": "445a5c0626e62669",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T15:25:15.627Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/rhyme-time-44": {
+   "pageId": "47a27792b4780dd9",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T15:21:32.415Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/rhyme-time-87": {
+   "pageId": "4acceb81d8320ec8",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T14:07:01.927Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/story-tots-32": {
+   "pageId": "4b5a74b48494cdab",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T23:17:42.299Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=service_type%3A352&page=9": {
+   "pageId": "4cabf0d4ce2e9fe6",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T14:05:24.230Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 119,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/business/licensing-and-regulation/list-licences/apply-sex-shop-and-cinema-licence": {
+   "pageId": "4e6de416d7cd640d",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T23:23:08.053Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": 78,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fpeople-and-communities%2Fcommunity-venues&rating=Good&title=Community+venues": {
+   "pageId": "5016ada35828bcaa",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T16:19:35.856Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/knit-and-natter-97": {
+   "pageId": "514ca7b31794dab6",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T16:26:03.254Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A37&f%5B4%5D=service_type%3A357": {
+   "pageId": "53a67750999ddfe0",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T16:24:00.579Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 77,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/knit-and-natter-76": {
+   "pageId": "57599c2485699730",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T15:24:00.948Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 78,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events?venue=415": {
+   "pageId": "575c04a91f0d55b5",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T14:06:28.764Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 112,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-backs-world-hepatitis-day-breaking-down-barriers-testing-and-support&rating=Good&title=Walsall+backs+World+Hepatitis+Day+by+breaking+down+barriers+to+testing+and+support": {
+   "pageId": "583e706057c4859b",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T23:24:21.117Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fyour-council%2Fvoting-and-elections%2Fprevious-election-results%2F2018-local-election-results-graphics&rating=Ok&title=2018+Local+Election+results+graphics": {
+   "pageId": "58d8034e5c177083",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T15:14:34.059Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": 80,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A38&f%5B3%5D=service_type%3A356": {
+   "pageId": "5b0140e6e09c2cdb",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T14:15:41.798Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 83,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/drop-spiral-snake-craft": {
+   "pageId": "5b6beb1c678853c7",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T23:22:24.835Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=service_type%3A351": {
+   "pageId": "5c08ae8d634b398a",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T15:16:18.768Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 98,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/sport-and-leisure/activities/swim-academy-childrens-swimming-lessons": {
+   "pageId": "5ca2064cf01a8e1e",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T14:11:26.523Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Ftraditional-free-youth-club-launched-bloxwich&rating=Ok&title=Traditional+free+youth+club+launched+in+Bloxwich+": {
+   "pageId": "5f2201f55cadb867",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T16:17:49.353Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": 76,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/planning-and-building-control/building-control/arrange-a-site-inspection": {
+   "pageId": "5f7cb7e4b0a35881",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T14:09:57.664Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory/brownhills-community-association-exercise-over-50s": {
+   "pageId": "5f8a0d5850b7d174",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T23:12:02.118Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/newsroom/recognising-supporting-and-celebrating-unpaid-carers-walsall": {
+   "pageId": "61f784c122d3f469",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T23:19:11.011Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsalls-community-litter-watch-recognised-national-award&rating=Good&title=Walsall%E2%80%99s+Community+Litter+Watch+recognised+with+national+award": {
+   "pageId": "62eb74b693cbe147",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T16:21:51.868Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=localgov_directories_facets%3A37&f%5B4%5D=service_type%3A351": {
+   "pageId": "62fdde0dd0f270da",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T16:18:51.056Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fwalsall-libraries%2Flichfield-street-hub%2Fwalsall-archives-services%2Fresearch-resources%2Fpelsall&rating=Poor&title=Pelsall+churches": {
+   "pageId": "6313715fa04db793",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T14:08:32.398Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": 80,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/children-and-young-people/walsall-family-safeguarding-/further-information-about-family-safeguarding-in-walsall": {
+   "pageId": "639fe133cc1dd7e7",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T23:16:45.624Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": 93,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A356": {
+   "pageId": "6533cf28b73a9dc4",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T16:28:57.311Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 102,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/newsroom/councillor-louise-harrison-elected-mayor-walsall-2025-26": {
+   "pageId": "6605aa604ae6039d",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T16:26:39.675Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fwalsall-libraries%2Flichfield-street-hub%2Fwalsall-archives-services%2Fresearch-resources%2Fpelsall&rating=Ok&title=Pelsall+churches": {
+   "pageId": "683ca372a5f79ce0",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T23:19:56.729Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/publications/gambling-harms-directory-professionals": {
+   "pageId": "69104bd86cf1a813",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T23:22:37.549Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 71,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fjobs-and-careers-%2Ftaleo-documents&rating=Good&title=TALEO+Documents": {
+   "pageId": "6b46d99fb3ad033f",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T14:10:35.875Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/scrabble-social-3": {
+   "pageId": "6b9da481af14310b",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T16:27:38.732Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/schools-and-learning/school-admissions": {
+   "pageId": "6db205bb3da57083",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T14:08:48.169Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/newsroom/traditional-free-youth-club-launched-bloxwich": {
+   "pageId": "6e7dcb05e527800c",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T15:19:00.414Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/big-bounce-bloxwich-active-living-centre-2": {
+   "pageId": "6fa004895865da1a",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T23:15:20.658Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": 71,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/reading-group-willenhall-0": {
+   "pageId": "70d59ca54f4b677c",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T16:28:44.470Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-council-marks-loneliness-awareness-week-2026-call-lets-connect&rating=Poor&title=Walsall+Council+marks+Loneliness+Awareness+Week+2026+with+call+to+%E2%80%9CLet%E2%80%99s+Connect%E2%80%9D": {
+   "pageId": "71c296be580eff83",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T14:10:23.945Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/benefits": {
+   "pageId": "75eadf54adaaf4f2",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T15:24:16.698Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": 119,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/newsroom/new-leader-walsall-council-0": {
+   "pageId": "798b63bd35aa4779",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T15:17:25.636Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/newsroom/free-summer-adventure-scheme-returns-walsall-2026": {
+   "pageId": "7c26b6d258c0c3fa",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T15:23:11.356Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/business/trading-standards/find-trusted-trader": {
+   "pageId": "7d2baadc91b0d2cb",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T23:20:36.612Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": 76,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/people-and-communities/assets-community-value/selling-asset": {
+   "pageId": "7fc4504c8144400c",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T23:22:53.291Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": 71,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=service_type%3A350&page=0": {
+   "pageId": "80d809d7c4f1da62",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T23:14:26.403Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fconsultation-walsall-borough-local-plan-has-launched-have-your-say&rating=Good&title=Consultation+on+the+Walsall+Borough+Local+Plan+has+launched%3A+Have+your+say": {
+   "pageId": "826b647eb39239cb",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T14:15:57.675Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fcabinet-report-outlines-success-councils-proud-transformation&rating=Ok&title=Cabinet+report+outlines+success+of+council%E2%80%99s+%E2%80%98Proud%E2%80%99+transformation+": {
+   "pageId": "83c27c7251a98c45",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T15:19:43.306Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/newsroom/walsall-residents-urged-talk-listen-and-make-every-voice-count-world-mental-health-day": {
+   "pageId": "842758ea999ec476",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T14:12:28.385Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 86,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/newsroom/walsall-councillor-awarded-mbe-kings-birthday-honours": {
+   "pageId": "84db380f3bac078d",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T23:23:59.805Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/schools-and-learning/grants-and-allowances": {
+   "pageId": "853fa0df2b09293b",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T16:18:57.423Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 69,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fchildren-and-young-people%2Fchildren-care-and-care-leavers%2Flocal-offer-care-leavers%2Ftransition-and&rating=Poor&title=Transition+and+Leaving+Care+Hub+%28TLC%29": {
+   "pageId": "85a4906182956f26",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T16:28:16.665Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": 76,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/newsroom/m6-junction-9-roadworks-take-place-july-and-august": {
+   "pageId": "860c636a23015c5c",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T16:20:02.466Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 79,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events?venue=374": {
+   "pageId": "864e01fe097d4a01",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T23:21:06.607Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=service_type%3A354": {
+   "pageId": "8802e7eeba20e4ed",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T23:23:46.836Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/tanita-body-composition-checks-walsall-gala-swimming-and-fitness-centre": {
+   "pageId": "8af32c36222f079b",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T14:12:57.712Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Ftime-set-uk-emergency-alerts-test&rating=Good&title=Time+set+for+UK+Emergency+Alerts+test": {
+   "pageId": "8b0a28d5b32fd127",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T23:20:16.341Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Froads-parking-and-travel%2Freport-problem-skips-or-scaffolding&rating=Ok&title=Report+a+problem+with+skips+or+scaffolding": {
+   "pageId": "8c72f8a0e3e2810f",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T15:16:35.732Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fcouncil-considers-recommendations-polling-districts-review-walsall&rating=Ok&title=Council+considers+recommendations+for+Polling+Districts+Review+in+Walsall": {
+   "pageId": "8da40bf4a2fd90bb",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T15:19:25.518Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": 80,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fhealth-and-social-care%2Fhelp-live-home%2Ffunding-adapt-your-home-if-you-have-disability%2Fapply-disabled&rating=Good&title=Apply+for+a+Disabled+Facilities+Grant": {
+   "pageId": "9200d261521fbfba",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T23:24:06.284Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/your-council/decision-making-in-walsall-borough/how-decisions-are-made/local-democracy---your-rights": {
+   "pageId": "946cef2fe9ca7d5d",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T15:21:17.077Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 84,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/newsroom/walsall-councils-aim-gold-scheme-helps-holloway-plastics-secure-over-ps11000-grant-funding": {
+   "pageId": "96bf425d09eb986c",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T14:12:06.765Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 85,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/newsroom/new-year-support-walsall-residents-experiencing-gambling-harms": {
+   "pageId": "970362782cbeb10d",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T15:17:03.665Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 95,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/story-tots-0": {
+   "pageId": "99cd5d2f3ed30c7d",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T16:22:52.198Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 74,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-residents-encouraged-apply-household-support-fund-grants&rating=Poor&title=Walsall+residents+encouraged+to+apply+for+Household+Support+Fund+grants": {
+   "pageId": "9a45e2e9603ea18d",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T14:08:06.406Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/dinosaur-puppet-drop-afternoon": {
+   "pageId": "9b6aefbac3e093f8",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T15:20:12.286Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/walsall-libraries/lichfield-street-hub/walsall-archives-services/research-resources/bentley": {
+   "pageId": "9e49a2d6190fcb1b",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T16:20:45.495Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 78,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/scrabble-social-11": {
+   "pageId": "9ee42a22fd58b4e8",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T23:19:23.599Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": 73,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events?page=2&venue=415": {
+   "pageId": "a3c0010db1db7949",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T15:15:48.491Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/chicks-and-bunnies-drop-family-craft-sessions-afternoon": {
+   "pageId": "a4d0e9d62e158a03",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T14:16:29.160Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/newsroom/walsall-works-newsletter-march-2026": {
+   "pageId": "a5900b92d098a328",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T15:22:38.439Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=service_type%3A353&page=2": {
+   "pageId": "a6a692ab72fd9615",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T14:17:34.760Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 84,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fparks-and-green-spaces%2Ffacilities---information-price-guide-and-booking&rating=Good&title=Facilities+-+information%2C+price+guide+and+booking": {
+   "pageId": "a7da03431ad73c49",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T14:11:04.034Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": 80,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Froads-parking-and-travel%2Fflooding-and-drainage%2Fflooding-advice&rating=Poor&title=Flooding+advice": {
+   "pageId": "ab9319508de888e7",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T16:23:21.894Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fnew-community-shop-opens-bentley-support-local-residents&rating=Good&title=New+Community+Shop+opens+in+Bentley+to+support+local+residents": {
+   "pageId": "ac8856c8a0c6c5ef",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T23:23:39.522Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fevent-preventing-drug-related-deaths-build-safer-walsall&rating=Ok&title=Event+on+preventing+drug-related+deaths+to+build+a+safer+Walsall": {
+   "pageId": "ae6d60b0f3d0f21e",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T15:24:45.743Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Froads-parking-and-travel%2Fparking-and-travel%2Ftell-us-about-parking-problems&rating=Poor&title=Tell+us+about+parking+problems": {
+   "pageId": "ae845816795390cb",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T16:22:39.941Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/walsall-works-group-information-session-tdm": {
+   "pageId": "b19a66e293af9cc0",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T16:24:17.354Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 71,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/newsroom/walsall-families-encouraged-check-mmr-vaccinations-half-term": {
+   "pageId": "b4eabc115581a40e",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T15:22:24.465Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fbirths-marriages-and-deaths%2Fdeaths-and-funerals%2Fhelp-if-theres-nobody-to-arrange-a-funeral&rating=Poor&title=Help+if+there%27s+nobody+to+arrange+a+funeral": {
+   "pageId": "b536aae9598a52f3",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T15:23:23.626Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": 80,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=localgov_directories_facets%3A37&f%5B4%5D=service_type%3A352": {
+   "pageId": "b63f11e87342af65",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T23:12:34.380Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 107,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/pool-inflatable-fun-session-oak-park-active-living-centre-8": {
+   "pageId": "b858afd2955946bb",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T15:17:12.642Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/adult-reading-group": {
+   "pageId": "b8853472213f0389",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T23:17:13.319Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": 71,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/board-games-library-9": {
+   "pageId": "baae0796b54ef7cc",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T14:17:06.238Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events?category=235&page=1&venue=All": {
+   "pageId": "bb4ba4ea9307faee",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T14:10:11.547Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A338&f%5B1%5D=localgov_directories_facets%3A35&f%5B2%5D=service_type%3A357": {
+   "pageId": "bc84394aa79e1c0d",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T15:15:05.835Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/scrabble-social-9": {
+   "pageId": "bd8e2ae36c134548",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T16:19:13.237Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 73,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fwalsall-libraries%2Flichfield-street-hub%2Fwalsall-archives-services%2Fresearch-resources%2Fstreetly-0&rating=Good&title=Streetly+in+history": {
+   "pageId": "bdfa9bc0232dec3f",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T14:13:52.711Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": 80,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/roads-parking-and-travel/report-problem-skips-or-scaffolding": {
+   "pageId": "c077cb55b9671f84",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T14:10:49.824Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 73,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsalls-guildhall-building-will-encourage-and-support-creative-businesses-black-country&rating=Good&title=Walsall%E2%80%99s+Guildhall+building+will+encourage+and+support+creative+businesses+from+the+Black+Country+and+beyond+under+development+plans": {
+   "pageId": "c1531384550ebeb4",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T23:20:21.550Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 76,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/newsroom/street-racing-injunction-review-hearing-next-week-0": {
+   "pageId": "c1bd59f84da90405",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T14:07:51.871Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 86,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fcouncil-leader-calls-upon-cross-border-support-tackle-illegal-road-bikes&rating=Ok&title=+Council+Leader+calls+upon+cross-border+support+to+tackle+illegal+off-road+bikes": {
+   "pageId": "c55d16221f4cd4ab",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T15:23:46.289Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": 80,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-council-launches-initiative-establish-community-shops&rating=Ok&title=Walsall+Council+launches+initiative+to+establish+community+shops": {
+   "pageId": "c74c0ac66817d684",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T23:17:55.390Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/newsroom/walsall-councils-catering-team-achieves-food-life-served-here-bronze-award": {
+   "pageId": "c7e88a6b590d10f9",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T15:18:16.530Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 87,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/newsroom/time-set-uk-emergency-alerts-test": {
+   "pageId": "c82166d65dc00b3b",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T16:24:59.366Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 76,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/tanita-body-composition-checks-darlaston-swimming-and-fitness-centre-5": {
+   "pageId": "c91e4f48cb3a3b0f",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T16:23:14.513Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 72,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-pay-tribute-sister-dora-sunday&rating=Ok&title=Walsall+to+pay+tribute+to+Sister+Dora+this+Sunday": {
+   "pageId": "c97587dd94304437",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T14:05:42.401Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": 80,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fyour-council%2Fdecision-making-in-walsall-borough%2Fpublications%2Fpay-policy&rating=Ok&title=Pay+Policy": {
+   "pageId": "cb3089cbd2b375ed",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T16:28:30.735Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": 76,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/rhyme-time-151": {
+   "pageId": "cb34bcb556202f91",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T16:25:29.621Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/newsroom/national-walking-month-highlights-everyday-walking-opportunities": {
+   "pageId": "cb4816a4f617a310",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T14:09:42.714Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A357": {
+   "pageId": "cb8e399bb4e4a9bc",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T23:12:51.369Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/myaccount-online-services/report-problem-street-name-sign": {
+   "pageId": "ce4b8b1ccaab84fc",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T15:24:32.286Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/newsroom/walsall-celebrates-more-475-young-carers-during-national-action-week": {
+   "pageId": "ce4d7ec6cf4fd946",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T16:25:13.796Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 79,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/1-2-1-beginner-ict-courses-lichfield-street-hub-3": {
+   "pageId": "ce84ca00c455bb00",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T14:09:14.789Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=service_type%3A353": {
+   "pageId": "cf92dfd6c4ffdf88",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T15:15:33.923Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/full-leather-covered-notebook-workshop-nick-wells": {
+   "pageId": "d354ed404500f025",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T15:21:03.928Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/walsall-libraries/lichfield-street-hub/walsall-archives-services/research-resources/rushall-history": {
+   "pageId": "d3d33609a255c11f",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T15:18:00.603Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 84,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/walsall-works-job-club-bloxwich-library": {
+   "pageId": "d475df1e17ffb789",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T23:22:11.176Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/newsroom/demolition-starts-willenhall-council-drives-forward-plans-new-homes": {
+   "pageId": "d47e6a89e7669a45",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T16:27:25.277Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/roads-parking-and-travel/flooding-and-drainage": {
+   "pageId": "d653f4e39c3e6fdf",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T16:22:04.193Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/newsroom/ps150000-funding-pot-launched-support-heritage-projects-walsall": {
+   "pageId": "d745631262ec5556",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T14:12:22.604Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/i-am-cat-story-and-crafts": {
+   "pageId": "d7f21b02132e290f",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T15:26:15.784Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-celebrates-more-475-young-carers-during-national-action-week&rating=Ok&title=Walsall+celebrates+more+than+475+young+carers+during+National+Action+Week": {
+   "pageId": "d84119c8124e83fb",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T23:12:21.435Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/newsroom/world-contraception-day-highlights-range-contraception-options-available-walsall": {
+   "pageId": "d852f90300e93409",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T15:18:31.523Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 82,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/send-music-and-movement-louder-session": {
+   "pageId": "d9b356fd4de48df8",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T14:17:20.100Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/saturday-stories-lichfield-street-hub": {
+   "pageId": "da51a2af5e37bf6a",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T15:20:54.476Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 76,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fbusiness%2Fdoing-business-with-the-council%2Fpay-invoice-sent-council&rating=Good&title=Pay+an+invoice+sent+by+the+council": {
+   "pageId": "dba24a5cb9bce223",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T16:23:34.108Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": 76,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/newsroom/ps44m-investment-increase-enforcement-across-walsall": {
+   "pageId": "dbf0baaef4e7243f",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T15:26:30.037Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/your-council/voting-and-elections/previous-election-results/2018-local-election-results-graphics": {
+   "pageId": "dc1105086ebd2822",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T14:06:46.435Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 77,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fparks-and-green-spaces%2Favian-flu&rating=Ok&title=Avian+flu": {
+   "pageId": "dc94cf4e67df206a",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T23:12:16.134Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/planning-and-building-control/listed-buildings-conservation-and-environment/conservation-areas": {
+   "pageId": "de24d012613650f4",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T23:21:20.091Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": 120,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fyour-council%2Fdecision-making-in-walsall-borough%2Fbcta%2Fengaging-images-wider-picture&rating=Good&title=Engaging+Images+%E2%80%93+%E2%80%9CThe+Wider+Picture%E2%80%9D": {
+   "pageId": "de616ad90f12595c",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T14:11:53.001Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/newsroom/two-bloxwich-parks-get-makeover-thanks-bloxwich-town-deal": {
+   "pageId": "e20f7f8640f00b6e",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T23:18:51.201Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/make-your-own-clay-pumpkin-drop-session-afternoon": {
+   "pageId": "e2953b715d8a12b1",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T23:20:51.215Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": 70,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/saturday-story-time-19": {
+   "pageId": "e2f4dfa590111deb",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T16:25:21.276Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 73,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/newsroom/large-scale-fly-tip-cleared-willenhall-council-removes-29-tonnes-waste": {
+   "pageId": "e2fcf80bef65b273",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T14:16:13.272Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 82,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A37&f%5B4%5D=service_type%3A354": {
+   "pageId": "e481b029b2468bbe",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T23:13:06.677Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 92,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/knit-and-natter-88": {
+   "pageId": "e4d28b5e011d266b",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T14:14:21.554Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 77,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Ftraditional-free-youth-club-launched-bloxwich&rating=Poor&title=Traditional+free+youth+club+launched+in+Bloxwich+": {
+   "pageId": "e63196d2577c0803",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T16:17:31.922Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fmuseums-libraries-and-galleries%2Fwalsall-archives-0%2Fvolunteering-walsall-archives&rating=Poor&title=Volunteering+at+Walsall+Archives": {
+   "pageId": "e97b0d5b7c4f6922",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T14:09:00.475Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A32&f%5B2%5D=localgov_directories_facets%3A36&f%5B3%5D=service_type%3A352&page=1": {
+   "pageId": "ec6740085a338528",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T16:27:07.776Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": 119,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/newsroom/national-5-year-old-dental-survey-take-place-walsall": {
+   "pageId": "eca3aa5291946fba",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T14:14:07.681Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fplanning-and-building-control%2Fbuilding-control%2Farrange-a-site-inspection&rating=Good&title=Arrange+a+site+inspection": {
+   "pageId": "ed574ec372d06ce5",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T15:15:18.719Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": 80,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fhealth-and-social-care%2Fgetting-around-and-places-go%2Fget-assessed-daycare-support&rating=Ok&title=Get+assessed+for+daycare+support": {
+   "pageId": "f0ce4404b7b014ac",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T14:09:28.553Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/acti-kids-fitness-bloxwich-active-living-centre-0": {
+   "pageId": "f10122475aeeabd6",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T23:16:59.451Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-councils-catering-team-achieves-food-life-served-here-bronze-award&rating=Ok&title=Walsall+Council%E2%80%99s+Catering+Team+achieves+Food+for+Life+Served+Here+Bronze+award": {
+   "pageId": "f153c7ed6c570605",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T16:18:23.989Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/health-and-social-care/mental-health-physical-health-and-wellbeing/refer-someone-loneliness-and": {
+   "pageId": "f4f5e320e2d4d153",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T14:16:34.831Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/have-go-community-day-conjunction-new-art-gallery": {
+   "pageId": "f5c747e6889e21f5",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T14:06:12.394Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": 75,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/planning-and-building-control/listed-buildings-conservation-and-environment/archaeology-and": {
+   "pageId": "f6448ac514c8d8fa",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T23:20:09.225Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 81,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/newsroom/residents-and-taxi-trade-invited-have-their-say-updated-taxi-licensing-policy": {
+   "pageId": "f64cd8752c9a6338",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T16:20:53.245Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": 76,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fparks-and-green-spaces%2Fmanaging-and-maintaining-our-parks-and-green-spaces%2Fgrounds-maintenance-and-grass-cutting&rating=Poor&title=Report+a+problem+with+grounds+maintenance+and+grass+cutting": {
+   "pageId": "f6870384cddf73ee",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T16:25:49.108Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": 76,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=service_type%3A350": {
+   "pageId": "f7764b72888a389d",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T16:19:30.372Z",
+   "status": 200,
+   "axeViolations": 22,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory/workwell": {
+   "pageId": "f786be11d7a03c80",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T16:18:07.599Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A37&f%5B3%5D=service_type%3A351": {
+   "pageId": "f92c97a42f97a88f",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T23:13:50.098Z",
+   "status": 200,
+   "axeViolations": 21,
+   "alfaFailures": 75,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/newsroom/knife-angels-walsall-legacy-continue-following-closing-ceremony": {
+   "pageId": "f9a671e7fa5e9205",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T16:24:46.803Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/town-deal-information-event-online-0": {
+   "pageId": "faf21bc0ee6d515c",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T23:16:02.908Z",
+   "status": 200,
+   "axeViolations": 18,
+   "alfaFailures": 69,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fmyaccount-online-services%2Freport-problem-street-name-sign&rating=Good&title=Report+a+problem+with+a+street+name+sign": {
+   "pageId": "fbb956610d4d9a2b",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T16:18:36.477Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/feedback?page=%2Fpeople-and-communities%2Fcommunity-standards-and-strategies%2Fwalsall-net-zero-2041-strategy&rating=Good&title=Walsall+net+zero+2041+strategy": {
+   "pageId": "fd66a759ce164572",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T14:05:58.686Z",
+   "status": 200,
+   "axeViolations": 20,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://go.walsall.gov.uk/events/bumble-bee-trust-family-session": {
+   "pageId": "fde44eaa3a75d6e8",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T15:22:52.059Z",
+   "status": 200,
+   "axeViolations": 19,
+   "alfaFailures": null,
    "hasIssues": true
   }
  },

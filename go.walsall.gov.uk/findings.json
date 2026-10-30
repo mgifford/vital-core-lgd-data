@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-10-30T13:46:40.428Z",
+ "updatedAt": "2026-10-30T23:26:47.570Z",
  "findings": {
   "VS-179ad9b3": {
    "engine": "Siteimprove Alfa",
@@ -31,8 +31,9 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 2,
+   "lastPagesAffected": 3,
    "lastAffectedPages": [
+    "https://go.walsall.gov.uk/newsroom/walsall-council-flies-flag-commonwealth-day-2026",
     "http://go.walsall.gov.uk/newsroom/two-people-caught-and-fined-littering-walsall",
     "https://go.walsall.gov.uk/newsroom/digital-skills-boost-womens-organisation-walsall-thanks-donation-scheme"
    ]
@@ -49,9 +50,10 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 1337,
+   "lastPagesAffected": 1529,
    "lastAffectedPages": [
     "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
+    "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
     "http://go.walsall.gov.uk/events/saturday-storytime-6",
     "https://go.walsall.gov.uk/newsroom/mayor-walsall-shares-wisdom-primary-school-councillors",
     "https://go.walsall.gov.uk/events/stitchers-and-skivers-adult-craft-group-afternoon-5",
@@ -60,6 +62,8 @@
     "http://go.walsall.gov.uk/newsroom/finance-team-walsall-council-shortlisted-2024-public-finance-awards",
     "https://go.walsall.gov.uk/parks-and-green-spaces/visit-our-parks-and-play-areas/clayhanger-park",
     "https://go.walsall.gov.uk/planning-and-building-control/planning-policy/current-planning-policy/black-country-core-strategy",
+    "https://go.walsall.gov.uk/feedback?page=%2Fplanning-and-building-control%2Fplanning-policy%2Fhousing-land-supply&rating=Ok&title=Housing+land+supply",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-moves-forward-plans-improve-access-nature-across-borough&rating=Ok&title=Walsall+moves+forward+with+plans+to+improve+access+to+nature+across+the+borough",
     "https://go.walsall.gov.uk/newsroom/walsall-residents-invited-book-their-flu-and-covid-19-vaccines",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=service_type%3A357",
     "https://go.walsall.gov.uk/events/knit-and-natter-4",
@@ -69,13 +73,10 @@
     "https://go.walsall.gov.uk/events/rhyme-time-0",
     "https://go.walsall.gov.uk/events/reading-friends-23",
     "https://go.walsall.gov.uk/housing/finding-home/private-rented-accommodation",
-    "https://go.walsall.gov.uk/planning-and-building-control/planning-developers/check-planning-history-building-or-piece-land",
-    "https://go.walsall.gov.uk/events/knit-and-natter-aldridge-0",
-    "https://go.walsall.gov.uk/newsroom/mayor-celebrates-community-inter-faith-dinner-pakistani-consulate",
-    "http://go.walsall.gov.uk/events/amazing-mr-hackwood-grushas-theatre-company",
-    "http://go.walsall.gov.uk/events/inflatable-and-floats-session-oak-park-active-living-centre-0",
-    "http://go.walsall.gov.uk/events/matchbox-monsters-family-drop-afternoon",
-    "http://go.walsall.gov.uk/newsroom/residents-invited-have-their-say-new-household-food-waste-collections"
+    "https://go.walsall.gov.uk/newsroom/christmas-miracle-needed-walsall",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Ffree-summer-adventure-scheme-returns-walsall-2026&rating=Good&title=Free+summer+adventure+scheme+returns+to+Walsall+for+2026+",
+    "https://go.walsall.gov.uk/feedback?page=%2Fparks-and-green-spaces%2Fvisit-our-parks-and-play-areas%2Fclayhanger-park&rating=Good&title=Clayhanger+Park",
+    "https://go.walsall.gov.uk/planning-and-building-control/planning-developers/check-planning-history-building-or-piece-land"
    ]
   },
   "VS-f6d344d5": {
@@ -90,9 +91,10 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 1337,
+   "lastPagesAffected": 1529,
    "lastAffectedPages": [
     "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
+    "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
     "http://go.walsall.gov.uk/events/saturday-storytime-6",
     "https://go.walsall.gov.uk/newsroom/mayor-walsall-shares-wisdom-primary-school-councillors",
     "https://go.walsall.gov.uk/events/stitchers-and-skivers-adult-craft-group-afternoon-5",
@@ -101,6 +103,8 @@
     "http://go.walsall.gov.uk/newsroom/finance-team-walsall-council-shortlisted-2024-public-finance-awards",
     "https://go.walsall.gov.uk/parks-and-green-spaces/visit-our-parks-and-play-areas/clayhanger-park",
     "https://go.walsall.gov.uk/planning-and-building-control/planning-policy/current-planning-policy/black-country-core-strategy",
+    "https://go.walsall.gov.uk/feedback?page=%2Fplanning-and-building-control%2Fplanning-policy%2Fhousing-land-supply&rating=Ok&title=Housing+land+supply",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-moves-forward-plans-improve-access-nature-across-borough&rating=Ok&title=Walsall+moves+forward+with+plans+to+improve+access+to+nature+across+the+borough",
     "https://go.walsall.gov.uk/newsroom/walsall-residents-invited-book-their-flu-and-covid-19-vaccines",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=service_type%3A357",
     "https://go.walsall.gov.uk/events/knit-and-natter-4",
@@ -110,13 +114,10 @@
     "https://go.walsall.gov.uk/events/rhyme-time-0",
     "https://go.walsall.gov.uk/events/reading-friends-23",
     "https://go.walsall.gov.uk/housing/finding-home/private-rented-accommodation",
-    "https://go.walsall.gov.uk/planning-and-building-control/planning-developers/check-planning-history-building-or-piece-land",
-    "https://go.walsall.gov.uk/events/knit-and-natter-aldridge-0",
-    "https://go.walsall.gov.uk/newsroom/mayor-celebrates-community-inter-faith-dinner-pakistani-consulate",
-    "http://go.walsall.gov.uk/events/amazing-mr-hackwood-grushas-theatre-company",
-    "http://go.walsall.gov.uk/events/inflatable-and-floats-session-oak-park-active-living-centre-0",
-    "http://go.walsall.gov.uk/events/matchbox-monsters-family-drop-afternoon",
-    "http://go.walsall.gov.uk/newsroom/residents-invited-have-their-say-new-household-food-waste-collections"
+    "https://go.walsall.gov.uk/newsroom/christmas-miracle-needed-walsall",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Ffree-summer-adventure-scheme-returns-walsall-2026&rating=Good&title=Free+summer+adventure+scheme+returns+to+Walsall+for+2026+",
+    "https://go.walsall.gov.uk/feedback?page=%2Fparks-and-green-spaces%2Fvisit-our-parks-and-play-areas%2Fclayhanger-park&rating=Good&title=Clayhanger+Park",
+    "https://go.walsall.gov.uk/planning-and-building-control/planning-developers/check-planning-history-building-or-piece-land"
    ]
   },
   "VS-a0bdbdf6": {
@@ -131,9 +132,10 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 1337,
+   "lastPagesAffected": 1529,
    "lastAffectedPages": [
     "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
+    "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
     "http://go.walsall.gov.uk/events/saturday-storytime-6",
     "https://go.walsall.gov.uk/newsroom/mayor-walsall-shares-wisdom-primary-school-councillors",
     "https://go.walsall.gov.uk/events/stitchers-and-skivers-adult-craft-group-afternoon-5",
@@ -142,6 +144,8 @@
     "http://go.walsall.gov.uk/newsroom/finance-team-walsall-council-shortlisted-2024-public-finance-awards",
     "https://go.walsall.gov.uk/parks-and-green-spaces/visit-our-parks-and-play-areas/clayhanger-park",
     "https://go.walsall.gov.uk/planning-and-building-control/planning-policy/current-planning-policy/black-country-core-strategy",
+    "https://go.walsall.gov.uk/feedback?page=%2Fplanning-and-building-control%2Fplanning-policy%2Fhousing-land-supply&rating=Ok&title=Housing+land+supply",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-moves-forward-plans-improve-access-nature-across-borough&rating=Ok&title=Walsall+moves+forward+with+plans+to+improve+access+to+nature+across+the+borough",
     "https://go.walsall.gov.uk/newsroom/walsall-residents-invited-book-their-flu-and-covid-19-vaccines",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=service_type%3A357",
     "https://go.walsall.gov.uk/events/knit-and-natter-4",
@@ -151,13 +155,10 @@
     "https://go.walsall.gov.uk/events/rhyme-time-0",
     "https://go.walsall.gov.uk/events/reading-friends-23",
     "https://go.walsall.gov.uk/housing/finding-home/private-rented-accommodation",
-    "https://go.walsall.gov.uk/planning-and-building-control/planning-developers/check-planning-history-building-or-piece-land",
-    "https://go.walsall.gov.uk/events/knit-and-natter-aldridge-0",
-    "https://go.walsall.gov.uk/newsroom/mayor-celebrates-community-inter-faith-dinner-pakistani-consulate",
-    "http://go.walsall.gov.uk/events/amazing-mr-hackwood-grushas-theatre-company",
-    "http://go.walsall.gov.uk/events/inflatable-and-floats-session-oak-park-active-living-centre-0",
-    "http://go.walsall.gov.uk/events/matchbox-monsters-family-drop-afternoon",
-    "http://go.walsall.gov.uk/newsroom/residents-invited-have-their-say-new-household-food-waste-collections"
+    "https://go.walsall.gov.uk/newsroom/christmas-miracle-needed-walsall",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Ffree-summer-adventure-scheme-returns-walsall-2026&rating=Good&title=Free+summer+adventure+scheme+returns+to+Walsall+for+2026+",
+    "https://go.walsall.gov.uk/feedback?page=%2Fparks-and-green-spaces%2Fvisit-our-parks-and-play-areas%2Fclayhanger-park&rating=Good&title=Clayhanger+Park",
+    "https://go.walsall.gov.uk/planning-and-building-control/planning-developers/check-planning-history-building-or-piece-land"
    ]
   },
   "VS-d6097011": {
@@ -165,15 +166,16 @@
    "ruleId": "sia-r68",
    "summary": "Element has its required owned elements (WCAG 1.3.1)",
    "wcag": "1.3.1",
-   "severity": "Serious",
+   "severity": "Moderate",
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 685,
+   "lastPagesAffected": 777,
    "lastAffectedPages": [
+    "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
     "http://go.walsall.gov.uk/events/saturday-storytime-6",
     "https://go.walsall.gov.uk/events/stitchers-and-skivers-adult-craft-group-afternoon-5",
     "http://go.walsall.gov.uk/newsroom/walsall-councils-envirocrime-trailer-continues-fly-tipping-fight-next-stop-walsall",
@@ -186,6 +188,9 @@
     "https://go.walsall.gov.uk/events/1-2-1-beginner-ict-learning-streetly-0",
     "https://go.walsall.gov.uk/events/reading-friends-23",
     "https://go.walsall.gov.uk/housing/finding-home/private-rented-accommodation",
+    "https://go.walsall.gov.uk/newsroom/christmas-miracle-needed-walsall",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Ffree-summer-adventure-scheme-returns-walsall-2026&rating=Good&title=Free+summer+adventure+scheme+returns+to+Walsall+for+2026+",
+    "https://go.walsall.gov.uk/feedback?page=%2Fparks-and-green-spaces%2Fvisit-our-parks-and-play-areas%2Fclayhanger-park&rating=Good&title=Clayhanger+Park",
     "https://go.walsall.gov.uk/planning-and-building-control/planning-developers/check-planning-history-building-or-piece-land",
     "https://go.walsall.gov.uk/newsroom/mayor-celebrates-community-inter-faith-dinner-pakistani-consulate",
     "http://go.walsall.gov.uk/events/inflatable-and-floats-session-oak-park-active-living-centre-0",
@@ -194,11 +199,7 @@
     "http://go.walsall.gov.uk/newsroom/black-country-councils-paving-way-social-care-reform-welcome-uk-government-ministers",
     "http://go.walsall.gov.uk/newsroom/whats-walsall-april-2026",
     "https://go.walsall.gov.uk/feedback?page=%2Fpeople-and-communities%2Fwalsall-connected-get-help-get-online&rating=Poor&title=Walsall+Connected+-+get+help+to+get+online",
-    "https://go.walsall.gov.uk/newsroom/councils-commitment-equality-diversity-and-inclusion-outlined-new-strategy",
-    "http://go.walsall.gov.uk/parks-and-green-spaces/visit-our-countryside-and-nature-reserves/piggeries",
-    "http://go.walsall.gov.uk/feedback?page=%2Fhealth-and-social-care%2Flooking-after-your-mental-health%2Fmental-health-and-wellbeing-support&rating=Ok&title=Mental+health+and+wellbeing+support",
-    "http://go.walsall.gov.uk/events/knit-and-natter-28",
-    "http://go.walsall.gov.uk/newsroom/easter-holiday-fun-returns-walsall-leisure-centres-packed-activities-families"
+    "https://go.walsall.gov.uk/newsroom/councils-commitment-equality-diversity-and-inclusion-outlined-new-strategy"
    ]
   },
   "VS-0ddc2ac6": {
@@ -206,15 +207,16 @@
    "ruleId": "sia-r42",
    "summary": "Element in required WAI-ARIA context role (WCAG 1.3.1)",
    "wcag": "1.3.1",
-   "severity": "Serious",
+   "severity": "Moderate",
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 685,
+   "lastPagesAffected": 777,
    "lastAffectedPages": [
+    "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
     "http://go.walsall.gov.uk/events/saturday-storytime-6",
     "https://go.walsall.gov.uk/events/stitchers-and-skivers-adult-craft-group-afternoon-5",
     "http://go.walsall.gov.uk/newsroom/walsall-councils-envirocrime-trailer-continues-fly-tipping-fight-next-stop-walsall",
@@ -227,6 +229,9 @@
     "https://go.walsall.gov.uk/events/1-2-1-beginner-ict-learning-streetly-0",
     "https://go.walsall.gov.uk/events/reading-friends-23",
     "https://go.walsall.gov.uk/housing/finding-home/private-rented-accommodation",
+    "https://go.walsall.gov.uk/newsroom/christmas-miracle-needed-walsall",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Ffree-summer-adventure-scheme-returns-walsall-2026&rating=Good&title=Free+summer+adventure+scheme+returns+to+Walsall+for+2026+",
+    "https://go.walsall.gov.uk/feedback?page=%2Fparks-and-green-spaces%2Fvisit-our-parks-and-play-areas%2Fclayhanger-park&rating=Good&title=Clayhanger+Park",
     "https://go.walsall.gov.uk/planning-and-building-control/planning-developers/check-planning-history-building-or-piece-land",
     "https://go.walsall.gov.uk/newsroom/mayor-celebrates-community-inter-faith-dinner-pakistani-consulate",
     "http://go.walsall.gov.uk/events/inflatable-and-floats-session-oak-park-active-living-centre-0",
@@ -235,11 +240,7 @@
     "http://go.walsall.gov.uk/newsroom/black-country-councils-paving-way-social-care-reform-welcome-uk-government-ministers",
     "http://go.walsall.gov.uk/newsroom/whats-walsall-april-2026",
     "https://go.walsall.gov.uk/feedback?page=%2Fpeople-and-communities%2Fwalsall-connected-get-help-get-online&rating=Poor&title=Walsall+Connected+-+get+help+to+get+online",
-    "https://go.walsall.gov.uk/newsroom/councils-commitment-equality-diversity-and-inclusion-outlined-new-strategy",
-    "http://go.walsall.gov.uk/parks-and-green-spaces/visit-our-countryside-and-nature-reserves/piggeries",
-    "http://go.walsall.gov.uk/feedback?page=%2Fhealth-and-social-care%2Flooking-after-your-mental-health%2Fmental-health-and-wellbeing-support&rating=Ok&title=Mental+health+and+wellbeing+support",
-    "http://go.walsall.gov.uk/events/knit-and-natter-28",
-    "http://go.walsall.gov.uk/newsroom/easter-holiday-fun-returns-walsall-leisure-centres-packed-activities-families"
+    "https://go.walsall.gov.uk/newsroom/councils-commitment-equality-diversity-and-inclusion-outlined-new-strategy"
    ]
   },
   "VS-e7298c00": {
@@ -254,9 +255,10 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 1337,
+   "lastPagesAffected": 1529,
    "lastAffectedPages": [
     "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
+    "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
     "http://go.walsall.gov.uk/events/saturday-storytime-6",
     "https://go.walsall.gov.uk/newsroom/mayor-walsall-shares-wisdom-primary-school-councillors",
     "https://go.walsall.gov.uk/events/stitchers-and-skivers-adult-craft-group-afternoon-5",
@@ -265,6 +267,8 @@
     "http://go.walsall.gov.uk/newsroom/finance-team-walsall-council-shortlisted-2024-public-finance-awards",
     "https://go.walsall.gov.uk/parks-and-green-spaces/visit-our-parks-and-play-areas/clayhanger-park",
     "https://go.walsall.gov.uk/planning-and-building-control/planning-policy/current-planning-policy/black-country-core-strategy",
+    "https://go.walsall.gov.uk/feedback?page=%2Fplanning-and-building-control%2Fplanning-policy%2Fhousing-land-supply&rating=Ok&title=Housing+land+supply",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-moves-forward-plans-improve-access-nature-across-borough&rating=Ok&title=Walsall+moves+forward+with+plans+to+improve+access+to+nature+across+the+borough",
     "https://go.walsall.gov.uk/newsroom/walsall-residents-invited-book-their-flu-and-covid-19-vaccines",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=service_type%3A357",
     "https://go.walsall.gov.uk/events/knit-and-natter-4",
@@ -274,13 +278,10 @@
     "https://go.walsall.gov.uk/events/rhyme-time-0",
     "https://go.walsall.gov.uk/events/reading-friends-23",
     "https://go.walsall.gov.uk/housing/finding-home/private-rented-accommodation",
-    "https://go.walsall.gov.uk/planning-and-building-control/planning-developers/check-planning-history-building-or-piece-land",
-    "https://go.walsall.gov.uk/events/knit-and-natter-aldridge-0",
-    "https://go.walsall.gov.uk/newsroom/mayor-celebrates-community-inter-faith-dinner-pakistani-consulate",
-    "http://go.walsall.gov.uk/events/amazing-mr-hackwood-grushas-theatre-company",
-    "http://go.walsall.gov.uk/events/inflatable-and-floats-session-oak-park-active-living-centre-0",
-    "http://go.walsall.gov.uk/events/matchbox-monsters-family-drop-afternoon",
-    "http://go.walsall.gov.uk/newsroom/residents-invited-have-their-say-new-household-food-waste-collections"
+    "https://go.walsall.gov.uk/newsroom/christmas-miracle-needed-walsall",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Ffree-summer-adventure-scheme-returns-walsall-2026&rating=Good&title=Free+summer+adventure+scheme+returns+to+Walsall+for+2026+",
+    "https://go.walsall.gov.uk/feedback?page=%2Fparks-and-green-spaces%2Fvisit-our-parks-and-play-areas%2Fclayhanger-park&rating=Good&title=Clayhanger+Park",
+    "https://go.walsall.gov.uk/planning-and-building-control/planning-developers/check-planning-history-building-or-piece-land"
    ]
   },
   "VS-af36d20c": {
@@ -295,13 +296,14 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 38,
+   "lastPagesAffected": 41,
    "lastAffectedPages": [
     "http://go.walsall.gov.uk/health-and-social-care/adult-social-care-commissioning",
     "https://go.walsall.gov.uk/business/trading-standards",
     "http://go.walsall.gov.uk/births-marriages-and-deaths/births",
     "https://go.walsall.gov.uk/schools-and-learning/school-meals/free-school-meals",
     "https://go.walsall.gov.uk/council-tax",
+    "https://go.walsall.gov.uk/your-council/biography-current-mayor-walsall/mayoral-invitations",
     "http://go.walsall.gov.uk/people-and-communities/policing-and-public-safety/stray-lost-or-dangerous-dogs",
     "https://go.walsall.gov.uk/contact-walsall-council",
     "https://go.walsall.gov.uk/business/doing-business-with-the-council/pay-invoice-sent-council",
@@ -315,54 +317,12 @@
     "https://go.walsall.gov.uk/children-and-young-people/family-help/apply-volunteer-walsall-right-4-children",
     "http://go.walsall.gov.uk/health-and-social-care/talking-us-and-holding-us-account",
     "https://go.walsall.gov.uk/business/licensing-and-regulation/animal-licensing",
+    "https://go.walsall.gov.uk/schools-and-learning/school-admissions",
+    "https://go.walsall.gov.uk/benefits",
     "https://go.walsall.gov.uk/people-and-communities/assets-community-value",
     "http://go.walsall.gov.uk/housing/boats-and-caravans/traveller-caravan-count",
     "https://go.walsall.gov.uk/your-council/consultations/past-consultations",
-    "https://go.walsall.gov.uk/planning-and-building-control/planning-householders/pay-your-planning-fee-and-other-charges",
-    "https://go.walsall.gov.uk/walsall-libraries/our-libraries/darlaston-district-library",
-    "http://go.walsall.gov.uk/node/3030",
-    "http://go.walsall.gov.uk/children-and-young-people/children-care-and-care-leavers/local-offer-care-leavers/transition-and"
-   ]
-  },
-  "VS-a48e6078": {
-   "engine": "Siteimprove Alfa",
-   "ruleId": "sia-r8",
-   "summary": "Form field has accessible name (WCAG 4.1.2)",
-   "wcag": "4.1.2",
-   "severity": "Serious",
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 685,
-   "lastAffectedPages": [
-    "http://go.walsall.gov.uk/events/saturday-storytime-6",
-    "https://go.walsall.gov.uk/events/stitchers-and-skivers-adult-craft-group-afternoon-5",
-    "http://go.walsall.gov.uk/newsroom/walsall-councils-envirocrime-trailer-continues-fly-tipping-fight-next-stop-walsall",
-    "http://go.walsall.gov.uk/events/board-games",
-    "http://go.walsall.gov.uk/newsroom/finance-team-walsall-council-shortlisted-2024-public-finance-awards",
-    "https://go.walsall.gov.uk/parks-and-green-spaces/visit-our-parks-and-play-areas/clayhanger-park",
-    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=service_type%3A357",
-    "https://go.walsall.gov.uk/events/knit-and-natter-4",
-    "http://go.walsall.gov.uk/children-and-young-people/holiday-activities-programme-haf/haf-and-send",
-    "https://go.walsall.gov.uk/events/1-2-1-beginner-ict-learning-streetly-0",
-    "https://go.walsall.gov.uk/events/reading-friends-23",
-    "https://go.walsall.gov.uk/housing/finding-home/private-rented-accommodation",
-    "https://go.walsall.gov.uk/planning-and-building-control/planning-developers/check-planning-history-building-or-piece-land",
-    "https://go.walsall.gov.uk/newsroom/mayor-celebrates-community-inter-faith-dinner-pakistani-consulate",
-    "http://go.walsall.gov.uk/events/inflatable-and-floats-session-oak-park-active-living-centre-0",
-    "http://go.walsall.gov.uk/events/matchbox-monsters-family-drop-afternoon",
-    "http://go.walsall.gov.uk/newsroom/residents-invited-have-their-say-new-household-food-waste-collections",
-    "http://go.walsall.gov.uk/newsroom/black-country-councils-paving-way-social-care-reform-welcome-uk-government-ministers",
-    "http://go.walsall.gov.uk/newsroom/whats-walsall-april-2026",
-    "https://go.walsall.gov.uk/feedback?page=%2Fpeople-and-communities%2Fwalsall-connected-get-help-get-online&rating=Poor&title=Walsall+Connected+-+get+help+to+get+online",
-    "https://go.walsall.gov.uk/newsroom/councils-commitment-equality-diversity-and-inclusion-outlined-new-strategy",
-    "http://go.walsall.gov.uk/parks-and-green-spaces/visit-our-countryside-and-nature-reserves/piggeries",
-    "http://go.walsall.gov.uk/feedback?page=%2Fhealth-and-social-care%2Flooking-after-your-mental-health%2Fmental-health-and-wellbeing-support&rating=Ok&title=Mental+health+and+wellbeing+support",
-    "http://go.walsall.gov.uk/events/knit-and-natter-28",
-    "http://go.walsall.gov.uk/newsroom/easter-holiday-fun-returns-walsall-leisure-centres-packed-activities-families"
+    "https://go.walsall.gov.uk/planning-and-building-control/planning-householders/pay-your-planning-fee-and-other-charges"
    ]
   },
   "VS-ebb1c464": {
@@ -377,8 +337,12 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 269,
+   "lastPagesAffected": 325,
    "lastAffectedPages": [
+    "https://go.walsall.gov.uk/feedback?page=%2Fplanning-and-building-control%2Fplanning-policy%2Fhousing-land-supply&rating=Ok&title=Housing+land+supply",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-moves-forward-plans-improve-access-nature-across-borough&rating=Ok&title=Walsall+moves+forward+with+plans+to+improve+access+to+nature+across+the+borough",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Ffree-summer-adventure-scheme-returns-walsall-2026&rating=Good&title=Free+summer+adventure+scheme+returns+to+Walsall+for+2026+",
+    "https://go.walsall.gov.uk/feedback?page=%2Fparks-and-green-spaces%2Fvisit-our-parks-and-play-areas%2Fclayhanger-park&rating=Good&title=Clayhanger+Park",
     "https://go.walsall.gov.uk/feedback?page=%2Fpeople-and-communities%2Fwalsall-connected-get-help-get-online&rating=Poor&title=Walsall+Connected+-+get+help+to+get+online",
     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-trading-standards-ensures-road-safety-and-borough-wide-weighbridge-inspection&rating=Good&title=Walsall+Trading+Standards+ensures+road+safety+and+borough-wide+Weighbridge+inspection",
     "http://go.walsall.gov.uk/feedback?page=%2Fhealth-and-social-care%2Flooking-after-your-mental-health%2Fmental-health-and-wellbeing-support&rating=Ok&title=Mental+health+and+wellbeing+support",
@@ -399,11 +363,7 @@
     "https://go.walsall.gov.uk/feedback?page=%2Fhousing%2Fhousing-safety-and-standards%2Fovercrowding-privately-rented-homes&rating=Poor&title=Overcrowding+in+privately+rented+homes",
     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-council-launches-initiative-establish-community-shops&rating=Good&title=Walsall+Council+launches+initiative+to+establish+community+shops",
     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-council-celebrates-holy-month-ramadan&rating=Good&title=Walsall+Council+celebrates+the+Holy+Month+of+Ramadan+",
-    "http://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fprize-winners-artwork-now-display&rating=Ok&title=Prize-winners%27+artwork+now+on+display",
-    "https://go.walsall.gov.uk/feedback?page=%2Fwalsall-libraries%2Fresources%2Freservation&rating=Poor&title=Reservation",
-    "https://go.walsall.gov.uk/feedback?page=%2Fyour-council%2Fopen-data%2Fdatasets%2Fspeed-cameras&rating=Good&title=Speed+cameras",
-    "http://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fquit-smoking-winter-free-local-support-walsall&rating=Ok&title=Quit+smoking+this+winter+with+free+local+support+in+Walsall",
-    "http://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fnight-time-works-planned-yorks-bridge-project&rating=Good&title=Night-time+works+planned+for+York%E2%80%99s+Bridge+project"
+    "http://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fprize-winners-artwork-now-display&rating=Ok&title=Prize-winners%27+artwork+now+on+display"
    ]
   },
   "VS-3f76c7ea": {
@@ -425,6 +385,47 @@
     "http://go.walsall.gov.uk/bins/find-household-waste-recycling-centres-tips/fryers-road-household-waste-recycling-centre"
    ]
   },
+  "VS-a48e6078": {
+   "engine": "Siteimprove Alfa",
+   "ruleId": "sia-r8",
+   "summary": "Form field has accessible name (WCAG 4.1.2)",
+   "wcag": "4.1.2",
+   "severity": "Moderate",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 777,
+   "lastAffectedPages": [
+    "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
+    "http://go.walsall.gov.uk/events/saturday-storytime-6",
+    "https://go.walsall.gov.uk/events/stitchers-and-skivers-adult-craft-group-afternoon-5",
+    "http://go.walsall.gov.uk/newsroom/walsall-councils-envirocrime-trailer-continues-fly-tipping-fight-next-stop-walsall",
+    "http://go.walsall.gov.uk/events/board-games",
+    "http://go.walsall.gov.uk/newsroom/finance-team-walsall-council-shortlisted-2024-public-finance-awards",
+    "https://go.walsall.gov.uk/parks-and-green-spaces/visit-our-parks-and-play-areas/clayhanger-park",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=service_type%3A357",
+    "https://go.walsall.gov.uk/events/knit-and-natter-4",
+    "http://go.walsall.gov.uk/children-and-young-people/holiday-activities-programme-haf/haf-and-send",
+    "https://go.walsall.gov.uk/events/1-2-1-beginner-ict-learning-streetly-0",
+    "https://go.walsall.gov.uk/events/reading-friends-23",
+    "https://go.walsall.gov.uk/housing/finding-home/private-rented-accommodation",
+    "https://go.walsall.gov.uk/newsroom/christmas-miracle-needed-walsall",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Ffree-summer-adventure-scheme-returns-walsall-2026&rating=Good&title=Free+summer+adventure+scheme+returns+to+Walsall+for+2026+",
+    "https://go.walsall.gov.uk/feedback?page=%2Fparks-and-green-spaces%2Fvisit-our-parks-and-play-areas%2Fclayhanger-park&rating=Good&title=Clayhanger+Park",
+    "https://go.walsall.gov.uk/planning-and-building-control/planning-developers/check-planning-history-building-or-piece-land",
+    "https://go.walsall.gov.uk/newsroom/mayor-celebrates-community-inter-faith-dinner-pakistani-consulate",
+    "http://go.walsall.gov.uk/events/inflatable-and-floats-session-oak-park-active-living-centre-0",
+    "http://go.walsall.gov.uk/events/matchbox-monsters-family-drop-afternoon",
+    "http://go.walsall.gov.uk/newsroom/residents-invited-have-their-say-new-household-food-waste-collections",
+    "http://go.walsall.gov.uk/newsroom/black-country-councils-paving-way-social-care-reform-welcome-uk-government-ministers",
+    "http://go.walsall.gov.uk/newsroom/whats-walsall-april-2026",
+    "https://go.walsall.gov.uk/feedback?page=%2Fpeople-and-communities%2Fwalsall-connected-get-help-get-online&rating=Poor&title=Walsall+Connected+-+get+help+to+get+online",
+    "https://go.walsall.gov.uk/newsroom/councils-commitment-equality-diversity-and-inclusion-outlined-new-strategy"
+   ]
+  },
   "VS-be8d563e": {
    "engine": "axe-core",
    "ruleId": "color-contrast",
@@ -437,9 +438,10 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 1337,
+   "lastPagesAffected": 1529,
    "lastAffectedPages": [
     "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
+    "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
     "http://go.walsall.gov.uk/events/saturday-storytime-6",
     "https://go.walsall.gov.uk/newsroom/mayor-walsall-shares-wisdom-primary-school-councillors",
     "https://go.walsall.gov.uk/events/stitchers-and-skivers-adult-craft-group-afternoon-5",
@@ -448,6 +450,8 @@
     "http://go.walsall.gov.uk/newsroom/finance-team-walsall-council-shortlisted-2024-public-finance-awards",
     "https://go.walsall.gov.uk/parks-and-green-spaces/visit-our-parks-and-play-areas/clayhanger-park",
     "https://go.walsall.gov.uk/planning-and-building-control/planning-policy/current-planning-policy/black-country-core-strategy",
+    "https://go.walsall.gov.uk/feedback?page=%2Fplanning-and-building-control%2Fplanning-policy%2Fhousing-land-supply&rating=Ok&title=Housing+land+supply",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-moves-forward-plans-improve-access-nature-across-borough&rating=Ok&title=Walsall+moves+forward+with+plans+to+improve+access+to+nature+across+the+borough",
     "https://go.walsall.gov.uk/newsroom/walsall-residents-invited-book-their-flu-and-covid-19-vaccines",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=service_type%3A357",
     "https://go.walsall.gov.uk/events/knit-and-natter-4",
@@ -457,13 +461,10 @@
     "https://go.walsall.gov.uk/events/rhyme-time-0",
     "https://go.walsall.gov.uk/events/reading-friends-23",
     "https://go.walsall.gov.uk/housing/finding-home/private-rented-accommodation",
-    "https://go.walsall.gov.uk/planning-and-building-control/planning-developers/check-planning-history-building-or-piece-land",
-    "https://go.walsall.gov.uk/events/knit-and-natter-aldridge-0",
-    "https://go.walsall.gov.uk/newsroom/mayor-celebrates-community-inter-faith-dinner-pakistani-consulate",
-    "http://go.walsall.gov.uk/events/amazing-mr-hackwood-grushas-theatre-company",
-    "http://go.walsall.gov.uk/events/inflatable-and-floats-session-oak-park-active-living-centre-0",
-    "http://go.walsall.gov.uk/events/matchbox-monsters-family-drop-afternoon",
-    "http://go.walsall.gov.uk/newsroom/residents-invited-have-their-say-new-household-food-waste-collections"
+    "https://go.walsall.gov.uk/newsroom/christmas-miracle-needed-walsall",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Ffree-summer-adventure-scheme-returns-walsall-2026&rating=Good&title=Free+summer+adventure+scheme+returns+to+Walsall+for+2026+",
+    "https://go.walsall.gov.uk/feedback?page=%2Fparks-and-green-spaces%2Fvisit-our-parks-and-play-areas%2Fclayhanger-park&rating=Good&title=Clayhanger+Park",
+    "https://go.walsall.gov.uk/planning-and-building-control/planning-developers/check-planning-history-building-or-piece-land"
    ]
   },
   "VS-f7e99f4b": {
@@ -471,15 +472,16 @@
    "ruleId": "sia-r69",
    "summary": "Text has minimum contrast (WCAG 1.4.3)",
    "wcag": "1.4.3",
-   "severity": "Serious",
+   "severity": "Moderate",
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 685,
+   "lastPagesAffected": 777,
    "lastAffectedPages": [
+    "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
     "http://go.walsall.gov.uk/events/saturday-storytime-6",
     "https://go.walsall.gov.uk/events/stitchers-and-skivers-adult-craft-group-afternoon-5",
     "http://go.walsall.gov.uk/newsroom/walsall-councils-envirocrime-trailer-continues-fly-tipping-fight-next-stop-walsall",
@@ -492,6 +494,9 @@
     "https://go.walsall.gov.uk/events/1-2-1-beginner-ict-learning-streetly-0",
     "https://go.walsall.gov.uk/events/reading-friends-23",
     "https://go.walsall.gov.uk/housing/finding-home/private-rented-accommodation",
+    "https://go.walsall.gov.uk/newsroom/christmas-miracle-needed-walsall",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Ffree-summer-adventure-scheme-returns-walsall-2026&rating=Good&title=Free+summer+adventure+scheme+returns+to+Walsall+for+2026+",
+    "https://go.walsall.gov.uk/feedback?page=%2Fparks-and-green-spaces%2Fvisit-our-parks-and-play-areas%2Fclayhanger-park&rating=Good&title=Clayhanger+Park",
     "https://go.walsall.gov.uk/planning-and-building-control/planning-developers/check-planning-history-building-or-piece-land",
     "https://go.walsall.gov.uk/newsroom/mayor-celebrates-community-inter-faith-dinner-pakistani-consulate",
     "http://go.walsall.gov.uk/events/inflatable-and-floats-session-oak-park-active-living-centre-0",
@@ -500,11 +505,7 @@
     "http://go.walsall.gov.uk/newsroom/black-country-councils-paving-way-social-care-reform-welcome-uk-government-ministers",
     "http://go.walsall.gov.uk/newsroom/whats-walsall-april-2026",
     "https://go.walsall.gov.uk/feedback?page=%2Fpeople-and-communities%2Fwalsall-connected-get-help-get-online&rating=Poor&title=Walsall+Connected+-+get+help+to+get+online",
-    "https://go.walsall.gov.uk/newsroom/councils-commitment-equality-diversity-and-inclusion-outlined-new-strategy",
-    "http://go.walsall.gov.uk/parks-and-green-spaces/visit-our-countryside-and-nature-reserves/piggeries",
-    "http://go.walsall.gov.uk/feedback?page=%2Fhealth-and-social-care%2Flooking-after-your-mental-health%2Fmental-health-and-wellbeing-support&rating=Ok&title=Mental+health+and+wellbeing+support",
-    "http://go.walsall.gov.uk/events/knit-and-natter-28",
-    "http://go.walsall.gov.uk/newsroom/easter-holiday-fun-returns-walsall-leisure-centres-packed-activities-families"
+    "https://go.walsall.gov.uk/newsroom/councils-commitment-equality-diversity-and-inclusion-outlined-new-strategy"
    ]
   },
   "VS-646b1e0b": {
@@ -512,15 +513,16 @@
    "ruleId": "sia-r66",
    "summary": "Text has enhanced contrast (WCAG 1.4.6)",
    "wcag": "1.4.6",
-   "severity": "Serious",
+   "severity": "Moderate",
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 685,
+   "lastPagesAffected": 777,
    "lastAffectedPages": [
+    "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
     "http://go.walsall.gov.uk/events/saturday-storytime-6",
     "https://go.walsall.gov.uk/events/stitchers-and-skivers-adult-craft-group-afternoon-5",
     "http://go.walsall.gov.uk/newsroom/walsall-councils-envirocrime-trailer-continues-fly-tipping-fight-next-stop-walsall",
@@ -533,6 +535,9 @@
     "https://go.walsall.gov.uk/events/1-2-1-beginner-ict-learning-streetly-0",
     "https://go.walsall.gov.uk/events/reading-friends-23",
     "https://go.walsall.gov.uk/housing/finding-home/private-rented-accommodation",
+    "https://go.walsall.gov.uk/newsroom/christmas-miracle-needed-walsall",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Ffree-summer-adventure-scheme-returns-walsall-2026&rating=Good&title=Free+summer+adventure+scheme+returns+to+Walsall+for+2026+",
+    "https://go.walsall.gov.uk/feedback?page=%2Fparks-and-green-spaces%2Fvisit-our-parks-and-play-areas%2Fclayhanger-park&rating=Good&title=Clayhanger+Park",
     "https://go.walsall.gov.uk/planning-and-building-control/planning-developers/check-planning-history-building-or-piece-land",
     "https://go.walsall.gov.uk/newsroom/mayor-celebrates-community-inter-faith-dinner-pakistani-consulate",
     "http://go.walsall.gov.uk/events/inflatable-and-floats-session-oak-park-active-living-centre-0",
@@ -541,11 +546,7 @@
     "http://go.walsall.gov.uk/newsroom/black-country-councils-paving-way-social-care-reform-welcome-uk-government-ministers",
     "http://go.walsall.gov.uk/newsroom/whats-walsall-april-2026",
     "https://go.walsall.gov.uk/feedback?page=%2Fpeople-and-communities%2Fwalsall-connected-get-help-get-online&rating=Poor&title=Walsall+Connected+-+get+help+to+get+online",
-    "https://go.walsall.gov.uk/newsroom/councils-commitment-equality-diversity-and-inclusion-outlined-new-strategy",
-    "http://go.walsall.gov.uk/parks-and-green-spaces/visit-our-countryside-and-nature-reserves/piggeries",
-    "http://go.walsall.gov.uk/feedback?page=%2Fhealth-and-social-care%2Flooking-after-your-mental-health%2Fmental-health-and-wellbeing-support&rating=Ok&title=Mental+health+and+wellbeing+support",
-    "http://go.walsall.gov.uk/events/knit-and-natter-28",
-    "http://go.walsall.gov.uk/newsroom/easter-holiday-fun-returns-walsall-leisure-centres-packed-activities-families"
+    "https://go.walsall.gov.uk/newsroom/councils-commitment-equality-diversity-and-inclusion-outlined-new-strategy"
    ]
   },
   "VS-fbf54eba": {
@@ -553,15 +554,16 @@
    "ruleId": "sia-r74",
    "summary": "Paragraph font size uses a relative unit (WCAG 1.4.8)",
    "wcag": "1.4.8",
-   "severity": "Serious",
+   "severity": "Moderate",
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 685,
+   "lastPagesAffected": 777,
    "lastAffectedPages": [
+    "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
     "http://go.walsall.gov.uk/events/saturday-storytime-6",
     "https://go.walsall.gov.uk/events/stitchers-and-skivers-adult-craft-group-afternoon-5",
     "http://go.walsall.gov.uk/newsroom/walsall-councils-envirocrime-trailer-continues-fly-tipping-fight-next-stop-walsall",
@@ -574,6 +576,9 @@
     "https://go.walsall.gov.uk/events/1-2-1-beginner-ict-learning-streetly-0",
     "https://go.walsall.gov.uk/events/reading-friends-23",
     "https://go.walsall.gov.uk/housing/finding-home/private-rented-accommodation",
+    "https://go.walsall.gov.uk/newsroom/christmas-miracle-needed-walsall",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Ffree-summer-adventure-scheme-returns-walsall-2026&rating=Good&title=Free+summer+adventure+scheme+returns+to+Walsall+for+2026+",
+    "https://go.walsall.gov.uk/feedback?page=%2Fparks-and-green-spaces%2Fvisit-our-parks-and-play-areas%2Fclayhanger-park&rating=Good&title=Clayhanger+Park",
     "https://go.walsall.gov.uk/planning-and-building-control/planning-developers/check-planning-history-building-or-piece-land",
     "https://go.walsall.gov.uk/newsroom/mayor-celebrates-community-inter-faith-dinner-pakistani-consulate",
     "http://go.walsall.gov.uk/events/inflatable-and-floats-session-oak-park-active-living-centre-0",
@@ -582,11 +587,7 @@
     "http://go.walsall.gov.uk/newsroom/black-country-councils-paving-way-social-care-reform-welcome-uk-government-ministers",
     "http://go.walsall.gov.uk/newsroom/whats-walsall-april-2026",
     "https://go.walsall.gov.uk/feedback?page=%2Fpeople-and-communities%2Fwalsall-connected-get-help-get-online&rating=Poor&title=Walsall+Connected+-+get+help+to+get+online",
-    "https://go.walsall.gov.uk/newsroom/councils-commitment-equality-diversity-and-inclusion-outlined-new-strategy",
-    "http://go.walsall.gov.uk/parks-and-green-spaces/visit-our-countryside-and-nature-reserves/piggeries",
-    "http://go.walsall.gov.uk/feedback?page=%2Fhealth-and-social-care%2Flooking-after-your-mental-health%2Fmental-health-and-wellbeing-support&rating=Ok&title=Mental+health+and+wellbeing+support",
-    "http://go.walsall.gov.uk/events/knit-and-natter-28",
-    "http://go.walsall.gov.uk/newsroom/easter-holiday-fun-returns-walsall-leisure-centres-packed-activities-families"
+    "https://go.walsall.gov.uk/newsroom/councils-commitment-equality-diversity-and-inclusion-outlined-new-strategy"
    ]
   },
   "VS-2208081b": {
@@ -594,15 +595,16 @@
    "ruleId": "sia-r73",
    "summary": "Paragraph line height is at least 1.5 (WCAG 1.4.8)",
    "wcag": "1.4.8",
-   "severity": "Serious",
+   "severity": "Moderate",
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 685,
+   "lastPagesAffected": 777,
    "lastAffectedPages": [
+    "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
     "http://go.walsall.gov.uk/events/saturday-storytime-6",
     "https://go.walsall.gov.uk/events/stitchers-and-skivers-adult-craft-group-afternoon-5",
     "http://go.walsall.gov.uk/newsroom/walsall-councils-envirocrime-trailer-continues-fly-tipping-fight-next-stop-walsall",
@@ -615,6 +617,9 @@
     "https://go.walsall.gov.uk/events/1-2-1-beginner-ict-learning-streetly-0",
     "https://go.walsall.gov.uk/events/reading-friends-23",
     "https://go.walsall.gov.uk/housing/finding-home/private-rented-accommodation",
+    "https://go.walsall.gov.uk/newsroom/christmas-miracle-needed-walsall",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Ffree-summer-adventure-scheme-returns-walsall-2026&rating=Good&title=Free+summer+adventure+scheme+returns+to+Walsall+for+2026+",
+    "https://go.walsall.gov.uk/feedback?page=%2Fparks-and-green-spaces%2Fvisit-our-parks-and-play-areas%2Fclayhanger-park&rating=Good&title=Clayhanger+Park",
     "https://go.walsall.gov.uk/planning-and-building-control/planning-developers/check-planning-history-building-or-piece-land",
     "https://go.walsall.gov.uk/newsroom/mayor-celebrates-community-inter-faith-dinner-pakistani-consulate",
     "http://go.walsall.gov.uk/events/inflatable-and-floats-session-oak-park-active-living-centre-0",
@@ -623,11 +628,7 @@
     "http://go.walsall.gov.uk/newsroom/black-country-councils-paving-way-social-care-reform-welcome-uk-government-ministers",
     "http://go.walsall.gov.uk/newsroom/whats-walsall-april-2026",
     "https://go.walsall.gov.uk/feedback?page=%2Fpeople-and-communities%2Fwalsall-connected-get-help-get-online&rating=Poor&title=Walsall+Connected+-+get+help+to+get+online",
-    "https://go.walsall.gov.uk/newsroom/councils-commitment-equality-diversity-and-inclusion-outlined-new-strategy",
-    "http://go.walsall.gov.uk/parks-and-green-spaces/visit-our-countryside-and-nature-reserves/piggeries",
-    "http://go.walsall.gov.uk/feedback?page=%2Fhealth-and-social-care%2Flooking-after-your-mental-health%2Fmental-health-and-wellbeing-support&rating=Ok&title=Mental+health+and+wellbeing+support",
-    "http://go.walsall.gov.uk/events/knit-and-natter-28",
-    "http://go.walsall.gov.uk/newsroom/easter-holiday-fun-returns-walsall-leisure-centres-packed-activities-families"
+    "https://go.walsall.gov.uk/newsroom/councils-commitment-equality-diversity-and-inclusion-outlined-new-strategy"
    ]
   },
   "VS-cb53cc4d": {
@@ -635,15 +636,16 @@
    "ruleId": "sia-r111",
    "summary": "Target size is at least 44×44 CSS pixels (Enhanced) (WCAG 2.5.5)",
    "wcag": "2.5.5",
-   "severity": "Serious",
+   "severity": "Moderate",
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 685,
+   "lastPagesAffected": 777,
    "lastAffectedPages": [
+    "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
     "http://go.walsall.gov.uk/events/saturday-storytime-6",
     "https://go.walsall.gov.uk/events/stitchers-and-skivers-adult-craft-group-afternoon-5",
     "http://go.walsall.gov.uk/newsroom/walsall-councils-envirocrime-trailer-continues-fly-tipping-fight-next-stop-walsall",
@@ -656,6 +658,9 @@
     "https://go.walsall.gov.uk/events/1-2-1-beginner-ict-learning-streetly-0",
     "https://go.walsall.gov.uk/events/reading-friends-23",
     "https://go.walsall.gov.uk/housing/finding-home/private-rented-accommodation",
+    "https://go.walsall.gov.uk/newsroom/christmas-miracle-needed-walsall",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Ffree-summer-adventure-scheme-returns-walsall-2026&rating=Good&title=Free+summer+adventure+scheme+returns+to+Walsall+for+2026+",
+    "https://go.walsall.gov.uk/feedback?page=%2Fparks-and-green-spaces%2Fvisit-our-parks-and-play-areas%2Fclayhanger-park&rating=Good&title=Clayhanger+Park",
     "https://go.walsall.gov.uk/planning-and-building-control/planning-developers/check-planning-history-building-or-piece-land",
     "https://go.walsall.gov.uk/newsroom/mayor-celebrates-community-inter-faith-dinner-pakistani-consulate",
     "http://go.walsall.gov.uk/events/inflatable-and-floats-session-oak-park-active-living-centre-0",
@@ -664,11 +669,7 @@
     "http://go.walsall.gov.uk/newsroom/black-country-councils-paving-way-social-care-reform-welcome-uk-government-ministers",
     "http://go.walsall.gov.uk/newsroom/whats-walsall-april-2026",
     "https://go.walsall.gov.uk/feedback?page=%2Fpeople-and-communities%2Fwalsall-connected-get-help-get-online&rating=Poor&title=Walsall+Connected+-+get+help+to+get+online",
-    "https://go.walsall.gov.uk/newsroom/councils-commitment-equality-diversity-and-inclusion-outlined-new-strategy",
-    "http://go.walsall.gov.uk/parks-and-green-spaces/visit-our-countryside-and-nature-reserves/piggeries",
-    "http://go.walsall.gov.uk/feedback?page=%2Fhealth-and-social-care%2Flooking-after-your-mental-health%2Fmental-health-and-wellbeing-support&rating=Ok&title=Mental+health+and+wellbeing+support",
-    "http://go.walsall.gov.uk/events/knit-and-natter-28",
-    "http://go.walsall.gov.uk/newsroom/easter-holiday-fun-returns-walsall-leisure-centres-packed-activities-families"
+    "https://go.walsall.gov.uk/newsroom/councils-commitment-equality-diversity-and-inclusion-outlined-new-strategy"
    ]
   },
   "VS-f18df681": {
@@ -683,9 +684,10 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 1337,
+   "lastPagesAffected": 1529,
    "lastAffectedPages": [
     "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
+    "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
     "http://go.walsall.gov.uk/events/saturday-storytime-6",
     "https://go.walsall.gov.uk/newsroom/mayor-walsall-shares-wisdom-primary-school-councillors",
     "https://go.walsall.gov.uk/events/stitchers-and-skivers-adult-craft-group-afternoon-5",
@@ -694,6 +696,8 @@
     "http://go.walsall.gov.uk/newsroom/finance-team-walsall-council-shortlisted-2024-public-finance-awards",
     "https://go.walsall.gov.uk/parks-and-green-spaces/visit-our-parks-and-play-areas/clayhanger-park",
     "https://go.walsall.gov.uk/planning-and-building-control/planning-policy/current-planning-policy/black-country-core-strategy",
+    "https://go.walsall.gov.uk/feedback?page=%2Fplanning-and-building-control%2Fplanning-policy%2Fhousing-land-supply&rating=Ok&title=Housing+land+supply",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-moves-forward-plans-improve-access-nature-across-borough&rating=Ok&title=Walsall+moves+forward+with+plans+to+improve+access+to+nature+across+the+borough",
     "https://go.walsall.gov.uk/newsroom/walsall-residents-invited-book-their-flu-and-covid-19-vaccines",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=service_type%3A357",
     "https://go.walsall.gov.uk/events/knit-and-natter-4",
@@ -703,136 +707,10 @@
     "https://go.walsall.gov.uk/events/rhyme-time-0",
     "https://go.walsall.gov.uk/events/reading-friends-23",
     "https://go.walsall.gov.uk/housing/finding-home/private-rented-accommodation",
-    "https://go.walsall.gov.uk/planning-and-building-control/planning-developers/check-planning-history-building-or-piece-land",
-    "https://go.walsall.gov.uk/events/knit-and-natter-aldridge-0",
-    "https://go.walsall.gov.uk/newsroom/mayor-celebrates-community-inter-faith-dinner-pakistani-consulate",
-    "http://go.walsall.gov.uk/events/amazing-mr-hackwood-grushas-theatre-company",
-    "http://go.walsall.gov.uk/events/inflatable-and-floats-session-oak-park-active-living-centre-0",
-    "http://go.walsall.gov.uk/events/matchbox-monsters-family-drop-afternoon",
-    "http://go.walsall.gov.uk/newsroom/residents-invited-have-their-say-new-household-food-waste-collections"
-   ]
-  },
-  "VS-e5ec42f0": {
-   "engine": "Siteimprove Alfa",
-   "ruleId": "sia-r72",
-   "summary": "Paragraph text is not all uppercase (best practice, not a WCAG requirement)",
-   "wcag": null,
-   "severity": "Serious",
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 685,
-   "lastAffectedPages": [
-    "http://go.walsall.gov.uk/events/saturday-storytime-6",
-    "https://go.walsall.gov.uk/events/stitchers-and-skivers-adult-craft-group-afternoon-5",
-    "http://go.walsall.gov.uk/newsroom/walsall-councils-envirocrime-trailer-continues-fly-tipping-fight-next-stop-walsall",
-    "http://go.walsall.gov.uk/events/board-games",
-    "http://go.walsall.gov.uk/newsroom/finance-team-walsall-council-shortlisted-2024-public-finance-awards",
-    "https://go.walsall.gov.uk/parks-and-green-spaces/visit-our-parks-and-play-areas/clayhanger-park",
-    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=service_type%3A357",
-    "https://go.walsall.gov.uk/events/knit-and-natter-4",
-    "http://go.walsall.gov.uk/children-and-young-people/holiday-activities-programme-haf/haf-and-send",
-    "https://go.walsall.gov.uk/events/1-2-1-beginner-ict-learning-streetly-0",
-    "https://go.walsall.gov.uk/events/reading-friends-23",
-    "https://go.walsall.gov.uk/housing/finding-home/private-rented-accommodation",
-    "https://go.walsall.gov.uk/planning-and-building-control/planning-developers/check-planning-history-building-or-piece-land",
-    "https://go.walsall.gov.uk/newsroom/mayor-celebrates-community-inter-faith-dinner-pakistani-consulate",
-    "http://go.walsall.gov.uk/events/inflatable-and-floats-session-oak-park-active-living-centre-0",
-    "http://go.walsall.gov.uk/events/matchbox-monsters-family-drop-afternoon",
-    "http://go.walsall.gov.uk/newsroom/residents-invited-have-their-say-new-household-food-waste-collections",
-    "http://go.walsall.gov.uk/newsroom/black-country-councils-paving-way-social-care-reform-welcome-uk-government-ministers",
-    "http://go.walsall.gov.uk/newsroom/whats-walsall-april-2026",
-    "https://go.walsall.gov.uk/feedback?page=%2Fpeople-and-communities%2Fwalsall-connected-get-help-get-online&rating=Poor&title=Walsall+Connected+-+get+help+to+get+online",
-    "https://go.walsall.gov.uk/newsroom/councils-commitment-equality-diversity-and-inclusion-outlined-new-strategy",
-    "http://go.walsall.gov.uk/parks-and-green-spaces/visit-our-countryside-and-nature-reserves/piggeries",
-    "http://go.walsall.gov.uk/feedback?page=%2Fhealth-and-social-care%2Flooking-after-your-mental-health%2Fmental-health-and-wellbeing-support&rating=Ok&title=Mental+health+and+wellbeing+support",
-    "http://go.walsall.gov.uk/events/knit-and-natter-28",
-    "http://go.walsall.gov.uk/newsroom/easter-holiday-fun-returns-walsall-leisure-centres-packed-activities-families"
-   ]
-  },
-  "VS-c18be945": {
-   "engine": "Siteimprove Alfa",
-   "ruleId": "sia-r57",
-   "summary": "Text is included in a landmark (best practice, not a WCAG requirement)",
-   "wcag": null,
-   "severity": "Serious",
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 685,
-   "lastAffectedPages": [
-    "http://go.walsall.gov.uk/events/saturday-storytime-6",
-    "https://go.walsall.gov.uk/events/stitchers-and-skivers-adult-craft-group-afternoon-5",
-    "http://go.walsall.gov.uk/newsroom/walsall-councils-envirocrime-trailer-continues-fly-tipping-fight-next-stop-walsall",
-    "http://go.walsall.gov.uk/events/board-games",
-    "http://go.walsall.gov.uk/newsroom/finance-team-walsall-council-shortlisted-2024-public-finance-awards",
-    "https://go.walsall.gov.uk/parks-and-green-spaces/visit-our-parks-and-play-areas/clayhanger-park",
-    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=service_type%3A357",
-    "https://go.walsall.gov.uk/events/knit-and-natter-4",
-    "http://go.walsall.gov.uk/children-and-young-people/holiday-activities-programme-haf/haf-and-send",
-    "https://go.walsall.gov.uk/events/1-2-1-beginner-ict-learning-streetly-0",
-    "https://go.walsall.gov.uk/events/reading-friends-23",
-    "https://go.walsall.gov.uk/housing/finding-home/private-rented-accommodation",
-    "https://go.walsall.gov.uk/planning-and-building-control/planning-developers/check-planning-history-building-or-piece-land",
-    "https://go.walsall.gov.uk/newsroom/mayor-celebrates-community-inter-faith-dinner-pakistani-consulate",
-    "http://go.walsall.gov.uk/events/inflatable-and-floats-session-oak-park-active-living-centre-0",
-    "http://go.walsall.gov.uk/events/matchbox-monsters-family-drop-afternoon",
-    "http://go.walsall.gov.uk/newsroom/residents-invited-have-their-say-new-household-food-waste-collections",
-    "http://go.walsall.gov.uk/newsroom/black-country-councils-paving-way-social-care-reform-welcome-uk-government-ministers",
-    "http://go.walsall.gov.uk/newsroom/whats-walsall-april-2026",
-    "https://go.walsall.gov.uk/feedback?page=%2Fpeople-and-communities%2Fwalsall-connected-get-help-get-online&rating=Poor&title=Walsall+Connected+-+get+help+to+get+online",
-    "https://go.walsall.gov.uk/newsroom/councils-commitment-equality-diversity-and-inclusion-outlined-new-strategy",
-    "http://go.walsall.gov.uk/parks-and-green-spaces/visit-our-countryside-and-nature-reserves/piggeries",
-    "http://go.walsall.gov.uk/feedback?page=%2Fhealth-and-social-care%2Flooking-after-your-mental-health%2Fmental-health-and-wellbeing-support&rating=Ok&title=Mental+health+and+wellbeing+support",
-    "http://go.walsall.gov.uk/events/knit-and-natter-28",
-    "http://go.walsall.gov.uk/newsroom/easter-holiday-fun-returns-walsall-leisure-centres-packed-activities-families"
-   ]
-  },
-  "VS-aa242c2d": {
-   "engine": "Siteimprove Alfa",
-   "ruleId": "sia-r87",
-   "summary": "First focusable element is link to main content (best practice, not a WCAG requirement)",
-   "wcag": null,
-   "severity": "Serious",
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 685,
-   "lastAffectedPages": [
-    "http://go.walsall.gov.uk/events/saturday-storytime-6",
-    "https://go.walsall.gov.uk/events/stitchers-and-skivers-adult-craft-group-afternoon-5",
-    "http://go.walsall.gov.uk/newsroom/walsall-councils-envirocrime-trailer-continues-fly-tipping-fight-next-stop-walsall",
-    "http://go.walsall.gov.uk/events/board-games",
-    "http://go.walsall.gov.uk/newsroom/finance-team-walsall-council-shortlisted-2024-public-finance-awards",
-    "https://go.walsall.gov.uk/parks-and-green-spaces/visit-our-parks-and-play-areas/clayhanger-park",
-    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=service_type%3A357",
-    "https://go.walsall.gov.uk/events/knit-and-natter-4",
-    "http://go.walsall.gov.uk/children-and-young-people/holiday-activities-programme-haf/haf-and-send",
-    "https://go.walsall.gov.uk/events/1-2-1-beginner-ict-learning-streetly-0",
-    "https://go.walsall.gov.uk/events/reading-friends-23",
-    "https://go.walsall.gov.uk/housing/finding-home/private-rented-accommodation",
-    "https://go.walsall.gov.uk/planning-and-building-control/planning-developers/check-planning-history-building-or-piece-land",
-    "https://go.walsall.gov.uk/newsroom/mayor-celebrates-community-inter-faith-dinner-pakistani-consulate",
-    "http://go.walsall.gov.uk/events/inflatable-and-floats-session-oak-park-active-living-centre-0",
-    "http://go.walsall.gov.uk/events/matchbox-monsters-family-drop-afternoon",
-    "http://go.walsall.gov.uk/newsroom/residents-invited-have-their-say-new-household-food-waste-collections",
-    "http://go.walsall.gov.uk/newsroom/black-country-councils-paving-way-social-care-reform-welcome-uk-government-ministers",
-    "http://go.walsall.gov.uk/newsroom/whats-walsall-april-2026",
-    "https://go.walsall.gov.uk/feedback?page=%2Fpeople-and-communities%2Fwalsall-connected-get-help-get-online&rating=Poor&title=Walsall+Connected+-+get+help+to+get+online",
-    "https://go.walsall.gov.uk/newsroom/councils-commitment-equality-diversity-and-inclusion-outlined-new-strategy",
-    "http://go.walsall.gov.uk/parks-and-green-spaces/visit-our-countryside-and-nature-reserves/piggeries",
-    "http://go.walsall.gov.uk/feedback?page=%2Fhealth-and-social-care%2Flooking-after-your-mental-health%2Fmental-health-and-wellbeing-support&rating=Ok&title=Mental+health+and+wellbeing+support",
-    "http://go.walsall.gov.uk/events/knit-and-natter-28",
-    "http://go.walsall.gov.uk/newsroom/easter-holiday-fun-returns-walsall-leisure-centres-packed-activities-families"
+    "https://go.walsall.gov.uk/newsroom/christmas-miracle-needed-walsall",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Ffree-summer-adventure-scheme-returns-walsall-2026&rating=Good&title=Free+summer+adventure+scheme+returns+to+Walsall+for+2026+",
+    "https://go.walsall.gov.uk/feedback?page=%2Fparks-and-green-spaces%2Fvisit-our-parks-and-play-areas%2Fclayhanger-park&rating=Good&title=Clayhanger+Park",
+    "https://go.walsall.gov.uk/planning-and-building-control/planning-developers/check-planning-history-building-or-piece-land"
    ]
   },
   "VS-4fac2f41": {
@@ -847,9 +725,10 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 1337,
+   "lastPagesAffected": 1529,
    "lastAffectedPages": [
     "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
+    "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
     "http://go.walsall.gov.uk/events/saturday-storytime-6",
     "https://go.walsall.gov.uk/newsroom/mayor-walsall-shares-wisdom-primary-school-councillors",
     "https://go.walsall.gov.uk/events/stitchers-and-skivers-adult-craft-group-afternoon-5",
@@ -858,6 +737,8 @@
     "http://go.walsall.gov.uk/newsroom/finance-team-walsall-council-shortlisted-2024-public-finance-awards",
     "https://go.walsall.gov.uk/parks-and-green-spaces/visit-our-parks-and-play-areas/clayhanger-park",
     "https://go.walsall.gov.uk/planning-and-building-control/planning-policy/current-planning-policy/black-country-core-strategy",
+    "https://go.walsall.gov.uk/feedback?page=%2Fplanning-and-building-control%2Fplanning-policy%2Fhousing-land-supply&rating=Ok&title=Housing+land+supply",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-moves-forward-plans-improve-access-nature-across-borough&rating=Ok&title=Walsall+moves+forward+with+plans+to+improve+access+to+nature+across+the+borough",
     "https://go.walsall.gov.uk/newsroom/walsall-residents-invited-book-their-flu-and-covid-19-vaccines",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=service_type%3A357",
     "https://go.walsall.gov.uk/events/knit-and-natter-4",
@@ -867,13 +748,133 @@
     "https://go.walsall.gov.uk/events/rhyme-time-0",
     "https://go.walsall.gov.uk/events/reading-friends-23",
     "https://go.walsall.gov.uk/housing/finding-home/private-rented-accommodation",
+    "https://go.walsall.gov.uk/newsroom/christmas-miracle-needed-walsall",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Ffree-summer-adventure-scheme-returns-walsall-2026&rating=Good&title=Free+summer+adventure+scheme+returns+to+Walsall+for+2026+",
+    "https://go.walsall.gov.uk/feedback?page=%2Fparks-and-green-spaces%2Fvisit-our-parks-and-play-areas%2Fclayhanger-park&rating=Good&title=Clayhanger+Park",
+    "https://go.walsall.gov.uk/planning-and-building-control/planning-developers/check-planning-history-building-or-piece-land"
+   ]
+  },
+  "VS-e5ec42f0": {
+   "engine": "Siteimprove Alfa",
+   "ruleId": "sia-r72",
+   "summary": "Paragraph text is not all uppercase (best practice, not a WCAG requirement)",
+   "wcag": null,
+   "severity": "Moderate",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 777,
+   "lastAffectedPages": [
+    "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
+    "http://go.walsall.gov.uk/events/saturday-storytime-6",
+    "https://go.walsall.gov.uk/events/stitchers-and-skivers-adult-craft-group-afternoon-5",
+    "http://go.walsall.gov.uk/newsroom/walsall-councils-envirocrime-trailer-continues-fly-tipping-fight-next-stop-walsall",
+    "http://go.walsall.gov.uk/events/board-games",
+    "http://go.walsall.gov.uk/newsroom/finance-team-walsall-council-shortlisted-2024-public-finance-awards",
+    "https://go.walsall.gov.uk/parks-and-green-spaces/visit-our-parks-and-play-areas/clayhanger-park",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=service_type%3A357",
+    "https://go.walsall.gov.uk/events/knit-and-natter-4",
+    "http://go.walsall.gov.uk/children-and-young-people/holiday-activities-programme-haf/haf-and-send",
+    "https://go.walsall.gov.uk/events/1-2-1-beginner-ict-learning-streetly-0",
+    "https://go.walsall.gov.uk/events/reading-friends-23",
+    "https://go.walsall.gov.uk/housing/finding-home/private-rented-accommodation",
+    "https://go.walsall.gov.uk/newsroom/christmas-miracle-needed-walsall",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Ffree-summer-adventure-scheme-returns-walsall-2026&rating=Good&title=Free+summer+adventure+scheme+returns+to+Walsall+for+2026+",
+    "https://go.walsall.gov.uk/feedback?page=%2Fparks-and-green-spaces%2Fvisit-our-parks-and-play-areas%2Fclayhanger-park&rating=Good&title=Clayhanger+Park",
     "https://go.walsall.gov.uk/planning-and-building-control/planning-developers/check-planning-history-building-or-piece-land",
-    "https://go.walsall.gov.uk/events/knit-and-natter-aldridge-0",
     "https://go.walsall.gov.uk/newsroom/mayor-celebrates-community-inter-faith-dinner-pakistani-consulate",
-    "http://go.walsall.gov.uk/events/amazing-mr-hackwood-grushas-theatre-company",
     "http://go.walsall.gov.uk/events/inflatable-and-floats-session-oak-park-active-living-centre-0",
     "http://go.walsall.gov.uk/events/matchbox-monsters-family-drop-afternoon",
-    "http://go.walsall.gov.uk/newsroom/residents-invited-have-their-say-new-household-food-waste-collections"
+    "http://go.walsall.gov.uk/newsroom/residents-invited-have-their-say-new-household-food-waste-collections",
+    "http://go.walsall.gov.uk/newsroom/black-country-councils-paving-way-social-care-reform-welcome-uk-government-ministers",
+    "http://go.walsall.gov.uk/newsroom/whats-walsall-april-2026",
+    "https://go.walsall.gov.uk/feedback?page=%2Fpeople-and-communities%2Fwalsall-connected-get-help-get-online&rating=Poor&title=Walsall+Connected+-+get+help+to+get+online",
+    "https://go.walsall.gov.uk/newsroom/councils-commitment-equality-diversity-and-inclusion-outlined-new-strategy"
+   ]
+  },
+  "VS-c18be945": {
+   "engine": "Siteimprove Alfa",
+   "ruleId": "sia-r57",
+   "summary": "Text is included in a landmark (best practice, not a WCAG requirement)",
+   "wcag": null,
+   "severity": "Moderate",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 777,
+   "lastAffectedPages": [
+    "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
+    "http://go.walsall.gov.uk/events/saturday-storytime-6",
+    "https://go.walsall.gov.uk/events/stitchers-and-skivers-adult-craft-group-afternoon-5",
+    "http://go.walsall.gov.uk/newsroom/walsall-councils-envirocrime-trailer-continues-fly-tipping-fight-next-stop-walsall",
+    "http://go.walsall.gov.uk/events/board-games",
+    "http://go.walsall.gov.uk/newsroom/finance-team-walsall-council-shortlisted-2024-public-finance-awards",
+    "https://go.walsall.gov.uk/parks-and-green-spaces/visit-our-parks-and-play-areas/clayhanger-park",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=service_type%3A357",
+    "https://go.walsall.gov.uk/events/knit-and-natter-4",
+    "http://go.walsall.gov.uk/children-and-young-people/holiday-activities-programme-haf/haf-and-send",
+    "https://go.walsall.gov.uk/events/1-2-1-beginner-ict-learning-streetly-0",
+    "https://go.walsall.gov.uk/events/reading-friends-23",
+    "https://go.walsall.gov.uk/housing/finding-home/private-rented-accommodation",
+    "https://go.walsall.gov.uk/newsroom/christmas-miracle-needed-walsall",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Ffree-summer-adventure-scheme-returns-walsall-2026&rating=Good&title=Free+summer+adventure+scheme+returns+to+Walsall+for+2026+",
+    "https://go.walsall.gov.uk/feedback?page=%2Fparks-and-green-spaces%2Fvisit-our-parks-and-play-areas%2Fclayhanger-park&rating=Good&title=Clayhanger+Park",
+    "https://go.walsall.gov.uk/planning-and-building-control/planning-developers/check-planning-history-building-or-piece-land",
+    "https://go.walsall.gov.uk/newsroom/mayor-celebrates-community-inter-faith-dinner-pakistani-consulate",
+    "http://go.walsall.gov.uk/events/inflatable-and-floats-session-oak-park-active-living-centre-0",
+    "http://go.walsall.gov.uk/events/matchbox-monsters-family-drop-afternoon",
+    "http://go.walsall.gov.uk/newsroom/residents-invited-have-their-say-new-household-food-waste-collections",
+    "http://go.walsall.gov.uk/newsroom/black-country-councils-paving-way-social-care-reform-welcome-uk-government-ministers",
+    "http://go.walsall.gov.uk/newsroom/whats-walsall-april-2026",
+    "https://go.walsall.gov.uk/feedback?page=%2Fpeople-and-communities%2Fwalsall-connected-get-help-get-online&rating=Poor&title=Walsall+Connected+-+get+help+to+get+online",
+    "https://go.walsall.gov.uk/newsroom/councils-commitment-equality-diversity-and-inclusion-outlined-new-strategy"
+   ]
+  },
+  "VS-aa242c2d": {
+   "engine": "Siteimprove Alfa",
+   "ruleId": "sia-r87",
+   "summary": "First focusable element is link to main content (best practice, not a WCAG requirement)",
+   "wcag": null,
+   "severity": "Moderate",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 777,
+   "lastAffectedPages": [
+    "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
+    "http://go.walsall.gov.uk/events/saturday-storytime-6",
+    "https://go.walsall.gov.uk/events/stitchers-and-skivers-adult-craft-group-afternoon-5",
+    "http://go.walsall.gov.uk/newsroom/walsall-councils-envirocrime-trailer-continues-fly-tipping-fight-next-stop-walsall",
+    "http://go.walsall.gov.uk/events/board-games",
+    "http://go.walsall.gov.uk/newsroom/finance-team-walsall-council-shortlisted-2024-public-finance-awards",
+    "https://go.walsall.gov.uk/parks-and-green-spaces/visit-our-parks-and-play-areas/clayhanger-park",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=service_type%3A357",
+    "https://go.walsall.gov.uk/events/knit-and-natter-4",
+    "http://go.walsall.gov.uk/children-and-young-people/holiday-activities-programme-haf/haf-and-send",
+    "https://go.walsall.gov.uk/events/1-2-1-beginner-ict-learning-streetly-0",
+    "https://go.walsall.gov.uk/events/reading-friends-23",
+    "https://go.walsall.gov.uk/housing/finding-home/private-rented-accommodation",
+    "https://go.walsall.gov.uk/newsroom/christmas-miracle-needed-walsall",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Ffree-summer-adventure-scheme-returns-walsall-2026&rating=Good&title=Free+summer+adventure+scheme+returns+to+Walsall+for+2026+",
+    "https://go.walsall.gov.uk/feedback?page=%2Fparks-and-green-spaces%2Fvisit-our-parks-and-play-areas%2Fclayhanger-park&rating=Good&title=Clayhanger+Park",
+    "https://go.walsall.gov.uk/planning-and-building-control/planning-developers/check-planning-history-building-or-piece-land",
+    "https://go.walsall.gov.uk/newsroom/mayor-celebrates-community-inter-faith-dinner-pakistani-consulate",
+    "http://go.walsall.gov.uk/events/inflatable-and-floats-session-oak-park-active-living-centre-0",
+    "http://go.walsall.gov.uk/events/matchbox-monsters-family-drop-afternoon",
+    "http://go.walsall.gov.uk/newsroom/residents-invited-have-their-say-new-household-food-waste-collections",
+    "http://go.walsall.gov.uk/newsroom/black-country-councils-paving-way-social-care-reform-welcome-uk-government-ministers",
+    "http://go.walsall.gov.uk/newsroom/whats-walsall-april-2026",
+    "https://go.walsall.gov.uk/feedback?page=%2Fpeople-and-communities%2Fwalsall-connected-get-help-get-online&rating=Poor&title=Walsall+Connected+-+get+help+to+get+online",
+    "https://go.walsall.gov.uk/newsroom/councils-commitment-equality-diversity-and-inclusion-outlined-new-strategy"
    ]
   },
   "VS-e05344b9": {
@@ -888,8 +889,10 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 191,
+   "lastPagesAffected": 220,
    "lastAffectedPages": [
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Ffree-summer-adventure-scheme-returns-walsall-2026&rating=Good&title=Free+summer+adventure+scheme+returns+to+Walsall+for+2026+",
+    "https://go.walsall.gov.uk/feedback?page=%2Fparks-and-green-spaces%2Fvisit-our-parks-and-play-areas%2Fclayhanger-park&rating=Good&title=Clayhanger+Park",
     "http://go.walsall.gov.uk/newsroom/whats-walsall-april-2026",
     "https://go.walsall.gov.uk/feedback?page=%2Fpeople-and-communities%2Fwalsall-connected-get-help-get-online&rating=Poor&title=Walsall+Connected+-+get+help+to+get+online",
     "http://go.walsall.gov.uk/feedback?page=%2Fhealth-and-social-care%2Flooking-after-your-mental-health%2Fmental-health-and-wellbeing-support&rating=Ok&title=Mental+health+and+wellbeing+support",
@@ -897,11 +900,13 @@
     "https://go.walsall.gov.uk/feedback?page=%2Fyour-council%2Fprivacy-statement%2Fweb-and-cookie-notice&rating=Poor&title=Web+and+Cookie+Notice",
     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-together-shortlisted-2024-lgc-awards&rating=Good&title=Walsall+Together+shortlisted+in+the+2024+LGC+Awards",
     "https://go.walsall.gov.uk/feedback?page=%2Fhousing%2Ffinding-home%2Fhousing-associations-walsall&rating=Poor&title=Housing+associations+in+Walsall",
+    "https://go.walsall.gov.uk/newsroom/volunteers-spruce-willenhall-memorial-park",
     "https://go.walsall.gov.uk/feedback?page=%2Fbenefits%2Fextra-help-you-may-be-able-get&rating=Ok&title=Extra+help+you+may+be+able+to+get",
     "http://go.walsall.gov.uk/feedback?page=%2Ffeedback&rating=Ok&title=Feedback",
     "http://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-residents-encouraged-get-active-move-your-way-campaign&rating=Ok&title=Walsall+residents+encouraged+to+get+active+with+Move+Your+Way+campaign",
     "https://go.walsall.gov.uk/events?category=233",
     "https://go.walsall.gov.uk/events?category=233&page=1",
+    "https://go.walsall.gov.uk/events?page=0&venue=415",
     "https://go.walsall.gov.uk/feedback?page=%2Fwalsall-libraries%2Fresources%2Freservation&rating=Poor&title=Reservation",
     "https://go.walsall.gov.uk/newsroom/cafe-operator-fined-poor-food-hygiene-standards-and-uncleanliness",
     "https://go.walsall.gov.uk/feedback?page=%2Fyour-council%2Fopen-data%2Fdatasets%2Fspeed-cameras&rating=Good&title=Speed+cameras",
@@ -910,11 +915,7 @@
     "http://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fnight-time-works-planned-yorks-bridge-project&rating=Good&title=Night-time+works+planned+for+York%E2%80%99s+Bridge+project",
     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fstriking-artwork-brings-walsall-community-together&rating=Poor&title=Striking+artwork+brings+Walsall+community+together",
     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fdigital-skills-boost-womens-organisation-walsall-thanks-donation-scheme&rating=Good&title=Digital+skills+boost+for+women%E2%80%99s+organisation+in+Walsall+thanks+to+donation+scheme",
-    "http://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-council-celebrate-bonfire-night-bucket-collection-acorns-childrens-hospice&rating=Good&title=Walsall+Council+to+celebrate+Bonfire+Night+with+bucket+collection+for+Acorns+Children%E2%80%99s+Hospice",
-    "https://go.walsall.gov.uk/feedback?page=%2Fwalsall-works%2Fsupport%2Fconnect-work&rating=Good&title=Connect+to+Work",
-    "http://go.walsall.gov.uk/newsroom/ofsted-rates-walsall-primary-school-part-englands-largest-federation-outstanding",
-    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Ffryers-road-hwrc-remain-open-new-middlemore-lane-facility-opens&rating=Ok&title=Fryers+Road+HWRC+to+remain+open+as+new+Middlemore+Lane+facility+opens",
-    "https://go.walsall.gov.uk/feedback?page=%2Fbirths-marriages-and-deaths%2Fdeaths-and-funerals%2Fcemeteries-and-graves%2Frules-and-regulations&rating=Ok&title=Rules+and+regulations"
+    "https://go.walsall.gov.uk/feedback?page=%2Fmuseums-libraries-and-galleries%2Fwalsall-archives-0%2Fyour-visit-walsall-archives&rating=Ok&title=Your+visit+to+Walsall+Archives"
    ]
   },
   "VS-d25f622d": {
@@ -929,33 +930,33 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 57,
+   "lastPagesAffected": 82,
    "lastAffectedPages": [
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=service_type%3A357",
     "http://go.walsall.gov.uk/newsroom/small-grants-help-communities-celebrate-coronation-now-open",
     "http://go.walsall.gov.uk/events/christmas-crafternoon",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A337&f%5B3%5D=service_type%3A352",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=service_type%3A357",
     "http://go.walsall.gov.uk/business/regeneration-and-investment/regenerating-walsall-town-centre/connected-gateway-project",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A338&f%5B3%5D=localgov_directories_facets%3A31&f%5B4%5D=localgov_directories_facets%3A35&f%5B5%5D=service_type%3A357",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A33&f%5B4%5D=service_type%3A356",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A32&f%5B2%5D=localgov_directories_facets%3A36&f%5B3%5D=service_type%3A352&page=5",
     "http://go.walsall.gov.uk/newsroom/whats-walsall-december-2025",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=service_type%3A357",
     "http://go.walsall.gov.uk/business/regeneration-and-investment/regenerating-walsall-town-centre/guildhall-creative-industries",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=service_type%3A356",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A32&f%5B2%5D=localgov_directories_facets%3A36&f%5B3%5D=service_type%3A352",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=service_type%3A352&page=9",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A36&f%5B3%5D=localgov_directories_facets%3A38",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A36&f%5B2%5D=service_type%3A352",
     "http://go.walsall.gov.uk/children-and-young-people/family-help/health-and-wellbeing-your-family",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A37&f%5B4%5D=service_type%3A357",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=service_type%3A352&page=7",
     "https://go.walsall.gov.uk/newsroom/sculpture-made-seized-vapes-display-walsall-council-house",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A38&f%5B3%5D=service_type%3A356",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=service_type%3A351",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=service_type%3A351",
-    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336",
-    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=service_type%3A356",
-    "http://go.walsall.gov.uk/business/business-rates",
-    "https://go.walsall.gov.uk/newsroom/when-three-lions-play-he-strikes",
-    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A38",
-    "http://go.walsall.gov.uk/newsroom/whats-walsall-november-2025",
-    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=localgov_directories_facets%3A38&page=1",
-    "http://go.walsall.gov.uk/people-and-communities/policing-and-public-safety/neighbourhood-nuisance-and-anti-social-behaviour",
-    "http://go.walsall.gov.uk/newsroom/programme-arrangements-remembrance-day-2026"
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336"
    ]
   },
   "VS-7118fead": {
@@ -970,7 +971,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 49,
+   "lastPagesAffected": 62,
    "lastAffectedPages": [
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=service_type%3A357",
     "https://go.walsall.gov.uk/your-council/comments-compliments-and-complaints/complaints/do-you-want-report-problem",
@@ -981,22 +982,22 @@
     "http://go.walsall.gov.uk/walsall-libraries/lichfield-street-hub/walsall-archives-services/research-resources/history-1",
     "http://go.walsall.gov.uk/publications/walsall-council-corporate-complaints-policy",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A32&f%5B2%5D=localgov_directories_facets%3A36&f%5B3%5D=service_type%3A352",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=service_type%3A352&page=9",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A36&f%5B3%5D=localgov_directories_facets%3A38",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A37&f%5B4%5D=service_type%3A357",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=service_type%3A352&page=7",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A38&f%5B3%5D=service_type%3A356",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=service_type%3A351",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=service_type%3A351",
     "https://go.walsall.gov.uk/walsall-libraries/lichfield-street-hub/walsall-archives-services/research-resources/streetly-0",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336",
     "https://go.walsall.gov.uk/walsall-libraries/lichfield-street-hub/walsall-archives-services/church-records/rushall-churches",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=service_type%3A356",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A356",
+    "https://go.walsall.gov.uk/publications/gambling-harms-directory-professionals",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=localgov_directories_facets%3A38&page=1",
     "http://go.walsall.gov.uk/apply/make-complaint/make-complaint-about-childrens-social-care",
-    "https://go.walsall.gov.uk/business/regeneration-and-investment/darlaston-plan-neighbourhoods/about-darlaston-plan",
-    "http://go.walsall.gov.uk/walsall-libraries/lichfield-street-hub/walsall-archives-services/research-resources/bloxwich-0",
-    "https://go.walsall.gov.uk/walsall-libraries/lichfield-street-hub/walsall-archives-services/church-records/brownhills-and",
-    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=service_type%3A356",
-    "http://go.walsall.gov.uk/apply/make-complaint/make-complaint-about-adult-social-care",
-    "https://go.walsall.gov.uk/walsall-libraries/lichfield-street-hub/walsall-archives-services/research-resources/delves-churches",
-    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=service_type%3A352"
+    "https://go.walsall.gov.uk/business/regeneration-and-investment/darlaston-plan-neighbourhoods/about-darlaston-plan"
    ]
   },
   "VS-f054f4a4": {
@@ -1011,20 +1012,25 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 27,
+   "lastPagesAffected": 39,
    "lastAffectedPages": [
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=service_type%3A357",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A337&f%5B3%5D=service_type%3A352",
     "http://go.walsall.gov.uk/newsroom/whats-walsall-december-2025",
     "http://go.walsall.gov.uk/business/regeneration-and-investment/regenerating-walsall-town-centre/guildhall-creative-industries",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A32&f%5B2%5D=localgov_directories_facets%3A36&f%5B3%5D=service_type%3A352",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=service_type%3A352&page=9",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A36&f%5B3%5D=localgov_directories_facets%3A38",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A37&f%5B4%5D=service_type%3A357",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=service_type%3A352&page=7",
     "https://go.walsall.gov.uk/newsroom/sculpture-made-seized-vapes-display-walsall-council-house",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A38&f%5B3%5D=service_type%3A356",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=service_type%3A351",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=service_type%3A351",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=service_type%3A356",
     "https://go.walsall.gov.uk/newsroom/when-three-lions-play-he-strikes",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A356",
     "http://go.walsall.gov.uk/newsroom/whats-walsall-november-2025",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=localgov_directories_facets%3A38&page=1",
     "http://go.walsall.gov.uk/people-and-communities/policing-and-public-safety/neighbourhood-nuisance-and-anti-social-behaviour",
@@ -1032,12 +1038,7 @@
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=service_type%3A356",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=service_type%3A352",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=service_type%3A356&page=1",
-    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=service_type%3A354&page=8",
-    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=service_type%3A356&page=3",
-    "https://go.walsall.gov.uk/events/notebook-bookbinding-workshop-adults-nick-wells",
-    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=service_type%3A356&page=1",
-    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=service_type%3A357",
-    "https://go.walsall.gov.uk/newsroom/walsall-residents-encouraged-access-local-services-world-health-day"
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=service_type%3A353&page=2"
    ]
   },
   "VS-c4264d17": {
@@ -1052,7 +1053,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 19,
+   "lastPagesAffected": 20,
    "lastAffectedPages": [
     "https://go.walsall.gov.uk/schools-and-learning/school-meals/free-school-meals",
     "https://go.walsall.gov.uk/council-tax",
@@ -1063,6 +1064,7 @@
     "https://go.walsall.gov.uk/benefits/blue-badge-scheme",
     "https://go.walsall.gov.uk/children-and-young-people/family-help/apply-volunteer-walsall-right-4-children",
     "http://go.walsall.gov.uk/health-and-social-care/talking-us-and-holding-us-account",
+    "https://go.walsall.gov.uk/benefits",
     "https://go.walsall.gov.uk/people-and-communities/assets-community-value",
     "http://go.walsall.gov.uk/housing/boats-and-caravans/traveller-caravan-count",
     "https://go.walsall.gov.uk/planning-and-building-control/planning-householders/pay-your-planning-fee-and-other-charges",
