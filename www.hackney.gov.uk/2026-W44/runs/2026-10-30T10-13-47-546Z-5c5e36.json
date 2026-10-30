@@ -1,0 +1,166 @@
+{
+ "runId": "2026-10-30T10-13-47-546Z-5c5e36",
+ "week": "2026-W44",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-10-30T10:13:47.905Z",
+ "scanned": [
+  "632787d62260a3ce",
+  "36f5f0ff59db6d63",
+  "77228b64843373e1",
+  "7490a25b76226711",
+  "eac4dd257958d660",
+  "2febc8bcf14f499a",
+  "68b88c38a5e4bbeb",
+  "5311a39975d5a535",
+  "eb5489d69ed628a6",
+  "dabdf25ffcb6df6f",
+  "15e12e7fe7b4af40",
+  "b8d20f675bce439d",
+  "38aba3b9690a58d5",
+  "c3714157fe90c55a",
+  "816f7856d32b770d",
+  "4a2e5dfd975eb421",
+  "66c83c37b577ee87",
+  "dfe508beeef0f01e",
+  "5def3ebd892924e9",
+  "3eeff22bef250eb7",
+  "da93d79166390166",
+  "2afdeafdc8cbc681",
+  "9e0d35f7e034b3c9",
+  "c5f544de80c16e60",
+  "477ccb5199d3e61b",
+  "cafa0274ecaad21b",
+  "9510d3f83c5495e2",
+  "58c660827bbe2faa",
+  "1aaf4e3106ddf832",
+  "0215c8d29a8c15e2",
+  "f0d0cb8743864b0d",
+  "49f7ad500c7ab309",
+  "aa48e89467ccf8c1",
+  "fec34b7af2463074",
+  "e7de461245778747",
+  "a45e3843b088342e",
+  "8fc337f25c8cc158",
+  "2dd2222e253ddb61",
+  "4b04abeb10740710",
+  "1dde517d52aa69c2",
+  "df2b0719034c9748"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 389,
+  "checked": 389,
+  "brokenCount": 7,
+  "broken": [
+   {
+    "url": "https://rise.articulate.com/share/nwfNRMbVqoXgYxTlRUed2JsNq-ZC_K15",
+    "status": 410,
+    "reason": "HTTP 410",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/drug-and-alcohol-support-and-advice/alcohol-support-and-advice"
+    ]
+   },
+   {
+    "url": "https://www.ellcchoicehomes.org.uk/content/Ourpartners/Hackney",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/housing/find-home/bid-social-housing"
+    ]
+   },
+   {
+    "url": "http://mginternet.hackney.gov.uk/documents/s48613/Appendix_5_PEP_2015-20_-_Consultation_Report.pdf",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/parking-streets-and-transport/parking-consultations-policy-and-reports/parking-policy-and-reports/parking-and-enforcement-plan"
+    ]
+   },
+   {
+    "url": "https://transform.england.nhs.uk/information-governance/guidance/records-management-code/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/public-health-privacy-notice"
+    ]
+   },
+   {
+    "url": "https://www.arsenal.com/the-club/community/social-inclusion/the-kickz-project",
+    "status": 410,
+    "reason": "HTTP 410",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/exercise-and-sport/find-football-team"
+    ]
+   },
+   {
+    "url": "http://www.twitter.com/movetogetherkp",
+    "status": 520,
+    "reason": "HTTP 520",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/community-partnerships/kings-park-moving-together"
+    ]
+   },
+   {
+    "url": "http://www.event-insurance-online.com/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/get-involved-your-community/street-parties-or-large-or-commercial-events"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 40,
+  "resources": 40,
+  "images": 40,
+  "standards": 23,
+  "third-party": 10,
+  "link-check": 40,
+  "plain-language": 18,
+  "alfa": 19,
+  "deprecated-html": 3,
+  "security": 5,
+  "lighthouse": 5,
+  "tech": 4,
+  "sustainability": 11,
+  "public-interest": 6
+ },
+ "tally": {
+  "ok": 40,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 10,
+  "error": 0
+ },
+ "finishedAt": "2026-10-30T10:21:10.869Z"
+}
