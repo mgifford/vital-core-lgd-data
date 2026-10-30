@@ -1,0 +1,276 @@
+{
+ "runId": "2026-10-30T06-36-51-447Z-ceb515",
+ "week": "2026-W44",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-10-30T06:36:51.805Z",
+ "scanned": [
+  "f1c1ef1118d001e4",
+  "7bb95b9bad257e1d",
+  "96a3f75363eed8fd",
+  "a23d6fbce489db19",
+  "6583b078bc0dfec6",
+  "674948c673a142c0",
+  "c390ecd4345a382b",
+  "3fe2f2fae1e08dfe",
+  "2cddb799a45f6951",
+  "d75cb05df445bee9",
+  "244138f0a5079e05",
+  "fd53d20760b9a505",
+  "d9517652d25317e9",
+  "184ee8c3d37797ef",
+  "d42d19f12d2c39a1",
+  "1dc04abc05fcff85",
+  "8dd7cad805a5d85c",
+  "47343bcf47812893",
+  "5f95ad11347ac7a7",
+  "98b879e7da74b860",
+  "0c79b13add494b97",
+  "ac289ef40beb80f6",
+  "0b63397a71b55f08",
+  "e3bf414a1a7cc4d0",
+  "9af356675a5debd5",
+  "bed046ea2f3ab93f",
+  "412da9b9548cd740",
+  "0c3802314a455be2",
+  "08ef8b1b80149952",
+  "b146b302ebeb55b2",
+  "7d3f77a4c2f72b2d",
+  "93e956e263e1f0c9",
+  "943c26a0fd5026fb",
+  "1efa3fc2e780e9e4",
+  "78f4df29c126a53f",
+  "1ab8b762de3b5f91",
+  "e01acb73402182ef",
+  "20352569801bbeb1",
+  "759e38dc6c2530fd",
+  "b7617981dcafdb50",
+  "0289046540353e43",
+  "3cc4ec5f132d1c72",
+  "45af9343f9a8d36a",
+  "ab2a564390a507b1",
+  "0da9addf1f1b8592",
+  "f781b31df8dd5106",
+  "fc0b441564384f62"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 722,
+  "checked": 500,
+  "brokenCount": 20,
+  "broken": [
+   {
+    "url": "http://www.crg.uk.com/homecare/",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/help-home/home-care-providers"
+    ]
+   },
+   {
+    "url": "https://www.hackneyicare.org.uk/kb5/hackney/asch/service.page?id=b6TaNEd6lf0",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/help-home/home-care-providers"
+    ]
+   },
+   {
+    "url": "https://thelondoncleanairinitiative.org/leca2024/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/get-involved-your-community/eco-schools-programme"
+    ]
+   },
+   {
+    "url": "https://trace.london/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.hackney.gov.uk/parking-streets-and-transport/enforcement-and-removal-vehicles/what-do-if-your-vehicle-has-been-removed"
+    ]
+   },
+   {
+    "url": "https://www.ourmala.com/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/mental-health/get-mental-health-support"
+    ]
+   },
+   {
+    "url": "https://gbr01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.good-thinking.uk%2Ffaith-and-belief-communities%2Fislam&data=05%7C01%7Cjames.ludley%40nhs.net%7C280af55265444725995308db0f75c4e3%7C37c354b285b047f5b22207b48d774ee3%7C0%7C0%7C638120770700977732%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=00NvE%2Bmgem8Co7HlYZYFIhP2BZj3vUjdUavY4mQhGw0%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/mental-health/get-mental-health-support"
+    ]
+   },
+   {
+    "url": "https://gbr01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.good-thinking.uk%2Fcoping-trauma-better-mental-health&data=05%7C01%7Cjames.ludley%40nhs.net%7C280af55265444725995308db0f75c4e3%7C37c354b285b047f5b22207b48d774ee3%7C0%7C0%7C638120770700977732%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=YC%2B7UkUxOl%2B3YkOG9W2BcklShejRvhyFjVedw73ey94%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/mental-health/get-mental-health-support"
+    ]
+   },
+   {
+    "url": "http://bodyandsoulcharity.org/get-support/support-for-adults/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/mental-health/get-mental-health-support"
+    ]
+   },
+   {
+    "url": "https://www.chatworkshackney.co.uk/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/mental-health/get-mental-health-support"
+    ]
+   },
+   {
+    "url": "https://www.hoxtontrust.org/our-food-garden/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/mental-health/get-mental-health-support"
+    ]
+   },
+   {
+    "url": "https://www.elft.nhs.uk/service/396/City-and-Hackney-Recovery-College",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/mental-health/get-mental-health-support"
+    ]
+   },
+   {
+    "url": "https://thecaresfamily.org.uk/home",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/mental-health/get-mental-health-support"
+    ]
+   },
+   {
+    "url": "https://www.hackneybusinessnetwork.co.uk/news/successful-hackney-high-streets-and-town-centres-fund-bids-revealed",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/regeneration/dalston"
+    ]
+   },
+   {
+    "url": "https://www.civicaepay.co.uk/HackneyEstore/estore/default/Account/Login?Area=",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/payments"
+    ]
+   },
+   {
+    "url": "https://www.civicaepay.co.uk/HackneyEstore/estore/default/Account/Login",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/payments"
+    ]
+   },
+   {
+    "url": "https://www.civicaepay.co.uk/HackneyEstore/estore/default/Basket/ViewBasket",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/payments"
+    ]
+   },
+   {
+    "url": "https://hackney.gov.uk/apps",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/payments"
+    ]
+   },
+   {
+    "url": "https://www.civicaepay.co.uk/HackneyEstore/estore/default/Footer/CookiePage",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/payments"
+    ]
+   },
+   {
+    "url": "https://www.civicaepay.co.uk/HackneyEstore/estore/default/Footer/AccessibilityStatement",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/payments"
+    ]
+   },
+   {
+    "url": "https://www.civicaepay.co.uk/HackneyEstore/estore/default/Footer/SiteMap",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/payments"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 47,
+  "resources": 47,
+  "images": 47,
+  "link-check": 47,
+  "alfa": 19,
+  "third-party": 15,
+  "plain-language": 25,
+  "standards": 17,
+  "sustainability": 3,
+  "public-interest": 3,
+  "security": 2,
+  "deprecated-html": 3,
+  "lighthouse": 3,
+  "tech": 3
+ },
+ "tally": {
+  "ok": 47,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 4,
+  "error": 0
+ },
+ "finishedAt": "2026-10-30T06:44:37.382Z"
+}
