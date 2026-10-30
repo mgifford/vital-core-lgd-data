@@ -1,6 +1,6 @@
 {
  "domain": "www.luton.gov.uk",
- "updatedAt": "2026-10-30T10:24:35.400Z",
+ "updatedAt": "2026-10-30T10:45:17.126Z",
  "pages": {
   "https://www.luton.gov.uk/bins-waste-recycling/bin-collections/what-put-your-food-waste-bin": {
    "pageId": "005cf1980509e103",
@@ -6705,6 +6705,438 @@
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A185": {
+   "pageId": "0dec73f5197d2040",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:32:11.006Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A247": {
+   "pageId": "1f6d4fe792cf3a98",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:31:17.548Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 32,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A110": {
+   "pageId": "1fd3a90b266e1e02",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:39:12.016Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A131": {
+   "pageId": "20cc6fe51fe0ad24",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:39:30.923Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?page=6": {
+   "pageId": "2665a55734f827d5",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:34:07.524Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 55,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A238": {
+   "pageId": "27c26e65589775fd",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:36:38.318Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A146": {
+   "pageId": "2da1f8c416586fbf",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:34:28.287Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 33,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A106": {
+   "pageId": "346bcc7185d8a9c1",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:31:57.874Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A213": {
+   "pageId": "35b70113ac1c9ea2",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:39:18.472Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 33,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A139": {
+   "pageId": "3b6013d1029e9404",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:33:51.245Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A122": {
+   "pageId": "46cd212630a9df28",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:33:44.296Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A123": {
+   "pageId": "5843a584a8e82da6",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:34:40.625Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 32,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A151": {
+   "pageId": "5906dca869d696a3",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:39:05.486Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A246": {
+   "pageId": "5a2066daa2ef8fce",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:40:02.760Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 32,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A172": {
+   "pageId": "5d2737194f3a7d6b",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:38:46.539Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A152": {
+   "pageId": "5ff15e793acfb679",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:34:20.924Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A244": {
+   "pageId": "611817eb1bb67205",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:32:04.806Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A161": {
+   "pageId": "615c157fc4715301",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:39:43.906Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 41,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A242": {
+   "pageId": "7130449e88ea6149",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:38:20.308Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 32,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A274": {
+   "pageId": "73ae6ad61eca40c8",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:31:04.204Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 33,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A116": {
+   "pageId": "756417791844441d",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:36:01.633Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 32,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A105": {
+   "pageId": "7e19f2c5b2f3f7ab",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:38:33.198Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 52,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A263": {
+   "pageId": "7f4afec3757950cb",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:39:37.565Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A145": {
+   "pageId": "83eca9077e301836",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:38:07.516Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 32,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A175": {
+   "pageId": "87fef7e8472cf6ff",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:36:58.723Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 32,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?page=17": {
+   "pageId": "91a82f8ffcd70b10",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:36:45.754Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 52,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A125": {
+   "pageId": "9740237d8edbffe1",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:32:18.353Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A225": {
+   "pageId": "a53155cba73e8d2c",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:33:58.366Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?page=7": {
+   "pageId": "aba9601b745ef1fe",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:37:25.708Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 55,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A199": {
+   "pageId": "ac158fa9a53242af",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:31:43.583Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 32,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A278": {
+   "pageId": "af886372edd91f95",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:32:50.288Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 32,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A168": {
+   "pageId": "b04e64bd3e1528b9",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:35:42.437Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 32,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A150": {
+   "pageId": "b8c27116d48f39a8",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:40:27.812Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 32,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A190": {
+   "pageId": "b933181cc4568b41",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:35:08.340Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 32,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A166": {
+   "pageId": "b9334feb830a26cb",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:35:55.019Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A249": {
+   "pageId": "bdf3b96d0d60de7b",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:31:30.887Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 33,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A214": {
+   "pageId": "c1baa4c0b5b30de6",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:32:24.838Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 33,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A252": {
+   "pageId": "c69d894c66f428e1",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:38:53.409Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 33,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A280": {
+   "pageId": "ca264645b8633514",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:39:56.349Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A230": {
+   "pageId": "d01bf11ec9779f27",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:36:13.880Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 32,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A182": {
+   "pageId": "d03ddf7a522c93e2",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:35:20.471Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A149": {
+   "pageId": "d12e71d707043668",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:36:26.541Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 32,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A260": {
+   "pageId": "de0729ad4ffdfe89",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:33:03.031Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 32,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A197": {
+   "pageId": "e5522e105112a5d2",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:40:15.102Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 32,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A193": {
+   "pageId": "ef32de2dcbe73288",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:30:45.606Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 32,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A211": {
+   "pageId": "f0a3ae6e883809bc",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:32:38.262Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 34,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A272": {
+   "pageId": "f0cd7cfa93d9778e",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:37:39.195Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 32,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order?f%5B0%5D=localgov_directories_facets%3A245": {
+   "pageId": "fda0ec1a719e5dcc",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:33:15.960Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 32,
    "hasIssues": true
   }
  },
