@@ -1,0 +1,191 @@
+{
+ "runId": "2026-10-30T07-34-19-228Z-0ad051",
+ "week": "2026-W44",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-10-30T07:34:19.883Z",
+ "scanned": [
+  "119bd8292cc1cc0d",
+  "501fd85a1f321e9b",
+  "fd3887309878ca77",
+  "f7f16c4c8d2968a8",
+  "6ad81f43a9de07f4",
+  "02774538a29bdd14",
+  "a728b6f5119d155f",
+  "6c592f88331970c6",
+  "ed40c7eff45517b8",
+  "57742b949c0f4527",
+  "478f7f3c8ba3f8e0",
+  "cdaea1096d3215cf",
+  "c2804de21617bc21",
+  "b392ac3dca90ed1d",
+  "64fa43781609e8a5",
+  "446dc31b978b5273",
+  "2bb9fc897db01dc3",
+  "ad89ea80bab3d262",
+  "f0a6bb9bfbb0c39b",
+  "f6b11c247e7489ad",
+  "2cca05e7eebf43f0",
+  "0e7124cacaaeef9c",
+  "0ded2de7ddafb3f0",
+  "1c7328f8ca84e6cc",
+  "bd550753e3856350",
+  "1306bdaf0e039808",
+  "d35dce4f886c62e5",
+  "2025f9315c28d94d",
+  "29ac2b80b7436fd1",
+  "e1c4db6df3714992",
+  "aba954d37cdeffdd",
+  "f19d8c265c8b9792",
+  "f304d3c2ffadb33e",
+  "762841a49fe30f69",
+  "8b020efee438a350",
+  "0eccf2f34c98d462",
+  "1a71d321fc28c6c0",
+  "676db50b3b29d38e",
+  "de2c363906667488",
+  "7991c282f1568100",
+  "df275ea92c0d4eea",
+  "de8e03645070fc6c",
+  "a1ae00a60a67bea0",
+  "d6261565592e9c14",
+  "355908502c005bd4",
+  "d0e9c229f444580e",
+  "9689d6820beb5468",
+  "3cb3155afd636a73",
+  "6ffa4235e40b3855",
+  "ebe3f6852c09c1c3"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 388,
+  "checked": 388,
+  "brokenCount": 9,
+  "broken": [
+   {
+    "url": "https://cmispublic.walsall.gov.uk/cmis/Meetings/tabid/70/ctl/ViewMeetingPublic/mid/397/Meeting/3790/Committee/488/SelectedTab/Documents/Default.aspx%C2%A0",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/cabinet-report-outlines-success-councils-proud-transformation"
+    ]
+   },
+   {
+    "url": "https://play.google.com/store/apps/details?id=com.bella.Solutions4Health",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/quit-smoking-ai-coach-bella-quit-good"
+    ]
+   },
+   {
+    "url": "https://apps.apple.com/gb/app/quit-with-bella/id1328877265",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/quit-smoking-ai-coach-bella-quit-good"
+    ]
+   },
+   {
+    "url": "https://www.nhs.uk/services/service-directory/walsall-specialist-stop-smoking-service-pregnant-clients/N10928360",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/walsall-residents-encouraged-access-local-services-world-health-day"
+    ]
+   },
+   {
+    "url": "https://www.walsallhealthcare.nhs.uk/our-services/maternity/health-in-pregnancy-service-hips/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/walsall-residents-encouraged-access-local-services-world-health-day"
+    ]
+   },
+   {
+    "url": "https://www.rethink.org/help-in-your-area/services/community-support/walsall-sanctuary-hub/",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/walsall-residents-encouraged-access-local-services-world-health-day"
+    ]
+   },
+   {
+    "url": "https://www.archivescard.com/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/walsall-archives-extends-opening-hours-provide-more-access-local-history"
+    ]
+   },
+   {
+    "url": "https://wslc.walsall.gov.uk/leisurehub/identity/login?",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://go.walsall.gov.uk/events/pool-floats-fun-session-oak-park-active-living-centre-1"
+    ]
+   },
+   {
+    "url": "https://www.walsallsexualhealth.nhs.uk/",
+    "status": 503,
+    "reason": "HTTP 503",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/walsall-residents-encouraged-access-local-services-world-health-day"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 48,
+  "plain-language": 26,
+  "resources": 48,
+  "images": 48,
+  "link-check": 48,
+  "security": 7,
+  "third-party": 9,
+  "alfa": 22,
+  "standards": 26,
+  "deprecated-html": 4,
+  "public-interest": 3,
+  "tech": 6,
+  "sustainability": 5,
+  "lighthouse": 4
+ },
+ "tally": {
+  "ok": 48,
+  "blocked": 2,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 2,
+  "error": 0
+ },
+ "finishedAt": "2026-10-30T07:50:09.996Z"
+}
