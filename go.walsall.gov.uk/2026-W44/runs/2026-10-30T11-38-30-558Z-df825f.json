@@ -1,0 +1,142 @@
+{
+ "runId": "2026-10-30T11-38-30-558Z-df825f",
+ "week": "2026-W44",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-10-30T11:38:31.269Z",
+ "scanned": [
+  "cc738f463601e32e",
+  "27ec240fbe6251ea",
+  "472d545fb8017901",
+  "5e20fd4178360865",
+  "98f4700617eb8118",
+  "7596c4f3d5f972fe",
+  "dc1e1d28349a98f5",
+  "a5b267fcfd7827f4",
+  "5ab0550ea137fadf",
+  "f9ca71294ce30e16",
+  "8d61107505c45b0b",
+  "ccdf7b810842868a",
+  "1f22ba895d81179f",
+  "f5e7e9bbd25e0684",
+  "434a2ec7a33b5104",
+  "20c1fa7bfd35a67f",
+  "3c90937bc33e65d5",
+  "58854e69b861aed9",
+  "1ee016a7e69ba7b3",
+  "9ccbd38393ee5c21",
+  "a7960f5b0f04fc28",
+  "eca8987fcc7dc406",
+  "cd7a0f0fb2388e8e",
+  "d046bb46a18e0d28",
+  "f7a74bcb8470fc6c",
+  "f957d39ee07179af",
+  "42dbd852ca5f1947",
+  "e8756c5f72d2441e",
+  "aeb63403cd0d64fa",
+  "eaa54844af72e65e",
+  "10bbd43b5325d2d6",
+  "5cc99e341dad0d5a",
+  "5c1e194ce6830b00",
+  "721ece2d4bcadcc1",
+  "3b4adca54285f432",
+  "974ae8ee93b3d71d",
+  "03cc16446f6aed6d",
+  "0d79124fd41b2ad9",
+  "5f394dac92de6a9c",
+  "025487839eda836c",
+  "ddb78cecd85a380f",
+  "ffbe2af2d7975446",
+  "c91d68c312d10e84",
+  "e694cae7e9a5bf4e",
+  "5187bd5d6c4be8ac",
+  "6d72197669a4fe48",
+  "0e8dd0eb2296799c",
+  "5f389c6141ebd869",
+  "b728395917f533c7"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 498,
+  "checked": 498,
+  "brokenCount": 3,
+  "broken": [
+   {
+    "url": "https://midlands.schoolvaccination.uk/flu/2025/walsall",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/children-walsall-be-offered-free-flu-vaccination-autumn"
+    ]
+   },
+   {
+    "url": "https://www.gov.uk/government/publications/model-agreement-for-a-shorthold-assured-tenancy",
+    "status": 410,
+    "reason": "HTTP 410",
+    "foundOn": [
+     "https://go.walsall.gov.uk/housing/finding-home/private-rented-accommodation"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.walsall.gov.uk%2Fpeople-and-communities%2Fwalsall-connected-get-help-get-online&data=05%7C02%7CCatherine.Lister%40walsall.gov.uk%7C52d3f029c0ee40e072e008de5ff25aef%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639053691673277318%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=TidBBwL2zWi%2FFio1yc0IkPxEeu%2FagtDO2aDgWsYwghQ%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/benefits/blue-badge-scheme"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 48,
+  "resources": 48,
+  "images": 48,
+  "standards": 27,
+  "tech": 7,
+  "third-party": 14,
+  "link-check": 48,
+  "plain-language": 22,
+  "alfa": 25,
+  "deprecated-html": 4,
+  "security": 5,
+  "public-interest": 5,
+  "lighthouse": 7,
+  "sustainability": 1
+ },
+ "tally": {
+  "ok": 48,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-10-30T11:56:10.936Z"
+}
