@@ -1,0 +1,167 @@
+{
+ "runId": "2026-10-30T07-16-34-527Z-352d1a",
+ "week": "2026-W44",
+ "domain": "www.luton.gov.uk",
+ "canonical": {
+  "origin": "https://www.luton.gov.uk",
+  "configured": "https://www.luton.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-10-30T07:16:35.123Z",
+ "scanned": [
+  "6d6a2583172bfdc6",
+  "70e307a02ea203c7",
+  "42ad95a2648d8631",
+  "7fd3ba63fa98a9da",
+  "82df923698ed55a1",
+  "e2f81b7be6099b25",
+  "0c750aa5d99688ea",
+  "e802d38936f399a5",
+  "73cab0fb89b0d722",
+  "f059355c74b71b9a",
+  "0fabeb2b203a52eb",
+  "ab93a4a2abff47de",
+  "2aa396924fe826bf",
+  "6be2b0dfc0b32c24",
+  "89c70444e8702943",
+  "45e609c5be387e1b",
+  "0ec1682bb006182c",
+  "bdd0030376465a64",
+  "95b37c339ad8eecd",
+  "13197220a0485dfe",
+  "fba2ea16ece181a5",
+  "caabb5495ca7b662",
+  "0dc16d399d3859dc",
+  "3233b9bd2d731c56",
+  "9ac9f0fd6f06d641",
+  "8c56a3f62598e6a7",
+  "4750839ac1351b0c",
+  "c8189ab4fc5b76ed",
+  "235f2465028a6259",
+  "35e93d1e0294e05c",
+  "686b33ad36ebecf7",
+  "c6cc2826cf38eaa2",
+  "3bffca477daa7f8f",
+  "145b1a23ea890693",
+  "073713bd22ab2def",
+  "a8a5ca199250814c",
+  "6022d9ecc258944d",
+  "feb3c1112e167402",
+  "3f730afd87664f92",
+  "594a087df90c80ec",
+  "61776c411d011325",
+  "b2e2fb16b760fc9a",
+  "49d3ba8726329a0c",
+  "09dc80d5be2948c5",
+  "98405e49221be5d2",
+  "9afd4080412d1333",
+  "5ff2e7af6f834d09",
+  "cc85415f3e1c0232",
+  "c8603d6031aae2f3",
+  "823c0a1a8d3f2794"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 420,
+  "checked": 420,
+  "brokenCount": 6,
+  "broken": [
+   {
+    "url": "https://www.tax.service.gov.uk/business-rates-find/calculator-start",
+    "status": 410,
+    "reason": "HTTP 410",
+    "foundOn": [
+     "https://www.luton.gov.uk/business-licences-permits/business-rates/business-rates-changes-april-2026/pubs-live-music-venues-relief"
+    ]
+   },
+   {
+    "url": "https://www.luton.gov.uk/health-social-care/health/tell-us-whats-it-grow-older-luton",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.luton.gov.uk/health-social-care/health"
+    ]
+   },
+   {
+    "url": "https://fingertips.phe.org.uk/profile/health-profiles/area-search-results/E12000006?search_type=list-child-areas&place_name=East%20of%20England",
+    "status": 0,
+    "reason": "UND_ERR_SOCKET",
+    "foundOn": [
+     "https://www.luton.gov.uk/health-social-care/health/public-health/public-health-reports"
+    ]
+   },
+   {
+    "url": "https://www.chps.uk/",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/cutenhoe-hill-primary-school"
+    ]
+   },
+   {
+    "url": "https://www.chps.uk/admissions",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/cutenhoe-hill-primary-school"
+    ]
+   },
+   {
+    "url": "https://permits.paysmarti.co.uk/acct/luton",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.luton.gov.uk/parking-streets-transport/parking/step-by-step/resident-parking-permits-step-step/apply-resident-parking-permit"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 50,
+  "resources": 50,
+  "images": 50,
+  "standards": 27,
+  "security": 6,
+  "public-interest": 4,
+  "link-check": 50,
+  "alfa": 25,
+  "plain-language": 27,
+  "third-party": 16,
+  "sustainability": 4,
+  "deprecated-html": 8,
+  "lighthouse": 5,
+  "tech": 5
+ },
+ "tally": {
+  "ok": 50,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-10-30T07:25:03.815Z"
+}
