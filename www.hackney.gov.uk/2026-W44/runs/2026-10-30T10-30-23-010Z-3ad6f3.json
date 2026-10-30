@@ -1,0 +1,240 @@
+{
+ "runId": "2026-10-30T10-30-23-010Z-3ad6f3",
+ "week": "2026-W44",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-10-30T10:30:23.345Z",
+ "scanned": [
+  "90467c7f9217a996",
+  "972aa070d7179a5f",
+  "fdd18c8e15f0a489",
+  "4ba75c621c8e92d3",
+  "cdb5674b15aec53e",
+  "ce2f22db4ff9ca8a",
+  "1f95b8182798c7b3",
+  "80cbcdf4170673d5",
+  "e0e89fb44f77d724",
+  "4bd635ad2313ddf9",
+  "c527a49dd3bd381a",
+  "93531ddd5e0fd369",
+  "8d99f30b771d5ce7",
+  "be2f536bbd23dfe1",
+  "84c335bf4c1d0c1f",
+  "312eba5806739b3f",
+  "4c26e00fe3e9134b",
+  "f760e3463d395941",
+  "afaec360f14faf02",
+  "5baa01c8486a3e67",
+  "db5f487238642ab4",
+  "8dff817c79af3194",
+  "085aab9b08039f55",
+  "47c3f9724e768cd6",
+  "1d8ee0753de14d9f",
+  "b488ccebde5f1372",
+  "c7a7853c4b6b7e5d",
+  "54481bcb5fc31623",
+  "57b2a88c8a57ac62",
+  "6430ca272c23118b",
+  "1008bbf052b6c55a",
+  "a20da51ada642852",
+  "31cdd6b95780fa7f",
+  "059735ae773aa806",
+  "30ec777c0de2a8fd",
+  "4b1a1f66b81981be",
+  "4ff67d06036e1f44",
+  "74d2d89e087283f9",
+  "315f770b401543b2",
+  "76baafeeb1659363",
+  "150be082788d5ac4",
+  "5141eb36226aa97c",
+  "9a7d3976469998d3"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 586,
+  "checked": 500,
+  "brokenCount": 16,
+  "broken": [
+   {
+    "url": "https://www.deafplus.org/deafblind-vi-support/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-tax-and-benefits/financial-advice-and-resources/organisations-help-money-matters-and-advice"
+    ]
+   },
+   {
+    "url": "https://www.rsbc.org.uk/advice/what-we-do/hackney-advice-service",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-tax-and-benefits/financial-advice-and-resources/organisations-help-money-matters-and-advice"
+    ]
+   },
+   {
+    "url": "https://www.refugeewomen.org.uk/",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-tax-and-benefits/financial-advice-and-resources/organisations-help-money-matters-and-advice"
+    ]
+   },
+   {
+    "url": "https://hackneyworks.hackney.gov.uk/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-tax-and-benefits/financial-advice-and-resources/organisations-help-money-matters-and-advice"
+    ]
+   },
+   {
+    "url": "http://www.offcentre.org.uk/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-tax-and-benefits/financial-advice-and-resources/organisations-help-money-matters-and-advice"
+    ]
+   },
+   {
+    "url": "http://www.eastendcab.org.uk/",
+    "status": 0,
+    "reason": "timeout",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-tax-and-benefits/financial-advice-and-resources/organisations-help-money-matters-and-advice"
+    ]
+   },
+   {
+    "url": "http://www.bmf.org.uk/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/business-and-licensing/licensing/skip-licence"
+    ]
+   },
+   {
+    "url": "http://www.ons.gov.uk/ons/rel/ashe/annual-survey-of-hours-and-earnings/2012-provisional-results/index.html",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-and-elections/equality-and-diversity/hackneys-demographics/age-and-sex-discrimination"
+    ]
+   },
+   {
+    "url": "https://www.saneukraine.org/en/home/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/welcome-hackney-refugee-migrant-and-asylum-seeker-service"
+    ]
+   },
+   {
+    "url": "https://gbr01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fthriveldn.co.uk%2Fcommunications%2Ftoolkits-and-resources%2Ftoolkit%2Fwellbeing-guidance-in-36-languages%2F&data=05%7C01%7Cjames.ludley%40nhs.net%7C280af55265444725995308db0f75c4e3%7C37c354b285b047f5b22207b48d774ee3%7C0%7C0%7C638120770700820981%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=3aJr87luiPXypdnQWaoR4%2BQVV62pNKhtG3mJF4MjM7U%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/welcome-hackney-refugee-migrant-and-asylum-seeker-service"
+    ]
+   },
+   {
+    "url": "https://gbr01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.good-thinking.uk%2Ffaith-and-belief-communities%2Fislam&data=05%7C01%7Cjames.ludley%40nhs.net%7C280af55265444725995308db0f75c4e3%7C37c354b285b047f5b22207b48d774ee3%7C0%7C0%7C638120770700977732%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=00NvE%2Bmgem8Co7HlYZYFIhP2BZj3vUjdUavY4mQhGw0%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/welcome-hackney-refugee-migrant-and-asylum-seeker-service"
+    ]
+   },
+   {
+    "url": "https://gbr01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.good-thinking.uk%2Fcoping-trauma-better-mental-health&data=05%7C01%7Cjames.ludley%40nhs.net%7C280af55265444725995308db0f75c4e3%7C37c354b285b047f5b22207b48d774ee3%7C0%7C0%7C638120770700977732%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=YC%2B7UkUxOl%2B3YkOG9W2BcklShejRvhyFjVedw73ey94%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/welcome-hackney-refugee-migrant-and-asylum-seeker-service"
+    ]
+   },
+   {
+    "url": "https://gbr01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.good-thinking.uk%2Fbereavement&data=05%7C01%7Cjames.ludley%40nhs.net%7C280af55265444725995308db0f75c4e3%7C37c354b285b047f5b22207b48d774ee3%7C0%7C0%7C638120770700977732%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=5H449L9TzaGhHQkyD4kDdb7tBMWThCPcY105vQUl%2B7w%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/welcome-hackney-refugee-migrant-and-asylum-seeker-service"
+    ]
+   },
+   {
+    "url": "https://advice-ukraine.co.uk/",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/welcome-hackney-refugee-migrant-and-asylum-seeker-service"
+    ]
+   },
+   {
+    "url": "https://developmentandhousing.hackney.gov.uk/planning/index.html",
+    "status": 406,
+    "reason": "HTTP 406",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/make-planning-application/after-submitting-planning-application"
+    ]
+   },
+   {
+    "url": "http://www.eastendcab.org.uk/hackney/",
+    "status": 0,
+    "reason": "timeout",
+    "foundOn": [
+     "https://www.hackney.gov.uk/housing/private-tenants-and-landlords/private-tenants/help-private-sector-tenants"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 40,
+  "alfa": 22,
+  "resources": 40,
+  "images": 40,
+  "standards": 19,
+  "public-interest": 7,
+  "link-check": 40,
+  "plain-language": 17,
+  "lighthouse": 5,
+  "security": 5,
+  "third-party": 14,
+  "sustainability": 8,
+  "tech": 7,
+  "deprecated-html": 1
+ },
+ "tally": {
+  "ok": 41,
+  "blocked": 2,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 7,
+  "error": 0
+ },
+ "finishedAt": "2026-10-30T10:38:48.798Z"
+}
