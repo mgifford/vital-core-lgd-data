@@ -1,0 +1,77 @@
+{
+ "runId": "2026-10-30T10-57-55-504Z-c26834",
+ "week": "2026-W44",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-10-30T10:57:56.053Z",
+ "scanned": [
+  "68fe1a0b806251ac",
+  "b95d9a603e363369",
+  "7414bd836ec3c67a",
+  "7df77a4854b9fe9b",
+  "29e7e0181f097c83",
+  "c430255ef37f8496"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 76,
+  "checked": 76,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "http://content.tfl.gov.uk/strategic-cycling-analysis.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/cycling/cycleway-23"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 5,
+  "alfa": 4,
+  "resources": 5,
+  "images": 5,
+  "security": 1,
+  "link-check": 5,
+  "standards": 4,
+  "plain-language": 2
+ },
+ "tally": {
+  "ok": 5,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 2,
+  "error": 0
+ },
+ "finishedAt": "2026-10-30T10:59:21.132Z"
+}
