@@ -1,0 +1,135 @@
+{
+ "runId": "2026-10-30T10-57-53-917Z-612f71",
+ "week": "2026-W44",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-10-30T10:57:54.472Z",
+ "scanned": [
+  "4e6c0102449d7c13",
+  "86f4246f2c500d57",
+  "35d3bdc37843c450",
+  "10f9ad6de7238531",
+  "0f690fe1c69073b9",
+  "d433a761486e2fd4",
+  "ad605bd1e636795f",
+  "160dbe2925153749",
+  "271543f1109bf9fc",
+  "8ab526490d483bb0",
+  "e5faff635f3e9643",
+  "b133b1dfbf429c98",
+  "e52e36fb4b2933e5",
+  "638a9dea57c3cd16",
+  "fcad6928820906c1",
+  "17114e0a97faf051",
+  "d40666868fc66174",
+  "9fab0446d778acd3",
+  "2872bf3def7dd934",
+  "59751962799957d4",
+  "a4892f86ca0c0390",
+  "29063fd8d98a3300",
+  "6c51eb25b15e1fd3",
+  "ff16f8e922a4c004",
+  "ccfc11072eaf8016",
+  "ae38c35f5de1bdd8",
+  "2d04518cd274d3b5",
+  "8b03bc235a510cb3",
+  "1b877a6e4920d62d",
+  "ddd0566c499d79c2",
+  "dd32302c389402bb",
+  "7c427671482b2975",
+  "6b32ededcc01ed04",
+  "37117ce397b7a29c",
+  "ee8ec1491e90dd21",
+  "8ffeac10f3e0636d",
+  "045b697e26175b11",
+  "d3c35255fb240bd6",
+  "17036508bfee097a",
+  "9ba17670adfef071",
+  "279cb2b331e45c8f",
+  "b190a590cf393377",
+  "e76fc82840c0fb3c",
+  "f48a7796cc1c4a82",
+  "ad6e10320c2dd759",
+  "20ac1c3d87d981af",
+  "1ae58725a6b25a8d",
+  "8467108b161f4618",
+  "7f7d6a2ee2f5006b",
+  "93a2f35f001f2a78"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 702,
+  "checked": 500,
+  "brokenCount": 2,
+  "broken": [
+   {
+    "url": "http://oldbankbusiness.co.uk/",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/events/darlaston-business-support-drop-clinic"
+    ]
+   },
+   {
+    "url": "https://wslc.walsall.gov.uk/leisurehub/identity/login",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://go.walsall.gov.uk/events/pool-floats-fun-session-oak-park-active-living-centre-10"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 48,
+  "alfa": 32,
+  "resources": 48,
+  "images": 48,
+  "link-check": 48,
+  "plain-language": 22,
+  "standards": 23,
+  "third-party": 9,
+  "tech": 5,
+  "sustainability": 6,
+  "security": 6,
+  "public-interest": 7,
+  "lighthouse": 6,
+  "deprecated-html": 4
+ },
+ "tally": {
+  "ok": 48,
+  "blocked": 2,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-30T11:13:13.942Z"
+}
