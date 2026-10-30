@@ -1,0 +1,159 @@
+{
+ "runId": "2026-10-30T07-34-25-635Z-0adcc6",
+ "week": "2026-W44",
+ "domain": "www.luton.gov.uk",
+ "canonical": {
+  "origin": "https://www.luton.gov.uk",
+  "configured": "https://www.luton.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-10-30T07:34:26.131Z",
+ "scanned": [
+  "3e55548eb94b023b",
+  "192ca760822b5a05",
+  "b1269d61b7ab1d81",
+  "372d13876bebfd2b",
+  "8b2804d138be56e1",
+  "b6cc3aa33f9af7b9",
+  "fb384affd9ab51c9",
+  "ed6df80df1a822ef",
+  "8410f05e8967c74a",
+  "08391bf6325b7adb",
+  "78b0e59b173d0570",
+  "f087c3f822a32c2e",
+  "601f0dd9fc7daf6e",
+  "65f3ca382cc9243f",
+  "d8413a71f7966c96",
+  "85fba1609e3dc6a0",
+  "8721f03c8f983e18",
+  "088636ac27009067",
+  "e45f4078dfcbdaf3",
+  "0f778e1915c9e586",
+  "e8bfcae4e85ca560",
+  "dc2250e33714befb",
+  "02bb322ee75a22d7",
+  "de8550ecc1dd1e85",
+  "929b044f2d36a17b",
+  "0cc305c50ea8d151",
+  "f3cf34f566024859",
+  "5559a686a3391db6",
+  "499503072a60a879",
+  "f0f6b77155b1c048",
+  "7fef150eae9762b0",
+  "bcf1552f819eaa71",
+  "a95ecf0a99f1b80a",
+  "bdcf262a357ba8fa",
+  "0e1c3cfaf9c624f8",
+  "9ade20e16a6c6636",
+  "f4f4977e0e4967ed",
+  "a5fe2b37d7acd88c",
+  "752be1af8dc82f71",
+  "ed85b1bf825e5ce3",
+  "4efc977c09331bc5",
+  "95c2063ad0f19dbc",
+  "a1227b369e4b2871",
+  "633513dc099d495d",
+  "e40b0187e30e6c52",
+  "d06f8e0a8f3b1b0c",
+  "471883936cea9a87",
+  "f5613ea2121b7a3f",
+  "2a23d8555bae05a4",
+  "45d991c450cf9a37"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 415,
+  "checked": 415,
+  "brokenCount": 5,
+  "broken": [
+   {
+    "url": "https://forms.ukhsa.gov.uk/ReportAnOutbreak",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://www.luton.gov.uk/health-social-care/health-social-care-accidents-emergencies"
+    ]
+   },
+   {
+    "url": "https://www.luton.gov.uk/Transport_and_streets/Lists/LutonDocuments/PDF/resurfacing-2025-26.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.luton.gov.uk/news/2025/surface-treatments-programme-being-carried-out-protect-future-proof-lutons-roads"
+    ]
+   },
+   {
+    "url": "https://www.luton.gov.uk/Page/Show/Education_and_learning/Special_educational_needs/Pages/default.aspx",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.luton.gov.uk/health-social-care/children-young-people-families/childrens-social-care/children-young-people-care/out-area-placement-procedures/support-services-children-care"
+    ]
+   },
+   {
+    "url": "https://www.luton.gov.uk/Page/Show/Health_and_social_care/children_and_family_services/family-support-guidance/Family%20Information%20Service/Pages/School-holiday-activities-in-Luton.aspx",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.luton.gov.uk/health-social-care/children-young-people-families/childrens-social-care/children-young-people-care/out-area-placement-procedures/support-services-children-care"
+    ]
+   },
+   {
+    "url": "https://permits.paysmarti.co.uk/acct/luton",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.luton.gov.uk/parking-streets-transport/parking/step-by-step/resident-parking-permits-step-step/after-you-apply-resident-parking-permit"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 50,
+  "alfa": 24,
+  "resources": 50,
+  "images": 50,
+  "link-check": 50,
+  "standards": 24,
+  "public-interest": 8,
+  "plain-language": 24,
+  "deprecated-html": 6,
+  "sustainability": 3,
+  "security": 8,
+  "third-party": 6,
+  "lighthouse": 6,
+  "tech": 7
+ },
+ "tally": {
+  "ok": 50,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-30T07:42:15.988Z"
+}
