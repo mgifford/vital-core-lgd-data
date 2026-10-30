@@ -1,0 +1,193 @@
+{
+ "runId": "2026-10-30T06-49-12-368Z-dffddc",
+ "week": "2026-W44",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-10-30T06:49:14.952Z",
+ "scanned": [
+  "bc0ebdfc6e6cfb45",
+  "d70e36efb8ed4dfd",
+  "547d742aaec22b18",
+  "29e7728ddb2b1588",
+  "9b2ee4ace47842a1",
+  "01cdaa7dae179a2f",
+  "938ff717681f659e",
+  "f5e03a4bd166ecfc",
+  "f95ca137abfeb2cf",
+  "b19ed7f8f66e0b29",
+  "85d62bec1cadcd97",
+  "ba72b0ab419dd5f9",
+  "a1bf96e2f4bfb165",
+  "6ab587cc48421228",
+  "71f7a0dc15490ec3",
+  "74cbb63fa72d474b",
+  "d42c5746413ed4fc",
+  "552f51f9048d9828",
+  "2754a4c400cfd2a2",
+  "2111fcec6b44880e",
+  "abf5f889690f8a19",
+  "f2386d920f4348b9",
+  "994477048ab95298",
+  "2c9cc28935f49340",
+  "ebedaf4cfbbf79dc",
+  "ff4f672a19f4e5a0",
+  "3b95d2eecbb12908",
+  "8034c4d86eeb6431",
+  "72722b61e0a25fa5",
+  "bb973be33b6c44f1",
+  "3cd3fecd8eb57838",
+  "01f0df857ce887dc",
+  "cc2f7e2559cbf5f8",
+  "2a9314fda4014b5c",
+  "8c117eee787ebe12",
+  "6ec0a4156eaadc8f",
+  "d396b38a543dc9f7",
+  "3936233fc4de4242",
+  "b4612d662feb65e1",
+  "ec3596dabaf2b2c8",
+  "871162be8c62e530",
+  "f5846193a9ecd466",
+  "d911b608cdf0ceda",
+  "e97251f4bc3ca39e"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 418,
+  "checked": 418,
+  "brokenCount": 10,
+  "broken": [
+   {
+    "url": "https://education.hackney.gov.uk/content/hubs-support-for-expectant-parents",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-and-elections/equality-and-diversity/hackneys-demographics/pregnancy-and-maternity"
+    ]
+   },
+   {
+    "url": "https://procontract.due-north.com/ContractsRegister/Index?p=2241eb95-058a-e511-80f7-000c29c9ba21&v=1",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/business-and-licensing/procurement-tenders-and-contracts/working-council"
+    ]
+   },
+   {
+    "url": "http://www.london-fire.gov.uk/know-the-plan.asp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/housing/stay-safe-your-home/fire-safety/general-fire-safety-advice"
+    ]
+   },
+   {
+    "url": "https://www.london-fire.gov.uk/safety/the-home/book-a-home-fire-safety-visit/",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://www.hackney.gov.uk/housing/stay-safe-your-home/fire-safety/general-fire-safety-advice"
+    ]
+   },
+   {
+    "url": "http://www.stonewall.org.uk/our-work",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-and-elections/equality-and-diversity/hackneys-demographics/sexual-orientation"
+    ]
+   },
+   {
+    "url": "https://www.stonewall.org.uk/about-us/blog/communities/black-lgbtq-organisations-you-should-know-about",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-and-elections/equality-and-diversity/hackneys-demographics/sexual-orientation"
+    ]
+   },
+   {
+    "url": "https://moodspark.org.uk/lgbtqi-mental-health-booklet/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-and-elections/equality-and-diversity/hackneys-demographics/sexual-orientation"
+    ]
+   },
+   {
+    "url": "https://www.theopenmindsproject.org/",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-and-elections/equality-and-diversity/hackneys-demographics/sexual-orientation"
+    ]
+   },
+   {
+    "url": "https://www.london-fire.gov.uk/safety/",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/community-safety-and-crime-prevention/emergency-planning-and-response/civil-protection-emergency-planning-and-response"
+    ]
+   },
+   {
+    "url": "http://www.eastendcab.org.uk/hackney/",
+    "status": 0,
+    "reason": "timeout",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/benefits-explained/universal-credit-explained"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 43,
+  "plain-language": 18,
+  "resources": 43,
+  "images": 43,
+  "tech": 5,
+  "link-check": 43,
+  "standards": 22,
+  "third-party": 8,
+  "alfa": 25,
+  "public-interest": 4,
+  "security": 5,
+  "lighthouse": 5,
+  "sustainability": 7,
+  "deprecated-html": 2
+ },
+ "tally": {
+  "ok": 43,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 6,
+  "error": 0
+ },
+ "finishedAt": "2026-10-30T06:57:00.911Z"
+}
