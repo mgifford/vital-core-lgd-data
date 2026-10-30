@@ -1,0 +1,166 @@
+{
+ "runId": "2026-10-30T23-11-49-015Z-cb4fc6",
+ "week": "2026-W44",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-10-30T23:11:49.913Z",
+ "scanned": [
+  "5f8a0d5850b7d174",
+  "dc94cf4e67df206a",
+  "d84119c8124e83fb",
+  "b63f11e87342af65",
+  "cb8e399bb4e4a9bc",
+  "e481b029b2468bbe",
+  "f92c97a42f97a88f",
+  "80d809d7c4f1da62",
+  "3006132482a7c4af",
+  "201734e2b7f8f7ca",
+  "0248c40fa40be60b",
+  "6fa004895865da1a",
+  "097058766bf6be13",
+  "106c9f17df086c8f",
+  "faf21bc0ee6d515c",
+  "36ca253a975601d9",
+  "639fe133cc1dd7e7",
+  "f10122475aeeabd6",
+  "b8853472213f0389",
+  "06f40ee3a316ed8c",
+  "4b5a74b48494cdab",
+  "c74c0ac66817d684",
+  "11afdf21e81252c8",
+  "28864727ef3ace29",
+  "20d1f93f363ba209",
+  "e20f7f8640f00b6e",
+  "37c055da4721b6a2",
+  "61f784c122d3f469",
+  "9ee42a22fd58b4e8",
+  "683ca372a5f79ce0",
+  "f6448ac514c8d8fa",
+  "8b0a28d5b32fd127",
+  "c1531384550ebeb4",
+  "7d2baadc91b0d2cb",
+  "e2953b715d8a12b1",
+  "864e01fe097d4a01",
+  "de24d012613650f4",
+  "143927edb7f56876",
+  "d475df1e17ffb789",
+  "5b6beb1c678853c7",
+  "69104bd86cf1a813",
+  "7fc4504c8144400c",
+  "4e6de416d7cd640d",
+  "ac8856c8a0c6c5ef",
+  "8802e7eeba20e4ed",
+  "84db380f3bac078d",
+  "9200d261521fbfba",
+  "2f0ec64c0a137ff4",
+  "583e706057c4859b"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 433,
+  "checked": 433,
+  "brokenCount": 6,
+  "broken": [
+   {
+    "url": "http://walsallsp.walsall.gov.uk/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://go.walsall.gov.uk/children-and-young-people/walsall-family-safeguarding-/further-information-about-family-safeguarding-in-walsall"
+    ]
+   },
+   {
+    "url": "https://wslc.walsall.gov.uk/leisurehub/identity/login",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://go.walsall.gov.uk/events/acti-kids-fitness-bloxwich-active-living-centre-0"
+    ]
+   },
+   {
+    "url": "https://walsallccg.nhs.uk/about-us/walsall-together/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://go.walsall.gov.uk/children-and-young-people/walsall-family-safeguarding-/further-information-about-family-safeguarding-in-walsall"
+    ]
+   },
+   {
+    "url": "https://finds.org.uk/counties/westmidlands/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/planning-and-building-control/listed-buildings-conservation-and-environment/archaeology-and"
+    ]
+   },
+   {
+    "url": "https://walsallccg.nhs.uk/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://go.walsall.gov.uk/children-and-young-people/walsall-family-safeguarding-/further-information-about-family-safeguarding-in-walsall"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.walsall.gov.uk%2Fparks-and-green-spaces&data=05%7C02%7CStevie.Cattell%40walsall.gov.uk%7C5a0c69adadf149e9696a08dee3e19bc2%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639198755309684277%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=rtzuCUJOqeqmZY%2FNSSBLPtw3elLhFMt6OqPDkkxCVHg%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/explore-walsalls-great-outdoors-free-family-activities-summer"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 48,
+  "plain-language": 32,
+  "resources": 48,
+  "images": 48,
+  "standards": 22,
+  "link-check": 48,
+  "third-party": 6,
+  "alfa": 22,
+  "security": 3,
+  "sustainability": 10,
+  "lighthouse": 7,
+  "deprecated-html": 6,
+  "public-interest": 5,
+  "tech": 3
+ },
+ "tally": {
+  "ok": 48,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 1,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-30T23:25:37.681Z"
+}
