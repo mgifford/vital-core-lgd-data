@@ -1,0 +1,153 @@
+{
+ "runId": "2026-10-30T13-31-43-906Z-c00223",
+ "week": "2026-W44",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-10-30T13:31:44.538Z",
+ "scanned": [
+  "ac35d240f81eae08",
+  "488259b0fec3e5bb",
+  "3fcad255b4d03f87",
+  "e1aef2c51bd7d309",
+  "b28d2120f0216d56",
+  "94c5ab972e48011f",
+  "8d75f2f7751eff57",
+  "0b8fd4018bf26aee",
+  "77ef946123a993af",
+  "5644e617b93f7ddf",
+  "e8bc979445601e69",
+  "8d82f83fc4dd5e35",
+  "4844d1e192d7f743",
+  "bd89bbf62b00380e",
+  "47227f10e42c06f3",
+  "431fb10a3627d310",
+  "0368964bfd5dd09b",
+  "3f0eb8165c17707a",
+  "ff9df8f8b9c7d65e",
+  "22ba0f00b1b720e5",
+  "53abc454f8e5d0c5",
+  "f3537e87ac6f53ca",
+  "fb03e2cd78b629cc",
+  "15747f4ca9c351a0",
+  "50a9cebd1ea86a21",
+  "738a7458b83008f4",
+  "4c17816aa533cd06",
+  "5a9c4f327caccfbd",
+  "c6523e42cf51349d",
+  "c27e1acb0f333021",
+  "3a17cd12ede31e47",
+  "cf67d81c34afe867",
+  "34f4bb862fe439cf",
+  "17424a84cfaf0984",
+  "d1bb4fa743769b3f",
+  "72a82a99d31428d1",
+  "9d0ec3b01397f131",
+  "205e5a186be4b671",
+  "4b64c48fc68ce723",
+  "56a23f1511ab274c",
+  "ad31108c4999a6c8",
+  "2ccd641c457b2609",
+  "bf2b8a5c21e72ccd",
+  "441898dc1ff69e21"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 281,
+  "checked": 281,
+  "brokenCount": 5,
+  "broken": [
+   {
+    "url": "https://wslc.walsall.gov.uk/leisurehub/identity/login",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://go.walsall.gov.uk/sport-and-leisure/memberships/corporate-membership"
+    ]
+   },
+   {
+    "url": "https://go.walsall.gov.uk/accessibility/list-our-other-websites/webproject@walsall.gov.uk",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/accessibility/list-our-other-websites/accessibility-statement-walsall-council-registrars-website"
+    ]
+   },
+   {
+    "url": "https://play.google.com/store/apps/details?id=com.bella.Solutions4Health",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/sculpture-made-seized-vapes-display-walsall-council-house"
+    ]
+   },
+   {
+    "url": "https://apps.apple.com/gb/app/quit-with-bella/id1328877265",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/sculpture-made-seized-vapes-display-walsall-council-house"
+    ]
+   },
+   {
+    "url": "https://wslc.walsall.gov.uk/leisurehub/identity/login?",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://go.walsall.gov.uk/events/pool-floats-fun-session-oak-park-active-living-centre-9"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 43,
+  "alfa": 24,
+  "resources": 43,
+  "images": 43,
+  "third-party": 7,
+  "link-check": 43,
+  "sustainability": 6,
+  "plain-language": 20,
+  "standards": 21,
+  "tech": 6,
+  "deprecated-html": 3,
+  "lighthouse": 5,
+  "public-interest": 2,
+  "security": 2
+ },
+ "tally": {
+  "ok": 43,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 5,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-10-30T13:45:32.348Z"
+}
