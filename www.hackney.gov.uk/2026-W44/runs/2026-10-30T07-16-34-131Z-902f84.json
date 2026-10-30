@@ -1,0 +1,147 @@
+{
+ "runId": "2026-10-30T07-16-34-131Z-902f84",
+ "week": "2026-W44",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-10-30T07:16:35.656Z",
+ "scanned": [
+  "c806d900f8919a52",
+  "a3e7bc1551ad5ec9",
+  "77e64087cd1e7721",
+  "e480fcaa0edada59",
+  "d86c49eccf55dc98",
+  "7bc9c066deef7882",
+  "24abdd5f97659ec4",
+  "e09c0111a16241d4",
+  "e7f1eb690cc34fd4",
+  "56662b1312203476",
+  "2fbaf2ed128d5468",
+  "b80a9c9470411a83",
+  "c8df900efef5da80",
+  "a4db158501d19838",
+  "ee4bbc69987d72c6",
+  "ec3dcc8dcef96cd0",
+  "d0e4aa8a8a35899b",
+  "c211ee0d4a4ac258",
+  "089fe9813ef3edc4",
+  "490df0ca0284d4c6",
+  "e33217b1f476079d",
+  "17aba72334946385",
+  "6d90558454b3f1b7",
+  "efdcfe5e134e9243",
+  "bcde3de9dea10308",
+  "f72ab7c0e2d6f368",
+  "321e505fc3092df2",
+  "d418b67d68165370",
+  "0cab4ecc82b50a88",
+  "d566c7037799d287",
+  "20fad5080f86f497",
+  "37d28065fb36b49c",
+  "c2de984016471364",
+  "9549fa19a9558598",
+  "55ae6ebc6dabc645",
+  "565a0df613581210",
+  "bf23519ae11e18be",
+  "f2e01c1d5ea6e0ad",
+  "3eff4366fbf9627a",
+  "0730be68b09f2fa6",
+  "4b41d90bf0f643c6",
+  "eba984a0b1370da0",
+  "efe9b1da23903bfa",
+  "728d57b6a4ee7f62",
+  "771d70243e61ae74",
+  "82302b853e32bc46"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 443,
+  "checked": 443,
+  "brokenCount": 4,
+  "broken": [
+   {
+    "url": "http://www.finalfarewell.org/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/births-deaths-marriages-and-citizenship/deaths/bereavement-support"
+    ]
+   },
+   {
+    "url": "https://www.metoffice.gov.uk/weather/climate-change/effects-of-climate-change",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/greener-hackney"
+    ]
+   },
+   {
+    "url": "https://www.crewenergy.london/free-energy-advice.html",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/energy/green-homes"
+    ]
+   },
+   {
+    "url": "https://www.hta.co.uk/services/planning",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/selman-house-and-wellday-house-gascoyne-estate"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 46,
+  "plain-language": 24,
+  "resources": 46,
+  "images": 46,
+  "standards": 22,
+  "third-party": 12,
+  "link-check": 46,
+  "alfa": 22,
+  "deprecated-html": 7,
+  "security": 5,
+  "public-interest": 4,
+  "sustainability": 7,
+  "tech": 6,
+  "lighthouse": 5
+ },
+ "tally": {
+  "ok": 46,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 5,
+  "error": 0
+ },
+ "finishedAt": "2026-10-30T07:24:28.065Z"
+}
