@@ -1,6 +1,6 @@
 {
  "domain": "www.luton.gov.uk",
- "updatedAt": "2026-10-30T07:04:16.470Z",
+ "updatedAt": "2026-10-30T07:31:54.453Z",
  "links": {
   "https://www.food.gov.uk/business-guidance/registering-and-managing-a-food-business": {
    "status": 404,
@@ -302,7 +302,8 @@
    "weeksBroken": 1,
    "foundOn": [
     "https://www.luton.gov.uk/parking-streets-transport/parking/step-by-step/resident-parking-permits-step-step/renew-your-resident-parking-permit",
-    "https://www.luton.gov.uk/parking-streets-transport/parking/step-by-step/resident-parking-permits-step-step/apply-visitor-parking-vouchers"
+    "https://www.luton.gov.uk/parking-streets-transport/parking/step-by-step/resident-parking-permits-step-step/apply-visitor-parking-vouchers",
+    "https://www.luton.gov.uk/parking-streets-transport/parking/step-by-step/resident-parking-permits-step-step/apply-resident-parking-permit"
    ]
   },
   "https://www.williamaustininfants.co.uk/": {
@@ -576,6 +577,71 @@
    "weeksBroken": 1,
    "foundOn": [
     "https://www.luton.gov.uk/news/2025/luton-host-series-events-international-womens-day-2025"
+   ]
+  },
+  "https://www.tax.service.gov.uk/business-rates-find/calculator-start": {
+   "status": 410,
+   "reason": "HTTP 410",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.luton.gov.uk/business-licences-permits/business-rates/business-rates-changes-april-2026/pubs-live-music-venues-relief"
+   ]
+  },
+  "https://www.luton.gov.uk/health-social-care/health/tell-us-whats-it-grow-older-luton": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.luton.gov.uk/health-social-care/health"
+   ]
+  },
+  "https://fingertips.phe.org.uk/profile/health-profiles/area-search-results/E12000006?search_type=list-child-areas&place_name=East%20of%20England": {
+   "status": 0,
+   "reason": "UND_ERR_SOCKET",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.luton.gov.uk/health-social-care/health/public-health/public-health-reports"
+   ]
+  },
+  "https://www.chps.uk/": {
+   "status": 0,
+   "reason": "ERR_HTTP2_STREAM_ERROR",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/cutenhoe-hill-primary-school"
+   ]
+  },
+  "https://www.chps.uk/admissions": {
+   "status": 0,
+   "reason": "ERR_HTTP2_STREAM_ERROR",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/cutenhoe-hill-primary-school"
    ]
   }
  }

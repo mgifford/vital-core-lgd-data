@@ -1,6 +1,6 @@
 {
  "domain": "www.hackney.gov.uk",
- "updatedAt": "2026-10-30T07:04:16.105Z",
+ "updatedAt": "2026-10-30T07:31:54.156Z",
  "findings": {
   "VS-a0bdbdf6": {
    "engine": "axe-core",
@@ -31,9 +31,10 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 1,
+   "lastPagesAffected": 2,
    "lastAffectedPages": [
-    "https://hackney.gov.uk/council-tax-and-benefits/benefits/how-we-assess-your-benefits-claim/local-housing-allowance-lha-explained"
+    "https://hackney.gov.uk/council-tax-and-benefits/benefits/how-we-assess-your-benefits-claim/local-housing-allowance-lha-explained",
+    "https://www.hackney.gov.uk/community-safety-and-environment/energy/solar-power"
    ]
   },
   "VS-28ebd979": {
@@ -48,9 +49,10 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 1,
+   "lastPagesAffected": 2,
    "lastAffectedPages": [
-    "https://hackney.gov.uk/council-tax-and-benefits/benefits/how-we-assess-your-benefits-claim/local-housing-allowance-lha-explained"
+    "https://hackney.gov.uk/council-tax-and-benefits/benefits/how-we-assess-your-benefits-claim/local-housing-allowance-lha-explained",
+    "https://www.hackney.gov.uk/community-safety-and-environment/energy/solar-power"
    ]
   },
   "VS-0841abc2": {
@@ -65,7 +67,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 881,
+   "lastPagesAffected": 927,
    "lastAffectedPages": [
     "https://hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/make-freedom-information-request",
     "https://hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/growing-hackney-child-friendly-places-supplementary-planning-document-spd",
@@ -91,7 +93,7 @@
     "https://hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/air-quality/air-quality-action-plan-and-reports",
     "https://www.hackney.gov.uk/health-and-social-care/children-and-families/fostering/hackney-kinship-care-local-offer",
     "https://www.hackney.gov.uk/planning-and-building/make-planning-application/pre-application-services/planning-performance-agreements",
-    "https://hackney.gov.uk/parking-streets-and-transport/parking-permits-and-vouchers/parking-account-how-guides"
+    "https://www.hackney.gov.uk/community-safety-and-environment/animals-and-pest-control/lost-and-stray-dogs-and-cats"
    ]
   },
   "VS-3f76c7ea": {
@@ -106,7 +108,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 23,
+   "lastPagesAffected": 24,
    "lastAffectedPages": [
     "https://hackney.gov.uk/education/computers-and-digital-skills/improve-your-digital-skills",
     "https://www.hackney.gov.uk/parking-streets-and-transport/school-streets",
@@ -119,6 +121,7 @@
     "https://hackney.gov.uk/planning-and-building/conservation-and-urban-design/locally-listed-buildings",
     "https://www.hackney.gov.uk/community-safety-and-environment/energy/district-heat",
     "https://www.hackney.gov.uk/health-and-social-care/join-exercise-programme-if-youve-had-stroke-or-tia",
+    "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/clapton-pond-conservation-area",
     "https://hackney.gov.uk/community-safety-and-environment/community-safety-and-crime-prevention/emergency-planning-and-response/flood-warnings-and-planning",
     "https://hackney.gov.uk/parking-streets-and-transport/roads-streets-and-pavements/roads-and-highways-enforcement/red-routes",
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/fremont-and-warneford-conservation-area",
@@ -145,7 +148,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 443,
+   "lastPagesAffected": 465,
    "lastAffectedPages": [
     "https://hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/make-freedom-information-request",
     "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/recruitment-privacy-notice",
@@ -186,7 +189,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 443,
+   "lastPagesAffected": 465,
    "lastAffectedPages": [
     "https://hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/make-freedom-information-request",
     "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/recruitment-privacy-notice",
@@ -227,7 +230,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 443,
+   "lastPagesAffected": 465,
    "lastAffectedPages": [
     "https://hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/make-freedom-information-request",
     "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/recruitment-privacy-notice",
@@ -306,7 +309,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 443,
+   "lastPagesAffected": 465,
    "lastAffectedPages": [
     "https://hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/make-freedom-information-request",
     "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/recruitment-privacy-notice",
@@ -347,7 +350,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 443,
+   "lastPagesAffected": 465,
    "lastAffectedPages": [
     "https://hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/make-freedom-information-request",
     "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/recruitment-privacy-notice",
@@ -388,7 +391,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 443,
+   "lastPagesAffected": 465,
    "lastAffectedPages": [
     "https://hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/make-freedom-information-request",
     "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/recruitment-privacy-notice",
@@ -429,7 +432,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 442,
+   "lastPagesAffected": 464,
    "lastAffectedPages": [
     "https://hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/make-freedom-information-request",
     "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/recruitment-privacy-notice",
@@ -470,7 +473,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 74,
+   "lastPagesAffected": 77,
    "lastAffectedPages": [
     "https://hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/underwood-street-conservation-area",
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/sun-street-conservation-area",
@@ -511,7 +514,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 36,
+   "lastPagesAffected": 38,
    "lastAffectedPages": [
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/sun-street-conservation-area",
     "https://hackney.gov.uk/planning-and-building/self-build-and-custom-housebuilding",
@@ -532,12 +535,12 @@
     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/residential-extensions-and-alterations-supplementary-planning-document-spd",
     "https://hackney.gov.uk/housing/council-tenants/residents-additional-needs",
     "https://hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/hackney-wick-conservation-area",
+    "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/clapton-pond-conservation-area",
     "https://www.hackney.gov.uk/community-safety-and-environment/community-partnerships/strategic-partnership-board/community-safety-partnership",
     "https://hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/lordship-park-conservation-area",
     "https://hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/dalston-conservation-area",
     "https://hackney.gov.uk/council-and-elections/finances-and-transparency/transparency/legally-enforceable-agreements-purchase-orders-over-ps5000",
-    "https://hackney.gov.uk/health-and-social-care/adult-social-care/choose-how-manage-your-care",
-    "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/fremont-and-warneford-conservation-area"
+    "https://hackney.gov.uk/health-and-social-care/adult-social-care/choose-how-manage-your-care"
    ]
   },
   "VS-8806389c": {

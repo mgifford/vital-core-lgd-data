@@ -1,6 +1,6 @@
 {
  "domain": "www.hackney.gov.uk",
- "updatedAt": "2026-10-30T07:04:16.106Z",
+ "updatedAt": "2026-10-30T07:31:54.157Z",
  "resources": {
   "https://consentcdn.cookiebot.com/sdk/bc-v5.min.html": {
    "type": "iframe",
@@ -10,7 +10,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPages": 881,
+   "lastPages": 927,
    "lastExamplePages": [
     "https://hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/make-freedom-information-request",
     "https://hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/growing-hackney-child-friendly-places-supplementary-planning-document-spd",
@@ -173,6 +173,19 @@
    "lastPages": 1,
    "lastExamplePages": [
     "https://hackney.gov.uk/parking-streets-and-transport/travel-plans/school-travel-plans/school-travel-plan-funding-opportunities"
+   ]
+  },
+  "https://map2.hackney.gov.uk/maps/ev-network-plan-with-summary/embed.html": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/electric-vehicles"
    ]
   },
   "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/740441/National_Planning_Policy_Framework_web_accessible_version.pdf": {
@@ -879,6 +892,32 @@
     "https://www.hackney.gov.uk/community-safety-and-environment/energy/district-heat"
    ]
   },
+  "https://www.youtube.com/embed/9gDIrvIUVnM": {
+   "type": "embedded-media",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/greener-hackney"
+   ]
+  },
+  "https://www.youtube.com/embed/NZQZX2pW8XQ": {
+   "type": "embedded-media",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/greener-hackney"
+   ]
+  },
   "https://map2.hackney.gov.uk/maps/zero-waste-shopping/embed.html": {
    "type": "iframe",
    "firstSeen": "2026-W44",
@@ -994,6 +1033,19 @@
    "lastPages": 1,
    "lastExamplePages": [
     "https://hackney.gov.uk/business-and-licensing/licensing/premises-licences/club-premises-certificate"
+   ]
+  },
+  "https://stonly.com/embed/en/RFjwXVqD8U/view/": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.hackney.gov.uk/parking-streets-and-transport/penalty-charge-notices/penalty-charge-notice-faqs"
    ]
   },
   "https://www.youtube.com/embed/ZR-9rdWKIxU?si=pWX85jjlyQW9y2hX": {
@@ -1258,6 +1310,32 @@
     "https://www.hackney.gov.uk/health-and-social-care/support-disabled-people/autism"
    ]
   },
+  "https://www.youtube.com/embed/dyQ-GHws_0M": {
+   "type": "embedded-media",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.hackney.gov.uk/births-deaths-marriages-and-citizenship/deaths/bereavement-support"
+   ]
+  },
+  "https://maps.google.co.uk/maps?q=clapton+pond&ie=UTF8&hq=&hnear=Clapton+Pond&gl=uk&t=m&layer=c&cbll=51.556154,-0.054657&panoid=VVpUL9jvLVEif1ThjYSwJQ&cbp=13,286.85,,0,-0.14&source=embed&ll=51.551366,-0.054674&spn=0.016758,0.044804&z=14&output=svembed": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/clapton-pond-conservation-area"
+   ]
+  },
   "https://consultation.hackney.gov.uk/regeneration-capital-programme-delivery/cropley-court-development-proposal/user_uploads/cropley-court--new-homes-programme--sep-2024-1.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
@@ -1503,6 +1581,19 @@
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/fremont-and-warneford-conservation-area"
+   ]
+  },
+  "https://map2.hackney.gov.uk/maps/parks-and-green-spaces/embed.html": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/about-our-parks"
    ]
   },
   "https://map2.hackney.gov.uk/lbh-licensing-register-selective-licence-lookup/": {
@@ -1803,6 +1894,19 @@
    "lastPages": 1,
    "lastExamplePages": [
     "https://hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/cycling/cycling-overview"
+   ]
+  },
+  "https://map2.hackney.gov.uk/maps/highways-street-list/embed.html": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.hackney.gov.uk/parking-streets-and-transport/roads-streets-and-pavements/roadworks-and-maintenance/check-who-maintains-street-hackney"
    ]
   },
   "https://www.hackney.gov.uk/media/oembed?url=https%3A//youtu.be/MVJ9o4_-sSg&max_width=0&max_height=0&hash=tdmWDYIaJCYQ-8XMlgOtOUNth_D0poY2TxAZFXRHYUQ": {
