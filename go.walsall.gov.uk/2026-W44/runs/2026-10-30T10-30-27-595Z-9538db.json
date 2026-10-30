@@ -1,0 +1,175 @@
+{
+ "runId": "2026-10-30T10-30-27-595Z-9538db",
+ "week": "2026-W44",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-10-30T10:30:28.481Z",
+ "scanned": [
+  "6e2904d3a890d15c",
+  "40593e709ff1ac87",
+  "499d1b6bba42165d",
+  "dbd5723e1dca2255",
+  "8d69cac15bf82438",
+  "aa9f7ddcc8a9b1d2",
+  "22f6893919d6470a",
+  "8e49a31c10b12123",
+  "71f2ae7fe7fc3492",
+  "3bbf9d5258ae9269",
+  "2610f950f3a5157d",
+  "330d4e032f058ff5",
+  "7ae1daa46375258e",
+  "c05abf8ef83acebf",
+  "449dafa8b6c0fd0e",
+  "b7ecc7b13b866ff6",
+  "ac44c9251dbfd418",
+  "d4c19cfb1b2d401f",
+  "dbaab10e20744282",
+  "a30626d52fc10cfe",
+  "357bd1c8caf771ec",
+  "383e3288dd396852",
+  "2c2952f7ce18945e",
+  "12b0b5e28ab35e7e",
+  "dc15df1ff77c9956",
+  "2221b7a086e813f3",
+  "e979386e3fdac727",
+  "83ff703e301c8909",
+  "80c642cd266315c8",
+  "377089008e9d6886",
+  "0c96880c1e83146d",
+  "ccdf30c82020ac1c",
+  "5d90d4bf5a0d26c2",
+  "3e709dbf454532b7",
+  "9765edfdbe02b3ed",
+  "f1db28bf5ebaa055",
+  "591e74cce759936b",
+  "7d73d6ea758ae712",
+  "6e376212ce3340d5",
+  "f2ba830562a90863",
+  "dc387b8086cba794",
+  "7a69c0555a1a125c",
+  "79c7170746732993",
+  "e4371b88785e3606",
+  "160ee77260bc9314",
+  "67811388ce59f017",
+  "a96c8f4062e889c4",
+  "ca471d4ed94204b9",
+  "2610a2a12f4a6141"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 285,
+  "checked": 285,
+  "brokenCount": 7,
+  "broken": [
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.walsall.gov.uk%2Fapply%2Fmyaccount-online-services%2Freport-fly-tip&data=05%7C02%7CStevie.Cattell%40walsall.gov.uk%7C3886400cd34c4ed200c308dd478d9e8b%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638745395771144101%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=IGf4e1UFvdQbJ4H1e4hpX5Vib%2BL%2B%2FkRpDCVIotvqciU%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/help-us-catch-aldridges-mystery-mattress-fly-tipper"
+    ]
+   },
+   {
+    "url": "https://bit.ly/WalsallSexualHealth",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/make-sexual-health-priority-2026-getting-tested-regularly"
+    ]
+   },
+   {
+    "url": "https://wslc.walsall.gov.uk/leisurehub/identity/login?",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://go.walsall.gov.uk/events/pool-inflatable-fun-session-bloxwich-active-living-centre-2",
+     "https://go.walsall.gov.uk/events/pool-inflatable-fun-session-oak-park-active-living-centre-3"
+    ]
+   },
+   {
+    "url": "https://www.walsallsexualhealth.nhs.uk/stis/types-of-stis-2/",
+    "status": 503,
+    "reason": "HTTP 503",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/make-sexual-health-priority-2026-getting-tested-regularly"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.walsall.gov.uk%2Fsites%2Fdefault%2Ffiles%2F2025-11%2FGambling%2520Harms%2520Directory%2520for%2520residents.pdf&data=05%7C02%7CCharlotte.Gough%40walsall.gov.uk%7C20ba1a55017d41330f6a08de281a1235%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638992289612936512%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=7dJ8aUNWzof2kVX9%2B9dlh3jUQFPfyLpLBP2V9Snpmmk%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/new-guide-support-those-affected-gambling-harms"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.walsall.gov.uk%2Fsites%2Fdefault%2Ffiles%2F2025-11%2FGambling%2520Harms%2520Directory%2520for%2520professionals.pdf&data=05%7C02%7CCharlotte.Gough%40walsall.gov.uk%7C20ba1a55017d41330f6a08de281a1235%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638992289612960125%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=KiL9Vf5CQBX84%2BAy2N6O1kMwD163TtGPlnDzf9iWRHc%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/new-guide-support-those-affected-gambling-harms"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.gov.uk%2Fgovernment%2Fstatistics%2Finfant-feeding-survey-in-england-2024%2Finfant-feeding-survey-2024-full-report&data=05%7C02%7CCharlotte.Gough%40walsall.gov.uk%7Cc17014c2a4d94ce8596008decd37e887%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639173837164087638%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=E3L9iKjHGpDVBqjy%2B1wKHvubggtnRdektpFRXPJom1A%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/walsall-families-invited-free-babyfest-event-world-breastfeeding-week"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 49,
+  "alfa": 29,
+  "resources": 49,
+  "images": 49,
+  "link-check": 49,
+  "plain-language": 26,
+  "deprecated-html": 6,
+  "standards": 19,
+  "tech": 10,
+  "third-party": 14,
+  "security": 3,
+  "public-interest": 5,
+  "sustainability": 6,
+  "lighthouse": 5
+ },
+ "tally": {
+  "ok": 49,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 1,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-30T10:44:15.512Z"
+}
