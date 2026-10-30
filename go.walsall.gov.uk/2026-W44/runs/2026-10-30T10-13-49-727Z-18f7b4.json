@@ -1,0 +1,167 @@
+{
+ "runId": "2026-10-30T10-13-49-727Z-18f7b4",
+ "week": "2026-W44",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-10-30T10:13:51.260Z",
+ "scanned": [
+  "6018e1d78aec18c0",
+  "e087b0de7d31d292",
+  "485f0eb872497fad",
+  "9d9f4e565372ded6",
+  "e4371be0a4c432d8",
+  "e5bb1a30f247365b",
+  "5a66d51b30f9a51b",
+  "eb90330e09a18880",
+  "5ff3dc4d2621340a",
+  "0ecd5caa74c0fc25",
+  "855e7190163aa32c",
+  "641ee7453a007c43",
+  "69bf8aaee6d5c064",
+  "0ae42d54f6bd961c",
+  "a6cf4b6ca28f631e",
+  "667917fe93c8415b",
+  "e572ccb79dede73d",
+  "725020f27ef62407",
+  "ae34b47f62099e1f",
+  "0f88db2e7e41841d",
+  "b951ea6560e791b0",
+  "36251c8c30b112a9",
+  "8ad0347757c39410",
+  "58d37d99e1443ce0",
+  "35d14c89c57e3614",
+  "86ae2c5d17fe47ce",
+  "1f5c2f4c634d9be0",
+  "d3515b4ca1267faa",
+  "6c8730d5ad2055e2",
+  "bb33333097f9e459",
+  "d2e73cec664e660a",
+  "d60ad3c841690a90",
+  "8fb15ce476c2a106",
+  "f9e314eb3ff17189",
+  "39ae06ec6ad1829b",
+  "512c9fc31facbba1",
+  "e4c70a6201f31644",
+  "631f4f10d003d07b",
+  "dff71c053be94d07",
+  "c0f0db3c399f8ebf",
+  "9f7463147161c618",
+  "9a8dc26253d8599a",
+  "499c827c47f1c371",
+  "69bdbe4aab11518f",
+  "2c9e1d18cbfc4c26",
+  "a44f3c9233715453",
+  "c08474bd9ff991d3",
+  "2468e86b627a0c10",
+  "0ec1eac3685eaf50",
+  "7a2c350e1d21dc62"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 370,
+  "checked": 370,
+  "brokenCount": 6,
+  "broken": [
+   {
+    "url": "https://www.josephleckieacademy.co.uk/admissions",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://go.walsall.gov.uk/schools-and-learning/schools-in-walsall/school-admissions/apply-for-a-secondary-school-place"
+    ]
+   },
+   {
+    "url": "https://qmgs.walsall.sch.uk/september-2026/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/schools-and-learning/schools-in-walsall/school-admissions/apply-for-a-secondary-school-place"
+    ]
+   },
+   {
+    "url": "https://send.walsall.gov.uk/help-learning/education-health-and-care-ehc",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/schools-and-learning/home-school-transport/home-school-transport-policies-and-guidance"
+    ]
+   },
+   {
+    "url": "https://wslc.walsall.gov.uk/leisurehub/identity/login",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://go.walsall.gov.uk/events/roller-skating-bloxwich-active-living-centre-7"
+    ]
+   },
+   {
+    "url": "https://bigcommunityswitch.co.uk/walsall/home",
+    "status": 0,
+    "reason": "EAI_AGAIN",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/sign-walsalls-big-community-switch"
+    ]
+   },
+   {
+    "url": "http://www.walsallsexualhealth.nhs.uk/",
+    "status": 503,
+    "reason": "HTTP 503",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/walsall-council-marks-sexual-abuse-and-sexual-violence-awareness-week-2026"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "sustainability": 6,
+  "axe": 49,
+  "alfa": 24,
+  "plain-language": 28,
+  "resources": 49,
+  "images": 49,
+  "standards": 22,
+  "public-interest": 5,
+  "tech": 4,
+  "lighthouse": 7,
+  "link-check": 49,
+  "third-party": 8,
+  "security": 8,
+  "deprecated-html": 2
+ },
+ "tally": {
+  "ok": 49,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-30T10:27:50.927Z"
+}
