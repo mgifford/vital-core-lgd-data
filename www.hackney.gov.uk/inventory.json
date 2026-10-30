@@ -1,6 +1,6 @@
 {
  "domain": "www.hackney.gov.uk",
- "updatedAt": "2026-10-30T10:45:16.766Z",
+ "updatedAt": "2026-10-30T13:46:40.926Z",
  "pages": {
   "https://hackney.gov.uk/parking-streets-and-transport/where-park/event-days-and-bank-holiday-parking/emirates-stadium-match-and-event-day-parking": {
    "pageId": "12c7b37102352edb",
@@ -9891,6 +9891,51 @@
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": 23,
+   "hasIssues": true
+  },
+  "https://www.hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/contaminated-land/contaminated-land-overview": {
+   "pageId": "29e7e0181f097c83",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:58:41.001Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 42,
+   "hasIssues": true
+  },
+  "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/cycling/cycleway-23": {
+   "pageId": "7414bd836ec3c67a",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:58:25.815Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/cycling/hackney-central-station-cycle-hub": {
+   "pageId": "7df77a4854b9fe9b",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:58:31.248Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 44,
+   "hasIssues": true
+  },
+  "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/well-street-common": {
+   "pageId": "b95d9a603e363369",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:58:17.291Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 34,
+   "hasIssues": true
+  },
+  "https://www.hackney.gov.uk/council-tax-and-benefits/council-tax": {
+   "pageId": "c430255ef37f8496",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T10:58:49.205Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 28,
    "hasIssues": true
   }
  },

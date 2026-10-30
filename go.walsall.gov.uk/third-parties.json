@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-10-30T10:45:16.167Z",
+ "updatedAt": "2026-10-30T13:46:40.437Z",
  "vendors": {
   "pure.cloud": {
    "firstSeen": "2026-W44",
@@ -299,6 +299,15 @@
    "weeksSeen": 1,
    "isScriptVendor": true
   },
+  "anonm.io": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
   "pubmatic.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
@@ -344,7 +353,7 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "anonm.io": {
+  "tynt.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -363,15 +372,6 @@
    "isScriptVendor": false
   },
   "openwebmp.com": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
-  "tynt.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -614,6 +614,15 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
+  "sharethrough.com": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
   "smilewanted.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
@@ -633,15 +642,6 @@
    "isScriptVendor": true
   },
   "mediagotechnology.com": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
-  "sharethrough.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -677,6 +677,15 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
+  "rlcdn.com": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
   "rbstsystems.live": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
@@ -695,25 +704,7 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "rlcdn.com": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
   "admanmedia.com": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
-  "temu.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -731,7 +722,7 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "shb-sync.com": {
+  "temu.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -749,25 +740,7 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "copper6.live": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
   "nextmillmedia.com": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
-  "ads-tinyorbit.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -786,6 +759,33 @@
    "isScriptVendor": false
   },
   "vdo.ai": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "shb-sync.com": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "copper6.live": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "ads-tinyorbit.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -929,7 +929,7 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "adition.com": {
+  "com.tr": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -938,7 +938,7 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "com.tr": {
+  "adition.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -974,15 +974,6 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "syncingbridge.com": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
   "agkn.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
@@ -993,6 +984,15 @@
    "isScriptVendor": false
   },
   "opera.com": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "syncingbridge.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -1037,6 +1037,15 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
+  "rfihub.com": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
   "simpli.fi": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
@@ -1046,7 +1055,52 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "rfihub.com": {
+  "aniview.com": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "demdex.net": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "rqtrk.eu": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "undertone.com": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "ymmobi.com": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "blismedia.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -1073,43 +1127,7 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "rqtrk.eu": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
-  "blismedia.com": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
-  "undertone.com": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
-  "demdex.net": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
-  "ymmobi.com": {
+  "adroll.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -1127,61 +1145,7 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "sonobi.com": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
-  "aniview.com": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
-  "googleapis.com": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": true
-  },
-  "adroll.com": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
-  "mathtag.com": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
   "acuityplatform.com": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
-  "iqm.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -1199,7 +1163,16 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "adentifi.com": {
+  "exelator.com": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "sonobi.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -1217,7 +1190,7 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "gstatic.com": {
+  "googleapis.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -1226,7 +1199,16 @@
    "weeksSeen": 1,
    "isScriptVendor": true
   },
-  "adotmob.com": {
+  "mathtag.com": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "iqm.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -1244,7 +1226,7 @@
    "weeksSeen": 1,
    "isScriptVendor": true
   },
-  "gumgum.com": {
+  "adentifi.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -1253,7 +1235,7 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "ctnsnet.com": {
+  "gumgum.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -1271,14 +1253,14 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "minutemedia-prebid.com": {
+  "gstatic.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "isScriptVendor": false
+   "isScriptVendor": true
   },
   "thrtle.com": {
    "firstSeen": "2026-W44",
@@ -1289,34 +1271,7 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "amazon.dev": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
-  "cognitivlabs.com": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
-  "apester.com": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
-  "mxptint.net": {
+  "adotmob.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -1334,7 +1289,7 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "optidigital.com": {
+  "minutemedia-prebid.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -1343,7 +1298,7 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "the-ozone-project.com": {
+  "apester.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -1352,7 +1307,7 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "appier.net": {
+  "ctnsnet.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -1361,25 +1316,7 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "linkedin.com": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
-  "exelator.com": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
-  "moloco.com": {
+  "mxptint.net": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -1406,7 +1343,7 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "smadex.com": {
+  "the-ozone-project.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -1415,7 +1352,7 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "adtelligent.com": {
+  "cognitivlabs.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -1424,7 +1361,25 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "playdigo.com": {
+  "appier.net": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "amazon.dev": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "linkedin.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -1460,6 +1415,69 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
+  "optidigital.com": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "smadex.com": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "adtelligent.com": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "clickagy.com": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "playdigo.com": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "moloco.com": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "ex.co": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
   "scorecardresearch.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
@@ -1487,7 +1505,7 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "a2z.com": {
+  "crwdcntrl.net": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -1496,7 +1514,7 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "ex.co": {
+  "a2z.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -1541,114 +1559,6 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "teads.tv": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
-  "vrtcal.com": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
-  "eqads.com": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
-  "clickagy.com": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
-  "rezync.com": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
-  "s3xified.com": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
-  "crwdcntrl.net": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
-  "thecas.xyz": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
-  "serverbid.com": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
-  "tremorhub.com": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
-  "smartclip.net": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
-  "infolinks.com": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
   "ortb.net": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
@@ -1658,7 +1568,7 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "mediago.io": {
+  "teads.tv": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -1667,7 +1577,7 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "sportradarserving.com": {
+  "eqads.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -1694,7 +1604,16 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "bidmatic.io": {
+  "rezync.com": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "thecas.xyz": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -1704,15 +1623,6 @@
    "isScriptVendor": false
   },
   "ipredictive.com": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
-  "atlas5.co": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -1739,7 +1649,34 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
+  "s3xified.com": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
   "amspbs.com": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "serverbid.com": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "tremorhub.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -1757,7 +1694,7 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "driftpixel.live": {
+  "smartclip.net": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -1766,7 +1703,7 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "digitaleast.mobi": {
+  "infolinks.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -1775,25 +1712,7 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "media6degrees.com": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
-  "adgrx.com": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
-  "pinterest.com": {
+  "vrtcal.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -1811,6 +1730,60 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
+  "bidmatic.io": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "wp.pl": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "mgid.com": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "t13.io": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "mediago.io": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "digitaleast.mobi": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
   "bidtheatre.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
@@ -1820,7 +1793,43 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "adtech.ink": {
+  "media6degrees.com": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "driftpixel.live": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "sportradarserving.com": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "adgrx.com": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "creative-serving.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -1865,7 +1874,7 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "smartytouch.co": {
+  "a-mx.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -1874,7 +1883,16 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "a-mx.com": {
+  "atlas5.co": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "smartytouch.co": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -1902,24 +1920,6 @@
    "isScriptVendor": false
   },
   "balance-x.com": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
-  "mgid.com": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
-  "t13.io": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -1964,6 +1964,24 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
+  "pinterest.com": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "nrich.ai": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
   "dxtech.ai": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
@@ -1991,15 +2009,6 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "creative-serving.com": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
   "rtb.mx": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
@@ -2009,7 +2018,70 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
+  "semasio.net": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
   "missena.io": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "adtech.ink": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "trafmag.com": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "hotjar.io": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "avads.net": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "primis.tech": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "ottadvisors.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -2054,7 +2126,7 @@
    "weeksSeen": 1,
    "isScriptVendor": true
   },
-  "wp.pl": {
+  "venetixlabs.info": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -2081,34 +2153,7 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "trafmag.com": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
-  "hotjar.io": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
   "mediavine.com": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
-  "avads.net": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -2126,25 +2171,7 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "primis.tech": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
-  "nrich.ai": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
-  "ottadvisors.com": {
+  "mountain.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -2154,51 +2181,6 @@
    "isScriptVendor": false
   },
   "insightexpressai.com": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
-  "semasio.net": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
-  "venetixlabs.info": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
-  "dmxleo.com": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
-  "groovinads.com": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
-  "mountain.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -2252,7 +2234,7 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "aralego.com": {
+  "amazonaws.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -2261,7 +2243,25 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "amazonaws.com": {
+  "adstanding.com": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "dmxleo.com": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "groovinads.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -2279,7 +2279,16 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "admaster.cc": {
+  "e-planning.net": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": true
+  },
+  "aralego.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -2288,7 +2297,25 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "adstanding.com": {
+  "ad.gt": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "om-meta.com": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "admaster.cc": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -2332,15 +2359,6 @@
    ],
    "weeksSeen": 1,
    "isScriptVendor": false
-  },
-  "e-planning.net": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": true
   },
   "jetstre.am": {
    "firstSeen": "2026-W44",
@@ -2424,24 +2442,6 @@
    "isScriptVendor": false
   },
   "nexverse.ai": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
-  "ad.gt": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
-  "om-meta.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [

@@ -1,6 +1,6 @@
 {
  "domain": "www.hackney.gov.uk",
- "updatedAt": "2026-10-30T10:45:16.845Z",
+ "updatedAt": "2026-10-30T13:46:40.997Z",
  "resources": {
   "https://consentcdn.cookiebot.com/sdk/bc-v5.min.html": {
    "type": "iframe",
@@ -10,7 +10,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPages": 1096,
+   "lastPages": 1101,
    "lastExamplePages": [
     "https://hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/make-freedom-information-request",
     "https://hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/growing-hackney-child-friendly-places-supplementary-planning-document-spd",
@@ -1527,6 +1527,19 @@
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/community-safety-and-environment/community-partnerships/hackney-armed-forces-community-covenant"
+   ]
+  },
+  "http://content.tfl.gov.uk/strategic-cycling-analysis.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/cycling/cycleway-23"
    ]
   },
   "https://www.youtube.com/embed/E7GUu7Xa7Nw?si=FfXJb-CdHFzKVgNu": {
