@@ -1,0 +1,191 @@
+{
+ "runId": "2026-10-30T15-14-15-963Z-66fd55",
+ "week": "2026-W44",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-10-30T15:14:16.622Z",
+ "scanned": [
+  "58d8034e5c177083",
+  "324f30c412b3b155",
+  "bc84394aa79e1c0d",
+  "ed574ec372d06ce5",
+  "cf92dfd6c4ffdf88",
+  "a3c0010db1db7949",
+  "172fd932caa52171",
+  "5c08ae8d634b398a",
+  "8c72f8a0e3e2810f",
+  "2f97fda71e4a9ac4",
+  "970362782cbeb10d",
+  "b858afd2955946bb",
+  "798b63bd35aa4779",
+  "2502b8d8432a080a",
+  "34701b466a1d4e34",
+  "d3d33609a255c11f",
+  "c7e88a6b590d10f9",
+  "d852f90300e93409",
+  "2dc52789a784891f",
+  "6e7dcb05e527800c",
+  "0f3afa03711e76f4",
+  "8da40bf4a2fd90bb",
+  "ff93e15742349197",
+  "83c27c7251a98c45",
+  "07dd3c62c8e34727",
+  "9b6aefbac3e093f8",
+  "022a2d92bd69b51e",
+  "2b7fb5e999b36d1f",
+  "da51a2af5e37bf6a",
+  "d354ed404500f025",
+  "946cef2fe9ca7d5d",
+  "47a27792b4780dd9",
+  "f7efda5b58d563aa",
+  "b4eabc115581a40e",
+  "a5900b92d098a328",
+  "fde44eaa3a75d6e8",
+  "2b01e7111107eac2",
+  "7c26b6d258c0c3fa",
+  "b536aae9598a52f3",
+  "24b2fb646198911e",
+  "c55d16221f4cd4ab",
+  "57599c2485699730",
+  "75eadf54adaaf4f2",
+  "ce4b8b1ccaab84fc",
+  "ae6d60b0f3d0f21e",
+  "445a5c0626e62669",
+  "043c8a32a8d87bf1",
+  "346fb42790fd17a4",
+  "d7f21b02132e290f",
+  "dbf0baaef4e7243f"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 335,
+  "checked": 335,
+  "brokenCount": 9,
+  "broken": [
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.walsall.gov.uk%2Fsites%2Fdefault%2Ffiles%2F2025-11%2FGambling%2520Harms%2520Directory%2520for%2520residents.pdf&data=05%7C02%7CCharlotte.Gough%40walsall.gov.uk%7Cc853b1fd761e408dfe7b08de3ef27381%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639017408206673731%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=d8Qtzxt0AR9ANn%2FCds5oJNMtbNvVsB98SLIcAtNr9W8%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/new-year-support-walsall-residents-experiencing-gambling-harms"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.walsall.gov.uk%2Fsites%2Fdefault%2Ffiles%2F2025-11%2FGambling%2520Harms%2520Directory%2520for%2520professionals.pdf&data=05%7C02%7CCharlotte.Gough%40walsall.gov.uk%7Cc853b1fd761e408dfe7b08de3ef27381%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639017408206708849%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=KPiN7fZY4Wql%2FA0crABnfIv7aRZjskvfBVhX2%2BPUSDo%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/new-year-support-walsall-residents-experiencing-gambling-harms"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.walsall.gov.uk%2Fhealth-and-social-care%2Fwalsall-wellbeing-directory%2Fmoney-matters&data=05%7C02%7CCharlotte.Gough%40walsall.gov.uk%7Cc853b1fd761e408dfe7b08de3ef27381%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639017408206765011%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=zHFUQxYd7xmcsVOhwKwFexIA%2F4Mg%2Fg9z%2F%2BzIbGS6OCQ%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/new-year-support-walsall-residents-experiencing-gambling-harms"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.midlandsgamblingclinic.org%2Fself-referral%2F&data=05%7C02%7CCharlotte.Gough%40walsall.gov.uk%7Cc853b1fd761e408dfe7b08de3ef27381%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639017408206734369%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=w4okQbyb3PTstO6YZ8schz%2BO6xgoqKAylSKHzNYM5NA%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/new-year-support-walsall-residents-experiencing-gambling-harms"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.nhs.uk%2Flive-well%2Faddiction-support%2Fgambling-addiction%2F&data=05%7C02%7CCharlotte.Gough%40walsall.gov.uk%7Cc853b1fd761e408dfe7b08de3ef27381%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639017408206821831%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=oyHFWlXJSGNePTp8%2F528qjIh5%2B%2FzUe8QeHJJep1XJac%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/new-year-support-walsall-residents-experiencing-gambling-harms"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.walsall.gov.uk%2Fbenefits%2Fhelp-with-bills-and-debt&data=05%7C02%7CCharlotte.Gough%40walsall.gov.uk%7Cc853b1fd761e408dfe7b08de3ef27381%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639017408206792951%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=%2BdWqxT3%2B%2Bx9ug694AeJS7j9WA88Fo1rBRPMYaY%2FWuas%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/new-year-support-walsall-residents-experiencing-gambling-harms"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.citizensadvice.org.uk%2F&data=05%7C02%7CCharlotte.Gough%40walsall.gov.uk%7Cc853b1fd761e408dfe7b08de3ef27381%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639017408206848490%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=7fMIo%2F8Ygv8tn1rCT4nZvGiO83pEeD1pM9PgxwmukFs%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/new-year-support-walsall-residents-experiencing-gambling-harms"
+    ]
+   },
+   {
+    "url": "https://wslc.walsall.gov.uk/leisurehub/identity/login",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://go.walsall.gov.uk/events/pool-inflatable-fun-session-oak-park-active-living-centre-8"
+    ]
+   },
+   {
+    "url": "https://www.walsallsexualhealth.nhs.uk/",
+    "status": 503,
+    "reason": "HTTP 503",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/world-contraception-day-highlights-range-contraception-options-available-walsall"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 48,
+  "alfa": 21,
+  "plain-language": 17,
+  "resources": 48,
+  "images": 48,
+  "standards": 26,
+  "third-party": 10,
+  "link-check": 48,
+  "public-interest": 6,
+  "deprecated-html": 2,
+  "security": 4,
+  "tech": 1,
+  "sustainability": 5,
+  "lighthouse": 3
+ },
+ "tally": {
+  "ok": 48,
+  "blocked": 2,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-10-30T15:27:35.264Z"
+}
