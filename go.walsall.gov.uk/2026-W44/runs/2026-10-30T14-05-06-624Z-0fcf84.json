@@ -1,0 +1,152 @@
+{
+ "runId": "2026-10-30T14-05-06-624Z-0fcf84",
+ "week": "2026-W44",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-10-30T14:05:07.496Z",
+ "scanned": [
+  "4cabf0d4ce2e9fe6",
+  "c97587dd94304437",
+  "32d80c1cc692fbc2",
+  "fd66a759ce164572",
+  "f5c747e6889e21f5",
+  "575c04a91f0d55b5",
+  "dc1105086ebd2822",
+  "4acceb81d8320ec8",
+  "c1bd59f84da90405",
+  "9a45e2e9603ea18d",
+  "6313715fa04db793",
+  "6db205bb3da57083",
+  "e97b0d5b7c4f6922",
+  "ce84ca00c455bb00",
+  "f0ce4404b7b014ac",
+  "cb4816a4f617a310",
+  "5f7cb7e4b0a35881",
+  "bb4ba4ea9307faee",
+  "71c296be580eff83",
+  "6b46d99fb3ad033f",
+  "c077cb55b9671f84",
+  "a7da03431ad73c49",
+  "2908d289bd378b59",
+  "5ca2064cf01a8e1e",
+  "de616ad90f12595c",
+  "96bf425d09eb986c",
+  "d745631262ec5556",
+  "842758ea999ec476",
+  "12d675a3888a9787",
+  "8af32c36222f079b",
+  "367c5c3ebf902aa5",
+  "323afbd4cde9a709",
+  "2d715534e4d300f5",
+  "bdfa9bc0232dec3f",
+  "eca3aa5291946fba",
+  "e4d28b5e011d266b",
+  "70ed20a33840ff53",
+  "22d52fff42d5325b",
+  "14829026c912f011",
+  "380c5589ab76b09f",
+  "2f186341f8dff4c0",
+  "5b0140e6e09c2cdb",
+  "826b647eb39239cb",
+  "09a25150b7bcfc15",
+  "e2fcf80bef65b273",
+  "a4d0e9d62e158a03",
+  "f4f5e320e2d4d153",
+  "baae0796b54ef7cc",
+  "d9b356fd4de48df8",
+  "a6a692ab72fd9615"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 363,
+  "checked": 363,
+  "brokenCount": 4,
+  "broken": [
+   {
+    "url": "http://www.twitter.com/wolvescouncil",
+    "status": 520,
+    "reason": "HTTP 520",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/street-racing-injunction-review-hearing-next-week-0"
+    ]
+   },
+   {
+    "url": "https://wslc.walsall.gov.uk/leisurehub/identity/login",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://go.walsall.gov.uk/sport-and-leisure/activities/swim-academy-childrens-swimming-lessons",
+     "https://go.walsall.gov.uk/sport-and-leisure/memberships/move-it-discount-scheme"
+    ]
+   },
+   {
+    "url": "https://www.rethink.org/help-in-your-area/services/community-support/walsall-sanctuary-hub/",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/walsall-residents-urged-talk-listen-and-make-every-voice-count-world-mental-health-day"
+    ]
+   },
+   {
+    "url": "https://www.rethink.org/help-in-your-area/services/community-support/sanctuary-community-mental-health-service-walsall/",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/walsall-residents-urged-talk-listen-and-make-every-voice-count-world-mental-health-day"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 47,
+  "alfa": 21,
+  "plain-language": 21,
+  "resources": 47,
+  "images": 47,
+  "standards": 28,
+  "tech": 9,
+  "link-check": 47,
+  "deprecated-html": 4,
+  "public-interest": 8,
+  "lighthouse": 4,
+  "third-party": 12,
+  "security": 3,
+  "sustainability": 5
+ },
+ "tally": {
+  "ok": 47,
+  "blocked": 3,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-10-30T14:18:40.084Z"
+}
