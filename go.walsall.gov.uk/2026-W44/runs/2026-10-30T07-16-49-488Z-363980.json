@@ -1,0 +1,159 @@
+{
+ "runId": "2026-10-30T07-16-49-488Z-363980",
+ "week": "2026-W44",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-10-30T07:16:51.467Z",
+ "scanned": [
+  "bfed29798e5b7002",
+  "a18c2669d4bb387f",
+  "a5a35bf582d3ed4d",
+  "13ec99aff49c133d",
+  "b40d539e093b6005",
+  "710dbaa289d9270a",
+  "dac804f4f0aae80c",
+  "ee803b930e4bbc6a",
+  "3c263cfce87748dc",
+  "f1580ab019676dda",
+  "5e5f6d459c98ea2b",
+  "93a605b92318fe8f",
+  "334ae5f5b38b164d",
+  "c88d9ad5a0edc783",
+  "4b9c9558c129fdfa",
+  "87911e1c24a59eb5",
+  "a2efea4ebe834ef6",
+  "29d60c7a2829afc5",
+  "a7a86a4f1f843d8a",
+  "78b81f9ea5004ca9",
+  "1c0e9559265c913d",
+  "1ce0dd1571d188bb",
+  "ccd6e3dbc6f6e7c7",
+  "54a72e17909850bb",
+  "00b3eb355ec5aac4",
+  "0468b44c6032938e",
+  "f77ccaa320b48b7e",
+  "10802f452caf41c7",
+  "620cf74bcb7d7c3d",
+  "d5d15bb8d1e18ce7",
+  "7c0eec4a83b24e44",
+  "286282842f3e2b36",
+  "79e997912d821a07",
+  "ea0313320d6b202b",
+  "c368996d4553fa73",
+  "8a6df99c7c3c42b6",
+  "0aff134b3e77ed4c",
+  "d8c0e0853bc14c14",
+  "86f9e588954901b2",
+  "4107b7a2f7f5f963",
+  "b05dc330a214e5b9",
+  "f1bfc4f4b2416ad8",
+  "df6cd08804042ac3",
+  "2104a8fe7448a966",
+  "e923918298574c85",
+  "16180776f6d1506d",
+  "227274de3e84f73f",
+  "6d97800cdc410c07",
+  "ad80232fe6266370",
+  "19fc3fe385c3db9a"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 276,
+  "checked": 276,
+  "brokenCount": 5,
+  "broken": [
+   {
+    "url": "https://ico.org.uk/media/for-organisations/documents/1068/data_sharing_code_of_practice.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/your-council/data-protection/requesting-data-from-the-council"
+    ]
+   },
+   {
+    "url": "http://www.twitter.com/wolvescouncil",
+    "status": 520,
+    "reason": "HTTP 520",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/high-court-continues-interim-black-country-street-racing-ban"
+    ]
+   },
+   {
+    "url": "https://go.walsall.gov.uk/benefits/household-support-fund",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/central-government-cut-ps5-million-funding-which-supports-walsalls-most-vulnerable"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.walsall.gov.uk%2Fapply%2Fmyaccount-online-services%2Freport-fly-tip&data=05%7C02%7CStevie.Cattell%40walsall.gov.uk%7C3886400cd34c4ed200c308dd478d9e8b%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638745395771144101%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=IGf4e1UFvdQbJ4H1e4hpX5Vib%2BL%2B%2FkRpDCVIotvqciU%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/residents-invited-speak-councils-fly-tipping-officers-educational-envirocrime-visit"
+    ]
+   },
+   {
+    "url": "https://espws.necsws.com/ords/pwslive/call_initial_apex_page.nes_selfsrv?service=CAHOMEPAGE&la=WAL&language=ENG&options=HOME;NEB",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/benefits/housing-benefit"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 48,
+  "plain-language": 26,
+  "resources": 48,
+  "images": 48,
+  "standards": 19,
+  "link-check": 48,
+  "alfa": 24,
+  "sustainability": 7,
+  "deprecated-html": 4,
+  "third-party": 10,
+  "security": 6,
+  "public-interest": 7,
+  "tech": 5,
+  "lighthouse": 3
+ },
+ "tally": {
+  "ok": 48,
+  "blocked": 2,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-30T07:30:50.648Z"
+}
