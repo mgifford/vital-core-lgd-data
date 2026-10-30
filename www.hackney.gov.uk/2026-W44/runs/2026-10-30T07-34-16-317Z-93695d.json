@@ -1,0 +1,140 @@
+{
+ "runId": "2026-10-30T07-34-16-317Z-93695d",
+ "week": "2026-W44",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-10-30T07:34:17.224Z",
+ "scanned": [
+  "a0691a634c3ce6c9",
+  "a1f88555a9832d28",
+  "0d638321f2bd97a7",
+  "79dc68d9e14d7e1c",
+  "d728e4e490052d2c",
+  "01fdb23a7c512f3a",
+  "7151ef344483b624",
+  "52c331727d904149",
+  "a19de9ae990aacac",
+  "6ad28d8547ab5d8d",
+  "e5c43cbc497f769e",
+  "63a119077de866e1",
+  "e8510f74721f2e24",
+  "0b757f73c0f585c1",
+  "28c89ddc15ee1cc5",
+  "5c3be841e972db61",
+  "05dffe008c389835",
+  "8a60cd7568b385e6",
+  "44677a91e65edf34",
+  "ee7fe35db51375d4",
+  "fbdc675298f9e4f5",
+  "258d1ba77d61f403",
+  "89de7b77f25573bd",
+  "a16006b0d4ca2e98",
+  "342cb56f08e39ce8",
+  "389c5a5995d372c4",
+  "4258bf01a47b559d",
+  "8d0111d54893b53b",
+  "117af06912e5208e",
+  "ccb7b57879e82b8c",
+  "b7583fc6aaaf6e8a",
+  "8f7707a67c8513b1",
+  "e09dfe453f937985",
+  "ff640f50a2a69052",
+  "f5b6c6bd1bb8553f",
+  "ee87287b1a33ab9f",
+  "0f373fcecc8dca11",
+  "ae0cae821c4d51b3",
+  "82379a1be77c9660",
+  "feea4dea342a9862",
+  "b71f3b3be9220a59",
+  "491766b08a8ea4a0",
+  "f0acf6dda243b813",
+  "3f2b459fd661874a",
+  "b579e96882a356f7",
+  "ed367b296b88849e",
+  "a9efe1e7c2d93c08"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 1134,
+  "checked": 500,
+  "brokenCount": 3,
+  "broken": [
+   {
+    "url": "https://drive.google.com/drive/u/1/folders/1tececvZhEYIqS7wNK1S36P0446jb3luW",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-and-elections/council-meetings/agendas-reports-decisions-and-minutes"
+    ]
+   },
+   {
+    "url": "https://www.hackney.gov.uk/cs-evidence-base",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/local-plan/superseded-planning-policies"
+    ]
+   },
+   {
+    "url": "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/local-plan/cs-evidence-base",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/local-plan/superseded-planning-policies"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 46,
+  "resources": 46,
+  "images": 46,
+  "link-check": 46,
+  "alfa": 21,
+  "standards": 20,
+  "lighthouse": 7,
+  "tech": 5,
+  "plain-language": 24,
+  "public-interest": 8,
+  "third-party": 19,
+  "sustainability": 4,
+  "security": 5,
+  "deprecated-html": 2
+ },
+ "tally": {
+  "ok": 46,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 3,
+  "error": 0
+ },
+ "finishedAt": "2026-10-30T07:42:41.829Z"
+}
