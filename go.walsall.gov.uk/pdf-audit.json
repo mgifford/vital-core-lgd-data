@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-10-30T10:10:38.843Z",
+ "updatedAt": "2026-10-30T13:31:34.205Z",
  "checker": {
   "name": "pdf-crawler",
   "url": "https://github.com/mgifford/pdf-crawler",
@@ -250,6 +250,256 @@
   },
   "http://go.walsall.gov.uk/sites/default/files/2022-08/Financial%20health%20indicators%202019-20%20quarter%203.pdf": {
    "checkedAt": "2026-10-30T10:10:38.842Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2022-08/Green%20space%20strategy.pdf": {
+   "checkedAt": "2026-10-30T13:30:58.158Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2022-08/Housing%20and%20support%20needs%20in%20Walsall%20for%20people%20with%20mental%20health%20problems.pdf": {
+   "checkedAt": "2026-10-30T13:30:59.660Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2022-08/Housing%20strategy.pdf": {
+   "checkedAt": "2026-10-30T13:31:01.162Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2022-08/item_10_-_lgf_very_light_rail_dev_funding_phase_2.pdf": {
+   "checkedAt": "2026-10-30T13:31:02.663Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2022-08/item_2_-_draft_minutes_9-3-17.pdf": {
+   "checkedAt": "2026-10-30T13:31:04.166Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2022-08/item_6_-_lgf_accessing_growth_springfield_campus_interchange_connectivity_project_-_appendix_0.pdf": {
+   "checkedAt": "2026-10-30T13:31:05.668Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2022-08/item_6_-_lgf_accessing_growth_springfield_campus_interchange_connectivity_project.pdf": {
+   "checkedAt": "2026-10-30T13:31:07.170Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2022-08/item_7_-_lgf_accessing_growth_pinfold_bridge_wednesfield.pdf": {
+   "checkedAt": "2026-10-30T13:31:08.672Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2022-08/item_8_-_lgf_growth_hub_additional_funding.pdf": {
+   "checkedAt": "2026-10-30T13:31:10.173Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2022-08/Pay%20Policy%20for%2017%3A18.pdf": {
+   "checkedAt": "2026-10-30T13:31:11.676Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2022-08/Pay%20Policy%20for%2018%3A19.pdf": {
+   "checkedAt": "2026-10-30T13:31:13.178Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2022-08/Pay%20Policy%20for%2019%3A20.pdf": {
+   "checkedAt": "2026-10-30T13:31:14.680Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2022-08/Pay%20Policy%20for%2020%3A21.pdf": {
+   "checkedAt": "2026-10-30T13:31:16.182Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2022-08/Pay%20Policy%20for%2021%3A22.pdf": {
+   "checkedAt": "2026-10-30T13:31:17.684Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2022-08/People%20and%20place%20perspective.pdf": {
+   "checkedAt": "2026-10-30T13:31:19.186Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2022-08/Pre-application%20Advice%20Form%20V3.pdf": {
+   "checkedAt": "2026-10-30T13:31:20.688Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2022-08/Scheme%20for%20financing%20schools.pdf": {
+   "checkedAt": "2026-10-30T13:31:22.190Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2022-08/self_arranged_funerals.pdf": {
+   "checkedAt": "2026-10-30T13:31:23.692Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2022-08/street_collection_regulations.pdf": {
+   "checkedAt": "2026-10-30T13:31:25.194Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2022-08/Street%20collections%20guidance.pdf": {
+   "checkedAt": "2026-10-30T13:31:26.696Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2022-08/View%20Agenda_1.pdf": {
+   "checkedAt": "2026-10-30T13:31:28.196Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2022-08/View%20Approved%20Minutes.pdf": {
+   "checkedAt": "2026-10-30T13:31:29.698Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2022-08/View%20ITEM%2010%20Wharf%20Approach%20Aldridge.pdf": {
+   "checkedAt": "2026-10-30T13:31:31.200Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2022-08/View%20ITEM%2011%20Bourne%20Street%20Coseley%20Site%20Investigation.pdf": {
+   "checkedAt": "2026-10-30T13:31:32.702Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2022-08/View%20ITEM%2012%20Halesowen%20College%20Creation%20of%20Access%20Centre.pdf": {
+   "checkedAt": "2026-10-30T13:31:34.204Z",
    "week": "2026-W44",
    "httpStatus": null,
    "status": "error",

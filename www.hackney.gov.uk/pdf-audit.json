@@ -1,6 +1,6 @@
 {
  "domain": "www.hackney.gov.uk",
- "updatedAt": "2026-10-30T10:12:23.025Z",
+ "updatedAt": "2026-10-30T13:31:34.360Z",
  "checker": {
   "name": "pdf-crawler",
   "url": "https://github.com/mgifford/pdf-crawler",
@@ -504,6 +504,16 @@
    },
    "errors": [
     "title, tagged, lang, "
+   ]
+  },
+  "http://mginternet.hackney.gov.uk/documents/s48613/Appendix_5_PEP_2015-20_-_Consultation_Report.pdf": {
+   "checkedAt": "2026-10-30T13:31:34.359Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "domain not found (DNS)"
    ]
   }
  }
