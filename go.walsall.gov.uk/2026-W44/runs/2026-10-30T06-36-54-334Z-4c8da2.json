@@ -1,0 +1,167 @@
+{
+ "runId": "2026-10-30T06-36-54-334Z-4c8da2",
+ "week": "2026-W44",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-10-30T06:36:55.916Z",
+ "scanned": [
+  "3d2822bd225ce812",
+  "4894f636437cbe22",
+  "fc36e436dbb2fb33",
+  "65af5f2fd1788bea",
+  "1b65b072f6841962",
+  "f807adae3244fa74",
+  "5997044f4afddceb",
+  "b9d5d203ed28eb9c",
+  "a39bec388922e26d",
+  "9d100c9b0c1629b4",
+  "cf22192975466bfd",
+  "22e275a35c543117",
+  "a59e630f3bd5af93",
+  "0cd0658e1a9f85e7",
+  "65ca3af4277fdacc",
+  "7d5e36945dc9662a",
+  "7918afabb6d58d3a",
+  "9ea2c9ac2971862e",
+  "b2978b674af12852",
+  "4faf261d3251f6fd",
+  "f43c048f89f92270",
+  "927bb6bb20fd1f8b",
+  "168c9bc6301047e7",
+  "d99452a4a44d2baa",
+  "f8060a862ee51802",
+  "14008465e15e2e8c",
+  "934024a4b985a2bd",
+  "9e8fff56316bc8d1",
+  "62d5fe4b86a4023c",
+  "260eb6c1a37dc9ee",
+  "b27c741c2bc49359",
+  "f674cfd2ff6b9f73",
+  "4e88828756f69448",
+  "cb051b7cf42d156e",
+  "97f17428cd2a8e55",
+  "15fe36489ec0c8b6",
+  "fa8cf3146f4a5676",
+  "4daf5f28bf4f67c2",
+  "9a86de09db6905e3",
+  "19cf4f3dda21ab5e",
+  "ea700c1b54f1e1bc",
+  "c70e7beaa8ad5ec9",
+  "94d60adb7a6149ac",
+  "2e8e1d568a544fbe",
+  "0398f5d260746896",
+  "a31191512288f3d2",
+  "7be1f07b70f56efc",
+  "e33fd0b4d8381e7a",
+  "ed363bcc1d262d2e",
+  "539684c77803bb75"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 235,
+  "checked": 235,
+  "brokenCount": 6,
+  "broken": [
+   {
+    "url": "https://wslc.walsall.gov.uk/leisurehub/identity/login?",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://go.walsall.gov.uk/events/roller-skating-bloxwich-active-living-centre"
+    ]
+   },
+   {
+    "url": "https://permits.paysmarti.co.uk/acct/walsallcouncil/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/roads-parking-and-travel/parking-and-travel/apply-for-a-parking-permit"
+    ]
+   },
+   {
+    "url": "https://go.walsall.gov.uk/environment/litter/walsall_community_litter_watch",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/walsall-council-kicks-great-british-spring-clean-town-centre-litter-pick"
+    ]
+   },
+   {
+    "url": "http://www.go.walsall.gov.uk/parks-and-green-spaces/visit-our-parks-and-play-areas/walsall-arboretum",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/call-memories-and-mementoes-walsall-arboretum"
+    ]
+   },
+   {
+    "url": "https://walsallsp.walsall.gov.uk/Report-a-concern/For-a-child",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://go.walsall.gov.uk/children-and-young-people/turning-point"
+    ]
+   },
+   {
+    "url": "https://live-ace-walsall.pantheonsite.io/walsall-libraries/our-libraries/streetly-district-library",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/events/reading-friends-23"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 46,
+  "alfa": 28,
+  "resources": 46,
+  "images": 46,
+  "standards": 24,
+  "public-interest": 8,
+  "link-check": 46,
+  "plain-language": 25,
+  "third-party": 13,
+  "deprecated-html": 3,
+  "lighthouse": 4,
+  "security": 6,
+  "sustainability": 5,
+  "tech": 5
+ },
+ "tally": {
+  "ok": 46,
+  "blocked": 4,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-30T06:47:49.265Z"
+}
