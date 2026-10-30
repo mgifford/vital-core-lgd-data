@@ -1,0 +1,152 @@
+{
+ "runId": "2026-10-30T06-49-15-510Z-0f4780",
+ "week": "2026-W44",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-10-30T06:49:16.856Z",
+ "scanned": [
+  "6f338cd62acd63ad",
+  "e9f7133e550f5fa3",
+  "93c71976ceb7e81b",
+  "07986a1c6ffff438",
+  "7e06b37908993462",
+  "3fc541949cd64ce2",
+  "50d4a7e587e08ba2",
+  "879b1a840fe15955",
+  "8440e4ada5d62fdf",
+  "028d6bc6f2dab63b",
+  "f451c79362422254",
+  "4afc94a695127991",
+  "5845c05a04456ddf",
+  "80ed4e06c7b8cfc9",
+  "5de9580f4e7ec606",
+  "60a074489c773490",
+  "91fe8ffffb6275bb",
+  "3272850956710524",
+  "8516de2abc1c4297",
+  "974defdf29c08fb7",
+  "0a80554c8ce826a8",
+  "ca8a1b0256c85f77",
+  "a05f22ab47133ea6",
+  "63c8659f6453628c",
+  "59452e6c06a71ad6",
+  "6002a418b5720592",
+  "6aee61d6ebd66d78",
+  "99a5f2afbf161f5a",
+  "c68cb89b2667fab5",
+  "cc27eb90c4a7eef9",
+  "07708971846badc2",
+  "9af234cc648403b8",
+  "4ffb6284d2ee5ecd",
+  "9f80a86f35cd7e33",
+  "44930d696f0206b8",
+  "c22c053715110abe",
+  "908d3600e67ad1d2",
+  "087437baac504e99",
+  "1b73aadae22308a7",
+  "1a56661f7dd76eed",
+  "8df06cc34799b8ef",
+  "5af251de6dfb94a4",
+  "01991bc36be200be",
+  "9db08873cc069e75",
+  "0c3e3e6f1ba2f4d4",
+  "2a7fe943c5a99d1b",
+  "5e7074ea07dba3c4",
+  "3a3c2a5fc5f54f58",
+  "47be322adf201796",
+  "59f6f620ef28c4f4"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 321,
+  "checked": 321,
+  "brokenCount": 4,
+  "broken": [
+   {
+    "url": "https://wslc.walsall.gov.uk/leisurehub/identity/login",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://go.walsall.gov.uk/events/pool-floats-fun-session-bloxwich-active-living-centre-7",
+     "https://go.walsall.gov.uk/events/roller-skating-bloxwich-active-living-centre-9"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.gov.uk%2Fgovernment%2Fpublications%2Fdefence-employer-recognition-scheme&data=05%7C02%7CJoan.Omionawele%40walsall.gov.uk%7Cb99d68683705498466e008dee25849f4%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639197065984656468%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=amSmIw4YTyN8wMnUuylKgXrsLqcPIj4yKdjHnVZbHq8%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/walsall-council-strikes-gold-ministry-defence-armed-forces-award"
+    ]
+   },
+   {
+    "url": "https://go.walsall.gov.uk/accessibility/list-our-other-websites/webproject@walsall.gov.uk",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/accessibility/list-our-other-websites/accessibility-statement-penalty-charge-notice-website"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.spacehive.com%2Fmovement%2Fcrowdfund-walsall%2F&data=05%7C02%7CStevie.Cattell%40walsall.gov.uk%7Ca9a4e2eb3e6045f0459b08de8345ec95%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639092533316660867%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=u5Hqeee5tDVHz%2F%2BpHNV%2BYL44HAAc5HSB3fn%2BbPocSDw%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/crowdfund-walsall-opens-twelfth-funding-round-programme-marks-five-years-community-impact"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 50,
+  "alfa": 26,
+  "deprecated-html": 6,
+  "resources": 50,
+  "images": 50,
+  "link-check": 50,
+  "plain-language": 26,
+  "standards": 21,
+  "public-interest": 4,
+  "third-party": 14,
+  "sustainability": 2,
+  "lighthouse": 2,
+  "security": 3,
+  "tech": 3
+ },
+ "tally": {
+  "ok": 50,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-30T07:03:06.696Z"
+}
