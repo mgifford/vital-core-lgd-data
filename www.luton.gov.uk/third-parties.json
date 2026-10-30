@@ -1,6 +1,6 @@
 {
  "domain": "www.luton.gov.uk",
- "updatedAt": "2026-10-29T11:52:16.279Z",
+ "updatedAt": "2026-10-30T07:04:16.470Z",
  "vendors": {
   "googletagmanager.com": {
    "firstSeen": "2026-W44",
@@ -164,15 +164,6 @@
    "weeksSeen": 1,
    "isScriptVendor": true
   },
-  "google-analytics.com": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
   "googlesyndication.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
@@ -200,7 +191,25 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
+  "google-analytics.com": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
   "openstreetmap.org": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "tapad.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [

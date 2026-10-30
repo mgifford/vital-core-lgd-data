@@ -1,6 +1,6 @@
 {
  "domain": "www.luton.gov.uk",
- "updatedAt": "2026-10-29T11:52:16.233Z",
+ "updatedAt": "2026-10-30T07:04:16.397Z",
  "pages": {
   "https://www.luton.gov.uk/bins-waste-recycling/bin-collections/what-put-your-food-waste-bin": {
    "pageId": "005cf1980509e103",
@@ -1800,6 +1800,3138 @@
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": 35,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/building-control/small-builders-contractors": {
+   "pageId": "003ec58386669ad1",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:51:36.938Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/health-social-care/health/public-health/macmillan-luton-cancer-community-engagement-approach/behind-screen-breast-cancer-screening-project": {
+   "pageId": "01571c042ab78157",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:51:49.970Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 39,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/business-licences-permits/licences-permits/business-licences/apply-approval-premises-civil-marriages-civil-partnerships": {
+   "pageId": "02c6de8155a5a730",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:42:36.108Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 68,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/strategies-policies-plans/community-safety-partnership-plan": {
+   "pageId": "03fa163d5b79d05b",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T15:29:43.046Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 31,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/schools-education/schools-colleges/support-information-schools/luton-music-service": {
+   "pageId": "04824ea4a0a59ce1",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:38:49.245Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 32,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/get-planning-permission/guide-planning-applications/check-if-you-need-planning-permission": {
+   "pageId": "0536571bae8e125e",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:51:21.275Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/schools-education/schools-colleges/support-information-schools/standing-advisory-council-religious-education-sacre/sacre-guidance-determinations-collective-worship": {
+   "pageId": "080b525b27080613",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T15:33:36.760Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 40,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/community-environment/crime-community-safety/antisocial-behaviour/overhanging-tree-and-hedges": {
+   "pageId": "08438b557cd3a809",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T15:31:24.986Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/news/2025/find-your-next-step-our-job-fair": {
+   "pageId": "087e2a165664e542",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:48:46.611Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": 32,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/strategies-policies-plans/bus-service-improvement-plan": {
+   "pageId": "08c7510ab5d9e944",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:52:24.784Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/housing/council-tenants/council-housing-maintenance-safety/fire-safety-high-rise-residential-buildings/electrical-safety-high-rise-buildings": {
+   "pageId": "090c97cdf5043a2f",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:36:59.970Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/schools-education/schools-colleges/curriculum-guidance/relationships-education/further-guidance-primary-relationships-health-education-rhe": {
+   "pageId": "094a06f2b3f859bf",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T15:32:30.082Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 42,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/community-environment/regeneration/community-venue-spaces-improvement-fund": {
+   "pageId": "0a156268e4d751fb",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:39:51.988Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 44,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/news/2026/groundbreaking-ceremony-marks-start-stage-construction": {
+   "pageId": "0bfac15464c87d4c",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T16:30:12.259Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": 32,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/schools-education/early-years-education-childcare/childcare/childcare-luton": {
+   "pageId": "0c1ea94710166427",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:49:52.902Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/news/2025/luton-council-teams-football-club-provide-new-public-car-parking-facilities-bury-park": {
+   "pageId": "0c96df6f3fe72527",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T15:34:56.256Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": 32,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/news/2025/luton-council-furious-vauxhall-closure-confirmation": {
+   "pageId": "0d4440fa7379a05f",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:18:05.748Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": 34,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/benefits-financial-help/manage-or-make-change-your-benefits/report-change-impacts-your-benefits/report-benefit-change": {
+   "pageId": "0fb6ff5e39ed7098",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T22:21:16.491Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 40,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/news/2025/luton-host-series-events-international-womens-day-2025": {
+   "pageId": "103e89c2b962c0f4",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:54:00.539Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": 42,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/building-control/dutyholders/background-what-has-changed": {
+   "pageId": "10c5eff20284b947",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:50:44.235Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 47,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/health-social-care/health/public-health/adult-wellbeing/menopause": {
+   "pageId": "118d33adc5c51797",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T22:23:47.703Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 98,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/strategies-policies-plans/net-zero-climate-policy-action-plan": {
+   "pageId": "11a6b93eae89628b",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:16:09.941Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 37,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/strategies-policies-plans/adult-social-care-complaints-policy": {
+   "pageId": "11f5d33c5d65ea41",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T22:24:05.536Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 33,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/finance-data-performance/data-protection-privacy-information-requests/privacy-notices/customer-services-privacy-notice": {
+   "pageId": "120bcdc7e1e74c3c",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T15:35:30.612Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/news/2026/statement-cllr-amjid-ali-leader-luton-council-response-comments-about-luton-its-communities": {
+   "pageId": "1222a5e2690d86a3",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T16:31:00.537Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": 32,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/strategies-policies-plans/sport-physical-activity-strategic-delivery-plan": {
+   "pageId": "1242739e1fdcc283",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:49:23.718Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 33,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/putteridge-high-school": {
+   "pageId": "12ffe26eaf99a422",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:37:31.615Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/health-social-care/adult-social-care/paying-your-care/paying-adult-social-care": {
+   "pageId": "130c6d4c77c373d3",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:54:50.429Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/elections-voting/upcoming-elections": {
+   "pageId": "135454b1edff5810",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T15:30:59.641Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 33,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/news/2026/food-waste-recycling-expands-flats-across-luton": {
+   "pageId": "14067155ecbae2fa",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:54:44.572Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/schools-education/schools-colleges/apply-transfer-or-change-schools/step-by-step/starting-school-september-2027-step-step": {
+   "pageId": "146a73724bd75905",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:19:00.441Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/schools-education/virtual-school-children-care/lutons-virtual-school-educators": {
+   "pageId": "154cb4f65b00b3ed",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T15:34:23.286Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/news/2026/luton-election-results": {
+   "pageId": "15bdcf34b80c46c7",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T22:19:46.289Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/parking-streets-transport/parking/street-parking": {
+   "pageId": "16586152021e9116",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T22:24:44.642Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 52,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/finance-data-performance/data-protection-privacy-information-requests/privacy-notices/building-control-privacy-notice": {
+   "pageId": "1796b63a3010cdad",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:55:13.279Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/parking-streets-transport/rights-way-accessing-land/find-public-right-way": {
+   "pageId": "17d6b14cff890bfe",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:16:31.168Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/news/2025/luton-council-appoints-mark-fowler-chief-executive": {
+   "pageId": "19992294c57e7581",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T15:32:57.662Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/building-control/building-control-advice/notifications-site-conditions-variations": {
+   "pageId": "1a2cd25b99266bfe",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T16:29:33.899Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 55,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/health-social-care/keeping-people-safe-safeguarding/adult-protection-safeguarding-adults": {
+   "pageId": "1ad4bdc2040b088b",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:19:06.117Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 30,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/community-environment/crime-community-safety/antisocial-behaviour/neighbours": {
+   "pageId": "1c276befa0e2cbd7",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:47:20.060Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 46,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/elections-voting/election-results/local-election-results/local-election-results-2011/leagrave": {
+   "pageId": "1cbfc88311666288",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:42:25.350Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/apply-place-catholic-church-school": {
+   "pageId": "1e294ef08cb9dfe7",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T16:31:39.019Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/parking-streets-transport/travel-transport/buses-minibuses/buses/bus-operators": {
+   "pageId": "1e83568b8b96746b",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T15:35:57.731Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 52,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/community-environment/crime-community-safety/domestic-abuse": {
+   "pageId": "1ee91aa8598f6553",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T16:33:20.081Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/strategies-policies-plans/income-management-arrears-prevention-policy": {
+   "pageId": "1ef69c7df6a2ad15",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:42:56.165Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/housing/council-tenants/your-tenancy-rent/reporting-tenancy-fraud": {
+   "pageId": "24c9185d9ec9739a",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T15:33:44.440Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 35,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/schools-education/schools-colleges/support-information-schools/luton-governor-services": {
+   "pageId": "25e41e5f123c3694",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:40:00.254Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 41,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/housing/housing-options-support/advice-if-you-might-become-homeless/leaving-armed-forces-becoming-homeless": {
+   "pageId": "2684850044ab67e9",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:47:42.010Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/news/2025/covid-19-day-reflection": {
+   "pageId": "26951c7e21ad991f",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T16:33:56.531Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": 33,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/finance-data-performance/data-protection-privacy-information-requests": {
+   "pageId": "26c3f47e8e8605f7",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:43:27.486Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 35,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/statistics-census-information/luton-insights-data-map": {
+   "pageId": "26ce601748aef711",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:53:13.017Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/housing/council-tenants/your-tenancy-rent/manage-your-council-tenancy/find-your-housing-officer": {
+   "pageId": "27327bb90ace061c",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:52:18.971Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/business-licences-permits/finance-support-businesses/conference-venue-hire-facilities": {
+   "pageId": "28dfe0dd473cb55a",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T22:22:39.159Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/schools-education/schools-colleges/appeals-policies-arrangements-schools/appeals-process-school-admissions/supporting-information-your-school-admission-appeal": {
+   "pageId": "28f7fe34f8c1b041",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T15:37:04.891Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 40,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/news/2025/multiple-operations-lead-seizure-illegal-cigarettes-vapes": {
+   "pageId": "290aad439076fa14",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T16:29:19.403Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/housing/housing-regulation-performance/housing-service-performance-reports/find-recent-previous-tenant-leaseholder-annual-reports": {
+   "pageId": "29793b65321ae95f",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:49:46.734Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 44,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/news/2025/employability-day-helping-young-people-choose-pathways-success": {
+   "pageId": "297cd943e462519f",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:16:23.479Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": 32,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/news/2025/get-set-lutons-enterprise-week": {
+   "pageId": "2a6e52eacf272196",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:55:24.700Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-tax/tell-us-about-council-tax-change/tell-us-if-council-tax-payer-has-died": {
+   "pageId": "2a8090201f896df2",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:13:27.652Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 36,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/housing/council-tenants/council-housing-maintenance-safety/fire-safety-high-rise-residential-buildings": {
+   "pageId": "2b0a9e49d6923b20",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:17:29.283Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/benefits-financial-help/benefit-supporting-documents/supporting-documents-benefit-claim-or-change-circumstances/proof-identity-national-insurance-benefit-claims": {
+   "pageId": "2c99970427cf7a86",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:43:42.934Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 43,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/leisure-parks-culture/planning-organising-event": {
+   "pageId": "2d08dbbfe3882b3b",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:55:30.183Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 49,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/elections-voting/election-results/local-election-results/local-election-results-2011/biscot": {
+   "pageId": "2da58d55397c2c57",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:51:47.820Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/news/2026/luton-trading-standards-warns-residents-about-unsafe-cosmetic-products": {
+   "pageId": "2e73e79e32350383",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:18:52.259Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": 32,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/news/2025/luton-host-series-events-disability-celebration-month": {
+   "pageId": "2ec3ba693da90410",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T22:23:10.042Z",
+   "status": 200,
+   "axeViolations": 4,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/housing/council-tenants/your-tenancy-rent/your-council-tenancy-agreement-explained/if-your-council-home-has-garden": {
+   "pageId": "2f1690b67d2c86fc",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:17:41.960Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/parking-streets-transport/travel-transport/buses-minibuses/buses": {
+   "pageId": "30129591bb1183c9",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:48:37.389Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 41,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/finance-data-performance/data-protection-privacy-information-requests/privacy-notices/holiday-activity-food-programme": {
+   "pageId": "3028dbc585d8d867",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T16:28:35.088Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/land-premises/buildings": {
+   "pageId": "31bc03eb88650dfb",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:50:13.490Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 32,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/finance-data-performance/accounts-finance/procurement": {
+   "pageId": "31c79166dae23cf4",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T22:20:43.446Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/strategies-policies-plans/housing-strategic-plan": {
+   "pageId": "31ca123e780acf60",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:51:22.390Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 33,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/leisure-parks-culture/party-park/party-park-details": {
+   "pageId": "3328b814049c6eae",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:45:50.413Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/parking-streets-transport/parking/disability-parking/blue-badge-scheme/how-we-assess-blue-badge-applications": {
+   "pageId": "34272d39a1f86dfd",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T15:31:45.349Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/elections-voting/election-results/local-election-results/election-results/wigmore-election-2026": {
+   "pageId": "35ebee7639d1a472",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T22:25:01.241Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/business-licences-permits/food-safety/businesses/food-safety-guidance-businesses/food-safety-guidance-home-bakers": {
+   "pageId": "36916230a5176430",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:47:05.320Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 56,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/parking-streets-transport/parking/penalty-charge-notices-pcns/pay-penalty-charge-notice": {
+   "pageId": "378020ded69008a8",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T16:30:06.620Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/schools-education/early-years-education-childcare/childcare/help-childcare-costs/care-learn": {
+   "pageId": "382e4f82e80f2d8f",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T16:28:14.804Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/planning-policy/plannning-open-digital-data": {
+   "pageId": "398744f0ae47503e",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:50:36.633Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/building-control/building-control-inspection-schedule/re-roof-house-or-block-flats": {
+   "pageId": "39d34b9449eaa165",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:51:13.639Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 59,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/benefits-financial-help/additional-financial-support/housing-payment/how-housing-payments-are-paid": {
+   "pageId": "3b92eb8ad541aa3c",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:51:04.542Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/councillors-committees/local-councillors/becoming-councillor": {
+   "pageId": "3c66990254fbf358",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T15:36:50.345Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/news/2026/supporting-luton-residents-job-opportunities": {
+   "pageId": "3d4c4b6e498ccf33",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T16:27:58.703Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/bins-waste-recycling/waste-strategic-plan-service-standard": {
+   "pageId": "3de67e613a42d13d",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:13:45.306Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 32,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/health-social-care/children-young-people-families/childrens-social-care/children-young-people-care/advocacy-independent-visitors-service": {
+   "pageId": "3e5a112c0e9a1d8d",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:17:33.821Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/business-licences-permits/food-safety/businesses/food-safety-guidance-businesses/food-safety-guidance-caterers": {
+   "pageId": "3e850f3402455cd5",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:42:14.523Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/news/2025/luton-trading-standards-seizures-illegal-single-use-vapes": {
+   "pageId": "3f360567b88b7925",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:49:55.551Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-tax/paying-your-council-tax/ways-pay-your-council-tax-bill/pay-your-council-tax-phone": {
+   "pageId": "3faca4b8da298d9d",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:19:13.957Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 43,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/housing/council-tenants/council-housing-maintenance-safety/making-additions-or-alterations-your-council-home": {
+   "pageId": "3ff77347291c3f06",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T16:31:09.219Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order/tree-preservation-order-tpo-e107131": {
+   "pageId": "40081d423bf32fe4",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:42:08.873Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/housing/council-tenants/apply-transfer-or-exchange-council-home/step-by-step/mutual-exchange-your-council-or-housing-association-home-step-step/apply-house-exchange": {
+   "pageId": "40dd40507dea6cea",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:15:27.351Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-tax/council-tax-discounts-exemptions/severe-mental-impairment-council-tax-discount-exemptions": {
+   "pageId": "413f537e09f8e611",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T22:20:20.425Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 33,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-tax/council-tax-enquiries-appeals-valuations": {
+   "pageId": "42a1c5c816273f74",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T22:24:52.863Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 32,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/elections-voting/election-results/local-election-results/local-election-results-2019/limbury": {
+   "pageId": "42b77ac9fc1e955d",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:38:35.595Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order/tree-preservation-order-tpo-e107097": {
+   "pageId": "443498283e509d31",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:47:28.697Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/elections-voting/election-results": {
+   "pageId": "44d8b1042b6427ce",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:52:32.524Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/news/2025/luton-rising-confirms-ps131m-funding-agreement-active-luton": {
+   "pageId": "452bd84a2ad39db0",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T15:32:24.365Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/warden-hill-infant-school": {
+   "pageId": "45d350a718a44133",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:37:05.803Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/jobs-careers/year-10-11-work-experience/highways": {
+   "pageId": "45f2e28245a6520a",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T16:28:04.280Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 64,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/jobs-careers/guidance-council-staff/adoption-surrogacy": {
+   "pageId": "46c701e478fa343d",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T22:23:15.753Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/schools-education/schools-colleges/apply-transfer-or-change-schools/step-by-step/transferring-junior-or-middle-school-september-2027-step-step/apply-transfer-infant-junior": {
+   "pageId": "47932572d7ee435c",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:15:39.185Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 45,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order/tree-preservation-order-tpo-e107181": {
+   "pageId": "47dc18795746b9e3",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T22:22:30.906Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 34,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/strategies-policies-plans/healthy-weight-delivery-plan": {
+   "pageId": "4ad6049f68060a30",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T15:32:38.472Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 31,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/bins-waste-recycling/reducing-recycling-waste/tidy-tips-local-recycling-points/find-tidy-tip-or-local-recycling-point/eaton-green-road-tidy-tip": {
+   "pageId": "4b3617605c598b35",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T22:22:16.675Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/births-deaths-marriages-ceremonies/marriages-civil-partnerships-ceremonies/step-by-step/get-married-or-form-civil-partnership-step-step/check-if-you-can-get-married-or-form": {
+   "pageId": "4cbd7aaf522d92df",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T16:33:08.713Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order/tree-preservation-order-tpo-e107135": {
+   "pageId": "4d461d72832415a5",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T15:31:51.350Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/health-social-care/children-young-people-families/childrens-social-care/children-young-people-care/looked-after-young-people/life-care/complaints-about-being-care": {
+   "pageId": "4db223fb0d8ffd0f",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:48:19.287Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 34,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-tax/paying-your-council-tax/ways-pay-your-council-tax-bill/make-bank-payment": {
+   "pageId": "4f2dd319302775c6",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:51:27.015Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/parking-streets-transport/road-street-maintenance-improvements/dropped-kerbs-vehicle-crossovers": {
+   "pageId": "501cdc2ad77677ea",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:49:41.305Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/health-social-care/adult-social-care/how-adult-social-care-can-help/help-stay-home-if-you-have-more-complex-needs": {
+   "pageId": "515657b37b935668",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:51:32.528Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/schools-education/special-educational-needs-disabilities-send/hearing-deafness-services": {
+   "pageId": "52f12a8bbb9629c5",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:14:57.514Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 37,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/community-environment/crime-community-safety/domestic-abuse/multi-agency-risk-assessment-conference": {
+   "pageId": "54a2acea7099ca6a",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T22:22:11.287Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/bins-waste-recycling/reducing-recycling-waste/recycle-reduce-reuse/how-recycle-dispose-hazardous-materials": {
+   "pageId": "550c2a6dbcf7ea77",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:38:58.962Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 50,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/health-social-care/children-young-people-families/childrens-social-care/care-leavers-local-offer/care-leavers-getting-involved": {
+   "pageId": "5611bb7b53097a96",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:39:20.852Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 36,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/ferrars-academy": {
+   "pageId": "5670f6910dbf77a1",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:40:08.547Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/benefits-financial-help/housing-benefit": {
+   "pageId": "56926607cfda8d8e",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:18:18.797Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 29,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/benefits-financial-help/housing-benefit/housing-benefit-payments-overpayments": {
+   "pageId": "56aa09b8dbd5c5fe",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T15:29:50.956Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/business-licences-permits/finance-support-businesses/conference-venue-hire-facilities/hire-putteridge-bury": {
+   "pageId": "56bb4d88e4a1afc8",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T16:33:50.513Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/health-social-care/children-young-people-families/adoption-fostering/adoption/adoption-process": {
+   "pageId": "56ede253187274b1",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T22:23:21.522Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 44,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/news/2025/luton-council-budget-focus-supporting-most-vulnerable": {
+   "pageId": "57094fa2c4ad6f9d",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T15:35:35.533Z",
+   "status": 200,
+   "axeViolations": 4,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/news/2025/apprentices-luton-celebrated-awards-ceremony": {
+   "pageId": "570ec691a99de64e",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T15:36:28.688Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": 32,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/benefits-financial-help/additional-financial-support/council-tax-exceptional-hardship/make-council-tax-exceptional-hardship-payment-claim": {
+   "pageId": "589d63806376a950",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:51:01.787Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/housing/housing-options-support/apply-housing-if-you-become-homeless/apply-housing-assistance": {
+   "pageId": "597cfe84660c95a8",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:46:59.941Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/news/2026/mps-luton-council-urge-community-groups-apply-share-ps480000-pride-place-fund": {
+   "pageId": "59a9506c74145b59",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:39:46.285Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/strategies-policies-plans/treasury-management-strategic-plan": {
+   "pageId": "59de98c1fbaa803e",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:47:14.191Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/planning-policy": {
+   "pageId": "5a86bae5c3a15dc8",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T16:28:20.344Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/parking-streets-transport/travel-transport/concessionary-travel": {
+   "pageId": "5bb3150333124a81",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:51:30.698Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/parking-streets-transport/travel-transport/local-access-forum/local-access-forum-papers-agendas-minutes": {
+   "pageId": "5bd6809c587d8be8",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:50:21.896Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 74,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/health-social-care/adult-social-care/how-adult-social-care-can-help/day-opportunities": {
+   "pageId": "5dbf1472d9d49eae",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T22:21:41.225Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/news/2025/simpler-recycling-coming-luton": {
+   "pageId": "5dc66ae4ca1e6a99",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:53:18.598Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/health-social-care/adult-social-care/paying-your-care/self-funders-paying-your-own-care-support": {
+   "pageId": "5f5d05079fd7a0f8",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:15:33.143Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/health-social-care/children-young-people-families/childrens-social-care/care-leavers-local-offer/accommodation-care-leavers": {
+   "pageId": "5f7447f0b51c1874",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T22:24:19.578Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 37,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/jobs-careers/guidance-council-staff/performance-work": {
+   "pageId": "60745dcfe454f2f8",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:17:59.758Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-tax/paying-your-council-tax/what-happens-if-you-do-not-pay-your-council-tax/text-voice-message-reminder": {
+   "pageId": "6097516a11ac809f",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T22:22:55.841Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 42,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/finance-data-performance/data-protection-privacy-information-requests/cookie-policy": {
+   "pageId": "60d2df1d5ac9dc16",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:52:04.486Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/schools-education/schools-colleges/apply-transfer-or-change-schools/step-by-step/transferring-junior-or-middle-school-september-2026-step-step/junior-middle-school-waiting": {
+   "pageId": "61b396d52793eeb6",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:17:48.113Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order/tree-preservation-order-tpo-e107026": {
+   "pageId": "62705e10892da5fd",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T22:23:30.875Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/news/2025/neighbourhood-policing-strengthened-bedfordshire": {
+   "pageId": "62d65b5c27676e5f",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:50:05.114Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": 32,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/parking-streets-transport/road-street-maintenance-improvements/dropped-kerbs-vehicle-crossovers/apply-permission-drop-kerb": {
+   "pageId": "6322d458de27f5d2",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T22:22:02.872Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/downside-primary-school": {
+   "pageId": "63ec116de6e81e76",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T22:19:14.170Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/planning-permission-building-regulations-approval": {
+   "pageId": "6593778d6c327eaa",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:17:02.626Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/news/2025/luton-announces-year-celebration-150th-anniversary-borough-status": {
+   "pageId": "66b3c05b78833d42",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T15:31:17.111Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": 34,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/strategies-policies-plans/homelessness-prevention-plan": {
+   "pageId": "66d7ada050c28287",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T22:21:36.794Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/health-social-care/adult-social-care/eligibility-assessments-care-support/your-care-support-plan": {
+   "pageId": "690485e4bcc1805a",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T16:34:05.453Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 35,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/health-social-care/adult-social-care/providing-health-social-care-services-luton/market-position-statements/market-position-statements-working-age-disabilities": {
+   "pageId": "693ee1181b4b13dd",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T16:29:10.001Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 32,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/schools-education/special-educational-needs-disabilities-send/services-support-your-childs-special-educational-needs/sen-advisors-early-years": {
+   "pageId": "69786b360bea0888",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T22:23:04.138Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/housing/housing-options-support/room-move-scheme-free-housing-families": {
+   "pageId": "69eda7a1b4c01e9c",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:50:29.862Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 34,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/parking-streets-transport/parking/parking-traffic-restrictions/controlled-parking-zones": {
+   "pageId": "69f511ef98f952cb",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T16:29:43.194Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 45,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/jobs-careers/year-10-11-work-experience/quality-improvement": {
+   "pageId": "6a563f47b75b8bda",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T22:22:25.099Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/news/2026/adult-social-care-luton-rated-good-care-quality-commission": {
+   "pageId": "6c4176a88877679d",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:18:13.772Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/community-environment/community-support/supporting-gaza": {
+   "pageId": "6c77186cf9745b84",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T16:31:30.030Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 57,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/elections-voting/election-results/local-election-results/local-election-results-2011/farley": {
+   "pageId": "6d0a044cf6c03913",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:46:15.439Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/business-licences-permits/licences-permits/business-licences": {
+   "pageId": "70711e29610853f0",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T15:30:42.893Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/parking-streets-transport/parking/parking-traffic-restrictions/parking-traffic-signs-signals": {
+   "pageId": "708e399449b73688",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:43:01.591Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 58,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-tax/paying-your-council-tax/ways-pay-your-council-tax-bill/pay-your-council-tax-online": {
+   "pageId": "709d2c47b372e0a9",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:49:30.715Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 43,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/luton-local-plan/local-plan-evidence-base/infrastructure-delivery-monitoring": {
+   "pageId": "70cc7dd9208ca5e0",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:48:28.039Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 62,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/parking-streets-transport/parking/disability-parking/blue-badge-scheme/apply-blue-badge": {
+   "pageId": "70e46ae4d197b171",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:17:14.113Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 49,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/housing/home-safety-wellbeing-support/energy-grants-schemes/minimum-energy-efficiency-standards-mees": {
+   "pageId": "71252da2da04162b",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:13:36.006Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": 45,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/news/2025/leader-luton-council-cllr-hazel-simmons-mbe-statement-concerning-rise-hate-speech": {
+   "pageId": "71d37c7d3ad6856f",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:18:27.632Z",
+   "status": 200,
+   "axeViolations": 4,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/elections-voting/election-results/local-election-results/election-results/wigmore-election-2024": {
+   "pageId": "728fba23cc091d74",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T22:22:44.805Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/housing/housing-options-support/advice-if-you-might-become-homeless/leaving-care-becoming-homeless": {
+   "pageId": "72d39f55e3d6da51",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:41:15.734Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-tax/empty-second-homes/council-tax-premium-second-homes": {
+   "pageId": "73001e2060c3b506",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:14:37.589Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/jobs-careers/guidance-council-staff": {
+   "pageId": "732cb9f87181911a",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:41:45.020Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 60,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/building-control/dutyholders/dutyholder-responsibilities": {
+   "pageId": "73fe44dba21047c9",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:52:01.855Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 53,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/elections-voting/election-results/local-election-results/local-election-results-2015/south-ward": {
+   "pageId": "7434fae918c4d74d",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T22:19:40.869Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/leisure-parks-culture/planning-organising-event/road-closures-highways": {
+   "pageId": "76346aa19247603c",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T16:33:26.035Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/benefits-financial-help/manage-or-make-change-your-benefits/manage-your-benefits-online/what-you-can-do-your-benefit-account": {
+   "pageId": "7740e04bf2b71f33",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:54:08.820Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 36,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/building-control/dutyholders/dutyholder-roles": {
+   "pageId": "7879f689be5f404c",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:49:47.363Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/housing/council-leaseholders/leasehold-properties/subletting-your-leasehold-properties": {
+   "pageId": "79866beae02ee1b6",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T22:21:57.580Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/housing/housing-policy-strategy-development/have-your-say-lutons-supported-housing-strategy": {
+   "pageId": "79a2c84557fc7527",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T15:32:52.145Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-tax/council-tax-discounts-exemptions/disability-council-tax-discount": {
+   "pageId": "79cb971d795de0b1",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:53:23.053Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/listed-buildings-statutory-register/what-work-you-need-listed-building-consent": {
+   "pageId": "7b33e6209133ec7c",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T22:20:49.181Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/housing/private-tenants-homeowners-landlords/private-sector-housing-enforcement/november-private-sector-enforcements-2021": {
+   "pageId": "7ca33b10322ad293",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T22:24:13.812Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/leisure-parks-culture/museums-local-history-heritage": {
+   "pageId": "7e36a872660ca912",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:40:33.852Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 29,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/bins-waste-recycling/bin-collections/what-put-your-glass-recycling-bin": {
+   "pageId": "7e48f90e4aae90bb",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T15:35:44.197Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/community-environment/crime-community-safety/domestic-abuse/forced-marriage": {
+   "pageId": "7efff2f80ec33174",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:49:32.639Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 46,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/hillborough-junior-school": {
+   "pageId": "834604014e7e7fcd",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:14:02.254Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/health-social-care/children-young-people-families/family-support/family-information-service-fis/contact-family-information-service": {
+   "pageId": "83c449d3090505a2",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T15:33:30.984Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/parking-streets-transport/street-licences/apply-building-materials-licence": {
+   "pageId": "83df6298b06652bb",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:42:19.961Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/benefits-financial-help/additional-financial-support/pension-age-support": {
+   "pageId": "84684370a2452bc7",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T15:35:13.721Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order/tree-preservation-order-tpo-e107035": {
+   "pageId": "85096c4be4d4eb51",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T16:27:43.289Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 36,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/schools-education/schools-colleges/apply-transfer-or-change-schools/step-by-step/transferring-high-school-or-upper-school-september-2027-step-step": {
+   "pageId": "851f99ea8cd7807b",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:38:03.919Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/elections-voting/election-results/local-election-results/local-election-results-2011/bramingham": {
+   "pageId": "855b9bef897044d8",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:16:01.617Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": 34,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/high-hedges-complaints-quick-guide/who-can-make-complaint": {
+   "pageId": "858a025a190bb842",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T15:30:20.083Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/housing/housing-options-support/contact-us-if-you-are-homeless-or-risk-losing-your-home/support-we-can-provide-if-youre-homeless": {
+   "pageId": "85a1cd77404daafd",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:47:34.389Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 39,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/community-environment/regeneration/community-venue-spaces-improvement-fund/assessment-applications": {
+   "pageId": "86ba257032f4e94f",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:49:12.174Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/new-development-design": {
+   "pageId": "87e7b0c7ac5321db",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:50:56.608Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 31,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order/tree-preservation-order-tpo-e107179": {
+   "pageId": "89842256755cca11",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:14:23.693Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/health-social-care/adult-social-care": {
+   "pageId": "8b877c0a350c2773",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:42:00.837Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 32,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/leisure-parks-culture/find-park-open-spaces/kidney-wood": {
+   "pageId": "8cf6e484ad4e735e",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:49:59.047Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/schools-education/schools-colleges/appeals-policies-arrangements-schools/coordinated-admission-schemes": {
+   "pageId": "8d2448e1ad6efbcd",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T15:32:18.557Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/community-environment/your-environment/dog-warden-services/awards": {
+   "pageId": "8ec5d6bc5e1ec054",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:41:05.896Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/benefits-financial-help/council-tax-reduction/make-claim-council-tax-reduction": {
+   "pageId": "8f11bdedd417b19c",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T22:24:36.330Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 42,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/jobs-careers/guidance-council-staff/allowances": {
+   "pageId": "8f68d9153c0c0b5e",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:38:17.826Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 69,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/schools-education/virtual-school-children-care/lutons-virtual-school-social-workers": {
+   "pageId": "8ff00ec4c3eaf69b",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:48:04.814Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/elections-voting/election-results/local-election-results/local-election-results-2019/sundon-park": {
+   "pageId": "9142dccd3c79b5fa",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T15:32:12.547Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/denbigh-primary-school": {
+   "pageId": "91a5933fb1d4e639",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T15:36:56.460Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order/tree-preservation-order-tpo-e107095": {
+   "pageId": "92f5657fc2637565",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:41:21.563Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 36,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/finance-data-performance/accounts-finance/public-liability-insurance": {
+   "pageId": "94b335c5755f9cc2",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:53:42.884Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/elections-voting/election-results/local-election-results/local-election-results-2019/high-town": {
+   "pageId": "9571bbe76029d1ed",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:14:08.421Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/land-premises/local-land-charges": {
+   "pageId": "95f34f210626906f",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T15:36:44.552Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/building-control/dutyholders/registered-building-inspectors": {
+   "pageId": "96f97d9daf07a91f",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T16:28:26.239Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 47,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/benefits-financial-help/how-benefits-are-calculated/non-dependant-deductions": {
+   "pageId": "988e95a50aac2e95",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T15:36:06.378Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 48,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/schools-education/schools-colleges/support-information-schools/luton-governor-services/support-training-school-governors": {
+   "pageId": "990d6a621912f721",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T22:20:12.482Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 64,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/community-environment/crime-community-safety/domestic-abuse/multi-agency-domestic-abuse-training": {
+   "pageId": "99d4e9a2e2442e13",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:55:04.343Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 47,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order/tree-preservation-order-tpo-e107015": {
+   "pageId": "9a5a713f04018bd6",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T16:33:41.376Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 36,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order/tree-preservation-order-tpo-e107018": {
+   "pageId": "9be2bef83aa6ed2f",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:18:33.349Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 36,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-tax/paying-your-council-tax/what-happens-if-you-do-not-pay-your-council-tax": {
+   "pageId": "9cd4c941570ef309",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:42:30.645Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/elections-voting/election-results/local-election-results/local-election-results-2015/leagrave": {
+   "pageId": "9ddedf1209f7d66c",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T16:28:58.650Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/parking-streets-transport/road-street-maintenance-improvements/report-damaged-or-missing-street-nameplate": {
+   "pageId": "9debe5cc4a5951c9",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:16:17.614Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/business-licences-permits/licences-permits/animal-health-welfare-licences/apply-licence-keep-exotic-dangerous-or-wild-animal": {
+   "pageId": "9f7556cc218e607d",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T16:27:52.869Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/business-licences-permits/business-rates/business-rates-changes-april-2026/retail-hospitality-leisure-multiplier-changes": {
+   "pageId": "a0fcf1ac84cedfa2",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T15:34:05.579Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 43,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/news/2025/car-trader-sentenced-selling-cars-without-disclosing-safety-recalls": {
+   "pageId": "a2559f0d80bcc6b2",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T15:34:29.014Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": 33,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/cardinal-newman-catholic-school": {
+   "pageId": "a2b21b1c3b91772d",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T16:32:25.687Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/business-licences-permits/business-advertising-sponsorship/lamppost-advertising": {
+   "pageId": "a38c35d62bfb31dc",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:48:10.396Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 31,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/housing/council-tenants/apply-transfer-or-exchange-council-home/step-by-step/mutual-exchange-your-council-or-housing-association-home-step-step": {
+   "pageId": "a3dd6189dff8b5b1",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T22:19:52.334Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 48,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/strategies-policies-plans/medium-term-financial-plan": {
+   "pageId": "a474709d264f5d26",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:38:41.092Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 31,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/schools-education/schools-colleges/support-information-schools/standing-advisory-council-religious-education-sacre/standing-advisory-council-religious-education-sacre-0": {
+   "pageId": "a4cf08601cfe2b95",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:41:11.316Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/bins-waste-recycling/business-commercial-waste-collections/commercial-trade-waste-bins-your-business": {
+   "pageId": "a4d8a46dbdb2f984",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:52:10.581Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 36,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/councillors-committees/local-councillors/councillors-allowances-expenses": {
+   "pageId": "a5349dc008bab28a",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T16:27:31.234Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/health-social-care/children-young-people-families/adoption-fostering/fostering/fostering-information-events": {
+   "pageId": "a6273a9a1bd60473",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T22:18:51.218Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 37,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/schools-education/school-attendance-exclusion-standards": {
+   "pageId": "a659cf84b1bba580",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:40:19.944Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 31,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/health-social-care/adult-social-care/providing-health-social-care-services-luton/market-position-statements/market-position-statements-our-approach-care-market": {
+   "pageId": "a750447ae5c12162",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:52:43.357Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order/tree-preservation-order-tpo-e107052": {
+   "pageId": "a77092450e589a16",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:55:19.022Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/building-control/safety-sports-grounds/safety-advisory-groups": {
+   "pageId": "a7b740032136a92b",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T16:29:52.392Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/benefits-financial-help/benefit-supporting-documents/supporting-documents-benefit-claim-or-change-circumstances/proof-earnings-benefit-claims": {
+   "pageId": "a8ba9324ff368a09",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:15:48.033Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/elections-voting/election-results/local-election-results/local-election-results-2015/farley": {
+   "pageId": "a8d91bdf99d4dc2a",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T15:31:41.024Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/news/2025/household-support-fund-luton-residents-urged-check-if-theyre-eligible-help-cost-essentials": {
+   "pageId": "a93dff8aa529f747",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:19:27.861Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": 35,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/business-licences-permits/business-advertising-sponsorship/filming": {
+   "pageId": "a9b59cf0ef9e9206",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:38:09.363Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 35,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order/tree-preservation-order-tpo-e107160": {
+   "pageId": "aa339242103c8692",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:51:53.688Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 36,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/parking-streets-transport/parking/penalty-charge-notices-pcns": {
+   "pageId": "aaee9e8128141ebd",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T15:32:46.062Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/housing/council-tenants/your-tenancy-rent/manage-your-council-tenancy": {
+   "pageId": "ab7d62f120c772b2",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T15:33:15.023Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 37,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/parking-streets-transport/parking/car-parks/find-car-park/vicarage-street-car-park": {
+   "pageId": "ac97dcf2cdf6d975",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T16:30:42.658Z",
+   "status": 200,
+   "axeViolations": 4,
+   "alfaFailures": 40,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/housing/council-tenants/council-housing-maintenance-safety/what-expect-your-council-property/if-your-council-home-has-garden": {
+   "pageId": "ad4d1f81d2f51e2d",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T15:34:42.635Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 36,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/community-environment/planning-community-event/step-by-step/organising-play-street-event-step-step/apply-council-permission": {
+   "pageId": "ae9edbce84df931e",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T16:34:14.713Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/community-environment/community-support/big-change-luton": {
+   "pageId": "aeb2eeffbad98579",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:46:51.920Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 42,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/news/2026/five-luton-parks-retain-prestigious-green-flag-status": {
+   "pageId": "aeea87dfd65c7e12",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:39:28.849Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-tax/empty-second-homes": {
+   "pageId": "af05f2efdc6961d4",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T22:23:36.883Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/elections-voting/election-results/local-election-results/local-election-results-2011/wigmore": {
+   "pageId": "afc53a8bb05b031e",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:51:10.234Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/elections-voting/election-results/local-election-results/election-results/limbury-election-2018": {
+   "pageId": "b04f77ba2bfc79ac",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T16:30:37.158Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/housing/private-tenants-homeowners-landlords/private-sector-housing-enforcement/november-private-sector-enforcements-2018": {
+   "pageId": "b10ac4b78c95faa7",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:50:51.171Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/community-environment/your-environment/pest-control/book-appointment": {
+   "pageId": "b188251559978885",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T16:33:02.789Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/housing/housing-options-support/emergency-temporary-accommodation/if-you-refuse-our-offer-accommodation": {
+   "pageId": "b1db316f130f91f8",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T22:21:05.671Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/housing/commercial-services/garage-tenancies/how-much-it-costs": {
+   "pageId": "b266840a548b7324",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:50:38.495Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/news/2025/luton-secures-ps26-million-investment-new-indoor-cricket-dome": {
+   "pageId": "b28c9c1aa02bed8d",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:14:43.355Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order/tree-preservation-order-tpo-e107114": {
+   "pageId": "b3df08b4858e1ed8",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T22:23:56.974Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 36,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/planning-policy/supplementary-planning-documents/east-village-design-codes": {
+   "pageId": "b461fb1c6c9754d3",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:52:30.620Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 49,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/luton-local-plan/new-local-plan/new-site-submissions": {
+   "pageId": "b4cb249a8ba482f6",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T15:29:34.137Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 46,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/elections-voting/election-results/local-election-results/local-election-results-2019/leagrave": {
+   "pageId": "b4fb805f6fd630ed",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:53:01.614Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/news/2026/community-comes-together-celebrate-new-wigmore-valley-park-facilities": {
+   "pageId": "b52302a0fa89905e",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:46:34.765Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": 32,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/health-social-care/children-young-people-families/childrens-social-care/care-leavers-local-offer/special-education-needs-disabilities-care-leavers": {
+   "pageId": "b5a9acecf7e7c0d4",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T16:29:58.151Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 42,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/article-4-directions/article-4-direction-updates": {
+   "pageId": "b6e3c7d8b3ec0c78",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:37:42.252Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 45,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/community-environment/regeneration/redeveloping-luton-town-centre": {
+   "pageId": "b943c948ebf8d325",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T16:28:52.534Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/news/2025/free-family-events-programme-kicks-next-week-luton-town-centre": {
+   "pageId": "ba3b7f30d5ba42a6",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T15:36:14.629Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": 32,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/housing/council-tenants/your-tenancy-rent/have-your-say-housing-services/tenant-scrutiny-panel": {
+   "pageId": "ba9594cdf1ad569f",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T16:27:37.333Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/schools-education/schools-colleges/support-information-schools": {
+   "pageId": "baa1893aaa3bb740",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:45:56.151Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/births-deaths-marriages-ceremonies/marriages-civil-partnerships-ceremonies/step-by-step/get-married-or-form-civil-partnership-step-step/about-ceremony": {
+   "pageId": "bbb6db9632ab96b5",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T15:34:36.837Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order/tree-preservation-order-tpo-e107038": {
+   "pageId": "bd12cfccfc0b0253",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T16:28:41.157Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/parking-streets-transport/parking/step-by-step/resident-parking-permits-step-step/renew-your-resident-parking-permit": {
+   "pageId": "bd7eefdef0ba3dda",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:50:21.045Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 46,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/housing/council-tenants/your-tenancy-rent/have-your-say-housing-services/tenants-residents-association-tara": {
+   "pageId": "be0bb5c53dd7876c",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:40:14.201Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-tax/council-tax-discounts-exemptions/carers-council-tax-discount-exemptions": {
+   "pageId": "bf543e402af178c0",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T16:32:04.828Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/schools-education/schools-colleges/appeals-policies-arrangements-schools/appeals-process-school-admissions/outcome-school-admission-hearing": {
+   "pageId": "c02b7fdd71cfd2aa",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T22:19:08.142Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/ferrars-junior-school": {
+   "pageId": "c0fe0527cf3520a6",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:19:35.656Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order/tree-preservation-order-tpo-e107152": {
+   "pageId": "c175a3c512a4dfd5",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:40:57.738Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 36,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/business-licences-permits/licences-permits/business-licences/apply-sport-ground-certificate": {
+   "pageId": "c19ce19b96b93454",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:49:17.994Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/tennyson-road-primary-school-north-site": {
+   "pageId": "c1cccbbd3f312b54",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T16:33:32.067Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/councillors-committees/mayor/invite-mayor-or-deputy-mayor-event": {
+   "pageId": "c274e8153c49da7a",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:51:07.625Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/business-licences-permits/business-advertising-sponsorship/e-luton-advertising": {
+   "pageId": "c2e6aea680be7076",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T15:30:11.948Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 32,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order/tree-preservation-order-tpo-e107001": {
+   "pageId": "c52023a7fe7d33b1",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T15:36:22.948Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/business-licences-permits/health-safety/health-safety-businesses": {
+   "pageId": "c53303063933a34e",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:38:27.155Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 43,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/elections-voting/election-results/local-election-results/local-election-results-2023/biscot": {
+   "pageId": "c59facaf03ea7041",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:16:42.659Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": 36,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order/tree-preservation-order-tpo-e107021": {
+   "pageId": "c63d04be63c772e7",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:50:12.556Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 36,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/parking-streets-transport/road-street-maintenance-improvements/dropped-kerbs-vehicle-crossovers/apply-planning-permission-drop-kerb": {
+   "pageId": "c9054a9d5385e2c7",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:53:37.070Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order/tree-preservation-order-tpo-e107024": {
+   "pageId": "c90a7f428650bedf",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T22:20:37.382Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/schools-education/schools-colleges/appeals-policies-arrangements-schools/foundation-school-admission-policies": {
+   "pageId": "c91e0a9b8ffa0330",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:47:47.715Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/housing/housing-options-support/sheltered-housing/general-enquiries-about-sheltered-housing": {
+   "pageId": "cb09a1d7a3385b61",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T22:18:59.955Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/schools-education/schools-colleges/appeals-policies-arrangements-schools/how-volunteer-school-appeal-panel": {
+   "pageId": "cbe93965dc461702",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:52:38.471Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 33,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/news/2026/remembrance-events-taking-place-luton": {
+   "pageId": "cd30c9185bd04cb3",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:14:49.421Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": 32,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/building-control/dutyholders/completion-work": {
+   "pageId": "cdf82b202e13843c",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:17:53.750Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/community-environment/crime-community-safety/environmental-crime/fixed-penalty-notices-environmental-offences": {
+   "pageId": "ce57fa8741bd8356",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:41:29.721Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 42,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/dallow-primary-school": {
+   "pageId": "cf306ce5442836a1",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:51:42.267Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/business-licences-permits/food-safety/businesses/food-safety-guidance-businesses": {
+   "pageId": "d01a2c650fd2d6e1",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:53:07.293Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/benefits-financial-help/additional-financial-support/council-tax-exceptional-hardship": {
+   "pageId": "d184473d4c5c51f7",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:54:16.965Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 37,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/health-social-care/adult-social-care/care-options/sheltered-housing-independent-living-support-hand": {
+   "pageId": "d1b4ecc4eb385c8c",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T22:19:22.641Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/elections-voting/annual-canvass": {
+   "pageId": "d2c15f80e99ceef3",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:53:28.741Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 36,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/business-licences-permits/licences-permits/business-licences/register-food-business": {
+   "pageId": "d3ad267cda41f269",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:16:36.817Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/elections-voting/election-results/parent-governor-bid-ballots": {
+   "pageId": "d60c5e27f7da9e5b",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:46:23.330Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/richmond-hill-school-east": {
+   "pageId": "d6f121f8407b9a08",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T22:20:54.942Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/elections-voting/election-results/local-election-results/local-election-results-2019/bramingham": {
+   "pageId": "d74b7fde539b237d",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:48:55.223Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/benefits-financial-help/make-benefit-enquiry-dispute-or-appeal": {
+   "pageId": "d75e653e435e1672",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T22:23:42.174Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/planning-appeal-inquiries": {
+   "pageId": "d917068b143541b9",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:43:22.035Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/community-environment/climate-change": {
+   "pageId": "d956d7a08d967fdc",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:40:28.470Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/business-licences-permits/business-rates/business-rates-reliefs-reductions": {
+   "pageId": "d9ea9fe543f38926",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:50:42.344Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 41,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/building-control/building-control-inspection-schedule/alterations-extend-or-create-basement": {
+   "pageId": "d9f443b3fbd278eb",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T16:28:46.643Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/elections-voting/election-results/general-election-results/general-election-results-2019": {
+   "pageId": "da51b6b061b47bb5",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T16:32:19.893Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/schools-education/schools-colleges": {
+   "pageId": "da740769484abbef",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:15:05.459Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 34,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/bins-waste-recycling/book-bulky-waste-collection": {
+   "pageId": "db1fad4ebad74444",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:15:53.808Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 29,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-tax": {
+   "pageId": "dc5c6821ba282916",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T16:29:25.125Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 30,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/news/2025/closure-premises-due-illegal-vape-sales": {
+   "pageId": "dd7797cdab4463b6",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:37:37.042Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-tax/council-tax-discounts-exemptions/care-leavers-council-tax-discount": {
+   "pageId": "de65574eb656075d",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T15:29:56.600Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 32,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/finance-data-performance/data-protection-privacy-information-requests/privacy-notices/magic-notes-privacy-notice": {
+   "pageId": "df0a86bd9f9b7da2",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T22:21:11.027Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/health-social-care": {
+   "pageId": "dfce8cc884764787",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:51:15.769Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/william-austin-infant-school": {
+   "pageId": "e208659d528739a9",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:51:59.087Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/finance-data-performance/accounts-finance/council-spend/2025-spend": {
+   "pageId": "e23e1d072db7a83f",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T16:32:51.081Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/parking-streets-transport/travel-transport/luton-airport-transport-luton-dart": {
+   "pageId": "e3b42ff0bd8fa8e3",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:52:58.764Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/benefits-financial-help/additional-financial-support/housing-payment/ask-review-decision": {
+   "pageId": "e3c426b6f048a9dd",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T22:22:50.144Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/building-control/building-control-advice/competent-persons-schemes": {
+   "pageId": "e4aa5d4a6b33323d",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T16:30:51.559Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 53,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/news/2026/exciting-new-facilities-open-wigmore-valley-park": {
+   "pageId": "e5ac6b65de4e0df2",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:14:14.334Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/health-social-care/health/public-health": {
+   "pageId": "e7bda2b1ea185ccf",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:43:34.692Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 35,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/elections-voting/election-results/local-election-results/local-election-results-2011/stopsley": {
+   "pageId": "e89cdf217b53b5f0",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T16:31:57.044Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": 34,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/births-deaths-marriages-ceremonies/marriages-civil-partnerships-ceremonies/step-by-step/get-married-or-form-civil-partnership-step-step/venue-options": {
+   "pageId": "e9588e2b48efcf55",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:37:23.006Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 43,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/leisure-parks-culture/tourism-venue-hire": {
+   "pageId": "eaaff089da9f5bbf",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:54:56.000Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 31,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/elections-voting/how-vote/british-sign-language-bsl-information-about-voting": {
+   "pageId": "eb1235aa4ff3df36",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:13:53.591Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 43,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/get-planning-permission/guide-planning-applications/when-application-considered-committee": {
+   "pageId": "eb2fde2fae449a8e",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T15:34:50.977Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/health-social-care/adult-social-care/care-options/shared-lives-living-supportive-carer": {
+   "pageId": "ebf3de18657f54e0",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:41:37.021Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 45,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/parking-streets-transport/road-street-maintenance-improvements/road-signs": {
+   "pageId": "ec7e91f676394e03",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:14:29.663Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 37,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/get-planning-permission/planning-application-forms-biodiversity-validation-guidance/biodiversity-net-gain": {
+   "pageId": "ecb0fc7b148160d9",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T16:27:25.521Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/schools-education/special-educational-needs-disabilities-send/services-support-your-childs-special-educational-needs/childcare-disability-team": {
+   "pageId": "ecb311115cb8d4a4",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:17:08.369Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/strategies-policies-plans/investment-strategic-plan": {
+   "pageId": "ed1da561bfb93def",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:46:43.661Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 31,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/leisure-parks-culture/planning-organising-event/licensing": {
+   "pageId": "ed59803038a753bb",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:51:44.286Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/parking-streets-transport/parking/street-parking/street-parking-zone-9": {
+   "pageId": "eeb9636c829bd524",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T15:35:49.696Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 53,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/community-environment/planning-community-event/step-by-step/organising-play-street-event-step-step/talk-neighbours-build-support": {
+   "pageId": "efa223d38268b9a9",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T22:21:00.332Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/finance-data-performance/data-protection-privacy-information-requests/privacy-notices/street-naming-numbering-service": {
+   "pageId": "f105a65806e66882",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:46:28.936Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/business-licences-permits/business-rates/business-rates-changes-april-2026/small-business-support": {
+   "pageId": "f177b0734febc635",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:39:07.198Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/elections-voting/election-results/local-election-results": {
+   "pageId": "f3ce5578a4db1233",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:37:14.563Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 35,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/health-social-care/health/public-health/macmillan-luton-cancer-community-engagement-approach/macmillan-luton-cancer-community-engagement-project-phase-two-2026-2027": {
+   "pageId": "f3d526fc55cee8bd",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T15:31:57.124Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/parking-streets-transport/travel-transport/local-access-forum": {
+   "pageId": "f43de68303aaeb81",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:17:23.258Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/news/2025/enjoy-summer-live-music-concerts-lutons-iconic-bandstand": {
+   "pageId": "f47752b74ba5b5da",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:16:56.854Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/housing/council-tenants/your-tenancy-rent/have-your-say-housing-services/get-involved-estate-walkabouts": {
+   "pageId": "f53f428247d76898",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T15:30:05.695Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/jobs-careers/year-10-11-work-experience/building-technical-services-bts": {
+   "pageId": "f59873bffec0ca04",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:54:24.930Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 64,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/housing/council-tenants/your-tenancy-rent": {
+   "pageId": "f6d5358667e916f1",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:45:44.761Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/health-social-care/adult-social-care/providing-health-social-care-services-luton/our-approach-assessing-provider-quality": {
+   "pageId": "f73e2bcf7c2aa2eb",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:51:36.351Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 35,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/st-margaret-scotland-catholic-primary": {
+   "pageId": "f7ad1ba1eef3c54c",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:40:52.331Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/foxdell-primary-school": {
+   "pageId": "f7b6abe5ec902886",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:39:12.641Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": 38,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/leisure-parks-culture/tourism-venue-hire/find-outdoor-venue-hire/market-hill": {
+   "pageId": "f7fbbb4fb97831a1",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T16:33:14.341Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/parking-streets-transport/parking/car-parks/find-car-park/chapel-viaduct-car-park-2": {
+   "pageId": "f94f06799658165a",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T11:50:52.899Z",
+   "status": 200,
+   "axeViolations": 4,
+   "alfaFailures": 40,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order/tree-preservation-order-tpo-e107093": {
+   "pageId": "f9abb8820c0fc3f7",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T22:20:28.839Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 36,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/parking-streets-transport/parking/step-by-step/resident-parking-permits-step-step/apply-visitor-parking-vouchers": {
+   "pageId": "fa18ef5dba6a6b4e",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T15:33:22.867Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 47,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/parking-streets-transport/travel-transport/vehicle-mots-maintenance-testing/book-car-purchase-inspection": {
+   "pageId": "fa2538527aa300c0",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T16:27:09.292Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/schools-education/early-years-education-childcare/childcare-reports-surveys": {
+   "pageId": "fb38c9ee334811ee",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T22:24:27.998Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 37,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/news/2026/bury-park-traffic-improvement-recommendations-published": {
+   "pageId": "fb67ea7be088dad5",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T15:36:36.476Z",
+   "status": 200,
+   "axeViolations": 3,
+   "alfaFailures": 32,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/health-social-care/adult-social-care/get-involved-adult-social-care/adult-social-care-strategies": {
+   "pageId": "fc358a38aba2f140",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:19:21.858Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/housing/housing-regulation-performance/housing-scrutiny-panel": {
+   "pageId": "fd04a4f0f82f1ec7",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T16:27:15.410Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 35,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/elections-voting/election-results/local-election-results/local-election-results-2023/lewsey": {
+   "pageId": "fd81041fd8741f7f",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:41:52.861Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": 36,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/schools-education/schools-colleges/safety-education/school-safety-squad": {
+   "pageId": "fdbd6bd35af99e92",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:49:41.363Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/council-elections/finance-data-performance/data-protection-privacy-information-requests/privacy-notices/information-governance-privacy-notice": {
+   "pageId": "fe0806a808d5bfce",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:50:31.128Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/planning-enforcement": {
+   "pageId": "fe846e4a52473d4b",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T16:29:04.191Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/parking-streets-transport/road-safety/safer-speed-speed-cameras/driver-training": {
+   "pageId": "ff108bdff3e55219",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-29T14:16:50.818Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order/tree-preservation-order-tpo-e107057": {
+   "pageId": "ff21bc13dd79749c",
+   "lastWeek": "2026-W44",
+   "lastScannedAt": "2026-10-30T06:52:38.894Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
    "hasIssues": true
   }
  },

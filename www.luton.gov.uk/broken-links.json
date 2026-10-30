@@ -1,6 +1,6 @@
 {
  "domain": "www.luton.gov.uk",
- "updatedAt": "2026-10-29T11:52:16.279Z",
+ "updatedAt": "2026-10-30T07:04:16.470Z",
  "links": {
   "https://www.food.gov.uk/business-guidance/registering-and-managing-a-food-business": {
    "status": 404,
@@ -12,7 +12,8 @@
    ],
    "weeksBroken": 1,
    "foundOn": [
-    "https://www.luton.gov.uk/business-licences-permits/food-safety/businesses/food-safety-guidance-businesses/food-safety-guidance-retailers"
+    "https://www.luton.gov.uk/business-licences-permits/food-safety/businesses/food-safety-guidance-businesses/food-safety-guidance-retailers",
+    "https://www.luton.gov.uk/business-licences-permits/food-safety/businesses/food-safety-guidance-businesses/food-safety-guidance-home-bakers"
    ]
   },
   "https://www.food.gov.uk/business-guidance/allergen-guidance-for-industry": {
@@ -25,7 +26,9 @@
    ],
    "weeksBroken": 1,
    "foundOn": [
-    "https://www.luton.gov.uk/business-licences-permits/food-safety/businesses/food-safety-guidance-businesses/food-safety-guidance-retailers"
+    "https://www.luton.gov.uk/business-licences-permits/food-safety/businesses/food-safety-guidance-businesses/food-safety-guidance-retailers",
+    "https://www.luton.gov.uk/business-licences-permits/food-safety/businesses/food-safety-guidance-businesses/food-safety-guidance-home-bakers",
+    "https://www.luton.gov.uk/business-licences-permits/food-safety/businesses/food-safety-guidance-businesses/food-safety-guidance-caterers"
    ]
   },
   "https://permits.paysmarti.co.uk/login/luton/?wtrealm=https%3A%2F%2Fpermits.paysmarti.co.uk%2Flogin%2Fluton%2F&wctx=WsFedOwinState%3DoWP0_BAj4G2_rnli4uRugTQyrm-xDCz2lfIZ5Xxb8HYXF0IXvfoCO6rN8msobo8Rv55y1Dy80coodtCb1aWCVsnllW8oAU0Xk1SvtQ_3rYK86yinOEk436Jlf7MRV9I_pwOKCf3wLpA40aUVXXw_-w&wa=wsignin1.0&wreply=acct": {
@@ -260,6 +263,319 @@
    "weeksBroken": 1,
    "foundOn": [
     "https://www.luton.gov.uk/housing/council-leaseholders/if-you-do-not-pay-your-rent-or-service-charge"
+   ]
+  },
+  "https://www.lealands.luton.sch.uk/page/?title=Admissions+%26amp%3B+Transition&pid=60": {
+   "status": 0,
+   "reason": "ERR_HTTP2_STREAM_ERROR",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.luton.gov.uk/schools-education/schools-colleges/appeals-policies-arrangements-schools/foundation-school-admission-policies"
+   ]
+  },
+  "https://www.lutonacl.ac.uk/news-events/upcoming-community-job-fair--19891.html": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.luton.gov.uk/news/2025/find-your-next-step-our-job-fair"
+   ]
+  },
+  "https://permits.paysmarti.co.uk/acct/luton": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.luton.gov.uk/parking-streets-transport/parking/step-by-step/resident-parking-permits-step-step/renew-your-resident-parking-permit",
+    "https://www.luton.gov.uk/parking-streets-transport/parking/step-by-step/resident-parking-permits-step-step/apply-visitor-parking-vouchers"
+   ]
+  },
+  "https://www.williamaustininfants.co.uk/": {
+   "status": 0,
+   "reason": "ERR_HTTP2_STREAM_ERROR",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/william-austin-infant-school"
+   ]
+  },
+  "https://www.williamaustininfants.co.uk/admissions": {
+   "status": 0,
+   "reason": "ERR_HTTP2_STREAM_ERROR",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/william-austin-infant-school"
+   ]
+  },
+  "https://www.icknieldprimary.co.uk/IDP/": {
+   "status": 0,
+   "reason": "ECONNRESET",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.luton.gov.uk/schools-education/special-educational-needs-disabilities-send/hearing-deafness-services"
+   ]
+  },
+  "https://www.icknield.beds.sch.uk/SEND-and-HID/": {
+   "status": 0,
+   "reason": "ECONNRESET",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.luton.gov.uk/schools-education/special-educational-needs-disabilities-send/hearing-deafness-services"
+   ]
+  },
+  "https://www.main-bvxea6i-t56d6ev3fp3fg.uk-1.platformsh.site/parking-streets-and-transport/parking-streets-and-transport/rights-way-and-accessing-land/find-1": {
+   "status": 502,
+   "reason": "HTTP 502",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.luton.gov.uk/parking-streets-transport/rights-way-accessing-land/find-public-right-way"
+   ]
+  },
+  "https://www.main-bvxea6i-t56d6ev3fp3fg.uk-1.platformsh.site/parking-streets-and-transport/parking-streets-and-transport/rights-way-and-accessing-land/find-3": {
+   "status": 502,
+   "reason": "HTTP 502",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.luton.gov.uk/parking-streets-transport/rights-way-accessing-land/find-public-right-way"
+   ]
+  },
+  "http://www.roada-bedford.org.uk/": {
+   "status": 0,
+   "reason": "CERT_HAS_EXPIRED",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.luton.gov.uk/parking-streets-transport/road-safety/safer-speed-speed-cameras/driver-training"
+   ]
+  },
+  "https://www.ferrars.org.uk/": {
+   "status": 0,
+   "reason": "ECONNRESET",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/ferrars-junior-school"
+   ]
+  },
+  "https://place.stepforwardluton.co.uk/summerintown": {
+   "status": 0,
+   "reason": "UND_ERR_CONNECT_TIMEOUT",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.luton.gov.uk/news/2025/free-family-events-programme-kicks-next-week-luton-town-centre"
+   ]
+  },
+  "https://muslimhands.org.uk/appeals/gaza-emergency": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.luton.gov.uk/community-environment/community-support/supporting-gaza"
+   ]
+  },
+  "https://www.richmondhillschool.co.uk/": {
+   "status": 0,
+   "reason": "ERR_HTTP2_STREAM_ERROR",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/richmond-hill-school-east"
+   ]
+  },
+  "https://www.richmondhillschool.co.uk/admissions": {
+   "status": 0,
+   "reason": "ERR_HTTP2_STREAM_ERROR",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/richmond-hill-school-east"
+   ]
+  },
+  "https://www.totalwellbeingluton.org/home": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.luton.gov.uk/health-social-care/health/public-health/adult-wellbeing/menopause"
+   ]
+  },
+  "https://www.managemymenopause.co.uk/": {
+   "status": 0,
+   "reason": "EAI_AGAIN",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.luton.gov.uk/health-social-care/health/public-health/adult-wellbeing/menopause"
+   ]
+  },
+  "https://www.unison.org.uk/content/uploads/2019/10/25831.pdf": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.luton.gov.uk/health-social-care/health/public-health/adult-wellbeing/menopause"
+   ]
+  },
+  "https://www.reesfoundation.org/crisis-payments.html%20Rent%20deposit": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.luton.gov.uk/health-social-care/children-young-people-families/childrens-social-care/care-leavers-local-offer/accommodation-care-leavers"
+   ]
+  },
+  "https://www.foxdellprimary.uk/": {
+   "status": 0,
+   "reason": "ERR_HTTP2_STREAM_ERROR",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/foxdell-primary-school"
+   ]
+  },
+  "https://www.foxdellprimary.uk/admissions": {
+   "status": 0,
+   "reason": "ERR_HTTP2_STREAM_ERROR",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/foxdell-primary-school"
+   ]
+  },
+  "http://www.noticepayments.co.uk/fpnrep/luton": {
+   "status": 0,
+   "reason": "UND_ERR_CONNECT_TIMEOUT",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.luton.gov.uk/community-environment/crime-community-safety/environmental-crime/fixed-penalty-notices-environmental-offences"
+   ]
+  },
+  "http://www.lutonallwomenscentre.org.uk/celebrating-international-womens-day-2025": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.luton.gov.uk/news/2025/luton-host-series-events-international-womens-day-2025"
+   ]
+  },
+  "https://www.lutonallwomenscentre.org.uk/celebrating-international-womens-day-2025": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.luton.gov.uk/news/2025/luton-host-series-events-international-womens-day-2025"
    ]
   }
  }
