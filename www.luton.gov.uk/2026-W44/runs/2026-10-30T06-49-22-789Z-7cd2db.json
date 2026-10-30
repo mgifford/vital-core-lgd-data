@@ -1,0 +1,135 @@
+{
+ "runId": "2026-10-30T06-49-22-789Z-7cd2db",
+ "week": "2026-W44",
+ "domain": "www.luton.gov.uk",
+ "canonical": {
+  "origin": "https://www.luton.gov.uk",
+  "configured": "https://www.luton.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-10-30T06:49:23.901Z",
+ "scanned": [
+  "709d2c47b372e0a9",
+  "fdbd6bd35af99e92",
+  "7879f689be5f404c",
+  "0c1ea94710166427",
+  "8cf6e484ad4e735e",
+  "62d65b5c27676e5f",
+  "31bc03eb88650dfb",
+  "5bd6809c587d8be8",
+  "fe0806a808d5bfce",
+  "398744f0ae47503e",
+  "d9ea9fe543f38926",
+  "b10ac4b78c95faa7",
+  "87e7b0c7ac5321db",
+  "3b92eb8ad541aa3c",
+  "afc53a8bb05b031e",
+  "dfce8cc884764787",
+  "0536571bae8e125e",
+  "4f2dd319302775c6",
+  "515657b37b935668",
+  "003ec58386669ad1",
+  "cf306ce5442836a1",
+  "2da58d55397c2c57",
+  "aa339242103c8692",
+  "73fe44dba21047c9",
+  "a4d8a46dbdb2f984",
+  "27327bb90ace061c",
+  "08c7510ab5d9e944",
+  "b461fb1c6c9754d3",
+  "ff21bc13dd79749c",
+  "a750447ae5c12162",
+  "b4fb805f6fd630ed",
+  "d01a2c650fd2d6e1",
+  "26ce601748aef711",
+  "5dc66ae4ca1e6a99",
+  "79cb971d795de0b1",
+  "d2c15f80e99ceef3",
+  "c9054a9d5385e2c7",
+  "94b335c5755f9cc2",
+  "103e89c2b962c0f4",
+  "7740e04bf2b71f33",
+  "d184473d4c5c51f7",
+  "f59873bffec0ca04",
+  "14067155ecbae2fa",
+  "130c6d4c77c373d3",
+  "eaaff089da9f5bbf",
+  "99d4e9a2e2442e13",
+  "1796b63a3010cdad",
+  "a77092450e589a16",
+  "2a6e52eacf272196",
+  "2d08dbbfe3882b3b"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 438,
+  "checked": 438,
+  "brokenCount": 2,
+  "broken": [
+   {
+    "url": "http://www.lutonallwomenscentre.org.uk/celebrating-international-womens-day-2025",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.luton.gov.uk/news/2025/luton-host-series-events-international-womens-day-2025"
+    ]
+   },
+   {
+    "url": "https://www.lutonallwomenscentre.org.uk/celebrating-international-womens-day-2025",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.luton.gov.uk/news/2025/luton-host-series-events-international-womens-day-2025"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 50,
+  "alfa": 18,
+  "plain-language": 21,
+  "resources": 50,
+  "images": 50,
+  "standards": 22,
+  "public-interest": 5,
+  "third-party": 9,
+  "link-check": 50,
+  "tech": 6,
+  "deprecated-html": 7,
+  "security": 3,
+  "sustainability": 7,
+  "lighthouse": 3
+ },
+ "tally": {
+  "ok": 50,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-10-30T06:56:16.831Z"
+}
