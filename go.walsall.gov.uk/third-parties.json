@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-10-30T07:51:11.933Z",
+ "updatedAt": "2026-10-30T10:24:34.623Z",
  "vendors": {
   "pure.cloud": {
    "firstSeen": "2026-W44",
@@ -182,15 +182,6 @@
    "weeksSeen": 1,
    "isScriptVendor": true
   },
-  "onetag-sys.com": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
   "quantserve.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
@@ -199,6 +190,15 @@
    ],
    "weeksSeen": 1,
    "isScriptVendor": true
+  },
+  "onetag-sys.com": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
   },
   "adtrafficquality.google": {
    "firstSeen": "2026-W44",
@@ -803,15 +803,6 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "awin1.com": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
   "yieldmo.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
@@ -821,7 +812,7 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "dotomi.com": {
+  "awin1.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -838,6 +829,15 @@
    ],
    "weeksSeen": 1,
    "isScriptVendor": true
+  },
+  "dotomi.com": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
   },
   "cloudflareinsights.com": {
    "firstSeen": "2026-W44",
@@ -866,7 +866,7 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "disqus.com": {
+  "id5-sync.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -875,7 +875,7 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "id5-sync.com": {
+  "disqus.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -1100,6 +1100,15 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
+  "googleapis.com": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": true
+  },
   "company-target.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
@@ -1126,15 +1135,6 @@
    ],
    "weeksSeen": 1,
    "isScriptVendor": false
-  },
-  "googleapis.com": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": true
   },
   "mathtag.com": {
    "firstSeen": "2026-W44",
@@ -1163,6 +1163,15 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
+  "gstatic.com": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": true
+  },
   "adroll.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
@@ -1189,15 +1198,6 @@
    ],
    "weeksSeen": 1,
    "isScriptVendor": false
-  },
-  "gstatic.com": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": true
   },
   "cadent.com": {
    "firstSeen": "2026-W44",
@@ -1838,6 +1838,24 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
+  "astuntechnology.com": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": true
+  },
+  "cloudflare.com": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": true
+  },
   "criteo.net": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
@@ -2080,24 +2098,6 @@
    ],
    "weeksSeen": 1,
    "isScriptVendor": false
-  },
-  "astuntechnology.com": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": true
-  },
-  "cloudflare.com": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": true
   },
   "smartytech.io": {
    "firstSeen": "2026-W44",

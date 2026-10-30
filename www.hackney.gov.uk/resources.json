@@ -1,6 +1,6 @@
 {
  "domain": "www.hackney.gov.uk",
- "updatedAt": "2026-10-30T07:51:12.429Z",
+ "updatedAt": "2026-10-30T10:24:35.195Z",
  "resources": {
   "https://consentcdn.cookiebot.com/sdk/bc-v5.min.html": {
    "type": "iframe",
@@ -10,7 +10,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPages": 973,
+   "lastPages": 1056,
    "lastExamplePages": [
     "https://hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/make-freedom-information-request",
     "https://hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/growing-hackney-child-friendly-places-supplementary-planning-document-spd",
@@ -521,6 +521,32 @@
     "https://hackney.gov.uk/parking-streets-and-transport/penalty-charge-notices/understanding-your-penalty-charge-notice-pcn"
    ]
   },
+  "https://map2.hackney.gov.uk/maps/constituencies/embed.html": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.hackney.gov.uk/council-and-elections/elections-and-voting/constituencies-and-wards"
+   ]
+  },
+  "https://map2.hackney.gov.uk/maps/wards/embed.html": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.hackney.gov.uk/council-and-elections/elections-and-voting/constituencies-and-wards"
+   ]
+  },
   "https://map2.hackney.gov.uk/maps/ltn-air-quality-receptors/embed.html": {
    "type": "iframe",
    "firstSeen": "2026-W44",
@@ -875,6 +901,19 @@
     "https://hackney.gov.uk/node/806",
     "https://www.hackney.gov.uk/libraries-parks-and-leisure/libraries/whats-hackney-libraries",
     "https://www.hackney.gov.uk/node/806"
+   ]
+  },
+  "https://map2.hackney.gov.uk/maps/ltn-plan/embed.html": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/low-traffic-neighbourhoods/low-traffic-neighbourhoods-overview"
    ]
   },
   "https://www.youtube.com/embed/udACFHJn3K8": {
@@ -1870,6 +1909,19 @@
     "https://hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/clissold-park-conservation-area"
    ]
   },
+  "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/820133/PHE_Notifiable_diseases_poster_HPT.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.hackney.gov.uk/health-and-social-care/health-professionals/health-advice"
+   ]
+  },
   "https://www.unwomenuk.org/site/wp-content/uploads/2021/03/APPG-UN-Women_Sexual-Harassment-Report_2021.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
@@ -1948,6 +2000,19 @@
     "https://hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/abney-park-cemetery"
    ]
   },
+  "http://mginternet.hackney.gov.uk/documents/s48613/Appendix_5_PEP_2015-20_-_Consultation_Report.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.hackney.gov.uk/parking-streets-and-transport/parking-consultations-policy-and-reports/parking-policy-and-reports/parking-and-enforcement-plan"
+   ]
+  },
   "https://www.youtube.com/embed/sbBOqxGPMus?si=j6ENcN9PkHV0v6e3": {
    "type": "embedded-media",
    "firstSeen": "2026-W44",
@@ -1972,6 +2037,110 @@
    "lastPages": 1,
    "lastExamplePages": [
     "https://hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/play-streets"
+   ]
+  },
+  "http://www.planningportal.gov.uk/uploads/1app/forms/cil_questions.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.hackney.gov.uk/planning-and-building/make-planning-application/submit-planning-application/hackney-community-infrastructure-levy"
+   ]
+  },
+  "http://www.planningportal.gov.uk/uploads/1app/forms/form_2_claiming_exemption_and_or_relief.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.hackney.gov.uk/planning-and-building/make-planning-application/submit-planning-application/hackney-community-infrastructure-levy"
+   ]
+  },
+  "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/6314/19021101.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.hackney.gov.uk/planning-and-building/make-planning-application/submit-planning-application/hackney-community-infrastructure-levy"
+   ]
+  },
+  "http://www.planningportal.gov.uk/uploads/1app/forms/form_1_assumption_of_liability.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.hackney.gov.uk/planning-and-building/make-planning-application/submit-planning-application/hackney-community-infrastructure-levy"
+   ]
+  },
+  "http://www.planningportal.gov.uk/uploads/1app/forms/form_3_withdrawal_of_assumption_of_liability.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.hackney.gov.uk/planning-and-building/make-planning-application/submit-planning-application/hackney-community-infrastructure-levy"
+   ]
+  },
+  "http://www.planningportal.gov.uk/uploads/1app/forms/form_4_transfer_of_assumed_liability.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.hackney.gov.uk/planning-and-building/make-planning-application/submit-planning-application/hackney-community-infrastructure-levy"
+   ]
+  },
+  "http://www.planningportal.gov.uk/uploads/1app/forms/form_5_notice_of_chargeable_development.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.hackney.gov.uk/planning-and-building/make-planning-application/submit-planning-application/hackney-community-infrastructure-levy"
+   ]
+  },
+  "http://www.planningportal.gov.uk/uploads/1app/forms/form_6_commencement_notice.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.hackney.gov.uk/planning-and-building/make-planning-application/submit-planning-application/hackney-community-infrastructure-levy"
    ]
   },
   "https://www.legislation.gov.uk/ukpga/1980/66/pdfs/ukpga_19800066_en.pdf": {
@@ -2208,6 +2377,19 @@
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/neighbourhood-planning/neighbourhood-planning"
+   ]
+  },
+  "https://www.google.com/maps/d/u/0/embed?mid=1beMPx92Qh5VvNiMEsOGeXHDGGr6R9KF8&ehbc=2E312F": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.hackney.gov.uk/community-safety-and-environment/community-partnerships/kings-park-moving-together"
    ]
   },
   "https://map2.hackney.gov.uk/maps/playgrounds/embed.html": {

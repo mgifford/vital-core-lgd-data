@@ -1,6 +1,6 @@
 {
  "domain": "www.hackney.gov.uk",
- "updatedAt": "2026-10-30T07:51:12.430Z",
+ "updatedAt": "2026-10-30T10:24:35.196Z",
  "vendors": {
   "hotjar.com": {
    "firstSeen": "2026-W44",
@@ -29,6 +29,33 @@
    "weeksSeen": 1,
    "isScriptVendor": true
   },
+  "googleapis.com": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": true
+  },
+  "google.com": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": true
+  },
+  "hotjar.io": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
   "cookiebot.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
@@ -56,15 +83,6 @@
    "weeksSeen": 1,
    "isScriptVendor": true
   },
-  "googleapis.com": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": true
-  },
   "jsdelivr.net": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
@@ -73,24 +91,6 @@
    ],
    "weeksSeen": 1,
    "isScriptVendor": true
-  },
-  "google.com": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": true
-  },
-  "hotjar.io": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
   },
   "google-analytics.com": {
    "firstSeen": "2026-W44",
@@ -101,25 +101,7 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "youtube.com": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": true
-  },
   "os.uk": {
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
-  "ytimg.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
@@ -137,6 +119,24 @@
    "weeksSeen": 1,
    "isScriptVendor": true
   },
+  "youtube.com": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": true
+  },
+  "ytimg.com": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
   "dotdigital-pages.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
@@ -147,6 +147,24 @@
    "isScriptVendor": true
   },
   "google.co.uk": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "cleantalk.org": {
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": true
+  },
+  "cloudflare.com": {
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W44",
    "_weeks": [
