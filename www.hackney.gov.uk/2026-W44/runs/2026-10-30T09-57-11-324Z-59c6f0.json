@@ -1,0 +1,163 @@
+{
+ "runId": "2026-10-30T09-57-11-324Z-59c6f0",
+ "week": "2026-W44",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-10-30T09:57:11.699Z",
+ "scanned": [
+  "953fca5dac624e16",
+  "9c2a07580ad22939",
+  "14f7f1b120707aac",
+  "19e46f8beb4f3454",
+  "9a797e24bb5637a1",
+  "4fa79281a2c0634f",
+  "c306e24307e36bf7",
+  "044b5649c1ad65d2",
+  "7b5efa9a2164127b",
+  "9910e99fd864468e",
+  "082447223dd77c75",
+  "01fc5d2617a546e3",
+  "5a39b6c76a76c5df",
+  "f2a4ec6296d5d5d4",
+  "2c788466610f96bd",
+  "7190917f88bf2a18",
+  "e56f53bc109e311c",
+  "a2dd07ab94460bcc",
+  "79c0e500373073f3",
+  "5182c22e9efaf367",
+  "0378f1c084093130",
+  "073ab35922e8dcc9",
+  "d8a6f8d8bfb29ff9",
+  "9ac93ade84351407",
+  "cf03f1ad31bf7419",
+  "e91e32443e5117e6",
+  "982d92ce0da3883e",
+  "0b26b7c25a2e7faf",
+  "81070446bd376d79",
+  "a1e3057b468ad715",
+  "f939f29e8efb5b39",
+  "bfae1f8b357913ce",
+  "495e52d6a7be9203",
+  "0fbc40ef314ae58a",
+  "e41ab6eada27d1a1",
+  "9e7256088100996c",
+  "fcb2ad8a4be37267",
+  "61ec3f5d464ffe9c",
+  "d2f9609cade96822",
+  "759c26acf799ea07",
+  "21bb14df6f07c30d",
+  "1d8c1a9233f7b581",
+  "374105a3f7c85b46",
+  "47bf331cfd33f46d",
+  "b2285c2df798a32a",
+  "c2ae4f6eb06fcf4f"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 582,
+  "checked": 500,
+  "brokenCount": 6,
+  "broken": [
+   {
+    "url": "http://www.metoffice.gov.uk/public/weather/cold-weather-alert/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/help-home/keeping-warm-winter"
+    ]
+   },
+   {
+    "url": "http://www.nhs.uk/Livewell/Winterhealth/Pages/Winterhealthhome.aspx",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/help-home/keeping-warm-winter"
+    ]
+   },
+   {
+    "url": "http://www.metoffice.gov.uk/weather/uk/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/help-home/keeping-warm-winter"
+    ]
+   },
+   {
+    "url": "https://www.islington.gov.uk/benefits-and-support/cost-of-living-support/household-support-fund",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-tax-and-benefits/applying-extra-financial-help-council/get-help-crisis-and-resilience-fund"
+    ]
+   },
+   {
+    "url": "https://www.towerhamlets.gov.uk/lgnl/advice_and_benefits/cost-of-living/household-support-fund.aspx",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-tax-and-benefits/applying-extra-financial-help-council/get-help-crisis-and-resilience-fund"
+    ]
+   },
+   {
+    "url": "https://bsky.app/profile/greenerhackney.bsky.social",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/rubbish-and-recycling/other-ways-reduce-reuse-and-recycle/repair-events-and-clothes-swaps"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 44,
+  "plain-language": 20,
+  "resources": 44,
+  "images": 44,
+  "standards": 25,
+  "public-interest": 3,
+  "link-check": 44,
+  "alfa": 22,
+  "third-party": 13,
+  "tech": 2,
+  "security": 9,
+  "deprecated-html": 3,
+  "sustainability": 6,
+  "lighthouse": 4
+ },
+ "tally": {
+  "ok": 44,
+  "blocked": 2,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 5,
+  "error": 0
+ },
+ "finishedAt": "2026-10-30T10:04:52.813Z"
+}
