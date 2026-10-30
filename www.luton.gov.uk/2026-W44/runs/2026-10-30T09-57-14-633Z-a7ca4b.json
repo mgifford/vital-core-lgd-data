@@ -1,0 +1,167 @@
+{
+ "runId": "2026-10-30T09-57-14-633Z-a7ca4b",
+ "week": "2026-W44",
+ "domain": "www.luton.gov.uk",
+ "canonical": {
+  "origin": "https://www.luton.gov.uk",
+  "configured": "https://www.luton.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-10-30T09:57:15.579Z",
+ "scanned": [
+  "d3bf31a25bfb2738",
+  "48693f9a353edcfb",
+  "f1023f52422c8e32",
+  "fe7a74a8003991c2",
+  "8997faade366b92b",
+  "fc8fc48c6c28757d",
+  "880c40ff16c1cdc2",
+  "560b36085332822c",
+  "fb13baf829705da3",
+  "0931c2640138f09a",
+  "0d7db83f3e837843",
+  "2eee3d9cf3c1c232",
+  "e7716dedb7581abd",
+  "37596a642614826f",
+  "5b43c55f2b3818c8",
+  "fbb72bda3e30fc48",
+  "0b40d95b7f33378b",
+  "c0d2f54044f2f22b",
+  "815adbc469ac545a",
+  "26a720127c6ba5ae",
+  "208ec016319207d4",
+  "c3853a83c1c479c0",
+  "878eb10d0c5ede1a",
+  "f635bbc1a626cad2",
+  "d2a8afe36c87e3af",
+  "ac580fac98f47c99",
+  "b65ca737ca72ecf2",
+  "fbc765c014d9987e",
+  "50ece91bf4d18ad9",
+  "3a4b60140572d6ac",
+  "f2d9f135f9948fb5",
+  "e5fddce049fd013f",
+  "cb8a3a4ffe5338a9",
+  "546b0279ec998df8",
+  "dd9a0571603e4f29",
+  "7f4a6d3bbf3437ff",
+  "fe6de14b4a8e6b57",
+  "9e58aeacfe4839ce",
+  "29ed9009ad1af210",
+  "2ba76a86a7e7fd4e",
+  "d9a6f79f2837217d",
+  "2f8c04bd32c85d50",
+  "2746b7108bb88c5b",
+  "82e0cbb067c99bd9",
+  "500e2686f9c55b6f",
+  "8a6c2fef1282ea76",
+  "da3345143f7ced89",
+  "c69e2bbd4acce6f8",
+  "bb9d53cd3f9bcb4b",
+  "58fbe54ad9328b01"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 416,
+  "checked": 416,
+  "brokenCount": 6,
+  "broken": [
+   {
+    "url": "https://procontract.due-north.com/Opportunities/Index?resetFilter=True&applyFilter=True&p=61155530-f7f0-e511-810f-000c29c9ba21&v=1",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.luton.gov.uk/council-elections/council-tenders-contracts"
+    ]
+   },
+   {
+    "url": "https://www.luton.gov.uk/bins-waste-recycling/reducing-recycling-waste/tidy-tips-local-recycling-points/find-tidy-tip-or-local-recycling-point?f%5B0%5D=localgov_directories_facets%3A31",
+    "status": 503,
+    "reason": "HTTP 503",
+    "foundOn": [
+     "https://www.luton.gov.uk/bins-waste-recycling/reducing-recycling-waste/tidy-tips-local-recycling-points/find-tidy-tip-or-local-recycling-point"
+    ]
+   },
+   {
+    "url": "https://www.luton.gov.uk/bins-waste-recycling/reducing-recycling-waste/tidy-tips-local-recycling-points/find-tidy-tip-or-local-recycling-point?f%5B0%5D=localgov_directories_facets%3A33",
+    "status": 503,
+    "reason": "HTTP 503",
+    "foundOn": [
+     "https://www.luton.gov.uk/bins-waste-recycling/reducing-recycling-waste/tidy-tips-local-recycling-points/find-tidy-tip-or-local-recycling-point"
+    ]
+   },
+   {
+    "url": "https://www.luton.gov.uk/bins-waste-recycling/reducing-recycling-waste/tidy-tips-local-recycling-points/find-tidy-tip-or-local-recycling-point?f%5B0%5D=localgov_directories_facets%3A34",
+    "status": 503,
+    "reason": "HTTP 503",
+    "foundOn": [
+     "https://www.luton.gov.uk/bins-waste-recycling/reducing-recycling-waste/tidy-tips-local-recycling-points/find-tidy-tip-or-local-recycling-point"
+    ]
+   },
+   {
+    "url": "https://www.luton.gov.uk/bins-waste-recycling/reducing-recycling-waste/tidy-tips-local-recycling-points/find-tidy-tip-or-local-recycling-point?f%5B0%5D=localgov_directories_facets%3A32",
+    "status": 503,
+    "reason": "HTTP 503",
+    "foundOn": [
+     "https://www.luton.gov.uk/bins-waste-recycling/reducing-recycling-waste/tidy-tips-local-recycling-points/find-tidy-tip-or-local-recycling-point"
+    ]
+   },
+   {
+    "url": "http://www.lgo.org.uk/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.luton.gov.uk/health-social-care/children-young-people-families/childrens-social-care/childrens-social-care-complaints"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 49,
+  "alfa": 23,
+  "plain-language": 25,
+  "resources": 49,
+  "images": 49,
+  "security": 7,
+  "link-check": 49,
+  "standards": 24,
+  "third-party": 13,
+  "public-interest": 3,
+  "deprecated-html": 3,
+  "tech": 2,
+  "sustainability": 7,
+  "lighthouse": 3
+ },
+ "tally": {
+  "ok": 49,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-30T10:04:38.127Z"
+}
