@@ -1,0 +1,151 @@
+{
+ "runId": "2026-10-30T06-36-50-709Z-894b4b",
+ "week": "2026-W44",
+ "domain": "www.luton.gov.uk",
+ "canonical": {
+  "origin": "https://www.luton.gov.uk",
+  "configured": "https://www.luton.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-10-30T06:36:51.334Z",
+ "scanned": [
+  "090c97cdf5043a2f",
+  "45d350a718a44133",
+  "f3ce5578a4db1233",
+  "e9588e2b48efcf55",
+  "12ffe26eaf99a422",
+  "dd7797cdab4463b6",
+  "b6e3c7d8b3ec0c78",
+  "851f99ea8cd7807b",
+  "a9b59cf0ef9e9206",
+  "8f68d9153c0c0b5e",
+  "c53303063933a34e",
+  "42b77ac9fc1e955d",
+  "a474709d264f5d26",
+  "04824ea4a0a59ce1",
+  "550c2a6dbcf7ea77",
+  "f177b0734febc635",
+  "f7b6abe5ec902886",
+  "5611bb7b53097a96",
+  "aeea87dfd65c7e12",
+  "59a9506c74145b59",
+  "0a156268e4d751fb",
+  "25e41e5f123c3694",
+  "5670f6910dbf77a1",
+  "be0bb5c53dd7876c",
+  "a659cf84b1bba580",
+  "d956d7a08d967fdc",
+  "7e36a872660ca912",
+  "f7ad1ba1eef3c54c",
+  "c175a3c512a4dfd5",
+  "8ec5d6bc5e1ec054",
+  "a4cf08601cfe2b95",
+  "72d39f55e3d6da51",
+  "92f5657fc2637565",
+  "ce57fa8741bd8356",
+  "ebf3de18657f54e0",
+  "732cb9f87181911a",
+  "fd81041fd8741f7f",
+  "8b877c0a350c2773",
+  "40081d423bf32fe4",
+  "3e850f3402455cd5",
+  "83df6298b06652bb",
+  "1cbfc88311666288",
+  "9cd4c941570ef309",
+  "02c6de8155a5a730",
+  "1ef69c7df6a2ad15",
+  "708e399449b73688",
+  "d917068b143541b9",
+  "26c3f47e8e8605f7",
+  "e7bda2b1ea185ccf",
+  "2c99970427cf7a86"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 466,
+  "checked": 466,
+  "brokenCount": 4,
+  "broken": [
+   {
+    "url": "https://www.foxdellprimary.uk/",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/foxdell-primary-school"
+    ]
+   },
+   {
+    "url": "https://www.foxdellprimary.uk/admissions",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/foxdell-primary-school"
+    ]
+   },
+   {
+    "url": "https://www.food.gov.uk/business-guidance/allergen-guidance-for-industry",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.luton.gov.uk/business-licences-permits/food-safety/businesses/food-safety-guidance-businesses/food-safety-guidance-caterers"
+    ]
+   },
+   {
+    "url": "http://www.noticepayments.co.uk/fpnrep/luton",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.luton.gov.uk/community-environment/crime-community-safety/environmental-crime/fixed-penalty-notices-environmental-offences"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 50,
+  "plain-language": 28,
+  "deprecated-html": 8,
+  "resources": 50,
+  "images": 50,
+  "link-check": 50,
+  "alfa": 28,
+  "standards": 29,
+  "tech": 7,
+  "sustainability": 3,
+  "lighthouse": 5,
+  "third-party": 9,
+  "public-interest": 8,
+  "security": 4
+ },
+ "tally": {
+  "ok": 50,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-30T06:44:30.584Z"
+}
