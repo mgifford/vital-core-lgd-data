@@ -1,0 +1,143 @@
+{
+ "runId": "2026-10-30T16-17-11-802Z-1f6124",
+ "week": "2026-W44",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-10-30T16:17:12.345Z",
+ "scanned": [
+  "041c39c8b734f734",
+  "e63196d2577c0803",
+  "37d967a5a53b68e9",
+  "5f2201f55cadb867",
+  "3685e3621e076b6a",
+  "f786be11d7a03c80",
+  "f153c7ed6c570605",
+  "fbb956610d4d9a2b",
+  "62fdde0dd0f270da",
+  "853fa0df2b09293b",
+  "bd8e2ae36c134548",
+  "85b01166db2bd6c0",
+  "f7764b72888a389d",
+  "5016ada35828bcaa",
+  "3d511be82823d79a",
+  "860c636a23015c5c",
+  "3d456e6d2d54fd65",
+  "03db9243de75a915",
+  "9e49a2d6190fcb1b",
+  "f64cd8752c9a6338",
+  "62eb74b693cbe147",
+  "d653f4e39c3e6fdf",
+  "ae845816795390cb",
+  "99cd5d2f3ed30c7d",
+  "2ba26b572aa597d5",
+  "c91e4f48cb3a3b0f",
+  "ab9319508de888e7",
+  "dba24a5cb9bce223",
+  "53a67750999ddfe0",
+  "b19a66e293af9cc0",
+  "26fb0e6ce5d07ddd",
+  "f9a671e7fa5e9205",
+  "c82166d65dc00b3b",
+  "ce4d7ec6cf4fd946",
+  "e2f4dfa590111deb",
+  "cb34bcb556202f91",
+  "4203fc38510b865c",
+  "f6870384cddf73ee",
+  "514ca7b31794dab6",
+  "1d7d15ea2bbb1289",
+  "10f6dc2ac4991f08",
+  "6605aa604ae6039d",
+  "008c623039e92203",
+  "ec6740085a338528",
+  "d47e6a89e7669a45",
+  "6b9da481af14310b",
+  "85a4906182956f26",
+  "cb3089cbd2b375ed",
+  "70d59ca54f4b677c",
+  "6533cf28b73a9dc4"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 400,
+  "checked": 400,
+  "brokenCount": 3,
+  "broken": [
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Forlo.uk%2FrafKw&data=05%7C01%7CNatasha.Mann%40walsall.gov.uk%7C5c1aada2f6f3477e46ed08db2eaf5ffc%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638155102977845844%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=0Dsfix1%2BJV%2BiQN9scO5tjUxU15tFJwTnzcwxNIedIos%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/time-set-uk-emergency-alerts-test"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Forlo.uk%2F0lsij&data=05%7C01%7CNatasha.Mann%40walsall.gov.uk%7C5c1aada2f6f3477e46ed08db2eaf5ffc%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638155102977845844%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=WO0bbznvPwvauvZ0SLydGw9tTiHiouXcQzwZSGJsKM0%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/time-set-uk-emergency-alerts-test"
+    ]
+   },
+   {
+    "url": "https://www.archivescard.com/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/museums-libraries-and-galleries/walsall-archives-0/your-visit-walsall-archives"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 49,
+  "alfa": 28,
+  "plain-language": 23,
+  "resources": 49,
+  "images": 49,
+  "third-party": 17,
+  "link-check": 49,
+  "standards": 21,
+  "sustainability": 6,
+  "public-interest": 5,
+  "security": 4,
+  "tech": 7,
+  "deprecated-html": 6,
+  "lighthouse": 4
+ },
+ "tally": {
+  "ok": 49,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-30T16:30:06.566Z"
+}
