@@ -1,0 +1,151 @@
+{
+ "runId": "2026-10-30T09-57-17-780Z-4fad7b",
+ "week": "2026-W44",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-10-30T09:57:18.668Z",
+ "scanned": [
+  "1696e398404e6db4",
+  "3a4b781fad55b814",
+  "79840fe94613cf59",
+  "14a01a4eff4581d4",
+  "047d7e0878921e31",
+  "1739e73786232b70",
+  "dccd2c6e8988c498",
+  "fcafbd4d20588f14",
+  "5547e359883d1f22",
+  "4783f4e007341420",
+  "befc29eeacc1e78b",
+  "a09c94132eefc004",
+  "cba5dd8973652f81",
+  "2d0bafbb45d64895",
+  "2ead4905370d246f",
+  "747c509070a1dc91",
+  "fbbf70598ec8ec83",
+  "13fd0bcf45f1173c",
+  "c09277bbb3dd656c",
+  "80186e7d649a4caf",
+  "c0e52c3d0432c747",
+  "6c539ed01e8ad85a",
+  "69be304c3f222000",
+  "2db3a8df6f12358e",
+  "1b67063b5e0f8e93",
+  "f7d1d51fba1e1eb2",
+  "1905c7b6958753bf",
+  "29dbb88956235c9c",
+  "4046c96b5c225027",
+  "030ff900e7fb0fc2",
+  "87e31540b587e7f3",
+  "dcf3b54a5313a5af",
+  "633a3df22730f3c3",
+  "b57a6ff38e13eeba",
+  "a84bc8b032783091",
+  "b4ed21cebc629fde",
+  "fcfe98621904aa74",
+  "b262071da80c84c3",
+  "2cede95057a3bfb1",
+  "a71eed563dd3d1f0",
+  "44646f770b4cbdb9",
+  "7e99dbb6ec8698c6",
+  "4a08803f45df5bc6",
+  "62f0b36a192ed1ef",
+  "06ae2883360a285d",
+  "7eb145e2dfe2bae8",
+  "66726999ccee0d7d",
+  "1d28e6f72bf6e7e9",
+  "bef32b37023ed2f5",
+  "fbe33a4f7b4819cb"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 293,
+  "checked": 293,
+  "brokenCount": 4,
+  "broken": [
+   {
+    "url": "https://wslc.walsall.gov.uk/leisurehub/identity/login?",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://go.walsall.gov.uk/events/pool-inflatable-fun-session-bloxwich-active-living-centre-4"
+    ]
+   },
+   {
+    "url": "http://www.go.walsall.gov.uk/parks-and-green-spaces/visit-our-parks-and-play-areas/walsall-arboretum",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/walsall-arboretums-150th-anniversary-blooms-gardeners-question-time-broadcast"
+    ]
+   },
+   {
+    "url": "https://noapws.necsws.com/ords/pwslive/call_initial_apex_page.noa_selfsrv?service=CAL&la=WAL&language=ENG",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://go.walsall.gov.uk/benefits/landlords-benefits-guidance-and-online-portal"
+    ]
+   },
+   {
+    "url": "https://forms.ukhsa.gov.uk/ReportAnOutbreak/start",
+    "status": 0,
+    "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+    "foundOn": [
+     "https://go.walsall.gov.uk/health-and-social-care/health-protection/report-infection-care-home"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 49,
+  "plain-language": 30,
+  "resources": 49,
+  "images": 49,
+  "link-check": 49,
+  "sustainability": 4,
+  "alfa": 30,
+  "standards": 20,
+  "security": 8,
+  "deprecated-html": 6,
+  "third-party": 9,
+  "tech": 3,
+  "public-interest": 1,
+  "lighthouse": 2
+ },
+ "tally": {
+  "ok": 49,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-10-30T10:12:23.766Z"
+}
