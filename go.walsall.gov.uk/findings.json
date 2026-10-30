@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-10-30T10:24:34.614Z",
+ "updatedAt": "2026-10-30T10:28:59.804Z",
  "findings": {
   "VS-179ad9b3": {
    "engine": "Siteimprove Alfa",
@@ -49,7 +49,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 1100,
+   "lastPagesAffected": 1149,
    "lastAffectedPages": [
     "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
     "http://go.walsall.gov.uk/events/saturday-storytime-6",
@@ -90,7 +90,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 1100,
+   "lastPagesAffected": 1149,
    "lastAffectedPages": [
     "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
     "http://go.walsall.gov.uk/events/saturday-storytime-6",
@@ -131,7 +131,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 1100,
+   "lastPagesAffected": 1149,
    "lastAffectedPages": [
     "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
     "http://go.walsall.gov.uk/events/saturday-storytime-6",
@@ -172,7 +172,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 551,
+   "lastPagesAffected": 575,
    "lastAffectedPages": [
     "http://go.walsall.gov.uk/events/saturday-storytime-6",
     "https://go.walsall.gov.uk/events/stitchers-and-skivers-adult-craft-group-afternoon-5",
@@ -213,7 +213,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 551,
+   "lastPagesAffected": 575,
    "lastAffectedPages": [
     "http://go.walsall.gov.uk/events/saturday-storytime-6",
     "https://go.walsall.gov.uk/events/stitchers-and-skivers-adult-craft-group-afternoon-5",
@@ -254,7 +254,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 1100,
+   "lastPagesAffected": 1149,
    "lastAffectedPages": [
     "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
     "http://go.walsall.gov.uk/events/saturday-storytime-6",
@@ -295,7 +295,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 33,
+   "lastPagesAffected": 34,
    "lastAffectedPages": [
     "http://go.walsall.gov.uk/health-and-social-care/adult-social-care-commissioning",
     "http://go.walsall.gov.uk/births-marriages-and-deaths/births",
@@ -303,6 +303,7 @@
     "https://go.walsall.gov.uk/council-tax",
     "http://go.walsall.gov.uk/people-and-communities/policing-and-public-safety/stray-lost-or-dangerous-dogs",
     "https://go.walsall.gov.uk/contact-walsall-council",
+    "https://go.walsall.gov.uk/business/doing-business-with-the-council/pay-invoice-sent-council",
     "http://go.walsall.gov.uk/your-council/open-data",
     "https://go.walsall.gov.uk/health-and-social-care/help-live-home/shared-lives-scheme",
     "http://go.walsall.gov.uk/fostering/types-foster-carers/connected-foster-carers",
@@ -320,8 +321,7 @@
     "http://go.walsall.gov.uk/children-and-young-people/children-care-and-care-leavers/local-offer-care-leavers/transition-and",
     "https://go.walsall.gov.uk/business/licensing-and-regulation/taxi-licences/passenger-information",
     "https://go.walsall.gov.uk/walsall-libraries/our-libraries/streetly-community-library",
-    "http://go.walsall.gov.uk/sport-and-leisure/activities/parties/parties-walsall-gala-swimming-and-fitness-centre",
-    "http://go.walsall.gov.uk/housing/advice-tenants/rented-property-need-repair"
+    "http://go.walsall.gov.uk/sport-and-leisure/activities/parties/parties-walsall-gala-swimming-and-fitness-centre"
    ]
   },
   "VS-ebb1c464": {
@@ -336,7 +336,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 197,
+   "lastPagesAffected": 210,
    "lastAffectedPages": [
     "https://go.walsall.gov.uk/feedback?page=%2Fpeople-and-communities%2Fwalsall-connected-get-help-get-online&rating=Poor&title=Walsall+Connected+-+get+help+to+get+online",
     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-trading-standards-ensures-road-safety-and-borough-wide-weighbridge-inspection&rating=Good&title=Walsall+Trading+Standards+ensures+road+safety+and+borough-wide+Weighbridge+inspection",
@@ -346,6 +346,8 @@
     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fupdated-statement-toxic-chemical-spillage-245pm-16-august-2024&rating=Poor&title=Updated+statement+-+Toxic+chemical+spillage+-+2.45pm%2C+16+August+2024",
     "https://go.walsall.gov.uk/feedback?page=%2Fhousing%2Ffinding-home%2Fhousing-associations-walsall&rating=Poor&title=Housing+associations+in+Walsall",
     "https://go.walsall.gov.uk/feedback?page=%2Fhealth-and-social-care%2Fhelp-live-home%2Fshared-lives-scheme&rating=Poor&title=Shared+Lives+scheme",
+    "https://go.walsall.gov.uk/feedback?page=%2Fhealth-and-social-care%2Ftalking-us-and-holding-us-account&rating=Good&title=Talking+to+us+and+holding+us+to+account",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fnew-birth-registration-service-open-one-walsall-councils-family-hubs&rating=Good&title=New+birth+registration+service+to+open+at+one+of+Walsall+Council%E2%80%99s+Family+Hubs",
     "https://go.walsall.gov.uk/feedback?page=%2Fplanning-and-building-control%2Fplanning-householders%2Fget-advice-you-start-your-application&rating=Ok&title=Get+advice+before+you+start+your+application",
     "http://go.walsall.gov.uk/feedback?page=%2Fbins%2Fbusiness-waste-&rating=Poor&title=Commercial+waste",
     "https://go.walsall.gov.uk/feedback?page=%2Fbenefits%2Fextra-help-you-may-be-able-get&rating=Ok&title=Extra+help+you+may+be+able+to+get",
@@ -358,11 +360,9 @@
     "https://go.walsall.gov.uk/feedback?page=%2Fyour-council%2Fopen-data%2Fdatasets%2Fspeed-cameras&rating=Good&title=Speed+cameras",
     "http://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fquit-smoking-winter-free-local-support-walsall&rating=Ok&title=Quit+smoking+this+winter+with+free+local+support+in+Walsall",
     "http://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fnight-time-works-planned-yorks-bridge-project&rating=Good&title=Night-time+works+planned+for+York%E2%80%99s+Bridge+project",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fdigital-skills-boost-womens-organisation-walsall-thanks-donation-scheme&rating=Good&title=Digital+skills+boost+for+women%E2%80%99s+organisation+in+Walsall+thanks+to+donation+scheme",
     "http://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-council-celebrate-bonfire-night-bucket-collection-acorns-childrens-hospice&rating=Good&title=Walsall+Council+to+celebrate+Bonfire+Night+with+bucket+collection+for+Acorns+Children%E2%80%99s+Hospice",
-    "https://go.walsall.gov.uk/feedback?page=%2Fhealth-and-social-care%2Fpublic-health&rating=Good&title=Public+health",
-    "http://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Ffamilies-invited-launch-walsalls-family-hubs-programme&rating=Ok&title=Families+invited+to+the+launch+of+the+Walsall%E2%80%99s+family+hubs+programme",
-    "https://go.walsall.gov.uk/feedback?page=%2Fyour-council%2Fconsultations%2Fpast-consultations&rating=Ok&title=Past+consultations",
-    "http://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fperformers-and-activities-announced-walsall-makerfest-2026&rating=Good&title=Performers+and+activities+announced+for+Walsall+MakerFest+2026"
+    "https://go.walsall.gov.uk/feedback?page=%2Fhealth-and-social-care%2Fpublic-health&rating=Good&title=Public+health"
    ]
   },
   "VS-3f76c7ea": {
@@ -396,7 +396,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 551,
+   "lastPagesAffected": 575,
    "lastAffectedPages": [
     "http://go.walsall.gov.uk/events/saturday-storytime-6",
     "https://go.walsall.gov.uk/events/stitchers-and-skivers-adult-craft-group-afternoon-5",
@@ -437,7 +437,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 1100,
+   "lastPagesAffected": 1149,
    "lastAffectedPages": [
     "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
     "http://go.walsall.gov.uk/events/saturday-storytime-6",
@@ -478,7 +478,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 551,
+   "lastPagesAffected": 575,
    "lastAffectedPages": [
     "http://go.walsall.gov.uk/events/saturday-storytime-6",
     "https://go.walsall.gov.uk/events/stitchers-and-skivers-adult-craft-group-afternoon-5",
@@ -519,7 +519,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 551,
+   "lastPagesAffected": 575,
    "lastAffectedPages": [
     "http://go.walsall.gov.uk/events/saturday-storytime-6",
     "https://go.walsall.gov.uk/events/stitchers-and-skivers-adult-craft-group-afternoon-5",
@@ -560,7 +560,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 551,
+   "lastPagesAffected": 575,
    "lastAffectedPages": [
     "http://go.walsall.gov.uk/events/saturday-storytime-6",
     "https://go.walsall.gov.uk/events/stitchers-and-skivers-adult-craft-group-afternoon-5",
@@ -601,7 +601,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 551,
+   "lastPagesAffected": 575,
    "lastAffectedPages": [
     "http://go.walsall.gov.uk/events/saturday-storytime-6",
     "https://go.walsall.gov.uk/events/stitchers-and-skivers-adult-craft-group-afternoon-5",
@@ -642,7 +642,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 551,
+   "lastPagesAffected": 575,
    "lastAffectedPages": [
     "http://go.walsall.gov.uk/events/saturday-storytime-6",
     "https://go.walsall.gov.uk/events/stitchers-and-skivers-adult-craft-group-afternoon-5",
@@ -683,7 +683,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 1100,
+   "lastPagesAffected": 1149,
    "lastAffectedPages": [
     "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
     "http://go.walsall.gov.uk/events/saturday-storytime-6",
@@ -724,7 +724,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 1100,
+   "lastPagesAffected": 1149,
    "lastAffectedPages": [
     "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
     "http://go.walsall.gov.uk/events/saturday-storytime-6",
@@ -765,7 +765,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 551,
+   "lastPagesAffected": 575,
    "lastAffectedPages": [
     "http://go.walsall.gov.uk/events/saturday-storytime-6",
     "https://go.walsall.gov.uk/events/stitchers-and-skivers-adult-craft-group-afternoon-5",
@@ -806,7 +806,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 551,
+   "lastPagesAffected": 575,
    "lastAffectedPages": [
     "http://go.walsall.gov.uk/events/saturday-storytime-6",
     "https://go.walsall.gov.uk/events/stitchers-and-skivers-adult-craft-group-afternoon-5",
@@ -847,7 +847,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 551,
+   "lastPagesAffected": 575,
    "lastAffectedPages": [
     "http://go.walsall.gov.uk/events/saturday-storytime-6",
     "https://go.walsall.gov.uk/events/stitchers-and-skivers-adult-craft-group-afternoon-5",
@@ -888,7 +888,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 138,
+   "lastPagesAffected": 147,
    "lastAffectedPages": [
     "http://go.walsall.gov.uk/newsroom/whats-walsall-april-2026",
     "https://go.walsall.gov.uk/feedback?page=%2Fpeople-and-communities%2Fwalsall-connected-get-help-get-online&rating=Poor&title=Walsall+Connected+-+get+help+to+get+online",
@@ -907,14 +907,14 @@
     "https://go.walsall.gov.uk/newsroom/walsalls-new-ps32m-recycling-and-waste-facility-delivers-lasting-social-value",
     "http://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fquit-smoking-winter-free-local-support-walsall&rating=Ok&title=Quit+smoking+this+winter+with+free+local+support+in+Walsall",
     "http://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fnight-time-works-planned-yorks-bridge-project&rating=Good&title=Night-time+works+planned+for+York%E2%80%99s+Bridge+project",
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fdigital-skills-boost-womens-organisation-walsall-thanks-donation-scheme&rating=Good&title=Digital+skills+boost+for+women%E2%80%99s+organisation+in+Walsall+thanks+to+donation+scheme",
     "http://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-council-celebrate-bonfire-night-bucket-collection-acorns-childrens-hospice&rating=Good&title=Walsall+Council+to+celebrate+Bonfire+Night+with+bucket+collection+for+Acorns+Children%E2%80%99s+Hospice",
     "http://go.walsall.gov.uk/newsroom/ofsted-rates-walsall-primary-school-part-englands-largest-federation-outstanding",
     "http://go.walsall.gov.uk/newsroom/walsalls-creative-spirit-shines-through-public-art-workshops-and-community-events",
     "http://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-convenience-store-fined-after-selling-alcohol-16-year-old&rating=Poor&title=Walsall+convenience+store+fined+after+selling+alcohol+to+16-year-old++",
     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fnearly-one-million-illegal-cigarettes-seized-walsalls-largest-ever-tobacco-find&rating=Ok&title=Nearly+one+million+illegal+cigarettes+seized+in+Walsall%E2%80%99s+largest+ever+tobacco+find+",
     "http://go.walsall.gov.uk/newsroom/prize-winners-artwork-now-display",
-    "https://go.walsall.gov.uk/feedback?page=%2Fpeople-and-communities%2Fcommunity-standards-and-strategies%2Fwalsall-net-zero-2041-strategy&rating=Ok&title=Walsall+net+zero+2041+strategy",
-    "https://go.walsall.gov.uk/feedback?page=%2Froads-parking-and-travel%2Froadworks-and-road-maintenance%2Fget-a-dropped-kerb-for-your-home%2Fask-for-dropped-kerb-parking-enforcement&rating=Poor&title=Ask+for+dropped+kerb+parking+enforcement"
+    "https://go.walsall.gov.uk/feedback?page=%2Fpeople-and-communities%2Fcommunity-standards-and-strategies%2Fwalsall-net-zero-2041-strategy&rating=Ok&title=Walsall+net+zero+2041+strategy"
    ]
   },
   "VS-d25f622d": {
@@ -929,7 +929,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 41,
+   "lastPagesAffected": 43,
    "lastAffectedPages": [
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=service_type%3A357",
     "http://go.walsall.gov.uk/newsroom/small-grants-help-communities-celebrate-coronation-now-open",
@@ -942,8 +942,10 @@
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A36&f%5B2%5D=service_type%3A352",
     "http://go.walsall.gov.uk/children-and-young-people/family-help/health-and-wellbeing-your-family",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=service_type%3A351",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=service_type%3A356",
     "http://go.walsall.gov.uk/business/business-rates",
+    "https://go.walsall.gov.uk/newsroom/when-three-lions-play-he-strikes",
     "http://go.walsall.gov.uk/newsroom/whats-walsall-november-2025",
     "http://go.walsall.gov.uk/people-and-communities/policing-and-public-safety/neighbourhood-nuisance-and-anti-social-behaviour",
     "http://go.walsall.gov.uk/newsroom/programme-arrangements-remembrance-day-2026",
@@ -953,9 +955,7 @@
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=service_type%3A356",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=service_type%3A352",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=service_type%3A354",
-    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=service_type%3A356&page=1",
-    "https://go.walsall.gov.uk/benefits/help-cost-living",
-    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=service_type%3A354&page=7"
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=service_type%3A356&page=1"
    ]
   },
   "VS-7118fead": {
@@ -970,7 +970,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 41,
+   "lastPagesAffected": 42,
    "lastAffectedPages": [
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=service_type%3A357",
     "https://go.walsall.gov.uk/your-council/comments-compliments-and-complaints/complaints/do-you-want-report-problem",
@@ -982,6 +982,7 @@
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A32&f%5B2%5D=localgov_directories_facets%3A36&f%5B3%5D=service_type%3A352",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=service_type%3A351",
     "https://go.walsall.gov.uk/walsall-libraries/lichfield-street-hub/walsall-archives-services/research-resources/streetly-0",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336",
     "https://go.walsall.gov.uk/walsall-libraries/lichfield-street-hub/walsall-archives-services/church-records/rushall-churches",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=service_type%3A356",
     "http://go.walsall.gov.uk/apply/make-complaint/make-complaint-about-childrens-social-care",
@@ -995,8 +996,7 @@
     "https://go.walsall.gov.uk/benefits/crisis-and-resilience-fund-crf/apply-housing-payment",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=service_type%3A356&page=1",
     "http://go.walsall.gov.uk/walsall-libraries/lichfield-street-hub/walsall-archives-services/research-resources/pelsall",
-    "https://go.walsall.gov.uk/walsall-libraries/lichfield-street-hub/walsall-archives-services/church-records/norton-canes",
-    "https://go.walsall.gov.uk/walsall-libraries/resources/get-support-use-nhs-app-or-nhs-account"
+    "https://go.walsall.gov.uk/walsall-libraries/lichfield-street-hub/walsall-archives-services/church-records/norton-canes"
    ]
   },
   "VS-f054f4a4": {
@@ -1011,14 +1011,16 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 20,
+   "lastPagesAffected": 22,
    "lastAffectedPages": [
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=service_type%3A357",
     "http://go.walsall.gov.uk/newsroom/whats-walsall-december-2025",
     "http://go.walsall.gov.uk/business/regeneration-and-investment/regenerating-walsall-town-centre/guildhall-creative-industries",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A32&f%5B2%5D=localgov_directories_facets%3A36&f%5B3%5D=service_type%3A352",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=service_type%3A351",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=service_type%3A356",
+    "https://go.walsall.gov.uk/newsroom/when-three-lions-play-he-strikes",
     "http://go.walsall.gov.uk/newsroom/whats-walsall-november-2025",
     "http://go.walsall.gov.uk/people-and-communities/policing-and-public-safety/neighbourhood-nuisance-and-anti-social-behaviour",
     "https://go.walsall.gov.uk/your-council/consultations",
