@@ -1,6 +1,6 @@
 {
  "domain": "www.luton.gov.uk",
- "updatedAt": "2026-10-30T07:31:54.451Z",
+ "updatedAt": "2026-10-30T07:51:12.660Z",
  "findings": {
   "VS-a0bdbdf6": {
    "engine": "axe-core",
@@ -48,7 +48,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 270,
+   "lastPagesAffected": 294,
    "lastAffectedPages": [
     "https://www.luton.gov.uk/health-social-care/health/public-health/macmillan-luton-cancer-community-engagement-approach/behind-screen-breast-cancer-screening-project",
     "https://www.luton.gov.uk/business-licences-permits/licences-permits/business-licences/apply-approval-premises-civil-marriages-civil-partnerships",
@@ -61,6 +61,7 @@
     "https://www.luton.gov.uk/schools-education/schools-colleges/support-information-schools/standing-advisory-council-religious-education-sacre/sacre-guidance-determinations-collective-worship",
     "https://www.luton.gov.uk/news/2025/council-makes-important-strides-workforce-diversity",
     "https://www.luton.gov.uk/news/2025/find-your-next-step-our-job-fair",
+    "https://www.luton.gov.uk/council-elections/strategies-policies-plans/fire-safety-building-safety-policy",
     "https://www.luton.gov.uk/business-licences-permits/licences-permits/business-licences/apply-house-house-collection-licence",
     "https://www.luton.gov.uk/schools-education/schools-colleges/curriculum-guidance/relationships-education/further-guidance-primary-relationships-health-education-rhe",
     "https://www.luton.gov.uk/community-environment/regeneration/community-venue-spaces-improvement-fund",
@@ -73,8 +74,7 @@
     "https://www.luton.gov.uk/news/2025/luton-council-furious-vauxhall-closure-confirmation",
     "https://www.luton.gov.uk/schools-education/schools-colleges/curriculum-guidance/relationships-education",
     "https://www.luton.gov.uk/schools-education/virtual-school-children-care/about-lutons-virtual-school/contact-lutons-virtual-school",
-    "https://www.luton.gov.uk/benefits-financial-help/manage-or-make-change-your-benefits/report-change-impacts-your-benefits/report-benefit-change",
-    "https://www.luton.gov.uk/news/2025/luton-host-series-events-international-womens-day-2025"
+    "https://www.luton.gov.uk/births-deaths-marriages-ceremonies/births/step-by-step/register-birth-step-step/book-or-change-appointment-register-birth"
    ]
   },
   "VS-e9fe47ac": {
@@ -124,11 +124,12 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 11,
+   "lastPagesAffected": 12,
    "lastAffectedPages": [
     "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/warden-hill-infant-school",
     "https://www.luton.gov.uk/bins-waste-recycling/reducing-recycling-waste/tidy-tips-local-recycling-points/find-tidy-tip-or-local-recycling-point/eaton-green-road-tidy-tip",
     "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/st-josephs-catholic-primary-school",
+    "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/denbigh-high-school",
     "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/linden-academy",
     "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/downside-primary-school",
     "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/denbigh-primary-school",
@@ -151,13 +152,15 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 70,
+   "lastPagesAffected": 78,
    "lastAffectedPages": [
+    "https://www.luton.gov.uk/news/2025/medieval-action-adventure-returns-st-georges-day-celebrations",
     "https://www.luton.gov.uk/news/2025/council-makes-important-strides-workforce-diversity",
     "https://www.luton.gov.uk/news/2025/find-your-next-step-our-job-fair",
     "https://www.luton.gov.uk/news/2026/groundbreaking-ceremony-marks-start-stage-construction",
     "https://www.luton.gov.uk/news/2025/luton-council-teams-football-club-provide-new-public-car-parking-facilities-bury-park",
     "https://www.luton.gov.uk/news/2025/luton-council-furious-vauxhall-closure-confirmation",
+    "https://www.luton.gov.uk/news/2026/bury-park-traffic-improvements-trial-go-ahead",
     "https://www.luton.gov.uk/news/2025/luton-host-series-events-international-womens-day-2025",
     "https://www.luton.gov.uk/news/2026/statement-cllr-amjid-ali-leader-luton-council-response-comments-about-luton-its-communities",
     "https://www.luton.gov.uk/news/2026/bury-park-traffic-safety-improvements-move-forward",
@@ -175,9 +178,7 @@
     "https://www.luton.gov.uk/news/2025/luton-trading-standards-continues-crackdown-illegal-cigarettes-vapes",
     "https://www.luton.gov.uk/news/2026/luton-trading-standards-warns-residents-about-unsafe-cosmetic-products",
     "https://www.luton.gov.uk/news/2025/luton-host-series-events-disability-celebration-month",
-    "https://www.luton.gov.uk/news/2025/council-issues-travel-advice-ahead-busy-eid-celebrations",
-    "https://www.luton.gov.uk/news/2026/outdoor-live-music-event-returns-luton-town-centre-month",
-    "https://www.luton.gov.uk/news/2026/evolution-fund-bring-lutons-creative-projects-life"
+    "https://www.luton.gov.uk/news/2025/council-issues-travel-advice-ahead-busy-eid-celebrations"
    ]
   },
   "VS-f7e99f4b": {
@@ -192,7 +193,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 29,
+   "lastPagesAffected": 31,
    "lastAffectedPages": [
     "https://www.luton.gov.uk/news/2025/council-makes-important-strides-workforce-diversity",
     "https://www.luton.gov.uk/news/2025/find-your-next-step-our-job-fair",
@@ -206,19 +207,19 @@
     "https://www.luton.gov.uk/news/2025/covid-19-day-reflection",
     "https://www.luton.gov.uk/news/2025/employability-day-helping-young-people-choose-pathways-success",
     "https://www.luton.gov.uk/news/2026/luton-trading-standards-warns-residents-about-unsafe-cosmetic-products",
+    "https://www.luton.gov.uk/news/2026/vauxhalls-legacy-luton-be-celebrated-new-exhibition",
     "https://www.luton.gov.uk/news/2026/six-local-projects-awarded-funding-help-create-greener-luton",
     "https://www.luton.gov.uk/news/2025/apprentices-luton-celebrated-awards-ceremony",
     "https://www.luton.gov.uk/news/2025/neighbourhood-policing-strengthened-bedfordshire",
     "https://www.luton.gov.uk/news/2025/luton-announces-year-celebration-150th-anniversary-borough-status",
     "https://www.luton.gov.uk/news/2026/applications-open-pride-place-neighbourhood-board-central-luton",
+    "https://www.luton.gov.uk/news/2025/denbigh-primary-schools-rooftop-garden-blooms-thanks-greener-future-funding",
     "https://www.luton.gov.uk/news/2025/car-trader-sentenced-selling-cars-without-disclosing-safety-recalls",
     "https://www.luton.gov.uk/news/2026/heritage-open-days-returns-luton-september-its-all-free",
     "https://www.luton.gov.uk/news/2025/household-support-fund-luton-residents-urged-check-if-theyre-eligible-help-cost-essentials",
     "https://www.luton.gov.uk/news/2026/community-comes-together-celebrate-new-wigmore-valley-park-facilities",
     "https://www.luton.gov.uk/news/2025/new-mental-health-support-benches-installed-local-parks",
-    "https://www.luton.gov.uk/news/2025/free-family-events-programme-kicks-next-week-luton-town-centre",
-    "https://www.luton.gov.uk/news/2025/community-statement-manchester-synagogue-attack",
-    "https://www.luton.gov.uk/news/2026/remembrance-events-taking-place-luton"
+    "https://www.luton.gov.uk/news/2025/free-family-events-programme-kicks-next-week-luton-town-centre"
    ]
   },
   "VS-646b1e0b": {
@@ -233,7 +234,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 226,
+   "lastPagesAffected": 247,
    "lastAffectedPages": [
     "https://www.luton.gov.uk/health-social-care/health/public-health/macmillan-luton-cancer-community-engagement-approach/behind-screen-breast-cancer-screening-project",
     "https://www.luton.gov.uk/business-licences-permits/licences-permits/business-licences/apply-approval-premises-civil-marriages-civil-partnerships",
@@ -255,11 +256,11 @@
     "https://www.luton.gov.uk/news/2025/luton-council-furious-vauxhall-closure-confirmation",
     "https://www.luton.gov.uk/schools-education/schools-colleges/curriculum-guidance/relationships-education",
     "https://www.luton.gov.uk/schools-education/virtual-school-children-care/about-lutons-virtual-school/contact-lutons-virtual-school",
+    "https://www.luton.gov.uk/births-deaths-marriages-ceremonies/births/step-by-step/register-birth-step-step/book-or-change-appointment-register-birth",
     "https://www.luton.gov.uk/benefits-financial-help/manage-or-make-change-your-benefits/report-change-impacts-your-benefits/report-benefit-change",
     "https://www.luton.gov.uk/news/2025/luton-host-series-events-international-womens-day-2025",
     "https://www.luton.gov.uk/planning-building-control/building-control/dutyholders/background-what-has-changed",
-    "https://www.luton.gov.uk/health-social-care/health/public-health/adult-wellbeing/menopause",
-    "https://www.luton.gov.uk/council-elections/strategies-policies-plans/net-zero-climate-policy-action-plan"
+    "https://www.luton.gov.uk/health-social-care/health/public-health/adult-wellbeing/menopause"
    ]
   },
   "VS-2208081b": {
@@ -274,7 +275,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 270,
+   "lastPagesAffected": 294,
    "lastAffectedPages": [
     "https://www.luton.gov.uk/health-social-care/health/public-health/macmillan-luton-cancer-community-engagement-approach/behind-screen-breast-cancer-screening-project",
     "https://www.luton.gov.uk/business-licences-permits/licences-permits/business-licences/apply-approval-premises-civil-marriages-civil-partnerships",
@@ -287,6 +288,7 @@
     "https://www.luton.gov.uk/schools-education/schools-colleges/support-information-schools/standing-advisory-council-religious-education-sacre/sacre-guidance-determinations-collective-worship",
     "https://www.luton.gov.uk/news/2025/council-makes-important-strides-workforce-diversity",
     "https://www.luton.gov.uk/news/2025/find-your-next-step-our-job-fair",
+    "https://www.luton.gov.uk/council-elections/strategies-policies-plans/fire-safety-building-safety-policy",
     "https://www.luton.gov.uk/business-licences-permits/licences-permits/business-licences/apply-house-house-collection-licence",
     "https://www.luton.gov.uk/schools-education/schools-colleges/curriculum-guidance/relationships-education/further-guidance-primary-relationships-health-education-rhe",
     "https://www.luton.gov.uk/community-environment/regeneration/community-venue-spaces-improvement-fund",
@@ -299,8 +301,7 @@
     "https://www.luton.gov.uk/news/2025/luton-council-furious-vauxhall-closure-confirmation",
     "https://www.luton.gov.uk/schools-education/schools-colleges/curriculum-guidance/relationships-education",
     "https://www.luton.gov.uk/schools-education/virtual-school-children-care/about-lutons-virtual-school/contact-lutons-virtual-school",
-    "https://www.luton.gov.uk/benefits-financial-help/manage-or-make-change-your-benefits/report-change-impacts-your-benefits/report-benefit-change",
-    "https://www.luton.gov.uk/news/2025/luton-host-series-events-international-womens-day-2025"
+    "https://www.luton.gov.uk/births-deaths-marriages-ceremonies/births/step-by-step/register-birth-step-step/book-or-change-appointment-register-birth"
    ]
   },
   "VS-cb53cc4d": {
@@ -315,7 +316,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 270,
+   "lastPagesAffected": 294,
    "lastAffectedPages": [
     "https://www.luton.gov.uk/health-social-care/health/public-health/macmillan-luton-cancer-community-engagement-approach/behind-screen-breast-cancer-screening-project",
     "https://www.luton.gov.uk/business-licences-permits/licences-permits/business-licences/apply-approval-premises-civil-marriages-civil-partnerships",
@@ -328,6 +329,7 @@
     "https://www.luton.gov.uk/schools-education/schools-colleges/support-information-schools/standing-advisory-council-religious-education-sacre/sacre-guidance-determinations-collective-worship",
     "https://www.luton.gov.uk/news/2025/council-makes-important-strides-workforce-diversity",
     "https://www.luton.gov.uk/news/2025/find-your-next-step-our-job-fair",
+    "https://www.luton.gov.uk/council-elections/strategies-policies-plans/fire-safety-building-safety-policy",
     "https://www.luton.gov.uk/business-licences-permits/licences-permits/business-licences/apply-house-house-collection-licence",
     "https://www.luton.gov.uk/schools-education/schools-colleges/curriculum-guidance/relationships-education/further-guidance-primary-relationships-health-education-rhe",
     "https://www.luton.gov.uk/community-environment/regeneration/community-venue-spaces-improvement-fund",
@@ -340,8 +342,7 @@
     "https://www.luton.gov.uk/news/2025/luton-council-furious-vauxhall-closure-confirmation",
     "https://www.luton.gov.uk/schools-education/schools-colleges/curriculum-guidance/relationships-education",
     "https://www.luton.gov.uk/schools-education/virtual-school-children-care/about-lutons-virtual-school/contact-lutons-virtual-school",
-    "https://www.luton.gov.uk/benefits-financial-help/manage-or-make-change-your-benefits/report-change-impacts-your-benefits/report-benefit-change",
-    "https://www.luton.gov.uk/news/2025/luton-host-series-events-international-womens-day-2025"
+    "https://www.luton.gov.uk/births-deaths-marriages-ceremonies/births/step-by-step/register-birth-step-step/book-or-change-appointment-register-birth"
    ]
   },
   "VS-f18df681": {
@@ -356,11 +357,12 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 598,
+   "lastPagesAffected": 648,
    "lastAffectedPages": [
     "https://www.luton.gov.uk/planning-building-control/building-control/small-builders-contractors",
     "https://www.luton.gov.uk/bins-waste-recycling/bin-collections/what-put-your-food-waste-bin",
     "https://www.luton.gov.uk/health-social-care/health/public-health/macmillan-luton-cancer-community-engagement-approach/behind-screen-breast-cancer-screening-project",
+    "https://www.luton.gov.uk/benefits-financial-help/housing-benefit/make-claim-housing-benefit/if-you-live-specified-accommodation",
     "https://www.luton.gov.uk/business-licences-permits/licences-permits/business-licences/apply-approval-premises-civil-marriages-civil-partnerships",
     "https://www.luton.gov.uk/council-elections/strategies-policies-plans/community-safety-partnership-plan",
     "https://www.luton.gov.uk/business-licences-permits/licences-permits/business-licences/apply-street-collection-licence",
@@ -370,19 +372,18 @@
     "https://www.luton.gov.uk/planning-building-control/building-control/building-control-advice/new-housing-flats",
     "https://www.luton.gov.uk/council-elections/strategies-policies-plans/financial-strategic-plan",
     "https://www.luton.gov.uk/schools-education/schools-colleges/support-information-schools/standing-advisory-council-religious-education-sacre/sacre-guidance-determinations-collective-worship",
+    "https://www.luton.gov.uk/news/2025/medieval-action-adventure-returns-st-georges-day-celebrations",
     "https://www.luton.gov.uk/news/2025/council-makes-important-strides-workforce-diversity",
     "https://www.luton.gov.uk/community-environment/crime-community-safety/antisocial-behaviour/overhanging-tree-and-hedges",
     "https://www.luton.gov.uk/news/2025/find-your-next-step-our-job-fair",
+    "https://www.luton.gov.uk/council-elections/strategies-policies-plans/fire-safety-building-safety-policy",
     "https://www.luton.gov.uk/council-elections/strategies-policies-plans/bus-service-improvement-plan",
     "https://www.luton.gov.uk/business-licences-permits/licences-permits/business-licences/apply-house-house-collection-licence",
     "https://www.luton.gov.uk/housing/council-tenants/council-housing-maintenance-safety/fire-safety-high-rise-residential-buildings/electrical-safety-high-rise-buildings",
     "https://www.luton.gov.uk/schools-education/schools-colleges/curriculum-guidance/relationships-education/further-guidance-primary-relationships-health-education-rhe",
     "https://www.luton.gov.uk/health-social-care/adult-social-care/paying-your-care/ways-pay-care-support",
     "https://www.luton.gov.uk/community-environment/regeneration/community-venue-spaces-improvement-fund",
-    "https://www.luton.gov.uk/benefits-financial-help/manage-or-make-change-your-benefits/report-change-impacts-your-benefits/after-you-have-reported-benefit-change",
-    "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order/tree-preservation-order-tpo-e107165",
-    "https://www.luton.gov.uk/news/2026/groundbreaking-ceremony-marks-start-stage-construction",
-    "https://www.luton.gov.uk/schools-education/early-years-education-childcare/childcare/childcare-luton"
+    "https://www.luton.gov.uk/benefits-financial-help/manage-or-make-change-your-benefits/report-change-impacts-your-benefits/after-you-have-reported-benefit-change"
    ]
   },
   "VS-7118fead": {
@@ -397,7 +398,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 270,
+   "lastPagesAffected": 294,
    "lastAffectedPages": [
     "https://www.luton.gov.uk/health-social-care/health/public-health/macmillan-luton-cancer-community-engagement-approach/behind-screen-breast-cancer-screening-project",
     "https://www.luton.gov.uk/business-licences-permits/licences-permits/business-licences/apply-approval-premises-civil-marriages-civil-partnerships",
@@ -410,6 +411,7 @@
     "https://www.luton.gov.uk/schools-education/schools-colleges/support-information-schools/standing-advisory-council-religious-education-sacre/sacre-guidance-determinations-collective-worship",
     "https://www.luton.gov.uk/news/2025/council-makes-important-strides-workforce-diversity",
     "https://www.luton.gov.uk/news/2025/find-your-next-step-our-job-fair",
+    "https://www.luton.gov.uk/council-elections/strategies-policies-plans/fire-safety-building-safety-policy",
     "https://www.luton.gov.uk/business-licences-permits/licences-permits/business-licences/apply-house-house-collection-licence",
     "https://www.luton.gov.uk/schools-education/schools-colleges/curriculum-guidance/relationships-education/further-guidance-primary-relationships-health-education-rhe",
     "https://www.luton.gov.uk/community-environment/regeneration/community-venue-spaces-improvement-fund",
@@ -422,8 +424,7 @@
     "https://www.luton.gov.uk/news/2025/luton-council-furious-vauxhall-closure-confirmation",
     "https://www.luton.gov.uk/schools-education/schools-colleges/curriculum-guidance/relationships-education",
     "https://www.luton.gov.uk/schools-education/virtual-school-children-care/about-lutons-virtual-school/contact-lutons-virtual-school",
-    "https://www.luton.gov.uk/benefits-financial-help/manage-or-make-change-your-benefits/report-change-impacts-your-benefits/report-benefit-change",
-    "https://www.luton.gov.uk/news/2025/luton-host-series-events-international-womens-day-2025"
+    "https://www.luton.gov.uk/births-deaths-marriages-ceremonies/births/step-by-step/register-birth-step-step/book-or-change-appointment-register-birth"
    ]
   },
   "VS-c18be945": {
@@ -438,7 +439,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 270,
+   "lastPagesAffected": 294,
    "lastAffectedPages": [
     "https://www.luton.gov.uk/health-social-care/health/public-health/macmillan-luton-cancer-community-engagement-approach/behind-screen-breast-cancer-screening-project",
     "https://www.luton.gov.uk/business-licences-permits/licences-permits/business-licences/apply-approval-premises-civil-marriages-civil-partnerships",
@@ -451,6 +452,7 @@
     "https://www.luton.gov.uk/schools-education/schools-colleges/support-information-schools/standing-advisory-council-religious-education-sacre/sacre-guidance-determinations-collective-worship",
     "https://www.luton.gov.uk/news/2025/council-makes-important-strides-workforce-diversity",
     "https://www.luton.gov.uk/news/2025/find-your-next-step-our-job-fair",
+    "https://www.luton.gov.uk/council-elections/strategies-policies-plans/fire-safety-building-safety-policy",
     "https://www.luton.gov.uk/business-licences-permits/licences-permits/business-licences/apply-house-house-collection-licence",
     "https://www.luton.gov.uk/schools-education/schools-colleges/curriculum-guidance/relationships-education/further-guidance-primary-relationships-health-education-rhe",
     "https://www.luton.gov.uk/community-environment/regeneration/community-venue-spaces-improvement-fund",
@@ -463,8 +465,7 @@
     "https://www.luton.gov.uk/news/2025/luton-council-furious-vauxhall-closure-confirmation",
     "https://www.luton.gov.uk/schools-education/schools-colleges/curriculum-guidance/relationships-education",
     "https://www.luton.gov.uk/schools-education/virtual-school-children-care/about-lutons-virtual-school/contact-lutons-virtual-school",
-    "https://www.luton.gov.uk/benefits-financial-help/manage-or-make-change-your-benefits/report-change-impacts-your-benefits/report-benefit-change",
-    "https://www.luton.gov.uk/news/2025/luton-host-series-events-international-womens-day-2025"
+    "https://www.luton.gov.uk/births-deaths-marriages-ceremonies/births/step-by-step/register-birth-step-step/book-or-change-appointment-register-birth"
    ]
   },
   "VS-aa242c2d": {
@@ -479,7 +480,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 270,
+   "lastPagesAffected": 294,
    "lastAffectedPages": [
     "https://www.luton.gov.uk/health-social-care/health/public-health/macmillan-luton-cancer-community-engagement-approach/behind-screen-breast-cancer-screening-project",
     "https://www.luton.gov.uk/business-licences-permits/licences-permits/business-licences/apply-approval-premises-civil-marriages-civil-partnerships",
@@ -492,6 +493,7 @@
     "https://www.luton.gov.uk/schools-education/schools-colleges/support-information-schools/standing-advisory-council-religious-education-sacre/sacre-guidance-determinations-collective-worship",
     "https://www.luton.gov.uk/news/2025/council-makes-important-strides-workforce-diversity",
     "https://www.luton.gov.uk/news/2025/find-your-next-step-our-job-fair",
+    "https://www.luton.gov.uk/council-elections/strategies-policies-plans/fire-safety-building-safety-policy",
     "https://www.luton.gov.uk/business-licences-permits/licences-permits/business-licences/apply-house-house-collection-licence",
     "https://www.luton.gov.uk/schools-education/schools-colleges/curriculum-guidance/relationships-education/further-guidance-primary-relationships-health-education-rhe",
     "https://www.luton.gov.uk/community-environment/regeneration/community-venue-spaces-improvement-fund",
@@ -504,8 +506,7 @@
     "https://www.luton.gov.uk/news/2025/luton-council-furious-vauxhall-closure-confirmation",
     "https://www.luton.gov.uk/schools-education/schools-colleges/curriculum-guidance/relationships-education",
     "https://www.luton.gov.uk/schools-education/virtual-school-children-care/about-lutons-virtual-school/contact-lutons-virtual-school",
-    "https://www.luton.gov.uk/benefits-financial-help/manage-or-make-change-your-benefits/report-change-impacts-your-benefits/report-benefit-change",
-    "https://www.luton.gov.uk/news/2025/luton-host-series-events-international-womens-day-2025"
+    "https://www.luton.gov.uk/births-deaths-marriages-ceremonies/births/step-by-step/register-birth-step-step/book-or-change-appointment-register-birth"
    ]
   },
   "VS-d25f622d": {
@@ -520,13 +521,15 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 99,
+   "lastPagesAffected": 109,
    "lastAffectedPages": [
+    "https://www.luton.gov.uk/news/2025/medieval-action-adventure-returns-st-georges-day-celebrations",
     "https://www.luton.gov.uk/news/2025/council-makes-important-strides-workforce-diversity",
     "https://www.luton.gov.uk/news/2025/find-your-next-step-our-job-fair",
     "https://www.luton.gov.uk/news/2026/groundbreaking-ceremony-marks-start-stage-construction",
     "https://www.luton.gov.uk/news/2025/luton-council-teams-football-club-provide-new-public-car-parking-facilities-bury-park",
     "https://www.luton.gov.uk/news/2025/luton-council-furious-vauxhall-closure-confirmation",
+    "https://www.luton.gov.uk/news/2026/bury-park-traffic-improvements-trial-go-ahead",
     "https://www.luton.gov.uk/news/2025/luton-host-series-events-international-womens-day-2025",
     "https://www.luton.gov.uk/news/2026/statement-cllr-amjid-ali-leader-luton-council-response-comments-about-luton-its-communities",
     "https://www.luton.gov.uk/health-social-care/adult-social-care/paying-your-care/paying-adult-social-care",
@@ -544,9 +547,7 @@
     "https://www.luton.gov.uk/news/2025/multiple-operations-lead-seizure-illegal-cigarettes-vapes",
     "https://www.luton.gov.uk/news/2025/employability-day-helping-young-people-choose-pathways-success",
     "https://www.luton.gov.uk/news/2025/get-set-lutons-enterprise-week",
-    "https://www.luton.gov.uk/news/2025/luton-trading-standards-continues-crackdown-illegal-cigarettes-vapes",
-    "https://www.luton.gov.uk/council-elections/elections-voting/election-results/local-election-results/local-election-results-2011/biscot",
-    "https://www.luton.gov.uk/news/2026/luton-trading-standards-warns-residents-about-unsafe-cosmetic-products"
+    "https://www.luton.gov.uk/news/2025/luton-trading-standards-continues-crackdown-illegal-cigarettes-vapes"
    ]
   },
   "VS-f054f4a4": {
@@ -561,7 +562,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 39,
+   "lastPagesAffected": 41,
    "lastAffectedPages": [
     "https://www.luton.gov.uk/news/2025/council-makes-important-strides-workforce-diversity",
     "https://www.luton.gov.uk/news/2025/find-your-next-step-our-job-fair",
@@ -575,6 +576,7 @@
     "https://www.luton.gov.uk/news/2025/covid-19-day-reflection",
     "https://www.luton.gov.uk/news/2025/employability-day-helping-young-people-choose-pathways-success",
     "https://www.luton.gov.uk/news/2026/luton-trading-standards-warns-residents-about-unsafe-cosmetic-products",
+    "https://www.luton.gov.uk/news/2026/vauxhalls-legacy-luton-be-celebrated-new-exhibition",
     "https://www.luton.gov.uk/news/2026/six-local-projects-awarded-funding-help-create-greener-luton",
     "https://www.luton.gov.uk/news/2025/apprentices-luton-celebrated-awards-ceremony",
     "https://www.luton.gov.uk/news/2025/neighbourhood-policing-strengthened-bedfordshire",
@@ -584,10 +586,9 @@
     "https://www.luton.gov.uk/council-elections/elections-voting/election-results/local-election-results/local-election-results-2011/high-town",
     "https://www.luton.gov.uk/council-elections/elections-voting/election-results/local-election-results/local-election-results-2023/wigmore",
     "https://www.luton.gov.uk/council-elections/elections-voting/election-results/local-election-results/local-election-results-2011/bramingham",
+    "https://www.luton.gov.uk/news/2025/denbigh-primary-schools-rooftop-garden-blooms-thanks-greener-future-funding",
     "https://www.luton.gov.uk/council-elections/elections-voting/election-results/local-election-results/local-election-results-2015/limbury",
-    "https://www.luton.gov.uk/news/2025/car-trader-sentenced-selling-cars-without-disclosing-safety-recalls",
-    "https://www.luton.gov.uk/news/2026/heritage-open-days-returns-luton-september-its-all-free",
-    "https://www.luton.gov.uk/news/2025/household-support-fund-luton-residents-urged-check-if-theyre-eligible-help-cost-essentials"
+    "https://www.luton.gov.uk/news/2025/car-trader-sentenced-selling-cars-without-disclosing-safety-recalls"
    ]
   },
   "VS-2cd767ca": {
@@ -626,7 +627,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 28,
+   "lastPagesAffected": 29,
    "lastAffectedPages": [
     "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/putteridge-high-school",
     "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/tennyson-road-primary-school-south-site",
@@ -635,6 +636,7 @@
     "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/warden-hill-infant-school",
     "https://www.luton.gov.uk/bins-waste-recycling/reducing-recycling-waste/tidy-tips-local-recycling-points/find-tidy-tip-or-local-recycling-point/eaton-green-road-tidy-tip",
     "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/st-josephs-catholic-primary-school",
+    "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/denbigh-high-school",
     "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/ferrars-academy",
     "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/linden-academy",
     "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/downside-primary-school",
@@ -651,8 +653,7 @@
     "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/dallow-primary-school",
     "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/someries-junior-school",
     "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/richmond-hill-school-east",
-    "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/william-austin-infant-school",
-    "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/st-margaret-scotland-catholic-primary"
+    "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/william-austin-infant-school"
    ]
   },
   "VS-096684ad": {
@@ -667,7 +668,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPagesAffected": 28,
+   "lastPagesAffected": 29,
    "lastAffectedPages": [
     "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/putteridge-high-school",
     "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/tennyson-road-primary-school-south-site",
@@ -676,6 +677,7 @@
     "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/warden-hill-infant-school",
     "https://www.luton.gov.uk/bins-waste-recycling/reducing-recycling-waste/tidy-tips-local-recycling-points/find-tidy-tip-or-local-recycling-point/eaton-green-road-tidy-tip",
     "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/st-josephs-catholic-primary-school",
+    "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/denbigh-high-school",
     "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/ferrars-academy",
     "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/linden-academy",
     "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/downside-primary-school",
@@ -692,8 +694,7 @@
     "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/dallow-primary-school",
     "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/someries-junior-school",
     "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/richmond-hill-school-east",
-    "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/william-austin-infant-school",
-    "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/st-margaret-scotland-catholic-primary"
+    "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/william-austin-infant-school"
    ]
   }
  }

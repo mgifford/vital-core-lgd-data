@@ -1,6 +1,6 @@
 {
  "domain": "www.hackney.gov.uk",
- "updatedAt": "2026-10-30T07:31:54.157Z",
+ "updatedAt": "2026-10-30T07:51:12.429Z",
  "resources": {
   "https://consentcdn.cookiebot.com/sdk/bc-v5.min.html": {
    "type": "iframe",
@@ -10,7 +10,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPages": 927,
+   "lastPages": 973,
    "lastExamplePages": [
     "https://hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/make-freedom-information-request",
     "https://hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/growing-hackney-child-friendly-places-supplementary-planning-document-spd",
@@ -415,6 +415,19 @@
     "https://hackney.gov.uk/community-safety-and-environment/domestic-abuse/domestic-abuse-support"
    ]
   },
+  "https://map2.hackney.gov.uk/maps/leisure/embed.html": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.hackney.gov.uk/libraries-parks-and-leisure/hackney-leisure-map"
+   ]
+  },
   "http://www.legislation.gov.uk/uksi/2016/105/pdfs/uksi_20160105_en.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
@@ -689,6 +702,19 @@
    "lastPages": 1,
    "lastExamplePages": [
     "https://hackney.gov.uk/births-deaths-marriages-and-citizenship/deaths/what-do-when-someone-dies-hackney"
+   ]
+  },
+  "https://www.youtube.com/embed/qRWwTTF7rjw": {
+   "type": "embedded-media",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.hackney.gov.uk/libraries-parks-and-leisure/exercise-and-sport/exercise-over-50s"
    ]
   },
   "https://consultation.hackney.gov.uk/parking-services/bluebadge/results/bluebadgeparkingreviewfinaldpr-september20191.pdf": {
@@ -1243,6 +1269,136 @@
     "https://hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/air-quality/air-quality-hackney"
    ]
   },
+  "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/3891/pdfmanforstreets.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/local-plan/superseded-planning-policies"
+   ]
+  },
+  "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/3695/inclusive-mobility.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/local-plan/superseded-planning-policies"
+   ]
+  },
+  "https://web-content-api.hackney.gov.uk/wp-content/uploads/DMLP-inspectors-examination-documents.zip": {
+   "type": "archive",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/local-plan/superseded-planning-policies"
+   ]
+  },
+  "https://web-content-api.hackney.gov.uk/wp-content/uploads/DMLP-councils-examination-documents.zip": {
+   "type": "archive",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/local-plan/superseded-planning-policies"
+   ]
+  },
+  "https://web-content-api.hackney.gov.uk/wp-content/uploads/DMLP-respondents-hearing-statements.zip": {
+   "type": "archive",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/local-plan/superseded-planning-policies"
+   ]
+  },
+  "https://web-content-api.hackney.gov.uk/wp-content/uploads/DMLP-councils-hearing-statement.zip": {
+   "type": "archive",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/local-plan/superseded-planning-policies"
+   ]
+  },
+  "https://web-content-api.hackney.gov.uk/wp-content/uploads/DMLP-previous-stages-key-documents-reg19.zip": {
+   "type": "archive",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/local-plan/superseded-planning-policies"
+   ]
+  },
+  "https://web-content-api.hackney.gov.uk/wp-content/uploads/DMLP-publication_version-supporting-docs-reg19.zip": {
+   "type": "archive",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/local-plan/superseded-planning-policies"
+   ]
+  },
+  "https://web-content-api.hackney.gov.uk/wp-content/uploads/DMLP-public-participation-stage-reg18.zip": {
+   "type": "archive",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/local-plan/superseded-planning-policies"
+   ]
+  },
+  "https://web-content-api.hackney.gov.uk/wp-content/uploads/DMLP-representations-to-public-participation-stage-reg18.zip": {
+   "type": "archive",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/local-plan/superseded-planning-policies"
+   ]
+  },
   "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/335723/ESG_AnnexA_reformatted.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
@@ -1321,6 +1477,19 @@
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/births-deaths-marriages-and-citizenship/deaths/bereavement-support"
+   ]
+  },
+  "https://map2.hackney.gov.uk/maps/bike-sharing/embed.html": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/cycling/cycle-hire"
    ]
   },
   "https://maps.google.co.uk/maps?q=clapton+pond&ie=UTF8&hq=&hnear=Clapton+Pond&gl=uk&t=m&layer=c&cbll=51.556154,-0.054657&panoid=VVpUL9jvLVEif1ThjYSwJQ&cbp=13,286.85,,0,-0.14&source=embed&ll=51.551366,-0.054674&spn=0.016758,0.044804&z=14&output=svembed": {
@@ -1438,6 +1607,19 @@
    "lastPages": 1,
    "lastExamplePages": [
     "https://hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/cycling/cycle-hangars"
+   ]
+  },
+  "https://mapsengine.google.com/map/u/1/embed?mid=zb5D48SKYjcI.kIMFYILQ8cMw": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.hackney.gov.uk/education/computers-and-digital-skills/free-wi-fi-and-computer-booking"
    ]
   },
   "https://map2.hackney.gov.uk/maps/red-routes/embed.html": {

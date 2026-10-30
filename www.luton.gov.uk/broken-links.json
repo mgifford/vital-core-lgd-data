@@ -1,6 +1,6 @@
 {
  "domain": "www.luton.gov.uk",
- "updatedAt": "2026-10-30T07:31:54.453Z",
+ "updatedAt": "2026-10-30T07:51:12.662Z",
  "links": {
   "https://www.food.gov.uk/business-guidance/registering-and-managing-a-food-business": {
    "status": 404,
@@ -303,7 +303,8 @@
    "foundOn": [
     "https://www.luton.gov.uk/parking-streets-transport/parking/step-by-step/resident-parking-permits-step-step/renew-your-resident-parking-permit",
     "https://www.luton.gov.uk/parking-streets-transport/parking/step-by-step/resident-parking-permits-step-step/apply-visitor-parking-vouchers",
-    "https://www.luton.gov.uk/parking-streets-transport/parking/step-by-step/resident-parking-permits-step-step/apply-resident-parking-permit"
+    "https://www.luton.gov.uk/parking-streets-transport/parking/step-by-step/resident-parking-permits-step-step/apply-resident-parking-permit",
+    "https://www.luton.gov.uk/parking-streets-transport/parking/step-by-step/resident-parking-permits-step-step/after-you-apply-resident-parking-permit"
    ]
   },
   "https://www.williamaustininfants.co.uk/": {
@@ -642,6 +643,19 @@
    "weeksBroken": 1,
    "foundOn": [
     "https://www.luton.gov.uk/schools-education/schools-colleges/find-school-luton/cutenhoe-hill-primary-school"
+   ]
+  },
+  "https://forms.ukhsa.gov.uk/ReportAnOutbreak": {
+   "status": 0,
+   "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.luton.gov.uk/health-social-care/health-social-care-accidents-emergencies"
    ]
   }
  }

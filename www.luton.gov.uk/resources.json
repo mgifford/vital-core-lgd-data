@@ -1,6 +1,6 @@
 {
  "domain": "www.luton.gov.uk",
- "updatedAt": "2026-10-30T07:31:54.452Z",
+ "updatedAt": "2026-10-30T07:51:12.661Z",
  "resources": {
   "https://consentcdn.cookiebot.com/sdk/bc-v5.min.html": {
    "type": "iframe",
@@ -10,13 +10,13 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPages": 598,
+   "lastPages": 648,
    "lastExamplePages": [
     "https://www.luton.gov.uk/planning-building-control/building-control/small-builders-contractors",
     "https://www.luton.gov.uk/bins-waste-recycling/bin-collections/what-put-your-food-waste-bin",
     "https://www.luton.gov.uk/health-social-care/health/public-health/macmillan-luton-cancer-community-engagement-approach/behind-screen-breast-cancer-screening-project",
-    "https://www.luton.gov.uk/business-licences-permits/licences-permits/business-licences/apply-approval-premises-civil-marriages-civil-partnerships",
-    "https://www.luton.gov.uk/council-elections/strategies-policies-plans/community-safety-partnership-plan"
+    "https://www.luton.gov.uk/benefits-financial-help/housing-benefit/make-claim-housing-benefit/if-you-live-specified-accommodation",
+    "https://www.luton.gov.uk/business-licences-permits/licences-permits/business-licences/apply-approval-premises-civil-marriages-civil-partnerships"
    ]
   },
   "https://www.luton.gov.uk/sites/default/files/2026-05/breast-screening-information-black-african-afro-caribbean_1.pdf": {
@@ -526,6 +526,19 @@
     "https://www.luton.gov.uk/community-environment/crime-community-safety/antisocial-behaviour/overhanging-tree-and-hedges"
    ]
   },
+  "https://www.luton.gov.uk/sites/default/files/2026-10/Fire%20Safety%20and%20Building%20Safety%20Policy%20%20-%20V8.%202025.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.luton.gov.uk/council-elections/strategies-policies-plans/fire-safety-building-safety-policy"
+   ]
+  },
   "https://www.luton.gov.uk/sites/default/files/2026-03/bus-service-improvement-plan-2024.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
@@ -628,6 +641,19 @@
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order/tree-preservation-order-tpo-e107165"
+   ]
+  },
+  "https://www.luton.gov.uk/sites/default/files/2026-02/Planning%20and%20noise%20guide_0_0.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.luton.gov.uk/community-environment/your-environment/noise/construction-demolition-sites"
    ]
   },
   "https://static.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/TPO/TPO_E107028%20Dunstable%20Road%201980_Order.PDF": {
@@ -2308,6 +2334,19 @@
     "https://www.luton.gov.uk/business-licences-permits/licences-permits/business-licences/apply-temporary-street-furniture-licence"
    ]
   },
+  "https://www.luton.gov.uk/sites/default/files/2026-06/senior-management-structure-chart-may-2026.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.luton.gov.uk/council-elections/council-departments-corporate-leadership-team"
+   ]
+  },
   "https://static.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/TPO/TPO_E107163%204-8%20Bury%20Park%20Road%201991_Order.PDF": {
    "type": "pdf",
    "firstSeen": "2026-W44",
@@ -2856,6 +2895,19 @@
     "https://www.luton.gov.uk/planning-building-control/building-control/dutyholders/dutyholder-responsibilities"
    ]
   },
+  "https://www.luton.gov.uk/Transport_and_streets/Lists/LutonDocuments/PDF/resurfacing-2025-26.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.luton.gov.uk/news/2025/surface-treatments-programme-being-carried-out-protect-future-proof-lutons-roads"
+   ]
+  },
   "https://www.luton.gov.uk/sites/default/files/2026-09/Luton%20Supported%20Housing%20Strategy_1.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
@@ -2921,6 +2973,19 @@
     "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order/tree-preservation-order-tpo-e107192"
    ]
   },
+  "https://www.luton.gov.uk/system/files/file-visibility/migrated/Council_government_and_democracy/Lists/LutonDocuments/PDF/Voting%20and%20elections/certificate-of-result-south-ward-by-election-2021.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.luton.gov.uk/council-elections/elections-voting/election-results/local-election-results/election-results/south-ward-election-2021"
+   ]
+  },
   "https://www.luton.gov.uk/sites/default/files/2026-03/bishopscote-road-area-plan-changes.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
@@ -2971,6 +3036,71 @@
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.luton.gov.uk/housing/housing-options-support/contact-us-if-you-are-homeless-or-risk-losing-your-home/support-we-can-provide-if-youre-homeless"
+   ]
+  },
+  "https://www.luton.gov.uk/sites/default/files/2026-01/Beech%20Hill%20ward%20-%20proposed%20routes.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.luton.gov.uk/parking-streets-transport/rights-way-accessing-land/find-public-right-way/beech-hill-ward-modification-order-may-2025"
+   ]
+  },
+  "https://www.luton.gov.uk/sites/default/files/2026-01/Beech%20Hill%20ward%20-%20proposed%20routes%20%28L103%29.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.luton.gov.uk/parking-streets-transport/rights-way-accessing-land/find-public-right-way/beech-hill-ward-modification-order-may-2025"
+   ]
+  },
+  "https://www.luton.gov.uk/sites/default/files/2026-01/Dunstable%20Close%20path%20%E2%80%93%20proposed%20routes%20%28DC107%29.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.luton.gov.uk/parking-streets-transport/rights-way-accessing-land/find-public-right-way/beech-hill-ward-modification-order-may-2025"
+   ]
+  },
+  "https://www.luton.gov.uk/sites/default/files/2026-01/Newark%20road%20path%20%28L111%29.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.luton.gov.uk/parking-streets-transport/rights-way-accessing-land/find-public-right-way/beech-hill-ward-modification-order-may-2025"
+   ]
+  },
+  "https://www.luton.gov.uk/sites/default/files/2026-01/Kingsway%20Park%20area%20%28L167%20to%20L271%29.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.luton.gov.uk/parking-streets-transport/rights-way-accessing-land/find-public-right-way/beech-hill-ward-modification-order-may-2025"
    ]
   },
   "https://static.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/TPO/TPO_E107179%20Grosvenor%20Road%202003_Order.PDF": {
@@ -3493,6 +3623,19 @@
     "https://www.luton.gov.uk/council-elections/strategies-policies-plans/local-transport-plan-ltp-5"
    ]
   },
+  "https://www.luton.gov.uk/sites/default/files/2026-03/Relationships%20and%20health%20education%20query%20flowchart%20.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.luton.gov.uk/schools-education/schools-colleges/curriculum-guidance/relationships-education/make-query-about-primary-relationships-health-education-rhe"
+   ]
+  },
   "https://www.luton.gov.uk/sites/default/files/2026-10/Appendix%20A%20%202025-2029%20Medium%20Term%20Plan.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
@@ -3753,6 +3896,32 @@
     "https://www.luton.gov.uk/council-elections/councillors-committees/local-councillors/councillors-allowances-expenses"
    ]
   },
+  "https://static.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/TPO/TPO_E107145%20Dunstable%20Road%20No.3%201992_Order.PDF": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order/tree-preservation-order-tpo-e107145"
+   ]
+  },
+  "https://static.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/TPO/TPO_E107145%20Dunstable%20Road%20No.3%201992_Plan.PDF": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order/tree-preservation-order-tpo-e107145"
+   ]
+  },
   "https://www.luton.gov.uk/sites/default/files/2026-10/Market%20Position%20Statement%20-%20Home%20Care.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
@@ -3829,6 +3998,19 @@
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.luton.gov.uk/benefits-financial-help/benefit-supporting-documents/supporting-documents-benefit-claim-or-change-circumstances/proof-earnings-benefit-claims"
+   ]
+  },
+  "https://www.luton.gov.uk/system/files/file-visibility/2026-02/tu-facilities-time.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.luton.gov.uk/council-elections/finance-data-performance/data-protection-privacy-information-requests/trade-union-facility-time"
    ]
   },
   "https://static.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/TPO/TPO_E107160%20Bowling%20Green%20Lane%201996_Order.PDF": {
@@ -4586,6 +4768,32 @@
     "https://www.luton.gov.uk/council-elections/finance-data-performance/accounts-finance/council-spend/2025-spend"
    ]
   },
+  "https://static.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/TPO/TPO_E107109%20Dunstable%20Road%201994_Order.PDF": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order/tree-preservation-order-tpo-e107109"
+   ]
+  },
+  "https://static.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/TPO/TPO_E107109%20Dunstable%20Road%20%201994_Plan.PDF": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order/tree-preservation-order-tpo-e107109"
+   ]
+  },
   "https://www.luton.gov.uk/sites/default/files/migrated/Environment/Lists/LutonDocuments/PDF/Planning/Development%20Control/scheme-of-delegation-development-control-committee.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
@@ -4909,6 +5117,32 @@
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order/tree-preservation-order-tpo-e107166"
+   ]
+  },
+  "https://static.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/TPO/TPO_E107123%20Dunstable%20Road%201991_Order.PDF": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order/tree-preservation-order-tpo-e107123"
+   ]
+  },
+  "https://static.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/TPO/TPO_E107123%20Dunstable%20Road%201991_Plan.PDF": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://www.luton.gov.uk/planning-building-control/planning/conservation-design-natural-environment/find-tree-preservation-order/tree-preservation-order-tpo-e107123"
    ]
   },
   "https://www.luton.gov.uk/sites/default/files/2026-08/driver-application-pack.pdf": {

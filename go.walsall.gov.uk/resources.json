@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-10-30T07:31:53.480Z",
+ "updatedAt": "2026-10-30T07:51:11.931Z",
  "resources": {
   "https://apps.euw2.pure.cloud/messenger/thirdparty-plugins.html": {
    "type": "iframe",
@@ -10,7 +10,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPages": 1003,
+   "lastPages": 1051,
    "lastExamplePages": [
     "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
     "http://go.walsall.gov.uk/events/saturday-storytime-6",
@@ -27,7 +27,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPages": 1003,
+   "lastPages": 1051,
    "lastExamplePages": [
     "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
     "http://go.walsall.gov.uk/events/saturday-storytime-6",
@@ -44,7 +44,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPages": 1003,
+   "lastPages": 1051,
    "lastExamplePages": [
     "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
     "http://go.walsall.gov.uk/events/saturday-storytime-6",
@@ -61,7 +61,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPages": 758,
+   "lastPages": 797,
    "lastExamplePages": [
     "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
     "http://go.walsall.gov.uk/events/saturday-storytime-6",
@@ -78,7 +78,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPages": 742,
+   "lastPages": 780,
    "lastExamplePages": [
     "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
     "http://go.walsall.gov.uk/events/saturday-storytime-6",
@@ -108,7 +108,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPages": 742,
+   "lastPages": 780,
    "lastExamplePages": [
     "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
     "http://go.walsall.gov.uk/events/saturday-storytime-6",
@@ -138,7 +138,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPages": 742,
+   "lastPages": 780,
    "lastExamplePages": [
     "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
     "http://go.walsall.gov.uk/events/saturday-storytime-6",
@@ -155,7 +155,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPages": 742,
+   "lastPages": 780,
    "lastExamplePages": [
     "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
     "http://go.walsall.gov.uk/events/saturday-storytime-6",
@@ -172,7 +172,7 @@
     "2026-W44"
    ],
    "weeksSeen": 1,
-   "lastPages": 742,
+   "lastPages": 780,
    "lastExamplePages": [
     "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
     "http://go.walsall.gov.uk/events/saturday-storytime-6",
@@ -517,6 +517,32 @@
    "lastPages": 1,
    "lastExamplePages": [
     "https://go.walsall.gov.uk/planning-and-building-control/planning-policy/current-planning-policy/black-country-core-strategy"
+   ]
+  },
+  "https://onetag-sys.com/usync/?cb=1793345745852&gdpr=0": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=service_type%3A357"
+   ]
+  },
+  "https://sync.richaudience.com/dcf3528a0b8aa83634892d50e91c306e/?ord=94899812": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=service_type%3A357"
    ]
   },
   "https://onetag-sys.com/usync/?cb=1793343172858&gdpr=0": {
@@ -1833,6 +1859,45 @@
     "https://go.walsall.gov.uk/newsroom/drop-events-planned-residents-learn-more-about-food-waste-collections"
    ]
   },
+  "https://29e6e83277910a76057aa7f7ed5492a6.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/newsroom/two-walsall-community-heroes-be-honoured-investiture"
+   ]
+  },
+  "https://sync.richaudience.com/dcf3528a0b8aa83634892d50e91c306e/?ord=1657740944": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/newsroom/two-walsall-community-heroes-be-honoured-investiture"
+   ]
+  },
+  "https://onetag-sys.com/usync/?cb=1793346060136&gdpr=0": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/newsroom/two-walsall-community-heroes-be-honoured-investiture"
+   ]
+  },
   "https://sync.richaudience.com/dcf3528a0b8aa83634892d50e91c306e/?ord=4704340141": {
    "type": "iframe",
    "firstSeen": "2026-W44",
@@ -1883,6 +1948,32 @@
    "lastPages": 1,
    "lastExamplePages": [
     "http://go.walsall.gov.uk/events/drop-cardboard-tube-bee-craft-1"
+   ]
+  },
+  "https://sync.richaudience.com/dcf3528a0b8aa83634892d50e91c306e/?ord=3405661356": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/events/toddler-splash-darlaston-swimming-pool"
+   ]
+  },
+  "https://onetag-sys.com/usync/?cb=1793346286247&gdpr=0": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/events/toddler-splash-darlaston-swimming-pool"
    ]
   },
   "https://eac10b9cd091c32bad9028bd9bf39dde.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html": {
@@ -2210,6 +2301,465 @@
     "https://go.walsall.gov.uk/your-council/comments-compliments-and-complaints/complaints/do-you-want-report-problem"
    ]
   },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/SAD%20Schedule%20of%20Representations.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/planning-and-building-control/planning-policy/current-planning-policy/consultation-representations"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/AAP%20Schedule%20of%20Representations.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/planning-and-building-control/planning-policy/current-planning-policy/consultation-representations"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/SAD%20Schedule%20of%20Late%20Representations.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/planning-and-building-control/planning-policy/current-planning-policy/consultation-representations"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/SAD%20Annex%20to%20Representation%20UR811.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/planning-and-building-control/planning-policy/current-planning-policy/consultation-representations"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/SAD%20Pre-Submission%20Modifications%20Representations%20and%20Council%20Responses.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/planning-and-building-control/planning-policy/current-planning-policy/consultation-representations"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Town%20Centre%20AAP%20Pre-Submission%20Modifications%20Representations%20and%20Council%20Responses.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/planning-and-building-control/planning-policy/current-planning-policy/consultation-representations"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/CIL%20Pre-Submission%20Modifications%20Representations%20and%20Council%20Responses.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/planning-and-building-control/planning-policy/current-planning-policy/consultation-representations"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/SAD%20Pre-Submission%20Modifications%20Consultation%20-%20Schedule%20of%20Representations.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/planning-and-building-control/planning-policy/current-planning-policy/consultation-representations"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Town%20Centre%20AAP%20Pre-Submission%20Modifications%20Consultation%20-%20Schedule%20of%20Representations.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/planning-and-building-control/planning-policy/current-planning-policy/consultation-representations"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/CIL%20Pre%20Submission%20Modifications%20Consultation%20-%20Schedule%20of%20Representations.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/planning-and-building-control/planning-policy/current-planning-policy/consultation-representations"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Environment%20Agency%20Duty%20to%20Cooperate%20Late%20Representations%20on%20Pre-Submission%20Modifications%20Consultation.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/planning-and-building-control/planning-policy/current-planning-policy/consultation-representations"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Further%20correspondence%20with%20Historic%20England.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/planning-and-building-control/planning-policy/current-planning-policy/consultation-representations"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/SAD%20Publication%20Stage%20Representations%20and%20Council%20Responses.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/planning-and-building-control/planning-policy/current-planning-policy/consultation-representations"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/AAP%20Publication%20Stage%20Representations%20and%20Council%20Responses.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/planning-and-building-control/planning-policy/current-planning-policy/consultation-representations"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/CIL%20Draft%20Charging%20Schedule%20Stage%20Representations%20and%20Council%20Responses.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/planning-and-building-control/planning-policy/current-planning-policy/consultation-representations"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/SAD%20Draft%20Plan%20Publication%20Stage%20-%20Schedule%20of%20Representations%20Part%201.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/planning-and-building-control/planning-policy/current-planning-policy/consultation-representations"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/SAD%20Draft%20Plan%20Publication%20Stage%20-%20Schedule%20of%20Representations%20Part%202.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/planning-and-building-control/planning-policy/current-planning-policy/consultation-representations"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/SAD%20Draft%20Plan%20Publication%20Stage%20-%20Schedule%20of%20Representations%20Part%203.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/planning-and-building-control/planning-policy/current-planning-policy/consultation-representations"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Town%20Centre%20AAP%20Publication%20Stage%20-%20Schedule%20of%20Representations.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/planning-and-building-control/planning-policy/current-planning-policy/consultation-representations"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/CIL%20Draft%20Charging%20Schedule%20-%20Schedule%20of%20Representations.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/planning-and-building-control/planning-policy/current-planning-policy/consultation-representations"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/UR219%20Supporting%20information%20in%20addition%20to%20SAD%20response.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/planning-and-building-control/planning-policy/current-planning-policy/consultation-representations"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Duty%20to%20Co-operate%20correspondence%20with%20Natural%20England.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/planning-and-building-control/planning-policy/current-planning-policy/consultation-representations"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/AAP%20Issues%20and%20Options%20Representations%20and%20Council%20Responses.xlsx": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/planning-and-building-control/planning-policy/current-planning-policy/consultation-representations"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/SAD%20Issues%20and%20Options%20Representations%20and%20Council%20Responses.xlsx": {
+   "type": "spreadsheet",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/planning-and-building-control/planning-policy/current-planning-policy/consultation-representations"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Schedule%20of%20Representations%20-%20Site%20Allocation%20Document.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/planning-and-building-control/planning-policy/current-planning-policy/consultation-representations"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Schedule%20of%20Representations%20-%20Area%20Action%20Plan.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/planning-and-building-control/planning-policy/current-planning-policy/consultation-representations"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/1711%20-%20Heather%20Jones%20Representation.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/planning-and-building-control/planning-policy/current-planning-policy/consultation-representations"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/1484%20-%20Glynis%20Cooke%20Representation.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/planning-and-building-control/planning-policy/current-planning-policy/consultation-representations"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/2116%20-%20Mr%20Galt%20Representation.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/planning-and-building-control/planning-policy/current-planning-policy/consultation-representations"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Schedule%20of%20Social%20Media%20Comments%20-%20Site%20Allocation%20Document%20and%20Area%20Action%20Plan.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/planning-and-building-control/planning-policy/current-planning-policy/consultation-representations"
+   ]
+  },
+  "https://89e15b9730dd40e117f51ddda5ed05c9.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/planning-and-building-control/planning-policy/current-planning-policy/consultation-representations"
+   ]
+  },
+  "https://gum.criteo.com/syncframe?origin=publishertagids&topUrl=go.walsall.gov.uk&gdpr=0&gdpr_consent=&gpp=DBAA&gpp_sid=18": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 6,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/planning-and-building-control/planning-policy/current-planning-policy/consultation-representations",
+    "http://go.walsall.gov.uk/events?category=All&venue=405",
+    "https://go.walsall.gov.uk/events/stitchers-and-skivers-adult-craft-group-afternoon-3",
+    "https://go.walsall.gov.uk/your-council/consultations",
+    "http://go.walsall.gov.uk/node/151"
+   ]
+  },
+  "https://account.anonymised.io/login/experiment/silent-ifl/comb?client_id=https%3A%2F%2Fgo.walsall.gov.uk&redirect_uri=https%3A%2F%2Fgo.walsall.gov.uk%2Fplanning-and-building-control%2Fplanning-policy%2Fcurrent-planning-policy%2Fconsultation-representations%3Fcallback%3Din&response_type=code&scope=token+profile+id_token&state=c0b9d6a1ac5241e19e07eacfc4ce4b9c&code_challenge=U0fAXfqcEe4dxxh47_xlpRzd_hRL5nQnzIDBKIIGC4s&code_challenge_method=S256&response_mode=query": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/planning-and-building-control/planning-policy/current-planning-policy/consultation-representations"
+   ]
+  },
+  "https://onetag-sys.com/usync/?cb=1793345666055&gdpr=0": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/planning-and-building-control/planning-policy/current-planning-policy/consultation-representations"
+   ]
+  },
+  "https://sync.richaudience.com/dcf3528a0b8aa83634892d50e91c306e/?ord=1867665632": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/planning-and-building-control/planning-policy/current-planning-policy/consultation-representations"
+   ]
+  },
   "https://onetag-sys.com/usync/?cb=1793313063802&gdpr=0": {
    "type": "iframe",
    "firstSeen": "2026-W44",
@@ -2234,6 +2784,45 @@
    "lastPages": 1,
    "lastExamplePages": [
     "https://go.walsall.gov.uk/events/knit-stitch-and-chat-extra-streetly"
+   ]
+  },
+  "https://2ced2b4971e6d9d3096019f4f884b9d6.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/events?category=233"
+   ]
+  },
+  "https://onetag-sys.com/usync/?cb=1793346145785&gdpr=0": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/events?category=233"
+   ]
+  },
+  "https://sync.richaudience.com/dcf3528a0b8aa83634892d50e91c306e/?ord=4957290983": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/events?category=233"
    ]
   },
   "https://847f5bd7cde65211c5cfd39067d5da58.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html": {
@@ -3471,6 +4060,19 @@
     "https://go.walsall.gov.uk/events/reading-friends-social-group-streetly"
    ]
   },
+  "https://adc2c3247b85837ac5c1757fbcb44572.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/events/family-fun-and-floats-walsall-gala-3"
+   ]
+  },
   "https://onetag-sys.com/usync/?cb=1793184751096&gdpr=0": {
    "type": "iframe",
    "firstSeen": "2026-W44",
@@ -3861,6 +4463,32 @@
     "http://go.walsall.gov.uk/parks-and-green-spaces/visit-our-parks-and-play-areas/king-george-v-memorial-playing-fields"
    ]
   },
+  "https://sync.richaudience.com/dcf3528a0b8aa83634892d50e91c306e/?ord=2773302317": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/events/two-week-beginner-computer-course-8"
+   ]
+  },
+  "https://onetag-sys.com/usync/?cb=1793346088053&gdpr=0": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/events/two-week-beginner-computer-course-8"
+   ]
+  },
   "https://onetag-sys.com/usync/?cb=1793184603112&gdpr=0": {
    "type": "iframe",
    "firstSeen": "2026-W44",
@@ -4041,6 +4669,45 @@
    "lastPages": 1,
    "lastExamplePages": [
     "https://go.walsall.gov.uk/fostering/why-foster-walsall/training-and-career-development"
+   ]
+  },
+  "https://de3674ff797acd0cf39d46dc1fbe18f3.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/newsroom/are-you-caring-somebody-elses-child-walsall-council-here-help"
+   ]
+  },
+  "https://onetag-sys.com/usync/?cb=1793346177298&gdpr=0": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/newsroom/are-you-caring-somebody-elses-child-walsall-council-here-help"
+   ]
+  },
+  "https://sync.richaudience.com/dcf3528a0b8aa83634892d50e91c306e/?ord=303364822": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/newsroom/are-you-caring-somebody-elses-child-walsall-council-here-help"
    ]
   },
   "https://onetag-sys.com/usync/?cb=1793141212962&gdpr=0": {
@@ -5969,6 +6636,32 @@
     "http://go.walsall.gov.uk/planning-and-building-control/planning-policy/housing-land-supply"
    ]
   },
+  "https://onetag-sys.com/usync/?cb=1793346191742&gdpr=0": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/newsroom/cabinet-report-outlines-success-councils-proud-transformation"
+   ]
+  },
+  "https://sync.richaudience.com/dcf3528a0b8aa83634892d50e91c306e/?ord=6974178798": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/newsroom/cabinet-report-outlines-success-councils-proud-transformation"
+   ]
+  },
   "https://397e6863f02a9b56bc708c887e47ab94.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html": {
    "type": "iframe",
    "firstSeen": "2026-W44",
@@ -6409,6 +7102,71 @@
    "lastPages": 1,
    "lastExamplePages": [
     "http://go.walsall.gov.uk/events/poetry-appreciation-0"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/View%20the%20WMJC%20Notice%20of%20conclusion%20of%20audit%202011.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/your-council/decision-making-in-walsall-borough/publications/west-midlands-joint-committees-201011-annual-return-"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/View%20the%20WMJC%20Accounting%20Statements.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/your-council/decision-making-in-walsall-borough/publications/west-midlands-joint-committees-201011-annual-return-"
+   ]
+  },
+  "https://b541d162243d6f15054c1f64091f468b.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/your-council/decision-making-in-walsall-borough/publications/west-midlands-joint-committees-201011-annual-return-"
+   ]
+  },
+  "https://onetag-sys.com/usync/?cb=1793346044155&gdpr=0": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/your-council/decision-making-in-walsall-borough/publications/west-midlands-joint-committees-201011-annual-return-"
+   ]
+  },
+  "https://sync.richaudience.com/dcf3528a0b8aa83634892d50e91c306e/?ord=2018839075": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/your-council/decision-making-in-walsall-borough/publications/west-midlands-joint-committees-201011-annual-return-"
    ]
   },
   "https://onetag-sys.com/usync/?cb=1793267665066&gdpr=0": {
@@ -7100,6 +7858,45 @@
     "https://go.walsall.gov.uk/events/craft-chat-lichfield-street-hub-0"
    ]
   },
+  "https://53aa672dba7a8316fecc597a68ff74e1.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/newsroom/have-your-say-new-political-map-walsall-council"
+   ]
+  },
+  "https://onetag-sys.com/usync/?cb=1793346397701&gdpr=0": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/newsroom/have-your-say-new-political-map-walsall-council"
+   ]
+  },
+  "https://sync.richaudience.com/dcf3528a0b8aa83634892d50e91c306e/?ord=5549773870": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/newsroom/have-your-say-new-political-map-walsall-council"
+   ]
+  },
   "https://go.walsall.gov.uk/sites/default/files/2022-07/Web%20-%20Walsall%20Heritage%20Strategy%202021-2026.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
@@ -7527,23 +8324,6 @@
    "lastPages": 1,
    "lastExamplePages": [
     "http://go.walsall.gov.uk/events?category=All&venue=405"
-   ]
-  },
-  "https://gum.criteo.com/syncframe?origin=publishertagids&topUrl=go.walsall.gov.uk&gdpr=0&gdpr_consent=&gpp=DBAA&gpp_sid=18": {
-   "type": "iframe",
-   "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
-   "_weeks": [
-    "2026-W44"
-   ],
-   "weeksSeen": 1,
-   "lastPages": 5,
-   "lastExamplePages": [
-    "http://go.walsall.gov.uk/events?category=All&venue=405",
-    "https://go.walsall.gov.uk/events/stitchers-and-skivers-adult-craft-group-afternoon-3",
-    "https://go.walsall.gov.uk/your-council/consultations",
-    "http://go.walsall.gov.uk/node/151",
-    "https://go.walsall.gov.uk/events/tanita-body-composition-scales-bloxwich-active-living-centre-4"
    ]
   },
   "https://account.anonymised.io/login/experiment/silent-ifl/comb?client_id=https%3A%2F%2Fgo.walsall.gov.uk&redirect_uri=https%3A%2F%2Fgo.walsall.gov.uk%2Fevents%3Fcategory%3DAll%26venue%3D405%26callback%3Din&response_type=code&scope=token+profile+id_token&state=b215e9017a5545d0b3588a6cf3eaa2a5&code_challenge=exKWtqegEQkpkBZoF94t5RQLWYgfwYvXSYwGNMCsNrg&code_challenge_method=S256&response_mode=query": {
@@ -7999,6 +8779,32 @@
    "lastPages": 1,
    "lastExamplePages": [
     "https://go.walsall.gov.uk/newsroom/high-court-continues-interim-black-country-street-racing-ban"
+   ]
+  },
+  "https://sync.richaudience.com/dcf3528a0b8aa83634892d50e91c306e/?ord=3336447655": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/events/tanita-body-composition-checks-walsall-gala-7"
+   ]
+  },
+  "https://onetag-sys.com/usync/?cb=1793346481915&gdpr=0": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/events/tanita-body-composition-checks-walsall-gala-7"
    ]
   },
   "https://9d3100ba5930a619295e5669f43b7f2c.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html": {
@@ -9234,6 +10040,32 @@
    "lastPages": 1,
    "lastExamplePages": [
     "http://go.walsall.gov.uk/events/pottery-bunny-drop"
+   ]
+  },
+  "https://onetag-sys.com/usync/?cb=1793345811642&gdpr=0": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A32&f%5B2%5D=localgov_directories_facets%3A36&f%5B3%5D=service_type%3A352"
+   ]
+  },
+  "https://sync.richaudience.com/dcf3528a0b8aa83634892d50e91c306e/?ord=7790872502": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A32&f%5B2%5D=localgov_directories_facets%3A36&f%5B3%5D=service_type%3A352"
    ]
   },
   "https://284f1e40d2f05a288f603137c16e4578.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html": {
@@ -10586,6 +11418,32 @@
    "lastPages": 1,
    "lastExamplePages": [
     "http://go.walsall.gov.uk/events/three-week-beginner-ict-course-lichfield-street-hub-1"
+   ]
+  },
+  "https://sync.richaudience.com/dcf3528a0b8aa83634892d50e91c306e/?ord=805580418": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/events/loose-leaves-1"
+   ]
+  },
+  "https://onetag-sys.com/usync/?cb=1793345795391&gdpr=0": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/events/loose-leaves-1"
    ]
   },
   "http://go.walsall.gov.uk/sites/default/files/2025-12/Template%20to%20use%20for%20your%20notice%20%282%29.docx": {
@@ -11984,6 +12842,32 @@
     "http://go.walsall.gov.uk/your-council/freedom-of-information-foi/publication-scheme"
    ]
   },
+  "https://go.walsall.gov.uk/sites/default/files/2023-02/Volunteer%20Role%20Description%20and%20Person%20Specification%20Feb%202023%20final.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/children-and-young-people/family-help/apply-volunteer-walsall-right-4-children"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2023-02/Early%20Help%20Volunteer%20application%20form_0.docx": {
+   "type": "document",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/children-and-young-people/family-help/apply-volunteer-walsall-right-4-children"
+   ]
+  },
   "https://sync.richaudience.com/dcf3528a0b8aa83634892d50e91c306e/?ord=6890774805": {
    "type": "iframe",
    "firstSeen": "2026-W44",
@@ -12530,6 +13414,45 @@
     "http://go.walsall.gov.uk/newsroom/rare-bees-flourish-barr-beacon-walsall"
    ]
   },
+  "https://1778c7470198b34bfdebe8965efe18b6.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/newsroom/walsall-man-sentenced-after-major-illegal-tobacco-operation-uncovered"
+   ]
+  },
+  "https://onetag-sys.com/usync/?cb=1793346307223&gdpr=0": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/newsroom/walsall-man-sentenced-after-major-illegal-tobacco-operation-uncovered"
+   ]
+  },
+  "https://sync.richaudience.com/dcf3528a0b8aa83634892d50e91c306e/?ord=6305314797": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/newsroom/walsall-man-sentenced-after-major-illegal-tobacco-operation-uncovered"
+   ]
+  },
   "https://sync.richaudience.com/dcf3528a0b8aa83634892d50e91c306e/?ord=3861533240": {
    "type": "iframe",
    "firstSeen": "2026-W44",
@@ -12775,6 +13698,32 @@
    "lastPages": 1,
    "lastExamplePages": [
     "http://go.walsall.gov.uk/business/doing-business-with-the-council/procurement/current-and-future-opportunities"
+   ]
+  },
+  "https://onetag-sys.com/usync/?cb=1793345732216&gdpr=0": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/events/childrens-leather-pen-case-workshop-deborette-clarke-morning"
+   ]
+  },
+  "https://sync.richaudience.com/dcf3528a0b8aa83634892d50e91c306e/?ord=4286174770": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/events/childrens-leather-pen-case-workshop-deborette-clarke-morning"
    ]
   },
   "https://e886f9ea3058aa34217d580a0689ea52.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html": {
@@ -13273,6 +14222,45 @@
     "http://go.walsall.gov.uk/events/two-week-beginner-computer-course-6"
    ]
   },
+  "https://d6b553eb562c047bc07d02e88c3730cb.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/newsroom/walsalls-coronation-weekend-review"
+   ]
+  },
+  "https://sync.richaudience.com/dcf3528a0b8aa83634892d50e91c306e/?ord=7704365112": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/newsroom/walsalls-coronation-weekend-review"
+   ]
+  },
+  "https://onetag-sys.com/usync/?cb=1793346497107&gdpr=0": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/newsroom/walsalls-coronation-weekend-review"
+   ]
+  },
   "https://cd9f86f9e6384936b3d13568e2870b4f.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html": {
    "type": "iframe",
    "firstSeen": "2026-W44",
@@ -13635,6 +14623,58 @@
    "lastPages": 1,
    "lastExamplePages": [
     "http://go.walsall.gov.uk/events/rhyme-time-67"
+   ]
+  },
+  "https://38f578826affd34395bce694fa78de6f.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/parks-and-green-spaces/visit-our-countryside-and-nature-reserves/pelsall-north-common-local-nature-reserve-and-nest-common"
+   ]
+  },
+  "https://ol-ishare.services.astuntechnology.com/v1/apps/spotlight/map.html?v=1&ishareurl=https%3A%2F%2Fmymaps.walsall.gov.uk%2F&navigation=true&gazetteer=true&infopopup=true&layerswitcher=true&layerswitcherLegend=dynamic&layerswitcherOpen=true&fullscreen=false&profile=mapsources%2Fparkssolo&layers=Parks%21vis1&easting=401478&northing=304559&resolution=0.874998249862205&basemap=mapsources%2Fbase_osmapsapi_road_wms&srs=EPSG%3A27708": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/parks-and-green-spaces/visit-our-countryside-and-nature-reserves/pelsall-north-common-local-nature-reserve-and-nest-common"
+   ]
+  },
+  "https://sync.richaudience.com/dcf3528a0b8aa83634892d50e91c306e/?ord=3280440804": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/parks-and-green-spaces/visit-our-countryside-and-nature-reserves/pelsall-north-common-local-nature-reserve-and-nest-common"
+   ]
+  },
+  "https://onetag-sys.com/usync/?cb=1793346257404&gdpr=0": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/parks-and-green-spaces/visit-our-countryside-and-nature-reserves/pelsall-north-common-local-nature-reserve-and-nest-common"
    ]
   },
   "https://sync.richaudience.com/dcf3528a0b8aa83634892d50e91c306e/?ord=9369808345": {
@@ -14012,6 +15052,32 @@
    "lastPages": 1,
    "lastExamplePages": [
     "http://go.walsall.gov.uk/newsroom/programme-arrangements-remembrance-day-2026"
+   ]
+  },
+  "https://onetag-sys.com/usync/?cb=1793346334125&gdpr=0": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/events/zoolab-haf"
+   ]
+  },
+  "https://sync.richaudience.com/dcf3528a0b8aa83634892d50e91c306e/?ord=9449615997": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/events/zoolab-haf"
    ]
   },
   "https://c4e4f297c761633dedd2a0519701e5f5.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html": {
@@ -16015,6 +17081,32 @@
     "https://go.walsall.gov.uk/children-and-young-people/information-childcare-providers-walsall/childcare-places-and-funding"
    ]
   },
+  "https://onetag-sys.com/usync/?cb=1793346271023&gdpr=0": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/events/rhyme-time-20"
+   ]
+  },
+  "https://sync.richaudience.com/dcf3528a0b8aa83634892d50e91c306e/?ord=2014666209": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/events/rhyme-time-20"
+   ]
+  },
   "https://sync.richaudience.com/dcf3528a0b8aa83634892d50e91c306e/?ord=7379127953": {
    "type": "iframe",
    "firstSeen": "2026-W44",
@@ -17001,6 +18093,32 @@
    "lastPages": 1,
    "lastExamplePages": [
     "http://go.walsall.gov.uk/events/poetry-appreciation-streetly-0"
+   ]
+  },
+  "https://onetag-sys.com/usync/?cb=1793346466484&gdpr=0": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/events/made-walsall-exhibition"
+   ]
+  },
+  "https://sync.richaudience.com/dcf3528a0b8aa83634892d50e91c306e/?ord=7620917040": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/events/made-walsall-exhibition"
    ]
   },
   "https://4aa50b4163caaae16aa46cb5a343c600.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html": {
@@ -18132,6 +19250,45 @@
    "lastPages": 1,
    "lastExamplePages": [
     "https://go.walsall.gov.uk/events/knit-and-natter-24"
+   ]
+  },
+  "https://8c0e0f1ea9605976f28b912c72b67f6e.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/events/pool-floats-fun-session-oak-park-active-living-centre-1"
+   ]
+  },
+  "https://onetag-sys.com/usync/?cb=1793346370862&gdpr=0": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/events/pool-floats-fun-session-oak-park-active-living-centre-1"
+   ]
+  },
+  "https://sync.richaudience.com/dcf3528a0b8aa83634892d50e91c306e/?ord=7319376029": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/events/pool-floats-fun-session-oak-park-active-living-centre-1"
    ]
   },
   "https://eec15cd5f5641a3086a6c927b51f85c8.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html": {
@@ -19538,6 +20695,32 @@
     "http://go.walsall.gov.uk/newsroom/walsall-council-consults-its-2025-2029-council-plan"
    ]
   },
+  "https://onetag-sys.com/usync/?cb=1793345904270&gdpr=0": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/newsroom/walsall-council-launches-new-online-safeguarding-referral-portal-adults-across-borough"
+   ]
+  },
+  "https://sync.richaudience.com/dcf3528a0b8aa83634892d50e91c306e/?ord=4918856886": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/newsroom/walsall-council-launches-new-online-safeguarding-referral-portal-adults-across-borough"
+   ]
+  },
   "https://go.walsall.gov.uk/sites/default/files/2026-03/Walsall%20Works%20EXPO%20Guide%20March%202026%20Accessibi_Josie%20Fisher.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
@@ -20435,6 +21618,32 @@
     "https://go.walsall.gov.uk/wellbeing-directory/black-country-healthcare-nhs-foundation-trust-walsall-community-learning"
    ]
   },
+  "https://sync.richaudience.com/dcf3528a0b8aa83634892d50e91c306e/?ord=3036017015": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/newsroom/walsall-free-garden-waste-collections-resume"
+   ]
+  },
+  "https://onetag-sys.com/usync/?cb=1793345858276&gdpr=0": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/newsroom/walsall-free-garden-waste-collections-resume"
+   ]
+  },
   "https://sync.richaudience.com/dcf3528a0b8aa83634892d50e91c306e/?ord=4958446692": {
    "type": "iframe",
    "firstSeen": "2026-W44",
@@ -21242,6 +22451,45 @@
     "http://go.walsall.gov.uk/newsroom/garden-waste-collection-season-extended-walsall"
    ]
   },
+  "https://ff7169a481e333cae53d08846599589c.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/newsroom/successful-crowdfunding-programme-supports-23-grass-roots-projects-walsall"
+   ]
+  },
+  "https://sync.richaudience.com/dcf3528a0b8aa83634892d50e91c306e/?ord=3529574380": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/newsroom/successful-crowdfunding-programme-supports-23-grass-roots-projects-walsall"
+   ]
+  },
+  "https://onetag-sys.com/usync/?cb=1793346131799&gdpr=0": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/newsroom/successful-crowdfunding-programme-supports-23-grass-roots-projects-walsall"
+   ]
+  },
   "https://4b4a3ccb16e9cb616ebe974d966e3a0c.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html": {
    "type": "iframe",
    "firstSeen": "2026-W44",
@@ -21747,6 +22995,45 @@
    "lastPages": 1,
    "lastExamplePages": [
     "http://go.walsall.gov.uk/events/rhyme-time-darlaston-0"
+   ]
+  },
+  "https://0ea8dc8957ff8a22b9d803d2eff167ab.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/events/knit-and-natter-84"
+   ]
+  },
+  "https://onetag-sys.com/usync/?cb=1793345842266&gdpr=0": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/events/knit-and-natter-84"
+   ]
+  },
+  "https://sync.richaudience.com/dcf3528a0b8aa83634892d50e91c306e/?ord=7233759666": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/events/knit-and-natter-84"
    ]
   },
   "https://onetag-sys.com/usync/?cb=1793283918739&gdpr=0": {
@@ -22893,6 +24180,32 @@
     "http://go.walsall.gov.uk/events/tanita-body-composition-checks-oak-park-active-living-centre-7"
    ]
   },
+  "https://sync.richaudience.com/dcf3528a0b8aa83634892d50e91c306e/?ord=5769733468": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/events/rhyme-time-91"
+   ]
+  },
+  "https://onetag-sys.com/usync/?cb=1793345829265&gdpr=0": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/events/rhyme-time-91"
+   ]
+  },
   "https://onetag-sys.com/usync/?cb=1793196229934&gdpr=0": {
    "type": "iframe",
    "firstSeen": "2026-W44",
@@ -23712,6 +25025,32 @@
     "http://go.walsall.gov.uk/events/saturday-storytime-2"
    ]
   },
+  "https://onetag-sys.com/usync/?cb=1793346413226&gdpr=0": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/newsroom/walsall-council-launches-initiative-establish-community-shops"
+   ]
+  },
+  "https://sync.richaudience.com/dcf3528a0b8aa83634892d50e91c306e/?ord=4821003173": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/newsroom/walsall-council-launches-initiative-establish-community-shops"
+   ]
+  },
   "https://sync.richaudience.com/dcf3528a0b8aa83634892d50e91c306e/?ord=7473902214": {
    "type": "iframe",
    "firstSeen": "2026-W44",
@@ -23879,6 +25218,32 @@
    "lastPages": 1,
    "lastExamplePages": [
     "http://go.walsall.gov.uk/your-council/equality-and-diversity/support-for-equality-and-diversity"
+   ]
+  },
+  "https://onetag-sys.com/usync/?cb=1793346161915&gdpr=0": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/events/walsall-works-transferrable-skills-workshop"
+   ]
+  },
+  "https://sync.richaudience.com/dcf3528a0b8aa83634892d50e91c306e/?ord=1041324010": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/events/walsall-works-transferrable-skills-workshop"
    ]
   },
   "https://onetag-sys.com/usync/?cb=1793284037753&gdpr=0": {
@@ -24152,6 +25517,45 @@
    "lastPages": 1,
    "lastExamplePages": [
     "https://go.walsall.gov.uk/newsroom/community-voices-celebrated-mayors-parlour"
+   ]
+  },
+  "https://578aa81463ca26b1da1d9f00918c1a28.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/newsroom/walsall-archives-extends-opening-hours-provide-more-access-local-history"
+   ]
+  },
+  "https://sync.richaudience.com/dcf3528a0b8aa83634892d50e91c306e/?ord=5096619321": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/newsroom/walsall-archives-extends-opening-hours-provide-more-access-local-history"
+   ]
+  },
+  "https://onetag-sys.com/usync/?cb=1793346383929&gdpr=0": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/newsroom/walsall-archives-extends-opening-hours-provide-more-access-local-history"
    ]
   },
   "https://ff14449e0f01e5c7ceb58371d4e091a3.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html": {
@@ -25025,6 +26429,84 @@
     "http://go.walsall.gov.uk/newsroom/walsall-events-commemorating-80th-anniversary-d-day-landings"
    ]
   },
+  "https://b57fc5b00cb3a92efcb32a00c08c9d71.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/your-council/consultations/past-consultations/rushall-junction-a461-improvement-consultation"
+   ]
+  },
+  "https://sync.richaudience.com/dcf3528a0b8aa83634892d50e91c306e/?ord=9503865252": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/your-council/consultations/past-consultations/rushall-junction-a461-improvement-consultation"
+   ]
+  },
+  "https://onetag-sys.com/usync/?cb=1793346321018&gdpr=0": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/your-council/consultations/past-consultations/rushall-junction-a461-improvement-consultation"
+   ]
+  },
+  "https://412a413ff61e3b4a821340283964e0c3.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/newsroom/mayor-walsall-attends-st-matthews-church-watch-state-funeral"
+   ]
+  },
+  "https://sync.richaudience.com/dcf3528a0b8aa83634892d50e91c306e/?ord=605683495": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/newsroom/mayor-walsall-attends-st-matthews-church-watch-state-funeral"
+   ]
+  },
+  "https://onetag-sys.com/usync/?cb=1793346361968&gdpr=0": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/newsroom/mayor-walsall-attends-st-matthews-church-watch-state-funeral"
+   ]
+  },
   "https://1c453e0af24481b765f98530db8c2e5e.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html": {
    "type": "iframe",
    "firstSeen": "2026-W44",
@@ -25361,6 +26843,32 @@
    "lastPages": 1,
    "lastExamplePages": [
     "http://go.walsall.gov.uk/newsroom/walsall-parents-urged-ensure-children-get-mmr-vaccination"
+   ]
+  },
+  "https://onetag-sys.com/usync/?cb=1793346204753&gdpr=0": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/newsroom/quit-smoking-ai-coach-bella-quit-good"
+   ]
+  },
+  "https://sync.richaudience.com/dcf3528a0b8aa83634892d50e91c306e/?ord=3790158997": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/newsroom/quit-smoking-ai-coach-bella-quit-good"
    ]
   },
   "https://go.walsall.gov.uk/sites/default/files/2024-07/CStR%20Prospectus_Kristina%20Brockhurst.pdf": {
@@ -27105,6 +28613,45 @@
     "http://go.walsall.gov.uk/newsroom/pioneering-grant-fund-programme-aims-bridge-construction-skills-gap-bloxwich"
    ]
   },
+  "https://c94cbbab3d3cb5c3908b673fae50b7d8.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/walsall-libraries/lichfield-street-hub/walsall-archives-services/research-resources/willenhall-0"
+   ]
+  },
+  "https://sync.richaudience.com/dcf3528a0b8aa83634892d50e91c306e/?ord=1034353399": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/walsall-libraries/lichfield-street-hub/walsall-archives-services/research-resources/willenhall-0"
+   ]
+  },
+  "https://onetag-sys.com/usync/?cb=1793346537962&gdpr=0": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/walsall-libraries/lichfield-street-hub/walsall-archives-services/research-resources/willenhall-0"
+   ]
+  },
   "https://sync.richaudience.com/dcf3528a0b8aa83634892d50e91c306e/?ord=6392552956": {
    "type": "iframe",
    "firstSeen": "2026-W44",
@@ -27483,6 +29030,97 @@
     "http://go.walsall.gov.uk/events/craft-chat-7"
    ]
   },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/specification_dfg_wet_room_and_level_access_shower-4.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/health-and-social-care/help-live-home/funding-adapt-your-home-if-you-have-disability/apply-disabled"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/specification_for_dfg_low_level_tray-3.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/health-and-social-care/help-live-home/funding-adapt-your-home-if-you-have-disability/apply-disabled"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/dfg_ramp_specification.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/health-and-social-care/help-live-home/funding-adapt-your-home-if-you-have-disability/apply-disabled"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/dfg_door_widening-2.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/health-and-social-care/help-live-home/funding-adapt-your-home-if-you-have-disability/apply-disabled"
+   ]
+  },
+  "https://share.synthesia.io/embeds/videos/b9c422d4-8c35-44dd-8433-1dc9dd51f015?language=en": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/health-and-social-care/help-live-home/funding-adapt-your-home-if-you-have-disability/apply-disabled"
+   ]
+  },
+  "https://onetag-sys.com/usync/?cb=1793345917698&gdpr=0": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/health-and-social-care/help-live-home/funding-adapt-your-home-if-you-have-disability/apply-disabled"
+   ]
+  },
+  "https://sync.richaudience.com/dcf3528a0b8aa83634892d50e91c306e/?ord=7388407691": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/health-and-social-care/help-live-home/funding-adapt-your-home-if-you-have-disability/apply-disabled"
+   ]
+  },
   "https://2863bf3e1824bbd7fa1f88c636d2f020.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html": {
    "type": "iframe",
    "firstSeen": "2026-W44",
@@ -27663,6 +29301,45 @@
    "lastPages": 1,
    "lastExamplePages": [
     "http://go.walsall.gov.uk/events/knit-and-natter-82"
+   ]
+  },
+  "https://e05f020129f8ff2ebd901b7e1a4c7c96.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/events/reading-friends-7"
+   ]
+  },
+  "https://sync.richaudience.com/dcf3528a0b8aa83634892d50e91c306e/?ord=5222726692": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/events/reading-friends-7"
+   ]
+  },
+  "https://onetag-sys.com/usync/?cb=1793346235350&gdpr=0": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/events/reading-friends-7"
    ]
   },
   "https://sync.richaudience.com/dcf3528a0b8aa83634892d50e91c306e/?ord=7185944726": {
@@ -27951,6 +29628,32 @@
     "http://go.walsall.gov.uk/newsroom/makers-market-showcase-more-50-local-creatives"
    ]
   },
+  "https://go.walsall.gov.uk/sites/default/files/2025-08/My%20Wellbeing%20Plan%20Aug%202025.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/newsroom/walsall-residents-encouraged-access-local-services-world-health-day"
+   ]
+  },
+  "https://www.walsallintelligence.org.uk/wp-content/uploads/sites/6/2026/03/Walsall-Support-Services.pdf": {
+   "type": "pdf",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/newsroom/walsall-residents-encouraged-access-local-services-world-health-day"
+   ]
+  },
   "https://sync.richaudience.com/dcf3528a0b8aa83634892d50e91c306e/?ord=785843808": {
    "type": "iframe",
    "firstSeen": "2026-W44",
@@ -28198,6 +29901,32 @@
     "http://go.walsall.gov.uk/events/caterpillar-club-16"
    ]
   },
+  "https://sync.richaudience.com/dcf3528a0b8aa83634892d50e91c306e/?ord=839965754": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/newsroom/digital-skills-boost-womens-organisation-walsall-thanks-donation-scheme"
+   ]
+  },
+  "https://onetag-sys.com/usync/?cb=1793346029990&gdpr=0": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/newsroom/digital-skills-boost-womens-organisation-walsall-thanks-donation-scheme"
+   ]
+  },
   "https://88cc4ede703956788f925fb499e1a318.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html": {
    "type": "iframe",
    "firstSeen": "2026-W44",
@@ -28365,6 +30094,32 @@
    "lastPages": 1,
    "lastExamplePages": [
     "https://go.walsall.gov.uk/wellbeing-directory/community-matters-cic-food-support"
+   ]
+  },
+  "https://onetag-sys.com/usync/?cb=1793345718068&gdpr=0": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/newsroom/walsall-set-celebrate-black-country-pride-summer-festival"
+   ]
+  },
+  "https://sync.richaudience.com/dcf3528a0b8aa83634892d50e91c306e/?ord=5866320936": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/newsroom/walsall-set-celebrate-black-country-pride-summer-festival"
    ]
   },
   "https://onetag-sys.com/usync/?cb=1793342547860&gdpr=0": {
@@ -28833,6 +30588,45 @@
    "lastPages": 1,
    "lastExamplePages": [
     "http://go.walsall.gov.uk/newsroom/remembrance-day-parades-and-services-walsall-3"
+   ]
+  },
+  "https://47a8766cd3e44c547c33abd7f8ce6dd3.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/health-and-social-care/help-live-home"
+   ]
+  },
+  "https://sync.richaudience.com/dcf3528a0b8aa83634892d50e91c306e/?ord=6192900359": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/health-and-social-care/help-live-home"
+   ]
+  },
+  "https://onetag-sys.com/usync/?cb=1793345702541&gdpr=0": {
+   "type": "iframe",
+   "firstSeen": "2026-W44",
+   "lastSeen": "2026-W44",
+   "_weeks": [
+    "2026-W44"
+   ],
+   "weeksSeen": 1,
+   "lastPages": 1,
+   "lastExamplePages": [
+    "https://go.walsall.gov.uk/health-and-social-care/help-live-home"
    ]
   },
   "http://go.walsall.gov.uk/sites/default/files/2022-08/Proposal%20to%20increase%20the%20place-funded%20numbers%20at%20Castle%20Business%20and%20Enterprise%20College_0.docx": {
