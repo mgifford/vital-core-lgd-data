@@ -1,0 +1,510 @@
+{
+ "domain": "www.hackney.gov.uk",
+ "updatedAt": "2026-10-30T10:12:23.025Z",
+ "checker": {
+  "name": "pdf-crawler",
+  "url": "https://github.com/mgifford/pdf-crawler",
+  "ref": "9f079bac419b9d2b62cc325c5589df012a99e251",
+  "checks": "original"
+ },
+ "pdfs": {
+  "https://news.hackney.gov.uk/download/70203/wetlandsmap-2.pdf": {
+   "checkedAt": "2026-10-30T10:12:07.611Z",
+   "week": "2026-W44",
+   "httpStatus": 404,
+   "etag": null,
+   "lastModified": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "HTTP 404"
+   ]
+  },
+  "https://consultation.hackney.gov.uk/++preview++/regeneration-capital-programme-delivery/buckland-court-development-proposal/supporting_documents/NHP2_240920_ARC_BUC_Engagement%20board%20111.pdf": {
+   "checkedAt": "2026-10-30T10:12:23.017Z",
+   "week": "2026-W44",
+   "httpStatus": 200,
+   "md5": "f6006159c8c075502a50d87b3be5f687",
+   "bytes": 2172,
+   "etag": null,
+   "lastModified": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "Not a PDF file: no %PDF- header"
+   ]
+  },
+  "https://consultation.hackney.gov.uk/parking-services/bluebadge/results/bluebadgeparkingreviewfinaldpr-september20191.pdf": {
+   "checkedAt": "2026-10-30T10:12:23.017Z",
+   "week": "2026-W44",
+   "httpStatus": 200,
+   "md5": "1c690116e5a3161a44c1796f2377ec69",
+   "bytes": 325079,
+   "etag": null,
+   "lastModified": "Wed, 20 Nov 2019 12:16:29 GMT",
+   "finalUrl": "https://consultation.hackney.gov.uk/parking-markets/bluebadge/results/bluebadgeparkingreviewfinaldpr-september20191.pdf",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": null,
+    "title": null,
+    "pages": 32,
+    "words": 8686,
+    "images": 4,
+    "category": null,
+    "checks": {
+     "tagged": "fail",
+     "title": "fail",
+     "language": "fail",
+     "bookmarks": "fail",
+     "taggedContent": "fail",
+     "figuresAlt": null,
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": "fail",
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "no date found, title, tagged, lang, no bookmarks and more than 20 pages, annotations-untagged, "
+   ]
+  },
+  "https://consultation.hackney.gov.uk/parking-services/event-day-1/results/qeop---delegated-report.pdf": {
+   "checkedAt": "2026-10-30T10:12:23.018Z",
+   "week": "2026-W44",
+   "httpStatus": 200,
+   "md5": "2efc8eaa46061619a9a28b0693159079",
+   "bytes": 2179608,
+   "etag": null,
+   "lastModified": "Tue, 09 Jan 2018 14:36:18 GMT",
+   "finalUrl": "https://consultation.hackney.gov.uk/parking-markets/event-day-1/results/qeop---delegated-report.pdf",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": true,
+    "broken": false,
+    "exempt": true,
+    "published": "2018-01-09",
+    "title": null,
+    "pages": 32,
+    "words": 0,
+    "images": 384,
+    "category": "Report",
+    "checks": {
+     "tagged": "fail",
+     "title": "fail",
+     "language": "fail",
+     "bookmarks": "fail",
+     "taggedContent": "fail",
+     "figuresAlt": null,
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "fail",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "title, tagged, lang, no bookmarks and more than 20 pages, "
+   ]
+  },
+  "https://consultation.hackney.gov.uk/parking-services/event-day/results/delegated_report_-_event_day_review_-_may_2017.pdf": {
+   "checkedAt": "2026-10-30T10:12:23.019Z",
+   "week": "2026-W44",
+   "httpStatus": 200,
+   "md5": "2dc97df74595ca3a1c7f3438a1dfec7d",
+   "bytes": 1097436,
+   "etag": null,
+   "lastModified": "Wed, 26 Jul 2017 13:06:48 GMT",
+   "finalUrl": "https://consultation.hackney.gov.uk/parking-markets/event-day/results/delegated_report_-_event_day_review_-_may_2017.pdf",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": true,
+    "published": "2017-07-26",
+    "title": "TITLE OF REPORT",
+    "pages": 27,
+    "words": 5066,
+    "images": 13,
+    "category": "Report",
+    "checks": {
+     "tagged": "pass",
+     "title": "fail",
+     "language": "pass",
+     "bookmarks": "fail",
+     "taggedContent": "pass",
+     "figuresAlt": "fail",
+     "headings": "fail",
+     "lists": "pass",
+     "tables": "fail",
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": "pass",
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "title, no bookmarks and more than 20 pages, figures missing alt text (count=12), headings-skip, tables-fail, "
+   ]
+  },
+  "https://consultation.hackney.gov.uk/parking-services/zone-d-review/supporting_documents/DPR%20%20Zone%20D%20Stage%204%20Review%20Consultation.pdf": {
+   "checkedAt": "2026-10-30T10:12:23.019Z",
+   "week": "2026-W44",
+   "httpStatus": 200,
+   "md5": "32f48f5928964b59ced30202ba7689f8",
+   "bytes": 730824,
+   "etag": null,
+   "lastModified": "Thu, 26 May 2016 16:36:12 GMT",
+   "finalUrl": "https://consultation.hackney.gov.uk/parking-markets/zone-d-review/supporting_documents/DPR%20%20Zone%20D%20Stage%204%20Review%20Consultation.pdf",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": true,
+    "broken": false,
+    "exempt": true,
+    "published": "2016-05-26",
+    "title": null,
+    "pages": 14,
+    "words": 0,
+    "images": 41,
+    "category": "Report",
+    "checks": {
+     "tagged": "fail",
+     "title": "fail",
+     "language": "fail",
+     "bookmarks": "pass",
+     "taggedContent": "fail",
+     "figuresAlt": null,
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "fail",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "title, tagged, lang, "
+   ]
+  },
+  "https://consultation.hackney.gov.uk/parking-services/zone-g2-review/results/zonegg2delegatedrepport2018.pdf": {
+   "checkedAt": "2026-10-30T10:12:23.019Z",
+   "week": "2026-W44",
+   "httpStatus": 200,
+   "md5": "98dc4630f845e1489145982a7e180e15",
+   "bytes": 2747292,
+   "etag": null,
+   "lastModified": "Tue, 08 May 2018 17:06:01 GMT",
+   "finalUrl": "https://consultation.hackney.gov.uk/parking-markets/zone-g2-review/results/zonegg2delegatedrepport2018.pdf",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": true,
+    "broken": false,
+    "exempt": true,
+    "published": "2018-03-28",
+    "title": null,
+    "pages": 44,
+    "words": 0,
+    "images": 502,
+    "category": "Report",
+    "checks": {
+     "tagged": "fail",
+     "title": "fail",
+     "language": "fail",
+     "bookmarks": "fail",
+     "taggedContent": "fail",
+     "figuresAlt": null,
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "fail",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "title, tagged, lang, no bookmarks and more than 20 pages, "
+   ]
+  },
+  "https://consultation.hackney.gov.uk/parking-services/zone-l-disp/results/cdm--18650087-v1-stage_1-2_delegated_authority_report_-_zone_l_disp_-_june_2017_-_signed.pdf": {
+   "checkedAt": "2026-10-30T10:12:23.020Z",
+   "week": "2026-W44",
+   "httpStatus": 200,
+   "md5": "a8488f9c4a9bb04a2edc66f104db2eba",
+   "bytes": 2692084,
+   "etag": null,
+   "lastModified": "Fri, 11 Aug 2017 11:07:26 GMT",
+   "finalUrl": "https://consultation.hackney.gov.uk/parking-markets/zone-l-disp/results/cdm--18650087-v1-stage_1-2_delegated_authority_report_-_zone_l_disp_-_june_2017_-_signed.pdf",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": true,
+    "broken": false,
+    "exempt": true,
+    "published": "2017-08-11",
+    "title": null,
+    "pages": 36,
+    "words": 0,
+    "images": 251,
+    "category": "Report",
+    "checks": {
+     "tagged": "fail",
+     "title": "fail",
+     "language": "fail",
+     "bookmarks": "fail",
+     "taggedContent": "fail",
+     "figuresAlt": null,
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "fail",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "title, tagged, lang, no bookmarks and more than 20 pages, "
+   ]
+  },
+  "https://consultation.hackney.gov.uk/parking-services/zone-n-disp/supporting_documents/Stage_12_Delegated_Authority_Report__Zones_R__S_and_N_disp_areas__Jan_2017.pdf": {
+   "checkedAt": "2026-10-30T10:12:23.021Z",
+   "week": "2026-W44",
+   "httpStatus": 200,
+   "md5": "b09e75e8066679b85acab7eace2b7d1a",
+   "bytes": 5052756,
+   "etag": null,
+   "lastModified": "Mon, 13 Feb 2017 11:26:32 GMT",
+   "finalUrl": "https://consultation.hackney.gov.uk/parking-markets/zone-n-disp/supporting_documents/Stage_12_Delegated_Authority_Report__Zones_R__S_and_N_disp_areas__Jan_2017.pdf",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": true,
+    "published": "2017-02-10",
+    "title": "Microsoft Word - CDM-#17976956-v1-Stage_1&2_Delegated_Authority_Report_-_Zones_R__S_and_N_disp_areas_-_Jan_2017.doc",
+    "pages": 63,
+    "words": 11982,
+    "images": 17,
+    "category": "Report",
+    "checks": {
+     "tagged": "fail",
+     "title": "fail",
+     "language": "fail",
+     "bookmarks": "fail",
+     "taggedContent": "fail",
+     "figuresAlt": null,
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "title, tagged, lang, no bookmarks and more than 20 pages, "
+   ]
+  },
+  "https://consultation.hackney.gov.uk/parking-services/zone-r-rectory-road/supporting_documents/CDM17443718v1Stage_Two_consultation_delegated_report_Zone_R__S_Displacement_and_N_Displacement_2016.pdf": {
+   "checkedAt": "2026-10-30T10:12:23.022Z",
+   "week": "2026-W44",
+   "httpStatus": 200,
+   "md5": "81ed67a045f1506284013177049a50c3",
+   "bytes": 3100483,
+   "etag": null,
+   "lastModified": "Thu, 06 Oct 2016 16:39:44 GMT",
+   "finalUrl": "https://consultation.hackney.gov.uk/parking-markets/zone-r-rectory-road/supporting_documents/CDM17443718v1Stage_Two_consultation_delegated_report_Zone_R__S_Displacement_and_N_Displacement_2016.pdf",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": true,
+    "published": "2016-10-06",
+    "title": "Microsoft Word - CDM-#17443718-v1-Stage_Two_consultation_delegated_report_Zone_R__S_Displacement_and_N_Displacement_2016.doc",
+    "pages": 63,
+    "words": 8976,
+    "images": 32,
+    "category": "Report",
+    "checks": {
+     "tagged": "fail",
+     "title": "fail",
+     "language": "fail",
+     "bookmarks": "fail",
+     "taggedContent": "fail",
+     "figuresAlt": null,
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "title, tagged, lang, no bookmarks and more than 20 pages, "
+   ]
+  },
+  "https://consultation.hackney.gov.uk/parking-services/zone-t-disp/results/stage12delegated_authority_report-zonetdisp-final_signed_version_200218.pdf": {
+   "checkedAt": "2026-10-30T10:12:23.023Z",
+   "week": "2026-W44",
+   "httpStatus": 200,
+   "md5": "67bc29c5053938d201a524c2f13b3da9",
+   "bytes": 3425060,
+   "etag": null,
+   "lastModified": "Thu, 22 Feb 2018 13:18:05 GMT",
+   "finalUrl": "https://consultation.hackney.gov.uk/parking-markets/zone-t-disp/results/stage12delegated_authority_report-zonetdisp-final_signed_version_200218.pdf",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": true,
+    "published": "2018-02-22",
+    "title": "TITLE OF REPORT",
+    "pages": 48,
+    "words": 8890,
+    "images": 17,
+    "category": "Report",
+    "checks": {
+     "tagged": "pass",
+     "title": "fail",
+     "language": "pass",
+     "bookmarks": "fail",
+     "taggedContent": "pass",
+     "figuresAlt": "pass",
+     "headings": "fail",
+     "lists": "pass",
+     "tables": "fail",
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": "pass",
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "title, no bookmarks and more than 20 pages, headings-skip, tables-fail, "
+   ]
+  },
+  "https://consultation.hackney.gov.uk/parking-services/zone-u/results/zone_u_-_delegated_report.pdf": {
+   "checkedAt": "2026-10-30T10:12:23.023Z",
+   "week": "2026-W44",
+   "httpStatus": 200,
+   "md5": "6038c51c1fa3e951cfd374c991443866",
+   "bytes": 2104412,
+   "etag": null,
+   "lastModified": "Mon, 23 Jul 2018 11:39:14 GMT",
+   "finalUrl": "https://consultation.hackney.gov.uk/parking-markets/zone-u/results/zone_u_-_delegated_report.pdf",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": true,
+    "published": "2018-07-23",
+    "title": null,
+    "pages": 45,
+    "words": 8632,
+    "images": 25,
+    "category": "Report",
+    "checks": {
+     "tagged": "pass",
+     "title": "fail",
+     "language": "pass",
+     "bookmarks": "fail",
+     "taggedContent": "pass",
+     "figuresAlt": "fail",
+     "headings": "fail",
+     "lists": "pass",
+     "tables": "fail",
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": "pass",
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "title, no bookmarks and more than 20 pages, figures missing alt text (count=3), headings-skip, tables-fail, "
+   ]
+  },
+  "https://consultation.hackney.gov.uk/regeneration-capital-programme-delivery/cropley-court-development-proposal/user_uploads/cropley-court--new-homes-programme--sep-2024-1.pdf": {
+   "checkedAt": "2026-10-30T10:12:23.024Z",
+   "week": "2026-W44",
+   "httpStatus": 200,
+   "md5": "fdb59a1093cb88b4eab0b129fddaec2a",
+   "bytes": 3940772,
+   "etag": null,
+   "lastModified": "Fri, 27 Sep 2024 11:48:03 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2024-09-27",
+    "title": null,
+    "pages": 11,
+    "words": 1843,
+    "images": 81,
+    "category": "Procurement",
+    "checks": {
+     "tagged": "fail",
+     "title": "fail",
+     "language": "fail",
+     "bookmarks": "pass",
+     "taggedContent": "fail",
+     "figuresAlt": null,
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "title, tagged, lang, "
+   ]
+  }
+ }
+}
