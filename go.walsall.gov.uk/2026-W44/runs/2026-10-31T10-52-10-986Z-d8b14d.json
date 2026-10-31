@@ -1,0 +1,158 @@
+{
+ "runId": "2026-10-31T10-52-10-986Z-d8b14d",
+ "week": "2026-W44",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-10-31T10:52:12.722Z",
+ "scanned": [
+  "84a771703a082237",
+  "ab606d9f2c4d840e",
+  "c8cbb9b72a9b3f62",
+  "6b092218589f8de5",
+  "cd7fa2a54aa970c4",
+  "68e25a97da637fb4",
+  "0a915be2b1b729a8",
+  "fe1c926bb9f41b44",
+  "7d3c2657f88e8798",
+  "b6db3c10f001d631",
+  "11a255d74e034f0a",
+  "be137b40be14873e",
+  "f6d0f67e23635cb4",
+  "e5b3151826fefc22",
+  "575da0360bd893f0",
+  "788ff0f637dfa422",
+  "767846fc7819283b",
+  "ffd088a3184690cb",
+  "8b99f69ec886730d",
+  "7368a8fd344109aa",
+  "bbe5b1a5fef7d7e6",
+  "ed416b623c521ab1",
+  "9f70101999de4f88",
+  "56270688462da0ba",
+  "66c9ed6c5cbcff0c",
+  "670827fc81b59466",
+  "8b72a9351394902c",
+  "9126854119c8f844",
+  "061ee6c14d5ec02c",
+  "925adfa848a9d7ee",
+  "17b81d9d7bd86cef",
+  "cc1f91ec699779bc",
+  "202b0d08e8f0b28c",
+  "f1f927de8d2e64a4",
+  "a2913be7952394c4",
+  "e74a5c51477af25b",
+  "b751785aa1eaa8c6",
+  "6889165c23e941f2",
+  "c337b19bfa278888",
+  "cbe3f241f981b7b8",
+  "f7221bd25cf654e4",
+  "5dd633f2e6498c6f",
+  "53cc73ef2b060650",
+  "837b1d40b411f8dc",
+  "35039a96ec573a5f",
+  "07248cfbd757f01c",
+  "c0b422e899b85847",
+  "ce9803d0501bb3cb",
+  "c095d4793095f47e"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 520,
+  "checked": 500,
+  "brokenCount": 5,
+  "broken": [
+   {
+    "url": "https://go.walsall.gov.uk/accessibility/list-our-other-websites/webproject@walsall.gov.uk",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/accessibility/list-our-other-websites/accessibility-statement-young-carer-aware-application"
+    ]
+   },
+   {
+    "url": "https://espws.necsws.com/ords/pwslive/call_initial_apex_page.nes_selfsrv?service=CAR&la=WAL&language=ENG&options=CT",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/myaccount-online-services"
+    ]
+   },
+   {
+    "url": "https://espws.necsws.com/ords/pwslive/call_initial_apex_page.nes_selfsrv?service=CAR&la=WAL&language=ENG&options=BR",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/myaccount-online-services"
+    ]
+   },
+   {
+    "url": "https://wslc.walsall.gov.uk/leisurehub/identity/login",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://go.walsall.gov.uk/sport-and-leisure/activities/parties/parties-oak-park-active-living-centre"
+    ]
+   },
+   {
+    "url": "https://walsallsp.co.uk/contact-us/concerned-about-an-adult/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/myaccount-online-services"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "sustainability": 4,
+  "axe": 49,
+  "plain-language": 27,
+  "resources": 49,
+  "images": 49,
+  "security": 4,
+  "public-interest": 5,
+  "link-check": 49,
+  "standards": 24,
+  "third-party": 11,
+  "deprecated-html": 2,
+  "alfa": 26,
+  "tech": 7,
+  "lighthouse": 4
+ },
+ "tally": {
+  "ok": 49,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 1,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 2,
+  "error": 0
+ },
+ "finishedAt": "2026-10-31T11:09:21.112Z"
+}
