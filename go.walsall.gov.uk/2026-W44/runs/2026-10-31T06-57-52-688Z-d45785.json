@@ -1,0 +1,159 @@
+{
+ "runId": "2026-10-31T06-57-52-688Z-d45785",
+ "week": "2026-W44",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-10-31T06:57:53.249Z",
+ "scanned": [
+  "7f63580056b61530",
+  "06ad4e2025d04c29",
+  "9d8eaa34dd3841a5",
+  "568f249df59c0db3",
+  "25934d19812050e6",
+  "9d02735df0c5a2d7",
+  "254293f80e24b8cc",
+  "43832fe4c86dd6b7",
+  "b76b36372c7bf766",
+  "6167a7d12c3aabc1",
+  "c7c65a6e93c9f448",
+  "30e954510be6d2fb",
+  "3af7af761c05bedf",
+  "7249c3efd0fbd06f",
+  "cbaf524d4f427512",
+  "02d5d87e3d0db28b",
+  "304327ef0533a7b5",
+  "b930dae89a2911c4",
+  "9abe91c887648ef6",
+  "db65c575e8240b64",
+  "87705b26940daae9",
+  "1d31c64588efa35d",
+  "adbef35f9e78ce1d",
+  "be75f84b2825f933",
+  "01b4c37f497c9b92",
+  "2168173cbbee76ef",
+  "3e82b619f18ad783",
+  "b2ba7b1d1a865a40",
+  "708b487bbc6f67c5",
+  "85db57e6c1664ccf",
+  "42f5a4bc019738e9",
+  "9653611f220a2525",
+  "a74c26dbc89c23f1",
+  "aa3823d9971f8503",
+  "b23c3a17627591ba",
+  "1469ad5a5c90b35c",
+  "8fef46811c7bd999",
+  "70f801de15e3c022",
+  "5e1d838289df3527",
+  "e1c9681a6db934b0",
+  "8f461bee9a76d35e",
+  "2264518e51d2127c",
+  "18b048bece0e8ec7",
+  "7628b57d97883a6f",
+  "b991389ee6e61e6c",
+  "9bee36e5a67f1781",
+  "fef44684015903ea",
+  "428da114e3a9a312",
+  "1fc3e1ab34d896a2",
+  "6a90a36a0df11b3e"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 481,
+  "checked": 481,
+  "brokenCount": 5,
+  "broken": [
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fthestreetlink.org.uk%2F&data=05%7C02%7CCharlotte.Gough%40walsall.gov.uk%7C16c8005d98274802df5b08ddd8c12579%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638905046259331455%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=ryuKu%2FiVu3%2F00p17wwz%2B7ebnWpZ5EAp7rf%2Foyrokv%2B0%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/warm-weather-advice-walsall-residents"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fstreetsupport.net%2F&data=05%7C02%7CCharlotte.Gough%40walsall.gov.uk%7C16c8005d98274802df5b08ddd8c12579%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638905046259374483%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=vgO2gumEgScb3MVICqwHLmhWXysissRuVzVTLMIdxY8%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/warm-weather-advice-walsall-residents"
+    ]
+   },
+   {
+    "url": "https://www.metoffice.gov.uk/public/weather/heat-health/?tab=heatHealth&season=normal",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/warm-weather-advice-walsall-residents"
+    ]
+   },
+   {
+    "url": "https://go.walsall.gov.uk/events/walsall-makerfest-2026%C2%A0",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/events/walsall-makerfest-2026"
+    ]
+   },
+   {
+    "url": "https://wslc.walsall.gov.uk/leisurehub/identity/login",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://go.walsall.gov.uk/events/pool-floats-fun-session-oak-park-active-living-centre-11"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 49,
+  "resources": 49,
+  "images": 49,
+  "standards": 21,
+  "link-check": 49,
+  "alfa": 31,
+  "plain-language": 19,
+  "third-party": 14,
+  "sustainability": 7,
+  "deprecated-html": 4,
+  "lighthouse": 5,
+  "tech": 8,
+  "public-interest": 2,
+  "security": 2
+ },
+ "tally": {
+  "ok": 49,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-31T07:11:10.475Z"
+}
