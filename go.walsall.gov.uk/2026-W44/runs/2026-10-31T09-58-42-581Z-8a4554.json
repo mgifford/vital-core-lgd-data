@@ -1,0 +1,182 @@
+{
+ "runId": "2026-10-31T09-58-42-581Z-8a4554",
+ "week": "2026-W44",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-10-31T09:58:43.249Z",
+ "scanned": [
+  "391e784911530aa7",
+  "622beaccbc355b71",
+  "44af77c96cb7b7d6",
+  "2d87dddf690e9547",
+  "159c764c445c8010",
+  "d71de4525f002735",
+  "6c6142ed1222fd1d",
+  "d3bd93e89fe997dc",
+  "da53b7fc042e18b3",
+  "d09ea647de72d0e4",
+  "08f19f90aa749645",
+  "80653b720d3c8fc6",
+  "16bd991b755ea3b7",
+  "1f023ad30d44fb83",
+  "5215e6c3a8f72ada",
+  "d23cf2667f89266d",
+  "6004e41e4ce045b5",
+  "0727ec4b54457be3",
+  "1eac29f4ad5d39b0",
+  "01351b0464f79136",
+  "b423137ce6e2d7a8",
+  "09fca12a4987fad5",
+  "1097a54be92d4ca2",
+  "3148df4182b47a82",
+  "bf52e8f7dcf3c23e",
+  "b478775bb21ace08",
+  "3a082661243144c6",
+  "b9713637c39a8249",
+  "9e7572e3bb1cf3af",
+  "addf146f5b289089",
+  "2e8e2c626c8cbf24",
+  "ef34a414227bd3cd",
+  "a36316396f37af18",
+  "d56ee6c34743de22",
+  "0f014cb80280c436",
+  "4504620ce10108c6",
+  "8c941002e4a8d4f7",
+  "dd415639edd3d2f7",
+  "b6a6e2fea1647f3d",
+  "e9526d437ea687ce",
+  "d02728a42cb7c73f",
+  "e3183cfc78da9665",
+  "af06a8e8b72dec39",
+  "7720daf023253851",
+  "ee4bed8397338d60",
+  "6a2b1bf512175a91",
+  "976a74b291070423",
+  "bee225a7bc825cb8",
+  "2b8b2212b597e54e"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 520,
+  "checked": 500,
+  "brokenCount": 8,
+  "broken": [
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.gov.uk%2Fgovernment%2Fpublications%2Fdefence-employer-recognition-scheme&data=05%7C02%7CJoan.Omionawele%40walsall.gov.uk%7Cb99d68683705498466e008dee25849f4%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639197065984656468%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=amSmIw4YTyN8wMnUuylKgXrsLqcPIj4yKdjHnVZbHq8%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/walsall-council-launches-new-armed-forces-hub-support-armed-forces-community"
+    ]
+   },
+   {
+    "url": "https://wslc.walsall.gov.uk/leisurehub/identity/login",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://go.walsall.gov.uk/events/pool-floats-fun-session-bloxwich-active-living-centre-10",
+     "https://go.walsall.gov.uk/events/pool-floats-fun-session-bloxwich-active-living-centre-5"
+    ]
+   },
+   {
+    "url": "https://mosaicportal.walsall.gov.uk/s4s/FormDetails/FillForm?formId=436",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/health-and-social-care/looking-after-your-mental-health/request-assessment-or-review-deprivation"
+    ]
+   },
+   {
+    "url": "https://mosaicportal.walsall.gov.uk/s4s/Auth?ReturnUrl=%2Fs4s%2FHome%2FDashboard%2F779caa81-abe3-467a-9ae5-b07a00f9bcc2",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/health-and-social-care/looking-after-your-mental-health/request-assessment-or-review-deprivation"
+    ]
+   },
+   {
+    "url": "https://mosaicportal.walsall.gov.uk/s4s/FormDetails/FillForm?formId=439",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/health-and-social-care/looking-after-your-mental-health/request-assessment-or-review-deprivation"
+    ]
+   },
+   {
+    "url": "https://mosaicportal.walsall.gov.uk/s4s/FormDetails/FillForm?formId=438",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/health-and-social-care/looking-after-your-mental-health/request-assessment-or-review-deprivation"
+    ]
+   },
+   {
+    "url": "https://mosaicportal.walsall.gov.uk/s4s/FormDetails/FillForm?formId=440",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/health-and-social-care/looking-after-your-mental-health/request-assessment-or-review-deprivation"
+    ]
+   },
+   {
+    "url": "https://www.scie.org.uk/mca/imca/roles/dols/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/health-and-social-care/looking-after-your-mental-health/request-assessment-or-review-deprivation"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 48,
+  "deprecated-html": 5,
+  "resources": 48,
+  "images": 48,
+  "standards": 25,
+  "link-check": 48,
+  "alfa": 27,
+  "third-party": 13,
+  "plain-language": 16,
+  "security": 5,
+  "public-interest": 2,
+  "tech": 5,
+  "lighthouse": 5
+ },
+ "tally": {
+  "ok": 48,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 1,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 2,
+  "error": 0
+ },
+ "finishedAt": "2026-10-31T10:13:44.141Z"
+}
