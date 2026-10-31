@@ -1,0 +1,159 @@
+{
+ "runId": "2026-10-31T08-41-21-043Z-c71a6b",
+ "week": "2026-W44",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-10-31T08:41:21.779Z",
+ "scanned": [
+  "22dda5ffc06c1d98",
+  "625882f77fdf82d0",
+  "9d749f02aedebb3c",
+  "618c3d2414e4e236",
+  "e0df1754ce7f12de",
+  "797c422fc1a9dc5a",
+  "e62751650e37c116",
+  "51a2a7ae0e85e099",
+  "05fcda27eaead2ce",
+  "9475b6ff80b41c56",
+  "1f3663d9c9a85c0f",
+  "030b27e839c6cd4d",
+  "f6e6c0ab2d1a8b2e",
+  "7013ab687ef86543",
+  "9758abe5cc9477eb",
+  "0f63abd31d185903",
+  "a6ffd93e115d4075",
+  "562350f50d176372",
+  "6e7a8c6886ea0b43",
+  "7e50ea26a7ac3f0f",
+  "c8f7e23635b00aa3",
+  "f53f644429154b29",
+  "01294139c50c1aeb",
+  "3005bfdf48b8728b",
+  "53e87b37acdb6fcb",
+  "cb3ce8281a107a54",
+  "2648cdcd603f148a",
+  "1a65808063ae833c",
+  "7ba050f576fbcfcd",
+  "bdfe99cf277164dc",
+  "f3f64780e315dce5",
+  "dbc1a958d8e304cb",
+  "774b55694c1225dc",
+  "c46016ea2394bffd",
+  "7eea2bce1134cca7",
+  "9d81ce1f47e8349f",
+  "d9717e4d05a0c966",
+  "85dafc77b40aaed4",
+  "02dcb7db335a3a3c",
+  "8ac9580705f955c8",
+  "c95bf7b6a4e57ac7",
+  "fb2fa12cc068d14f",
+  "815dfef00ec4d9f3",
+  "07c75f06f5d43ebd",
+  "15c2eea8103fb964",
+  "fcb774039f7ce5d7",
+  "1441164718fd572d",
+  "aee67e8e4ca52f2c",
+  "62829d60a8d0a5a2",
+  "d92f4f794ed943e6"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 359,
+  "checked": 359,
+  "brokenCount": 5,
+  "broken": [
+   {
+    "url": "http://www.go.walsall.gov.uk/feedback",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/new-walsall-wellbeing-directory-goes-live"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.gov.uk%2Fgovernment%2Fconsultations%2Fchildrens-social-care-stable-homes-built-on-love&data=05%7C02%7CCommunications%40walsall.gov.uk%7Ca2f1d479cbef48f0621e08dc5878ce4c%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638482523099595623%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=QVa6p1Ofxz9Op%2FtcT3dKFQ8K1Me1ScaVL%2FQnV4UvfCg%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/black-country-leading-way-national-social-care-reform"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.walsall.gov.uk%2Fmyaccount-online-services%2Freport-fly-tip&data=05%7C02%7CNathan.Rowe%40walsall.gov.uk%7Cad28cb659bd74b3ba3b308dedc379541%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639190328455938507%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=bod2q5AH%2FpQn7iCa9VlXkLMLmQkfbnuZcZzpc9%2BFclg%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/four-fly-tippers-fined-and-van-seized-walsall"
+    ]
+   },
+   {
+    "url": "https://canalrivertrust.org.uk/notices/29206-walsall-lock-flight-and-towpath-from-james-bridge-aqueduct-to-rolling-mill-street-bridge",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/updated-statement-toxic-chemical-spillage-4pm-19-august-2024"
+    ]
+   },
+   {
+    "url": "https://melresearch.co.uk/",
+    "status": 503,
+    "reason": "HTTP 503",
+    "foundOn": [
+     "https://go.walsall.gov.uk/walsall-council-staff-survey-2026"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 48,
+  "plain-language": 19,
+  "deprecated-html": 8,
+  "resources": 48,
+  "images": 48,
+  "standards": 19,
+  "public-interest": 3,
+  "third-party": 15,
+  "link-check": 48,
+  "alfa": 25,
+  "tech": 6,
+  "lighthouse": 8,
+  "sustainability": 5,
+  "security": 3
+ },
+ "tally": {
+  "ok": 48,
+  "blocked": 2,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-10-31T08:58:25.610Z"
+}
