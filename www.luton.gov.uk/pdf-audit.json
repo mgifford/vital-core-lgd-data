@@ -1,6 +1,6 @@
 {
  "domain": "www.luton.gov.uk",
- "updatedAt": "2026-10-31T01:48:43.405Z",
+ "updatedAt": "2026-11-01T01:27:43.583Z",
  "checker": {
   "name": "pdf-crawler",
   "url": "https://github.com/mgifford/pdf-crawler",
@@ -3156,6 +3156,966 @@
    },
    "errors": [
     "no date found, title, tagged, lang, "
+   ]
+  },
+  "https://www.luton.gov.uk/Council_government_and_democracy/Lists/LutonDocuments/PDF/black-unsung-heroes-awards-2024.pdf": {
+   "checkedAt": "2026-11-01T01:27:06.199Z",
+   "week": "2026-W44",
+   "httpStatus": 404,
+   "etag": "\"1793496426\"",
+   "lastModified": "Sun, 01 Nov 2026 01:27:06 GMT",
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "HTTP 404"
+   ]
+  },
+  "https://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/Local%20Plan/Other%20relevant%20documentation/Luton%20HMA%20Growth%20Options%20Study%20FINAL%20Report%2029%2003%2017.pdf": {
+   "checkedAt": "2026-11-01T01:27:08.031Z",
+   "week": "2026-W44",
+   "httpStatus": 404,
+   "etag": "\"1793496427\"",
+   "lastModified": "Sun, 01 Nov 2026 01:27:07 GMT",
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "HTTP 404"
+   ]
+  },
+  "https://www.luton.gov.uk/Leisure_and_culture/Lists/LutonDocuments/PDF/Arts%20and%20cultural/harnessing-momentum.pdf": {
+   "checkedAt": "2026-11-01T01:27:10.078Z",
+   "week": "2026-W44",
+   "httpStatus": 404,
+   "etag": "\"1793496429\"",
+   "lastModified": "Sun, 01 Nov 2026 01:27:09 GMT",
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "HTTP 404"
+   ]
+  },
+  "https://static.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/TPO/TPO_E107160%20Bowling%20Green%20Lane%201996_Order.PDF": {
+   "checkedAt": "2026-11-01T01:27:43.575Z",
+   "week": "2026-W44",
+   "httpStatus": 200,
+   "md5": "0aa99f1a300b26d4522bf1faf7112f42",
+   "bytes": 309721,
+   "etag": "\"1fa593a435dddc1:0\"",
+   "lastModified": "Wed, 06 May 2026 08:52:17 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": true,
+    "broken": false,
+    "exempt": false,
+    "published": null,
+    "title": "DC TPO Orders Data Tree Preservation Order 1996",
+    "pages": 9,
+    "words": 0,
+    "images": 9,
+    "category": null,
+    "checks": {
+     "tagged": "fail",
+     "title": "fail",
+     "language": "fail",
+     "bookmarks": "pass",
+     "taggedContent": "fail",
+     "figuresAlt": null,
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "fail",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "no date found, title, tagged, lang, "
+   ]
+  },
+  "https://static.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/TPO/TPO_E107160%20Bowling%20Green%20Lane%201996_Plan.PDF": {
+   "checkedAt": "2026-11-01T01:27:43.575Z",
+   "week": "2026-W44",
+   "httpStatus": 200,
+   "md5": "f0837af4232f48788183a7db754567fe",
+   "bytes": 2121329,
+   "etag": "\"4cb8a6a435dddc1:0\"",
+   "lastModified": "Wed, 06 May 2026 08:52:17 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": true,
+    "broken": false,
+    "exempt": false,
+    "published": null,
+    "title": "DC TPO Orders Data Tree Preservation Order 1996",
+    "pages": 4,
+    "words": 0,
+    "images": 4,
+    "category": null,
+    "checks": {
+     "tagged": "fail",
+     "title": "fail",
+     "language": "fail",
+     "bookmarks": "pass",
+     "taggedContent": "fail",
+     "figuresAlt": null,
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "fail",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "no date found, title, tagged, lang, "
+   ]
+  },
+  "https://static.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/TPO/TPO_E107163%204-8%20Bury%20Park%20Road%201991_Order.PDF": {
+   "checkedAt": "2026-11-01T01:27:43.576Z",
+   "week": "2026-W44",
+   "httpStatus": 200,
+   "md5": "4c0b6f47f52e28871f9a8d6da5b15eb4",
+   "bytes": 496171,
+   "etag": "\"d479e9a435dddc1:0\"",
+   "lastModified": "Wed, 06 May 2026 08:52:18 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": true,
+    "broken": false,
+    "exempt": false,
+    "published": null,
+    "title": "DC TPO Orders Data Tree Preservation Order 1991",
+    "pages": 18,
+    "words": 0,
+    "images": 18,
+    "category": null,
+    "checks": {
+     "tagged": "fail",
+     "title": "fail",
+     "language": "fail",
+     "bookmarks": "pass",
+     "taggedContent": "fail",
+     "figuresAlt": null,
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "fail",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "no date found, title, tagged, lang, "
+   ]
+  },
+  "https://static.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/TPO/TPO_E107163%204-8%20Bury%20Park%20Road%201991_Plan.PDF": {
+   "checkedAt": "2026-11-01T01:27:43.576Z",
+   "week": "2026-W44",
+   "httpStatus": 200,
+   "md5": "f2007581dfd52072a0bb2f12b10522c9",
+   "bytes": 208117,
+   "etag": "\"b23f3a435dddc1:0\"",
+   "lastModified": "Wed, 06 May 2026 08:52:18 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": true,
+    "broken": false,
+    "exempt": false,
+    "published": null,
+    "title": "DC TPO Orders Data Tree Preservation Order 1991",
+    "pages": 3,
+    "words": 0,
+    "images": 3,
+    "category": null,
+    "checks": {
+     "tagged": "fail",
+     "title": "fail",
+     "language": "fail",
+     "bookmarks": "pass",
+     "taggedContent": "fail",
+     "figuresAlt": null,
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "fail",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "no date found, title, tagged, lang, "
+   ]
+  },
+  "https://static.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/TPO/TPO_E107165%2016%20Marsh%20Road%201998_Order.PDF": {
+   "checkedAt": "2026-11-01T01:27:43.577Z",
+   "week": "2026-W44",
+   "httpStatus": 200,
+   "md5": "58ae8a695a996029a1ff9446381019d8",
+   "bytes": 494987,
+   "etag": "\"79c616a535dddc1:0\"",
+   "lastModified": "Wed, 06 May 2026 08:52:18 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": true,
+    "broken": false,
+    "exempt": false,
+    "published": null,
+    "title": "DC TPO Orders Data Tree Preservation Order 1998",
+    "pages": 17,
+    "words": 0,
+    "images": 17,
+    "category": null,
+    "checks": {
+     "tagged": "fail",
+     "title": "fail",
+     "language": "fail",
+     "bookmarks": "pass",
+     "taggedContent": "fail",
+     "figuresAlt": null,
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "fail",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "no date found, title, tagged, lang, "
+   ]
+  },
+  "https://static.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/TPO/TPO_E107166%2027%20Bury%20Park%20Road%201998_Order.PDF": {
+   "checkedAt": "2026-11-01T01:27:43.577Z",
+   "week": "2026-W44",
+   "httpStatus": 200,
+   "md5": "f5aeb2d914009cfad8d6a62d70392021",
+   "bytes": 1058086,
+   "etag": "\"491525a535dddc1:0\"",
+   "lastModified": "Wed, 06 May 2026 08:52:18 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": true,
+    "broken": false,
+    "exempt": false,
+    "published": null,
+    "title": "DC TPO Orders Data Tree Preservation Order 1998",
+    "pages": 42,
+    "words": 0,
+    "images": 42,
+    "category": null,
+    "checks": {
+     "tagged": "fail",
+     "title": "fail",
+     "language": "fail",
+     "bookmarks": "fail",
+     "taggedContent": "fail",
+     "figuresAlt": null,
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "fail",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "no date found, title, tagged, lang, no bookmarks and more than 20 pages, "
+   ]
+  },
+  "https://static.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/TPO/TPO_E107166%2027%20Bury%20Park%20Road%201998_Plan.PDF": {
+   "checkedAt": "2026-11-01T01:27:43.577Z",
+   "week": "2026-W44",
+   "httpStatus": 200,
+   "md5": "ce6150871aaa58c1db05c81134ecd4bb",
+   "bytes": 81142,
+   "etag": "\"f73b2ca535dddc1:0\"",
+   "lastModified": "Wed, 06 May 2026 08:52:18 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": true,
+    "broken": false,
+    "exempt": false,
+    "published": null,
+    "title": "DC TPO Orders Data Tree Preservation Order 1998",
+    "pages": 1,
+    "words": 0,
+    "images": 1,
+    "category": null,
+    "checks": {
+     "tagged": "fail",
+     "title": "fail",
+     "language": "fail",
+     "bookmarks": "pass",
+     "taggedContent": "fail",
+     "figuresAlt": null,
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "fail",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "no date found, title, tagged, lang, "
+   ]
+  },
+  "https://static.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/TPO/TPO_E107169%20Stanford%20Road%202000_Order.PDF": {
+   "checkedAt": "2026-11-01T01:27:43.578Z",
+   "week": "2026-W44",
+   "httpStatus": 200,
+   "md5": "4732260faac6f24cf8adb8e92932c068",
+   "bytes": 627139,
+   "etag": "\"eb893aa535dddc1:0\"",
+   "lastModified": "Wed, 06 May 2026 08:52:18 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": true,
+    "broken": false,
+    "exempt": false,
+    "published": null,
+    "title": "DC TPO Orders Data Tree Preservation Order 2000",
+    "pages": 18,
+    "words": 0,
+    "images": 18,
+    "category": null,
+    "checks": {
+     "tagged": "fail",
+     "title": "fail",
+     "language": "fail",
+     "bookmarks": "pass",
+     "taggedContent": "fail",
+     "figuresAlt": null,
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "fail",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "no date found, title, tagged, lang, "
+   ]
+  },
+  "https://static.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/TPO/TPO_E107177%20275%20New%20Bedford%20Road%202002_Order.PDF": {
+   "checkedAt": "2026-11-01T01:27:43.578Z",
+   "week": "2026-W44",
+   "httpStatus": 200,
+   "md5": "3571d1dea1498a67ff280722a53772ab",
+   "bytes": 537068,
+   "etag": "\"0facba535dddc1:0\"",
+   "lastModified": "Wed, 06 May 2026 08:52:19 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": true,
+    "broken": false,
+    "exempt": false,
+    "published": null,
+    "title": "DC TPO Orders Data Tree Preservation Order 2002",
+    "pages": 19,
+    "words": 0,
+    "images": 19,
+    "category": null,
+    "checks": {
+     "tagged": "fail",
+     "title": "fail",
+     "language": "fail",
+     "bookmarks": "pass",
+     "taggedContent": "fail",
+     "figuresAlt": null,
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "fail",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "no date found, title, tagged, lang, "
+   ]
+  },
+  "https://static.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/TPO/TPO_E107179%20Grosvenor%20Road%202003_Order.PDF": {
+   "checkedAt": "2026-11-01T01:27:43.578Z",
+   "week": "2026-W44",
+   "httpStatus": 200,
+   "md5": "a9bab3e9d47b97cb27b1e159ae5b6d25",
+   "bytes": 492235,
+   "etag": "\"52bdefa535dddc1:0\"",
+   "lastModified": "Wed, 06 May 2026 08:52:20 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": true,
+    "broken": false,
+    "exempt": false,
+    "published": null,
+    "title": "DC TPO Orders Data Tree Preservation Order 2003",
+    "pages": 18,
+    "words": 0,
+    "images": 18,
+    "category": null,
+    "checks": {
+     "tagged": "fail",
+     "title": "fail",
+     "language": "fail",
+     "bookmarks": "pass",
+     "taggedContent": "fail",
+     "figuresAlt": null,
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "fail",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "no date found, title, tagged, lang, "
+   ]
+  },
+  "https://static.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/TPO/TPO_E107179%20Grosvenor%20Road%202003_Plan.PDF": {
+   "checkedAt": "2026-11-01T01:27:43.579Z",
+   "week": "2026-W44",
+   "httpStatus": 200,
+   "md5": "47fe7265204b89b4ac107b71efc6b98f",
+   "bytes": 43494,
+   "etag": "\"aee3f6a535dddc1:0\"",
+   "lastModified": "Wed, 06 May 2026 08:52:20 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": true,
+    "broken": false,
+    "exempt": false,
+    "published": null,
+    "title": "DC TPO Orders Data Tree Preservation Order 2003",
+    "pages": 1,
+    "words": 0,
+    "images": 1,
+    "category": null,
+    "checks": {
+     "tagged": "fail",
+     "title": "fail",
+     "language": "fail",
+     "bookmarks": "pass",
+     "taggedContent": "fail",
+     "figuresAlt": null,
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "fail",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "no date found, title, tagged, lang, "
+   ]
+  },
+  "https://static.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/TPO/TPO_E107181%20New%20Bedford%20Road%202004_Order.PDF": {
+   "checkedAt": "2026-11-01T01:27:43.579Z",
+   "week": "2026-W44",
+   "httpStatus": 200,
+   "md5": "37725bced6d9dff13f69791e310062fa",
+   "bytes": 475379,
+   "etag": "\"9ef61aa635dddc1:0\"",
+   "lastModified": "Wed, 06 May 2026 08:52:20 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": true,
+    "broken": false,
+    "exempt": false,
+    "published": null,
+    "title": "DC TPO Orders Data Tree Preservation Order 2004",
+    "pages": 18,
+    "words": 0,
+    "images": 18,
+    "category": null,
+    "checks": {
+     "tagged": "fail",
+     "title": "fail",
+     "language": "fail",
+     "bookmarks": "pass",
+     "taggedContent": "fail",
+     "figuresAlt": null,
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "fail",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "no date found, title, tagged, lang, "
+   ]
+  },
+  "https://static.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/TPO/TPO_E107186%20Montrose%20Avenue%202005_Order.PDF": {
+   "checkedAt": "2026-11-01T01:27:43.579Z",
+   "week": "2026-W44",
+   "httpStatus": 200,
+   "md5": "045866a9b828a4878674f780b537a698",
+   "bytes": 513024,
+   "etag": "\"8096fa635dddc1:0\"",
+   "lastModified": "Wed, 06 May 2026 08:52:20 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": true,
+    "broken": false,
+    "exempt": false,
+    "published": null,
+    "title": "DC TPO Orders Data Tree Preservation Order 2005",
+    "pages": 19,
+    "words": 0,
+    "images": 19,
+    "category": null,
+    "checks": {
+     "tagged": "fail",
+     "title": "fail",
+     "language": "fail",
+     "bookmarks": "pass",
+     "taggedContent": "fail",
+     "figuresAlt": null,
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "fail",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "no date found, title, tagged, lang, "
+   ]
+  },
+  "https://static.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/TPO/TPO_E107186%20Montrose%20Avenue%202005_Plan.PDF": {
+   "checkedAt": "2026-11-01T01:27:43.579Z",
+   "week": "2026-W44",
+   "httpStatus": 200,
+   "md5": "8a2e3312a3eae9d6808fc72e668d40b2",
+   "bytes": 27064,
+   "etag": "\"cc4576a635dddc1:0\"",
+   "lastModified": "Wed, 06 May 2026 08:52:21 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": true,
+    "broken": false,
+    "exempt": false,
+    "published": null,
+    "title": "DC TPO Orders Data Tree Preservation Order 2005",
+    "pages": 1,
+    "words": 0,
+    "images": 1,
+    "category": null,
+    "checks": {
+     "tagged": "fail",
+     "title": "fail",
+     "language": "fail",
+     "bookmarks": "pass",
+     "taggedContent": "fail",
+     "figuresAlt": null,
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "fail",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "no date found, title, tagged, lang, "
+   ]
+  },
+  "https://static.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/TPO/TPO_E107187%20St%20Martins%20Allotments%20Birchen%20Grove%202005_Order.PDF": {
+   "checkedAt": "2026-11-01T01:27:43.579Z",
+   "week": "2026-W44",
+   "httpStatus": 200,
+   "md5": "07ec230b117ed23dcb2470fbab373dc9",
+   "bytes": 501926,
+   "etag": "\"403182a635dddc1:0\"",
+   "lastModified": "Wed, 06 May 2026 08:52:21 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": true,
+    "broken": false,
+    "exempt": false,
+    "published": null,
+    "title": "DC TPO Orders Data Tree Preservation Order 2005",
+    "pages": 19,
+    "words": 0,
+    "images": 19,
+    "category": null,
+    "checks": {
+     "tagged": "fail",
+     "title": "fail",
+     "language": "fail",
+     "bookmarks": "pass",
+     "taggedContent": "fail",
+     "figuresAlt": null,
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "fail",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "no date found, title, tagged, lang, "
+   ]
+  },
+  "https://static.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/TPO/TPO_E107192%20Butely%20Road%202006_Order.PDF": {
+   "checkedAt": "2026-11-01T01:27:43.580Z",
+   "week": "2026-W44",
+   "httpStatus": 200,
+   "md5": "551ca756b9fd824922ce7ce8b0b0a64e",
+   "bytes": 570579,
+   "etag": "\"eba3e9a635dddc1:0\"",
+   "lastModified": "Wed, 06 May 2026 08:52:21 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": true,
+    "broken": false,
+    "exempt": false,
+    "published": null,
+    "title": "DC TPO Orders Data Tree Preservation Order 2006",
+    "pages": 21,
+    "words": 0,
+    "images": 21,
+    "category": null,
+    "checks": {
+     "tagged": "fail",
+     "title": "fail",
+     "language": "fail",
+     "bookmarks": "fail",
+     "taggedContent": "fail",
+     "figuresAlt": null,
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "fail",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "no date found, title, tagged, lang, no bookmarks and more than 20 pages, "
+   ]
+  },
+  "https://static.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/TPO/TPO_E107192%20Butely%20Road%202006_Plan.PDF": {
+   "checkedAt": "2026-11-01T01:27:43.580Z",
+   "week": "2026-W44",
+   "httpStatus": 200,
+   "md5": "69f70821679354aae8c82c049c401a36",
+   "bytes": 739838,
+   "etag": "\"1353faa635dddc1:0\"",
+   "lastModified": "Wed, 06 May 2026 08:52:21 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": true,
+    "broken": false,
+    "exempt": false,
+    "published": null,
+    "title": "DC TPO Orders Data Tree Preservation Order 2006",
+    "pages": 5,
+    "words": 0,
+    "images": 5,
+    "category": null,
+    "checks": {
+     "tagged": "fail",
+     "title": "fail",
+     "language": "fail",
+     "bookmarks": "pass",
+     "taggedContent": "fail",
+     "figuresAlt": null,
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "fail",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "no date found, title, tagged, lang, "
+   ]
+  },
+  "https://static.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/TPO/TPO_E107202%20Old%20Bedford%20Road%20%202008_Order.PDF": {
+   "checkedAt": "2026-11-01T01:27:43.581Z",
+   "week": "2026-W44",
+   "httpStatus": 200,
+   "md5": "eb0009e39e5e9a0f8b5f0fce1869ef94",
+   "bytes": 633126,
+   "etag": "\"f31ada735dddc1:0\"",
+   "lastModified": "Wed, 06 May 2026 08:52:23 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": true,
+    "broken": false,
+    "exempt": false,
+    "published": null,
+    "title": "DC TPO Orders Data Tree Preservation Order 2008",
+    "pages": 19,
+    "words": 0,
+    "images": 19,
+    "category": null,
+    "checks": {
+     "tagged": "fail",
+     "title": "fail",
+     "language": "fail",
+     "bookmarks": "pass",
+     "taggedContent": "fail",
+     "figuresAlt": null,
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "fail",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "no date found, title, tagged, lang, "
+   ]
+  },
+  "https://www.luton.gov.uk/sites/default/files/2025-11/Disabled%20certificate%20form.pdf": {
+   "checkedAt": "2026-11-01T01:27:43.581Z",
+   "week": "2026-W44",
+   "httpStatus": 200,
+   "md5": "32719414426185603b0aa31bc5290628",
+   "bytes": 191244,
+   "etag": "W/\"6911ee84-2eb0c\"",
+   "lastModified": "Mon, 10 Nov 2025 13:54:12 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2020-10-14",
+    "title": "Disabled certificate form",
+    "pages": 1,
+    "words": 153,
+    "images": 1,
+    "category": null,
+    "checks": {
+     "tagged": "pass",
+     "title": "pass",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "pass",
+     "headings": null,
+     "lists": null,
+     "tables": "fail",
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "headings-none, tables-fail, "
+   ]
+  },
+  "https://www.luton.gov.uk/sites/default/files/2025-11/Doctor%27s%20Certificate%20Council%20Tax%20Discount%20application%20-%20severe%20mental%20impairment.pdf": {
+   "checkedAt": "2026-11-01T01:27:43.581Z",
+   "week": "2026-W44",
+   "httpStatus": 200,
+   "md5": "ead23a494ba6a8d71e7eecfa893fa3bd",
+   "bytes": 68208,
+   "etag": "W/\"691330cc-10a70\"",
+   "lastModified": "Tue, 11 Nov 2025 12:49:16 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2025-11-11",
+    "title": "Doctor's Certificate Council Tax Discount application - severe mental impairment",
+    "pages": 1,
+    "words": 219,
+    "images": 1,
+    "category": null,
+    "checks": {
+     "tagged": "pass",
+     "title": "fail",
+     "language": "fail",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "pass",
+     "headings": null,
+     "lists": null,
+     "tables": null,
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "title, lang, headings-warn, "
+   ]
+  },
+  "https://www.luton.gov.uk/sites/default/files/2025-11/Self-employed%20earnings%20for%20Council%20Tax%20Reduction.pdf": {
+   "checkedAt": "2026-11-01T01:27:43.581Z",
+   "week": "2026-W44",
+   "httpStatus": 200,
+   "md5": "8b161470b9bab2adf5cb5a2eddd2093a",
+   "bytes": 112598,
+   "etag": "W/\"6926f450-1b7d6\"",
+   "lastModified": "Wed, 26 Nov 2025 12:36:32 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2025-11-26",
+    "title": "Self-employed earnings for Council Tax Reduction",
+    "pages": 5,
+    "words": 552,
+    "images": 0,
+    "category": null,
+    "checks": {
+     "tagged": "pass",
+     "title": "fail",
+     "language": "fail",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "pass",
+     "headings": null,
+     "lists": null,
+     "tables": "fail",
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": null,
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "title, lang, headings-none, tables-fail, "
+   ]
+  },
+  "https://www.luton.gov.uk/sites/default/files/2025-11/The%20Council%20Tax%20Reduction%20Scheme%20Rules%202021%20%28pensioners%29.pdf": {
+   "checkedAt": "2026-11-01T01:27:43.581Z",
+   "week": "2026-W44",
+   "httpStatus": 200,
+   "md5": "ac8370b8cb8788296e2916174035e50d",
+   "bytes": 1808386,
+   "etag": "W/\"6924663d-1b9802\"",
+   "lastModified": "Mon, 24 Nov 2025 14:05:49 GMT",
+   "status": "analysed",
+   "attempts": 0,
+   "report": {
+    "accessible": false,
+    "totallyInaccessible": false,
+    "broken": false,
+    "exempt": false,
+    "published": "2021-06-08",
+    "title": "Microsoft Word - uksi_20122886_en.doc",
+    "pages": 147,
+    "words": 58757,
+    "images": 1,
+    "category": null,
+    "checks": {
+     "tagged": "pass",
+     "title": "pass",
+     "language": "pass",
+     "bookmarks": "pass",
+     "taggedContent": "pass",
+     "figuresAlt": "pass",
+     "headings": "pass",
+     "lists": "pass",
+     "tables": "fail",
+     "forms": null,
+     "taggedForms": null,
+     "taggedAnnotations": "pass",
+     "emptyText": "pass",
+     "protected": "pass"
+    }
+   },
+   "errors": [
+    "tables-fail, "
    ]
   }
  }

@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-10-31T01:47:18.017Z",
+ "updatedAt": "2026-11-01T01:26:09.062Z",
  "checker": {
   "name": "pdf-crawler",
   "url": "https://github.com/mgifford/pdf-crawler",
@@ -750,6 +750,256 @@
   },
   "http://go.walsall.gov.uk/sites/default/files/2022-08/Works%20Completed%202019.pdf": {
    "checkedAt": "2026-10-31T01:47:18.017Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2022-08/Works%20Completed%202020.pdf": {
+   "checkedAt": "2026-11-01T01:25:33.017Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2022-08/Works%20Completed%202021.pdf": {
+   "checkedAt": "2026-11-01T01:25:34.519Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2022-09/Map%201%20-%20Course%201%20-%20a%20short%20beginner%27s%20course%2C%201.1km%20long.pdf": {
+   "checkedAt": "2026-11-01T01:25:36.022Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2022-09/Map%201%20-%20Course%20A%20-%20a%20short%2C%20easy%20course%2C%201.4km%20long.pdf": {
+   "checkedAt": "2026-11-01T01:25:37.523Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2022-09/Map%202%20-%20Course%202%20-%20a%20short%2C%20easy%20course%2C%201.7km%20long.pdf": {
+   "checkedAt": "2026-11-01T01:25:39.025Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2022-09/Map%202%20-%20Course%20B%20-%20a%20short%2C%20easy%20course%2C%201.1km%20long.pdf": {
+   "checkedAt": "2026-11-01T01:25:40.527Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2022-09/Map%203%20-%20Course%203%20-%20a%20medium%20difficulty%20course%2C%202.4km%20long.pdf": {
+   "checkedAt": "2026-11-01T01:25:42.029Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2022-09/Map%203%20-%20Course%20C%20-%20a%20medium%20difficulty%20course%2C%201.5km%20long.pdf": {
+   "checkedAt": "2026-11-01T01:25:43.529Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2022-09/Map%204%20-%20Course%204%20-%20a%20medium%2C%20trickier%C2%A0course%2C%201.8km%20long.pdf": {
+   "checkedAt": "2026-11-01T01:25:45.032Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2022-09/Map%204%20-%20Course%20D%20-%20a%20trickier%2C%20medium%20difficulty%20course%2C%202.0km%20long.pdf": {
+   "checkedAt": "2026-11-01T01:25:46.534Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2022-09/Map%205%20-%20Course%205%20-%20a%20medium%2C%20trickier%20course%2C%203.1km%20long.pdf": {
+   "checkedAt": "2026-11-01T01:25:48.036Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2022-09/Map%205%20-%20Course%20E%20-%20a%20difficult%20course%2C%20medium%20length.pdf": {
+   "checkedAt": "2026-11-01T01:25:49.538Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2022-09/Map%206%20-%20Course%206%20-%20a%20difficult%20course%2C%203.2km%20long.pdf": {
+   "checkedAt": "2026-11-01T01:25:51.040Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2022-09/Map%207%20-%20Course%207%20-%20a%20difficult%2C%20longer%20course%2C%204.5km%20long.pdf": {
+   "checkedAt": "2026-11-01T01:25:52.542Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2022-09/Map%208%20-%20Course%208%20-%20a%20difficult%2C%20longer%20course%2C%204.5km%20long.pdf": {
+   "checkedAt": "2026-11-01T01:25:54.044Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2022-09/Orienteering%20barr%20beacon%20permanent%20controls_A-%20Short%20beginners.pdf": {
+   "checkedAt": "2026-11-01T01:25:55.546Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2022-09/Orienteering%20barr%20beacon%20permanent%20controls_B-Medium%20beginners.pdf": {
+   "checkedAt": "2026-11-01T01:25:57.048Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2022-09/Orienteering%20barr%20beacon%20permanent%20controls_C-%20Short%20trickier.pdf": {
+   "checkedAt": "2026-11-01T01:25:58.550Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2022-09/Orienteering%20barr%20beacon%20permanent%20controls_D-%20Medium%20trickier.pdf": {
+   "checkedAt": "2026-11-01T01:26:00.052Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2022-09/Orienteering%20barr%20beacon%20permanent%20controls_E-%20Long%20hard.pdf": {
+   "checkedAt": "2026-11-01T01:26:01.554Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2022-10/bereavement_services_rules_and_regulations_booklet_a4.pdf": {
+   "checkedAt": "2026-11-01T01:26:03.054Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2022-10/Walsall%20Heritage%20Forum%20Overview_Benjamin%20Parker.pdf": {
+   "checkedAt": "2026-11-01T01:26:04.556Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2022-11/Black%20Country%20Hosted%20Arrangements.pdf": {
+   "checkedAt": "2026-11-01T01:26:06.058Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2022-11/Clean%20and%20Green.pdf": {
+   "checkedAt": "2026-11-01T01:26:07.560Z",
+   "week": "2026-W44",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "http://go.walsall.gov.uk/sites/default/files/2022-11/Covid%2019%20Privacy%20Notice%20-%20Final.pdf": {
+   "checkedAt": "2026-11-01T01:26:09.061Z",
    "week": "2026-W44",
    "httpStatus": null,
    "status": "error",
