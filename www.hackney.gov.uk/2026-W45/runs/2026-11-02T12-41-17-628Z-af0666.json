@@ -1,0 +1,231 @@
+{
+ "runId": "2026-11-02T12-41-17-628Z-af0666",
+ "week": "2026-W45",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-02T12:41:17.951Z",
+ "scanned": [
+  "9a797e24bb5637a1",
+  "7414bd836ec3c67a",
+  "4a0ee3f17e96c984",
+  "9f49bf94e2cebf97",
+  "4b1a1f66b81981be",
+  "b7df8390b85f5cf6",
+  "c806d900f8919a52",
+  "7190917f88bf2a18",
+  "8142a5ce0de3ae84",
+  "8dc6c095ee3b20cf",
+  "94c0a8bdb058977d",
+  "7dc4d718cd61ed9e",
+  "98824e04c1331847",
+  "ca427e0782684f15",
+  "12bef4a88912f471",
+  "238d50523f7c1df5",
+  "c610f0c9289f806f",
+  "8c117eee787ebe12",
+  "554f19775c2bb659",
+  "6ab587cc48421228",
+  "174a741dce1858fe",
+  "d42d19f12d2c39a1",
+  "0a846aa880b3bee7",
+  "d1ed002d11cf6e50",
+  "07f42bb75184a1b0",
+  "511b35ddbf17bc26",
+  "506d981a9bb4af95",
+  "b894c2ca35fb6958",
+  "7c10e8ba2d0f9a38",
+  "e7f1eb690cc34fd4",
+  "674948c673a142c0",
+  "6f3e3f79439cb63b",
+  "f132e1c2a55e6f30",
+  "cfd7f0f25dd6308a",
+  "9085c48dd5dbbbe8",
+  "efdcfe5e134e9243",
+  "6ae4903b9ad6d017",
+  "809347e6329934f2",
+  "8e0a62978f514b2d",
+  "01fc5d2617a546e3",
+  "7d3f77a4c2f72b2d",
+  "4258bf01a47b559d",
+  "bf4baed6866a4c95",
+  "d7e4ebd356a9ff60",
+  "490df0ca0284d4c6",
+  "0c2032ff5fb4c53b",
+  "c8e269a25df439dd",
+  "5afe847eac07b4d7",
+  "cf03f1ad31bf7419",
+  "0b26b7c25a2e7faf"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 496,
+  "checked": 496,
+  "brokenCount": 14,
+  "broken": [
+   {
+    "url": "http://content.tfl.gov.uk/strategic-cycling-analysis.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/cycling/cycleway-23"
+    ]
+   },
+   {
+    "url": "https://www.hackney.gov.uk/more-us/+442083564970",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/more-us/contact-us"
+    ]
+   },
+   {
+    "url": "http://www.metoffice.gov.uk/weather/uk/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/help-home/keeping-warm-winter"
+    ]
+   },
+   {
+    "url": "http://www.nhs.uk/Livewell/Winterhealth/Pages/Winterhealthhome.aspx",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/help-home/keeping-warm-winter"
+    ]
+   },
+   {
+    "url": "http://www.metoffice.gov.uk/public/weather/cold-weather-alert/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/help-home/keeping-warm-winter"
+    ]
+   },
+   {
+    "url": "https://drive.google.com/open?id=1ZXOH5Eh7569fZZY0B7b17eVBxDZfGGu4",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/bridport-house"
+    ]
+   },
+   {
+    "url": "http://www.chscb.org.uk/vulnerableadolescents/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/safeguarding-adults/modern-day-slavery"
+    ]
+   },
+   {
+    "url": "http://webarchive.nationalarchives.gov.uk/20130107105354/http://www.dh.gov.uk/en/Publicationsandstatistics/Publications/PublicationsPolicyAndGuidance/DH_095895",
+    "status": 405,
+    "reason": "HTTP 405",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/mental-health/deprivation-liberties-safeguards"
+    ]
+   },
+   {
+    "url": "http://webarchive.nationalarchives.gov.uk/20130107105354/http://www.dh.gov.uk/en/Publicationsandstatistics/Publications/PublicationsPolicyAndGuidance/DH_094346",
+    "status": 405,
+    "reason": "HTTP 405",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/mental-health/deprivation-liberties-safeguards"
+    ]
+   },
+   {
+    "url": "https://onedigital.hackney.gov.uk/publicaccesslive/selfservice/citizenportal/registration.htm?_flowId=citizenportal%2Fregistration&_flowExecutionKey=e1s1",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/view-your-housing-benefit-and-council-tax-reduction-account"
+    ]
+   },
+   {
+    "url": "https://libraries-resources/",
+    "status": 0,
+    "reason": "EAI_AGAIN",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/hackney-archives/hackney-archives-collections"
+    ]
+   },
+   {
+    "url": "http://www.londonsscreenarchives.org.uk/public/index.php",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/hackney-archives/hackney-archives-collections"
+    ]
+   },
+   {
+    "url": "https://www.grantrequest.co.uk/Login.aspx?ReturnUrl=%2faccountmanager.aspx%3fSA%3dAM%26sid%3d24&SA=AM&sid=24",
+    "status": 503,
+    "reason": "HTTP 503",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/community-partnerships/community-grants/what-grants-are-available"
+    ]
+   },
+   {
+    "url": "https://www.metoffice.gov.uk/weather/climate-change/effects-of-climate-change",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/greener-hackney"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 49,
+  "resources": 49,
+  "images": 49,
+  "standards": 32,
+  "link-check": 49,
+  "alfa": 29,
+  "plain-language": 24,
+  "third-party": 19,
+  "public-interest": 8,
+  "tech": 7,
+  "security": 2,
+  "sustainability": 7,
+  "deprecated-html": 2,
+  "lighthouse": 5
+ },
+ "tally": {
+  "ok": 50,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 2,
+  "error": 0
+ },
+ "finishedAt": "2026-11-02T12:49:06.992Z"
+}
