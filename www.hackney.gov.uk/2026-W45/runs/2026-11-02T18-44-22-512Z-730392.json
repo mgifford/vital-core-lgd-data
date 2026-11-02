@@ -1,0 +1,191 @@
+{
+ "runId": "2026-11-02T18-44-22-512Z-730392",
+ "week": "2026-W45",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-02T18:44:22.852Z",
+ "scanned": [
+  "e0e89fb44f77d724",
+  "e086e17a960015d2",
+  "1008bbf052b6c55a",
+  "b579e96882a356f7",
+  "59babf10278d7dbd",
+  "61310dfa0212742f",
+  "90467c7f9217a996",
+  "b7583fc6aaaf6e8a",
+  "3673468df708906c",
+  "f7b4db28f32f68c9",
+  "386c241b9a60fc36",
+  "9e55f0340e25032b",
+  "698f3bf1b2d1f7b5",
+  "cb11d78265dbfe64",
+  "6bcc506aac6c0b17",
+  "f5a5454f11c22471",
+  "26eab47d0575e634",
+  "40d94e3e4aa055bb",
+  "b8d20f675bce439d",
+  "38bda29aa4e0ea4f",
+  "7580b6b7432d08a0",
+  "1ac3d47dc9adb73a",
+  "be4613452bcb1b30",
+  "e3baff799c645e62",
+  "2c04dc29f7556b69",
+  "b4612d662feb65e1",
+  "747824d609d2a83e",
+  "fcf5135bf7cb3b87",
+  "a19de9ae990aacac",
+  "e9ad67d5b8af6c41",
+  "b71f3b3be9220a59",
+  "e3cb90cf26f17498",
+  "e34459661f928b3f",
+  "6e6999d31464328b",
+  "20368d829b0e77ae",
+  "04b3418dba70d8e7",
+  "d94d6a5b105adc29",
+  "dae4a5fe19a510f9",
+  "01a524492e6bae49",
+  "68715e7b658a9310",
+  "53678e3fc64113e0",
+  "0cab4ecc82b50a88",
+  "26d10bf26eddcbd3",
+  "e7de461245778747",
+  "12eed304c05a6c26",
+  "4560f045a99a2655",
+  "21bb14df6f07c30d",
+  "55ae6ebc6dabc645",
+  "f5846193a9ecd466",
+  "9b6ab9f5a8262f60"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 728,
+  "checked": 500,
+  "brokenCount": 9,
+  "broken": [
+   {
+    "url": "https://www.teensagainstabuse.org/index.php?q=controlWheel",
+    "status": 0,
+    "reason": "EAI_AGAIN",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/domestic-abuse/domestic-abuse-support"
+    ]
+   },
+   {
+    "url": "https://web.archive.org/web/20230329102040mp_/http://claudiajones.org/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/domestic-abuse/domestic-abuse-support"
+    ]
+   },
+   {
+    "url": "https://web.archive.org/web/20230329102040mp_/https://www.hackneyicare.org.uk/kb5/hackney/asch/service.page?id=xKLqkZIEk2o",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/domestic-abuse/domestic-abuse-support"
+    ]
+   },
+   {
+    "url": "https://developmentandhousing.hackney.gov.uk/registers/index.html?fa=enforcement_register",
+    "status": 406,
+    "reason": "HTTP 406",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/planning-enforcement/planning-control-breaches"
+    ]
+   },
+   {
+    "url": "https://developmentandhousing.hackney.gov.uk/",
+    "status": 406,
+    "reason": "HTTP 406",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/planning-enforcement/planning-control-breaches"
+    ]
+   },
+   {
+    "url": "https://www.holbornstudios.com/events/",
+    "status": 0,
+    "reason": "CERT_HAS_EXPIRED",
+    "foundOn": [
+     "https://www.hackney.gov.uk/births-deaths-marriages-and-citizenship/marriage-civil-partnership-and-other-ceremonies/find-venue-your-marriage-or-civil-partnership"
+    ]
+   },
+   {
+    "url": "https://www.abneyparkusergroup.com/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/abney-park-cemetery"
+    ]
+   },
+   {
+    "url": "https://www.metoffice.gov.uk/weather/warnings-and-advice/uk-warnings",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/abney-park-cemetery"
+    ]
+   },
+   {
+    "url": "https://claudiajones.org/",
+    "status": 503,
+    "reason": "HTTP 503",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/speaker"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 49,
+  "plain-language": 27,
+  "resources": 49,
+  "images": 49,
+  "link-check": 49,
+  "alfa": 27,
+  "standards": 23,
+  "public-interest": 7,
+  "third-party": 13,
+  "lighthouse": 5,
+  "sustainability": 7,
+  "deprecated-html": 6,
+  "tech": 2,
+  "security": 5
+ },
+ "tally": {
+  "ok": 49,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 3,
+  "error": 0
+ },
+ "finishedAt": "2026-11-02T18:52:34.556Z"
+}
