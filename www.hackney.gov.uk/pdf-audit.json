@@ -1,6 +1,6 @@
 {
  "domain": "www.hackney.gov.uk",
- "updatedAt": "2026-10-30T13:31:34.360Z",
+ "updatedAt": "2026-11-02T01:47:51.110Z",
  "checker": {
   "name": "pdf-crawler",
   "url": "https://github.com/mgifford/pdf-crawler",
@@ -9,27 +9,27 @@
  },
  "pdfs": {
   "https://news.hackney.gov.uk/download/70203/wetlandsmap-2.pdf": {
-   "checkedAt": "2026-10-30T10:12:07.611Z",
-   "week": "2026-W44",
+   "checkedAt": "2026-11-02T01:47:42.046Z",
+   "week": "2026-W45",
    "httpStatus": 404,
    "etag": null,
    "lastModified": null,
    "status": "error",
-   "attempts": 1,
+   "attempts": 2,
    "errors": [
     "HTTP 404"
    ]
   },
   "https://consultation.hackney.gov.uk/++preview++/regeneration-capital-programme-delivery/buckland-court-development-proposal/supporting_documents/NHP2_240920_ARC_BUC_Engagement%20board%20111.pdf": {
-   "checkedAt": "2026-10-30T10:12:23.017Z",
-   "week": "2026-W44",
+   "checkedAt": "2026-11-02T01:47:51.110Z",
+   "week": "2026-W45",
    "httpStatus": 200,
    "md5": "f6006159c8c075502a50d87b3be5f687",
    "bytes": 2172,
    "etag": null,
    "lastModified": null,
    "status": "error",
-   "attempts": 1,
+   "attempts": 2,
    "errors": [
     "Not a PDF file: no %PDF- header"
    ]
@@ -507,11 +507,11 @@
    ]
   },
   "http://mginternet.hackney.gov.uk/documents/s48613/Appendix_5_PEP_2015-20_-_Consultation_Report.pdf": {
-   "checkedAt": "2026-10-30T13:31:34.359Z",
-   "week": "2026-W44",
+   "checkedAt": "2026-11-02T01:47:50.544Z",
+   "week": "2026-W45",
    "httpStatus": null,
    "status": "error",
-   "attempts": 1,
+   "attempts": 2,
    "errors": [
     "domain not found (DNS)"
    ]
