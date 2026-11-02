@@ -1,0 +1,166 @@
+{
+ "runId": "2026-11-02T10-56-04-699Z-3c4918",
+ "week": "2026-W45",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-02T10:56:05.055Z",
+ "scanned": [
+  "495e52d6a7be9203",
+  "953a443ad317252b",
+  "17aba72334946385",
+  "3b95d2eecbb12908",
+  "45af9343f9a8d36a",
+  "a55bfdc0e33f65a4",
+  "3164206e601792b7",
+  "a6ec9c8e0f0aec95",
+  "b29b4c4bc6622787",
+  "5f95ad11347ac7a7",
+  "19d7f5a52bafdf15",
+  "cc9337dc1f29a42a",
+  "e01acb73402182ef",
+  "0289046540353e43",
+  "f8d61e8506c11a2a",
+  "31bc9eb78a9f6a82",
+  "9eabaa75bf925f7f",
+  "b7617981dcafdb50",
+  "f5e03a4bd166ecfc",
+  "2864a3bb46ac6ebd",
+  "a57c4343bd3658b2",
+  "2ac30551697d1093",
+  "791659fd6cbd67d7",
+  "0bd49a7093928585",
+  "4dd7825c27221dbf",
+  "0afb399793b3c5d0",
+  "650becc91c7a8754",
+  "60944d4bd790ff81",
+  "01fdb23a7c512f3a",
+  "eba984a0b1370da0",
+  "de27a3e5ebcbe60b",
+  "13a1e431dbe81447",
+  "eb4a97774f0794bc",
+  "68fe1a0b806251ac",
+  "157bfcd70484c841",
+  "f72ab7c0e2d6f368",
+  "1322d48bf5b6cc0b",
+  "81659f72e137be94",
+  "dc9948a66aac2a1d",
+  "4e4efdd88514ab20",
+  "8f41332e14b7c8e3",
+  "fde77f13f3c011b1",
+  "fcdca702d4c72b36",
+  "9549fa19a9558598",
+  "f5b3bf90c4ca6ac1",
+  "1300b1013637cd41",
+  "9b1f35e590947206",
+  "1dde517d52aa69c2",
+  "b435cafe7c1ba4b1"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 568,
+  "checked": 500,
+  "brokenCount": 6,
+  "broken": [
+   {
+    "url": "https://www.crewenergy.london/free-energy-advice.html",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/energy/green-homes"
+    ]
+   },
+   {
+    "url": "http://www.stonewall.org.uk/our-work",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-and-elections/equality-and-diversity/hackneys-demographics/sexual-orientation"
+    ]
+   },
+   {
+    "url": "https://www.stonewall.org.uk/about-us/blog/communities/black-lgbtq-organisations-you-should-know-about",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-and-elections/equality-and-diversity/hackneys-demographics/sexual-orientation"
+    ]
+   },
+   {
+    "url": "https://moodspark.org.uk/lgbtqi-mental-health-booklet/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-and-elections/equality-and-diversity/hackneys-demographics/sexual-orientation"
+    ]
+   },
+   {
+    "url": "https://www.theopenmindsproject.org/",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-and-elections/equality-and-diversity/hackneys-demographics/sexual-orientation"
+    ]
+   },
+   {
+    "url": "https://www.planningportal.co.uk/info/200187/your_responsibilities/37/planning_permission/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/article-4-directions"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 48,
+  "alfa": 32,
+  "plain-language": 24,
+  "resources": 48,
+  "images": 48,
+  "link-check": 48,
+  "deprecated-html": 3,
+  "security": 4,
+  "standards": 21,
+  "third-party": 13,
+  "lighthouse": 3,
+  "tech": 7,
+  "sustainability": 2,
+  "public-interest": 2
+ },
+ "tally": {
+  "ok": 48,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 2,
+  "error": 0
+ },
+ "finishedAt": "2026-11-02T11:04:22.798Z"
+}
