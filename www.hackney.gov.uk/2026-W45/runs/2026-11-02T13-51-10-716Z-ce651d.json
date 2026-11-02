@@ -1,0 +1,167 @@
+{
+ "runId": "2026-11-02T13-51-10-716Z-ce651d",
+ "week": "2026-W45",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-02T13:51:11.028Z",
+ "scanned": [
+  "45f7fa9e26d5a57e",
+  "e6d473d81efe5db8",
+  "972aa070d7179a5f",
+  "f90e61188b6510c6",
+  "037599cabfadcfb0",
+  "3c72610b38f55000",
+  "a68920dd987295b4",
+  "5767c4a770e30f97",
+  "ec5aba5045e2b975",
+  "23087d8b6efeec80",
+  "37d28065fb36b49c",
+  "6d90558454b3f1b7",
+  "68b88c38a5e4bbeb",
+  "ec6045c561313566",
+  "c855ddda5ca50557",
+  "b2285c2df798a32a",
+  "1a86fd48792ae50d",
+  "f9c27624205bbbd9",
+  "a7e54e4bb5cbc275",
+  "f5b6c6bd1bb8553f",
+  "4f8ac70d6ea6f427",
+  "e49e239487629b61",
+  "6b9fc094c0c78a70",
+  "05dffe008c389835",
+  "81f48b7a0953e438",
+  "4f777b28c98b745f",
+  "52c331727d904149",
+  "93e956e263e1f0c9",
+  "0c6719f419381189",
+  "5a39b6c76a76c5df",
+  "f409c924622a56b4",
+  "6583b078bc0dfec6",
+  "0d6f5014029cc55d",
+  "9ccaef4651636f74",
+  "db70158c1d5f0061",
+  "fd8e7debddb09a44",
+  "a2dd07ab94460bcc",
+  "20352569801bbeb1",
+  "d584dec03a37fb42",
+  "eff8dbfaf66a3228",
+  "54d331aad21e8376",
+  "92df44cf57a5f3d9",
+  "8d0111d54893b53b",
+  "e62cb218830639d5",
+  "31cdd6b95780fa7f",
+  "6e014613e959031a",
+  "acc3d21fa519579c",
+  "565a0df613581210",
+  "0d0ee23fe722a9ca",
+  "eb5489d69ed628a6"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 595,
+  "checked": 500,
+  "brokenCount": 6,
+  "broken": [
+   {
+    "url": "https://www.hta.co.uk/services/planning",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/parkside-estate"
+    ]
+   },
+   {
+    "url": "http://www.map.hackney.gov.uk/Find-My-Nearest-Internal/?CAT=CM03|CM02",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/health-professionals/health-advice"
+    ]
+   },
+   {
+    "url": "http://www.cityandhackneyccg.nhs.uk/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/health-professionals/health-advice"
+    ]
+   },
+   {
+    "url": "http://www.crg.uk.com/homecare/",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/help-home/home-care-providers"
+    ]
+   },
+   {
+    "url": "https://www.hackneyicare.org.uk/kb5/hackney/asch/service.page?id=b6TaNEd6lf0",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/help-home/home-care-providers"
+    ]
+   },
+   {
+    "url": "http://www.map.hackney.gov.uk/LBHackneymap/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/water-quality"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 49,
+  "plain-language": 26,
+  "deprecated-html": 6,
+  "resources": 49,
+  "images": 49,
+  "link-check": 49,
+  "alfa": 23,
+  "standards": 24,
+  "third-party": 13,
+  "sustainability": 2,
+  "public-interest": 3,
+  "lighthouse": 1,
+  "security": 5,
+  "tech": 4
+ },
+ "tally": {
+  "ok": 49,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 4,
+  "error": 0
+ },
+ "finishedAt": "2026-11-02T13:58:19.422Z"
+}
