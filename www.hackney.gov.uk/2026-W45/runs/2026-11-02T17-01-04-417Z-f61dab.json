@@ -1,0 +1,167 @@
+{
+ "runId": "2026-11-02T17-01-04-417Z-f61dab",
+ "week": "2026-W45",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-02T17:01:04.799Z",
+ "scanned": [
+  "e019d0a20011d126",
+  "0ce4bade78967e14",
+  "179052110b63c632",
+  "e56e7622493b5e39",
+  "ee7fe35db51375d4",
+  "7aad26476f9d066d",
+  "cec7b87c1c78701e",
+  "ab2a564390a507b1",
+  "fa7807273b7d51e4",
+  "79463659714f57d4",
+  "1d8998e173971db3",
+  "4ba75c621c8e92d3",
+  "c2de984016471364",
+  "9d1429d06b9182b9",
+  "5973ed4a55516925",
+  "e9a0ec011f993bac",
+  "14b849a3f3fbf15f",
+  "b80a9c9470411a83",
+  "0f0f61285458fd25",
+  "321e505fc3092df2",
+  "d70e36efb8ed4dfd",
+  "fd53d20760b9a505",
+  "f0acf6dda243b813",
+  "6f3a4906521490dc",
+  "d3f40c358c9ee20a",
+  "3c541c06d29f7520",
+  "bcde3de9dea10308",
+  "6802dc8dfce22734",
+  "b0ced7b4879144b0",
+  "953fca5dac624e16",
+  "b2d2a7bbff4913df",
+  "bb973be33b6c44f1",
+  "a3068b60dff9da10",
+  "c0b2b245c90d7186",
+  "a23d6fbce489db19",
+  "5c0aab32f3867617",
+  "33832b4a7c141d4e",
+  "4b33a8e8b4d977f2",
+  "e3aeda47fd21dfa1",
+  "244138f0a5079e05",
+  "dfe508beeef0f01e",
+  "e0961f3fa20c064f",
+  "d049fe311fc14254",
+  "174cb368a9ebe21b",
+  "f27e872498dcbea2",
+  "089fe9813ef3edc4",
+  "bf23519ae11e18be",
+  "448f983b4249f709",
+  "9409c61a4f1d8858",
+  "3b5cdead0910806f"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 802,
+  "checked": 500,
+  "brokenCount": 6,
+  "broken": [
+   {
+    "url": "https://www.hta.co.uk/services/planning",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/de-beauvoir"
+    ]
+   },
+   {
+    "url": "https://www.sih.org/our-homes/supported-temporary-accommodation/bethany-house/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/housing/homelessness/help-if-youre-homeless-or-rough-sleeping/find-somewhere-stay-tonight"
+    ]
+   },
+   {
+    "url": "https://quakersocialaction.org.uk/we-can-help/helping-funerals/down-earth/information-guidance/raising-money-toward",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/births-deaths-marriages-and-citizenship/deaths/paying-funeral"
+    ]
+   },
+   {
+    "url": "https://www.whufc.com/fixtures/first-team/fixtures-and-results",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://www.hackney.gov.uk/parking-streets-and-transport/where-park/event-days-and-bank-holiday-parking/queen-elizabeth-olympic-park-events"
+    ]
+   },
+   {
+    "url": "https://www.london-fire.gov.uk/safety/",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/community-safety-and-crime-prevention/emergency-planning-and-response/civil-protection-emergency-planning-and-response"
+    ]
+   },
+   {
+    "url": "https://www.food.gov.uk/business-guidance/applying-for-approval-of-a-food-establishment",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/business-and-licensing/food-safety/food-establishment-approval"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 48,
+  "alfa": 21,
+  "resources": 48,
+  "images": 48,
+  "standards": 28,
+  "lighthouse": 4,
+  "link-check": 48,
+  "tech": 6,
+  "plain-language": 27,
+  "sustainability": 5,
+  "deprecated-html": 6,
+  "third-party": 8,
+  "security": 1,
+  "public-interest": 2
+ },
+ "tally": {
+  "ok": 48,
+  "blocked": 2,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 3,
+  "error": 0
+ },
+ "finishedAt": "2026-11-02T17:08:09.269Z"
+}
