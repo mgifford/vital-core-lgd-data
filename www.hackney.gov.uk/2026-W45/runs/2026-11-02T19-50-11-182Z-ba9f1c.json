@@ -1,0 +1,221 @@
+{
+ "runId": "2026-11-02T19-50-11-182Z-ba9f1c",
+ "week": "2026-W45",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-02T19:50:12.295Z",
+ "scanned": [
+  "3df16a69d7530dc8",
+  "c5c235eb467993cb",
+  "b507cbd42f4652cb",
+  "6b2c08c885a74b23",
+  "895a3ee144af8b42",
+  "389c5a5995d372c4",
+  "ff19ce2e2638d463",
+  "c527a49dd3bd381a",
+  "9d12771117c08c58",
+  "78f4df29c126a53f",
+  "29e7728ddb2b1588",
+  "c430255ef37f8496",
+  "552f51f9048d9828",
+  "cc002617467f2c99",
+  "4da847770afcf2b9",
+  "2afdeafdc8cbc681",
+  "dd911920fc906c5d",
+  "d0fb3ed0961508f7",
+  "0719a2aad86161e5",
+  "e39b354045a81808",
+  "61c656cedb9e25d3",
+  "59e5ba0969610649",
+  "8034c4d86eeb6431",
+  "a9efe1e7c2d93c08",
+  "0c3802314a455be2",
+  "728d57b6a4ee7f62",
+  "481269480fdfc80e",
+  "798978a367cca058",
+  "0730be68b09f2fa6",
+  "4b41d90bf0f643c6",
+  "5c3be841e972db61",
+  "638bcb787ef936ed",
+  "dbcdb69893611383",
+  "13c59ab89e98931f",
+  "e41ab6eada27d1a1",
+  "2a9314fda4014b5c",
+  "1653776ac32f395d",
+  "72722b61e0a25fa5",
+  "216aea98612cf4f9",
+  "3d3a6ccc001b96cc",
+  "112850a7dfc9f700",
+  "082447223dd77c75",
+  "311c24310958f1fe",
+  "d08afcd4055b47dc",
+  "7ff4a808c43028c1",
+  "d57930e51e6b2a5b",
+  "19c36bb2ae203b9b",
+  "33b4a1495971b2c2"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 565,
+  "checked": 500,
+  "brokenCount": 13,
+  "broken": [
+   {
+    "url": "https://nationalfloodforum.org.uk/about-flooding/preparing/emergency-flood-kit/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/community-safety-and-crime-prevention/emergency-planning-and-response/flood-warnings-and-planning"
+    ]
+   },
+   {
+    "url": "https://nationalfloodforum.org.uk/about-flooding/reducing-your-risk/protecting-your-property/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/community-safety-and-crime-prevention/emergency-planning-and-response/flood-warnings-and-planning"
+    ]
+   },
+   {
+    "url": "https://nationalfloodforum.org.uk/about-flooding/reducing-your-risk/property-protection-advisor/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/community-safety-and-crime-prevention/emergency-planning-and-response/flood-warnings-and-planning"
+    ]
+   },
+   {
+    "url": "http://www.workingtogetheronline.co.uk/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/children-and-families/if-youre-worried-about-child-or-young-person/local-authority-designated-officer-lado"
+    ]
+   },
+   {
+    "url": "https://www.riba.org/awards-and-competitions-landing-page/awards/riba-regional-awards/riba-london-award-winners/2019/the-colville-estate",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/colville-estate"
+    ]
+   },
+   {
+    "url": "https://www.civicaepay.co.uk/HackneyEstore/estore/default/Basket/ViewBasket",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/payments"
+    ]
+   },
+   {
+    "url": "https://www.civicaepay.co.uk/HackneyEstore/estore/default/Account/Login",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/payments"
+    ]
+   },
+   {
+    "url": "https://www.civicaepay.co.uk/HackneyEstore/estore/default/Account/Login?Area=",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/payments"
+    ]
+   },
+   {
+    "url": "https://hackney.gov.uk/apps",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/payments"
+    ]
+   },
+   {
+    "url": "https://www.civicaepay.co.uk/HackneyEstore/estore/default/Footer/AccessibilityStatement",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/payments"
+    ]
+   },
+   {
+    "url": "https://www.civicaepay.co.uk/HackneyEstore/estore/default/Footer/CookiePage",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/payments"
+    ]
+   },
+   {
+    "url": "https://www.civicaepay.co.uk/HackneyEstore/estore/default/Footer/SiteMap",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/payments"
+    ]
+   },
+   {
+    "url": "https://developmentandhousing.hackney.gov.uk/building_control/building_applications/index.html",
+    "status": 406,
+    "reason": "HTTP 406",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/building-control/building-control-application-types"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 48,
+  "alfa": 26,
+  "plain-language": 31,
+  "resources": 48,
+  "images": 48,
+  "standards": 23,
+  "link-check": 48,
+  "deprecated-html": 8,
+  "lighthouse": 4,
+  "security": 2,
+  "sustainability": 4,
+  "public-interest": 4,
+  "tech": 3,
+  "third-party": 9
+ },
+ "tally": {
+  "ok": 48,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 4,
+  "error": 0
+ },
+ "finishedAt": "2026-11-02T19:57:41.694Z"
+}
