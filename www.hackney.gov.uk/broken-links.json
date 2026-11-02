@@ -1,6 +1,6 @@
 {
  "domain": "www.hackney.gov.uk",
- "updatedAt": "2026-10-30T10:45:16.846Z",
+ "updatedAt": "2026-11-02T21:58:10.073Z",
  "links": {
   "https://hackney.gov.uk/node/403": {
    "status": 404,
@@ -180,13 +180,14 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "https://hackney.gov.uk/business-and-licensing/food-safety/food-establishment-approval"
+    "https://www.hackney.gov.uk/business-and-licensing/food-safety/food-establishment-approval"
    ]
   },
   "http://www.windowsphone.com/en-gb/store/app/ringgo/b7105f7c-4239-4f60-8793-c2f045bfca29": {
@@ -206,26 +207,27 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "https://hackney.gov.uk/housing/homelessness/help-if-youre-homeless-or-rough-sleeping/find-somewhere-stay-tonight"
+    "https://www.hackney.gov.uk/housing/homelessness/help-if-youre-homeless-or-rough-sleeping/find-somewhere-stay-tonight"
    ]
   },
   "http://www.crg.uk.com/homecare/": {
    "status": 0,
    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "https://hackney.gov.uk/health-and-social-care/adult-social-care/choose-who-provides-your-social-care",
     "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/help-home/home-care-providers"
    ]
   },
@@ -379,42 +381,42 @@
    "status": 0,
    "reason": "EAI_AGAIN",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "https://hackney.gov.uk/community-safety-and-environment/domestic-abuse/domestic-abuse-support",
-    "https://hackney.gov.uk/domestic-abuse-support"
+    "https://www.hackney.gov.uk/community-safety-and-environment/domestic-abuse/domestic-abuse-support"
    ]
   },
   "https://web.archive.org/web/20230329102040mp_/http://claudiajones.org/": {
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "https://hackney.gov.uk/community-safety-and-environment/domestic-abuse/domestic-abuse-support",
-    "https://hackney.gov.uk/domestic-abuse-support"
+    "https://www.hackney.gov.uk/community-safety-and-environment/domestic-abuse/domestic-abuse-support"
    ]
   },
   "https://web.archive.org/web/20230329102040mp_/https://www.hackneyicare.org.uk/kb5/hackney/asch/service.page?id=xKLqkZIEk2o": {
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "https://hackney.gov.uk/community-safety-and-environment/domestic-abuse/domestic-abuse-support",
-    "https://hackney.gov.uk/domestic-abuse-support"
+    "https://www.hackney.gov.uk/community-safety-and-environment/domestic-abuse/domestic-abuse-support"
    ]
   },
   "https://www.homerton.nhs.uk/u26": {
@@ -500,42 +502,42 @@
    "status": 0,
    "reason": "ENOTFOUND",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "https://hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/abney-park-cemetery"
+    "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/abney-park-cemetery"
    ]
   },
   "https://www.metoffice.gov.uk/weather/warnings-and-advice/uk-warnings": {
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "https://hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/abney-park-cemetery",
-    "https://hackney.gov.uk/community-safety-and-environment/community-safety-and-crime-prevention/emergency-planning-and-response/flood-warnings-and-planning"
+    "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/abney-park-cemetery"
    ]
   },
   "https://developmentandhousing.hackney.gov.uk/": {
    "status": 406,
    "reason": "HTTP 406",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "https://www.hackney.gov.uk/planning-and-building/make-planning-application/pre-application-services/get-pre-application-advice",
-    "https://www.hackney.gov.uk/planning-and-building/building-control/building-control-service",
-    "https://hackney.gov.uk/planning-and-building/planning-enforcement/planning-control-breaches"
+    "https://www.hackney.gov.uk/planning-and-building/planning-enforcement/planning-control-breaches"
    ]
   },
   "http://www.richardhouse.org.uk/": {
@@ -556,13 +558,14 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "https://hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/bridport-house"
+    "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/bridport-house"
    ]
   },
   "https://smokecontrol.defra.gov.uk/fuels.php?country=england": {
@@ -622,28 +625,28 @@
    "status": 404,
    "reason": "HTTP 404",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "https://hackney.gov.uk/node/16"
+    "https://www.hackney.gov.uk/births-deaths-marriages-and-citizenship/deaths/paying-funeral"
    ]
   },
   "https://onedigital.hackney.gov.uk/publicaccesslive/selfservice/citizenportal/registration.htm?_flowId=citizenportal%2Fregistration&_flowExecutionKey=e1s1": {
    "status": 0,
    "reason": "fetch failed",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/view-your-landlord-payment-account",
-    "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/view-your-housing-benefit-and-council-tax-reduction-account",
-    "https://hackney.gov.uk/council-tax-and-benefits/benefits/view-your-housing-benefit-and-council-tax-reduction-account"
+    "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/view-your-housing-benefit-and-council-tax-reduction-account"
    ]
   },
   "https://www.schoolvaccination.uk/catch-up-clinics/hackney": {
@@ -671,6 +674,501 @@
    "weeksBroken": 1,
    "foundOn": [
     "https://hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/connecting-green-spaces"
+   ]
+  },
+  "https://www.crewenergy.london/free-energy-advice.html": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/community-safety-and-environment/energy/green-homes"
+   ]
+  },
+  "http://www.stonewall.org.uk/our-work": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/council-and-elections/equality-and-diversity/hackneys-demographics/sexual-orientation"
+   ]
+  },
+  "https://www.stonewall.org.uk/about-us/blog/communities/black-lgbtq-organisations-you-should-know-about": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/council-and-elections/equality-and-diversity/hackneys-demographics/sexual-orientation"
+   ]
+  },
+  "https://moodspark.org.uk/lgbtqi-mental-health-booklet/": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/council-and-elections/equality-and-diversity/hackneys-demographics/sexual-orientation"
+   ]
+  },
+  "https://www.theopenmindsproject.org/": {
+   "status": 0,
+   "reason": "ECONNRESET",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/council-and-elections/equality-and-diversity/hackneys-demographics/sexual-orientation"
+   ]
+  },
+  "https://www.planningportal.co.uk/info/200187/your_responsibilities/37/planning_permission/": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/article-4-directions"
+   ]
+  },
+  "http://content.tfl.gov.uk/strategic-cycling-analysis.pdf": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/cycling/cycleway-23"
+   ]
+  },
+  "https://www.hackney.gov.uk/more-us/+442083564970": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/more-us/contact-us"
+   ]
+  },
+  "http://www.metoffice.gov.uk/weather/uk/": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/help-home/keeping-warm-winter"
+   ]
+  },
+  "http://www.nhs.uk/Livewell/Winterhealth/Pages/Winterhealthhome.aspx": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/help-home/keeping-warm-winter"
+   ]
+  },
+  "http://www.metoffice.gov.uk/public/weather/cold-weather-alert/": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/help-home/keeping-warm-winter"
+   ]
+  },
+  "http://www.chscb.org.uk/vulnerableadolescents/": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/safeguarding-adults/modern-day-slavery"
+   ]
+  },
+  "http://webarchive.nationalarchives.gov.uk/20130107105354/http://www.dh.gov.uk/en/Publicationsandstatistics/Publications/PublicationsPolicyAndGuidance/DH_095895": {
+   "status": 405,
+   "reason": "HTTP 405",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/health-and-social-care/mental-health/deprivation-liberties-safeguards"
+   ]
+  },
+  "http://webarchive.nationalarchives.gov.uk/20130107105354/http://www.dh.gov.uk/en/Publicationsandstatistics/Publications/PublicationsPolicyAndGuidance/DH_094346": {
+   "status": 405,
+   "reason": "HTTP 405",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/health-and-social-care/mental-health/deprivation-liberties-safeguards"
+   ]
+  },
+  "https://libraries-resources/": {
+   "status": 0,
+   "reason": "EAI_AGAIN",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/libraries-parks-and-leisure/hackney-archives/hackney-archives-collections"
+   ]
+  },
+  "http://www.londonsscreenarchives.org.uk/public/index.php": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/libraries-parks-and-leisure/hackney-archives/hackney-archives-collections"
+   ]
+  },
+  "https://www.grantrequest.co.uk/Login.aspx?ReturnUrl=%2faccountmanager.aspx%3fSA%3dAM%26sid%3d24&SA=AM&sid=24": {
+   "status": 503,
+   "reason": "HTTP 503",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/community-safety-and-environment/community-partnerships/community-grants/what-grants-are-available"
+   ]
+  },
+  "https://www.metoffice.gov.uk/weather/climate-change/effects-of-climate-change": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/greener-hackney"
+   ]
+  },
+  "https://www.hta.co.uk/services/planning": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/parkside-estate",
+    "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/de-beauvoir"
+   ]
+  },
+  "http://www.map.hackney.gov.uk/Find-My-Nearest-Internal/?CAT=CM03|CM02": {
+   "status": 0,
+   "reason": "ENOTFOUND",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/health-and-social-care/health-professionals/health-advice"
+   ]
+  },
+  "http://www.cityandhackneyccg.nhs.uk/": {
+   "status": 0,
+   "reason": "ENOTFOUND",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/health-and-social-care/health-professionals/health-advice"
+   ]
+  },
+  "https://www.hackneyicare.org.uk/kb5/hackney/asch/service.page?id=b6TaNEd6lf0": {
+   "status": 0,
+   "reason": "UND_ERR_CONNECT_TIMEOUT",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/help-home/home-care-providers"
+   ]
+  },
+  "http://www.map.hackney.gov.uk/LBHackneymap/": {
+   "status": 0,
+   "reason": "ENOTFOUND",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/water-quality"
+   ]
+  },
+  "https://www.whufc.com/fixtures/first-team/fixtures-and-results": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/parking-streets-and-transport/where-park/event-days-and-bank-holiday-parking/queen-elizabeth-olympic-park-events"
+   ]
+  },
+  "https://www.london-fire.gov.uk/safety/": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/community-safety-and-environment/community-safety-and-crime-prevention/emergency-planning-and-response/civil-protection-emergency-planning-and-response"
+   ]
+  },
+  "https://developmentandhousing.hackney.gov.uk/registers/index.html?fa=enforcement_register": {
+   "status": 406,
+   "reason": "HTTP 406",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/planning-and-building/planning-enforcement/planning-control-breaches"
+   ]
+  },
+  "https://www.holbornstudios.com/events/": {
+   "status": 0,
+   "reason": "CERT_HAS_EXPIRED",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/births-deaths-marriages-and-citizenship/marriage-civil-partnership-and-other-ceremonies/find-venue-your-marriage-or-civil-partnership"
+   ]
+  },
+  "https://claudiajones.org/": {
+   "status": 503,
+   "reason": "HTTP 503",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/speaker"
+   ]
+  },
+  "https://nationalfloodforum.org.uk/about-flooding/preparing/emergency-flood-kit/": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/community-safety-and-environment/community-safety-and-crime-prevention/emergency-planning-and-response/flood-warnings-and-planning"
+   ]
+  },
+  "https://nationalfloodforum.org.uk/about-flooding/reducing-your-risk/protecting-your-property/": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/community-safety-and-environment/community-safety-and-crime-prevention/emergency-planning-and-response/flood-warnings-and-planning"
+   ]
+  },
+  "https://nationalfloodforum.org.uk/about-flooding/reducing-your-risk/property-protection-advisor/": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/community-safety-and-environment/community-safety-and-crime-prevention/emergency-planning-and-response/flood-warnings-and-planning"
+   ]
+  },
+  "http://www.workingtogetheronline.co.uk/": {
+   "status": 0,
+   "reason": "UND_ERR_CONNECT_TIMEOUT",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/health-and-social-care/children-and-families/if-youre-worried-about-child-or-young-person/local-authority-designated-officer-lado"
+   ]
+  },
+  "https://www.riba.org/awards-and-competitions-landing-page/awards/riba-regional-awards/riba-london-award-winners/2019/the-colville-estate": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/colville-estate"
+   ]
+  },
+  "https://www.civicaepay.co.uk/HackneyEstore/estore/default/Basket/ViewBasket": {
+   "status": 0,
+   "reason": "fetch failed",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/payments"
+   ]
+  },
+  "https://www.civicaepay.co.uk/HackneyEstore/estore/default/Account/Login": {
+   "status": 0,
+   "reason": "fetch failed",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/payments"
+   ]
+  },
+  "https://www.civicaepay.co.uk/HackneyEstore/estore/default/Account/Login?Area=": {
+   "status": 0,
+   "reason": "fetch failed",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/payments"
+   ]
+  },
+  "https://hackney.gov.uk/apps": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/payments"
+   ]
+  },
+  "https://www.civicaepay.co.uk/HackneyEstore/estore/default/Footer/AccessibilityStatement": {
+   "status": 0,
+   "reason": "fetch failed",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/payments"
    ]
   }
  }

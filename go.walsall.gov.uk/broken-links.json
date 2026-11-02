@@ -1,27 +1,20 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-10-31T17:21:59.704Z",
+ "updatedAt": "2026-11-02T21:58:08.506Z",
  "links": {
   "https://wslc.walsall.gov.uk/leisurehub/identity/login": {
    "status": 0,
    "reason": "fetch failed",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "http://go.walsall.gov.uk/sport-and-leisure/activities/swimming-lessons-adults",
-    "http://go.walsall.gov.uk/events/splash-and-play-bloxwich-active-living-centre-1",
-    "http://go.walsall.gov.uk/events/pool-inflatable-fun-session-oak-park-active-living-centre-7",
-    "http://go.walsall.gov.uk/sport-and-leisure/activities",
-    "http://go.walsall.gov.uk/events/pool-floats-fun-session-oak-park-active-living-centre-14",
-    "http://go.walsall.gov.uk/events/pool-inflatable-fun-session-bloxwich-active-living-centre-13",
-    "http://go.walsall.gov.uk/events/pool-floats-fun-session-oak-park-active-living-centre-13",
-    "http://go.walsall.gov.uk/sport-and-leisure/activities/parties/parties-walsall-gala-swimming-and-fitness-centre",
-    "http://go.walsall.gov.uk/events/inflatable-and-floats-session-oak-park-active-living-centre-0",
-    "http://go.walsall.gov.uk/events/pool-inflatable-fun-session-bloxwich-active-living-centre-11"
+    "https://go.walsall.gov.uk/sport-and-leisure/covid-19-information",
+    "https://go.walsall.gov.uk/events/toddler-splash-oak-park-active-living-centre"
    ]
   },
   "https://fingertips.phe.org.uk/profile/adult-mental-health-wellbeing/data": {
@@ -682,6 +675,175 @@
    "weeksBroken": 1,
    "foundOn": [
     "http://go.walsall.gov.uk/your-council/privacy-statement"
+   ]
+  },
+  "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Falabare.co.uk%2Fwhat-we-do%2Fveterans%2F&data=05%7C02%7CSarah.Phillips2%40walsall.gov.uk%7Cde3313aa3579420a428208dde1890d24%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638914700933674945%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=OV9xR9yp6UNLOJEFf35vf%2BOzEPdJVA%2Fl0%2BqPbWg%2BilM%3D&reserved=0": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/people-and-communities/community-standards-and-strategies/help-armed-forces-community/housing"
+   ]
+  },
+  "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.haighousing.org.uk%2F&data=05%7C02%7CSarah.Phillips2%40walsall.gov.uk%7Cde3313aa3579420a428208dde1890d24%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638914700933650495%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=%2ByP68YArmIWG59rNOGTSyNzWKR3S7f40DpPrGi4nSR8%3D&reserved=0": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/people-and-communities/community-standards-and-strategies/help-armed-forces-community/housing"
+   ]
+  },
+  "https://www.veteransgateway.org.uk/": {
+   "status": 0,
+   "reason": "CERT_HAS_EXPIRED",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/people-and-communities/community-standards-and-strategies/help-armed-forces-community/housing"
+   ]
+  },
+  "http://www.boa-academy.co.uk/": {
+   "status": 0,
+   "reason": "UND_ERR_SOCKET",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/schools-and-learning/schools-in-walsall/school-admissions/education-for-14-19-year-olds"
+   ]
+  },
+  "https://www.walsallcollege.ac.uk/modes-of-study/courses-16-19s/": {
+   "status": 0,
+   "reason": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/schools-and-learning/schools-in-walsall/school-admissions/education-for-14-19-year-olds"
+   ]
+  },
+  "https://www.waverleystudiocollege.co.uk/": {
+   "status": 0,
+   "reason": "ERR_HTTP2_STREAM_ERROR",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/schools-and-learning/schools-in-walsall/school-admissions/education-for-14-19-year-olds"
+   ]
+  },
+  "https://www.thomastelfordutc.com/": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/schools-and-learning/schools-in-walsall/school-admissions/education-for-14-19-year-olds"
+   ]
+  },
+  "https://www.snapdda.co.uk/Clients/walsallcouncil/walsallcouncilsnapddasignup.aspx": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/sport-and-leisure/covid-19-information"
+   ]
+  },
+  "https://www.nsalg.org.uk/": {
+   "status": 0,
+   "reason": "timeout",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/parks-and-green-spaces/allotments-and-community-gardens"
+   ]
+  },
+  "http://www.active-gym.co.uk/book-a-session": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/newsroom/dive-summer-six-weeks-family-fun-walsall-leisure-centres"
+   ]
+  },
+  "https://go.walsall.gov.uk/sport-and-leisure/activities/outdoor-pursuit-activities": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/wellbeing-directory/aldridge-airport-outdoor-activity-centre"
+   ]
+  },
+  "https://eur01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.bike2life.org.uk%2F&data=05%7C02%7CNathan.Rowe%40walsall.gov.uk%7C559498864d97487537e708ddc0b5f87a%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638878609998872319%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=lMzJBOYj8PblAqwBAfl10VSCw9WU8le6jAkPRXuwcBg%3D&reserved=0": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/newsroom/free-bike-repairs-and-learn-ride-sessions-available-walsall"
+   ]
+  },
+  "https://www.nhs.uk/services/service-directory/city-sandwell-and-walsall-bss/N10959526?gsdServiceId=325": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/newsroom/women-walsall-invited-come-forward-breast-cancer-screening"
    ]
   }
  }
