@@ -1,0 +1,223 @@
+{
+ "runId": "2026-11-03T12-07-36-297Z-df29ec",
+ "week": "2026-W45",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-03T12:07:37.713Z",
+ "scanned": [
+  "eaff2bbd71c3feeb",
+  "5439d1db67b402ea",
+  "19761f57ad4086f6",
+  "8aea76b2f32f988e",
+  "8731fa93652346b9",
+  "73e6e9b4366aa229",
+  "3eff4366fbf9627a",
+  "771d70243e61ae74",
+  "23e1892cc24628f9",
+  "7ba98c26ce5252a4",
+  "e647cd13309ce507",
+  "be6342196a5ee387",
+  "f5188b443789a03b",
+  "5b5135422378a3ae",
+  "f2e01c1d5ea6e0ad",
+  "05aa603cf0a2909c",
+  "624bfbff6bab89c0",
+  "7c63fe9a4bd06407",
+  "0b757f73c0f585c1",
+  "97d569f0010130fd",
+  "fbdc675298f9e4f5",
+  "c3667da12dfd7240",
+  "3dddbabc5b916c0b",
+  "e02f653c6804d33e",
+  "e33217b1f476079d",
+  "97e02b831f81a07a",
+  "0572a1ca33087754",
+  "1b1db3b89743525c",
+  "871162be8c62e530",
+  "990f9e31f78ed11a",
+  "93531ddd5e0fd369",
+  "47c3f9724e768cd6",
+  "be694e79918f8a6f",
+  "085aab9b08039f55",
+  "e09dfe453f937985",
+  "9de56b19f4cb70dc",
+  "0378f1c084093130",
+  "1b0c271665525fa4",
+  "3acdd47c85577f6c",
+  "9510d3f83c5495e2",
+  "03b25806bfba365f",
+  "74cbb63fa72d474b",
+  "b286cfec03778e8c",
+  "0f373fcecc8dca11",
+  "3d89809549648259",
+  "20fad5080f86f497",
+  "28c89ddc15ee1cc5",
+  "3f7a6c577e154060",
+  "d396b38a543dc9f7",
+  "9fddafea454e356d"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 473,
+  "checked": 473,
+  "brokenCount": 13,
+  "broken": [
+   {
+    "url": "http://www.awardsforall.org.uk/",
+    "status": 0,
+    "reason": "CERT_HAS_EXPIRED",
+    "foundOn": [
+     "https://www.hackney.gov.uk/parking-streets-and-transport/travel-plans/school-travel-plans/school-travel-plan-funding-opportunities"
+    ]
+   },
+   {
+    "url": "https://web-content-api.hackney.gov.uk/wp-content/uploads/Sustainable-Travel-To-School-Grants-application-form.doc",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/parking-streets-and-transport/travel-plans/school-travel-plans/school-travel-plan-funding-opportunities"
+    ]
+   },
+   {
+    "url": "https://www.hta.co.uk/services/planning",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/selman-house-and-wellday-house-gascoyne-estate",
+     "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/hoxton-west"
+    ]
+   },
+   {
+    "url": "https://planningapps.hackney.gov.uk/planning/index.html",
+    "status": 406,
+    "reason": "HTTP 406",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/local-land-charges-search"
+    ]
+   },
+   {
+    "url": "https://onedigital.hackney.gov.uk/publicaccesslive/selfservice/citizenportal/registration.htm?_flowId=citizenportal%2Fregistration&_flowExecutionKey=e1s1",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/view-your-landlord-payment-account"
+    ]
+   },
+   {
+    "url": "http://www.cyclescheme.co.uk/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.hackney.gov.uk/parking-streets-and-transport/travel-plans/school-travel-plans/cycling-school"
+    ]
+   },
+   {
+    "url": "https://www.deafplus.org/deafblind-vi-support/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-tax-and-benefits/financial-advice-and-resources/organisations-help-money-matters-and-advice"
+    ]
+   },
+   {
+    "url": "https://www.rsbc.org.uk/advice/what-we-do/hackney-advice-service",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-tax-and-benefits/financial-advice-and-resources/organisations-help-money-matters-and-advice"
+    ]
+   },
+   {
+    "url": "https://www.refugeewomen.org.uk/",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-tax-and-benefits/financial-advice-and-resources/organisations-help-money-matters-and-advice"
+    ]
+   },
+   {
+    "url": "http://www.offcentre.org.uk/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-tax-and-benefits/financial-advice-and-resources/organisations-help-money-matters-and-advice"
+    ]
+   },
+   {
+    "url": "https://hackneyworks.hackney.gov.uk/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-tax-and-benefits/financial-advice-and-resources/organisations-help-money-matters-and-advice"
+    ]
+   },
+   {
+    "url": "http://www.eastendcab.org.uk/",
+    "status": 0,
+    "reason": "timeout",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-tax-and-benefits/financial-advice-and-resources/organisations-help-money-matters-and-advice"
+    ]
+   },
+   {
+    "url": "http://www.eastendcab.org.uk/hackney/",
+    "status": 0,
+    "reason": "timeout",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/benefits-explained/universal-credit-explained"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 50,
+  "alfa": 23,
+  "plain-language": 29,
+  "resources": 50,
+  "images": 50,
+  "standards": 28,
+  "link-check": 50,
+  "security": 7,
+  "sustainability": 4,
+  "public-interest": 4,
+  "third-party": 12,
+  "deprecated-html": 4,
+  "tech": 3
+ },
+ "tally": {
+  "ok": 50,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-11-03T12:15:32.784Z"
+}
