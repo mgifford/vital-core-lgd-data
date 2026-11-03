@@ -1,0 +1,151 @@
+{
+ "runId": "2026-11-03T12-07-27-248Z-2d5e36",
+ "week": "2026-W45",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-03T12:07:27.911Z",
+ "scanned": [
+  "cb1c28b43762e922",
+  "9a7a0c41b428b07a",
+  "9c0872587e2e8623",
+  "e96bb816da15a646",
+  "e964c7ae27946424",
+  "f338462e0c7ae0df",
+  "1f934b26e355c7e6",
+  "c9c7c1555e2141ea",
+  "f2baf7b7cf391643",
+  "29e40f44268064c5",
+  "a37b075f119cce56",
+  "794219f1f06245e0",
+  "6cc328095e2fc176",
+  "5ca16b571fef42dd",
+  "da3e37461d053a1c",
+  "33deb027a480dc0b",
+  "cd251ddedc400fe2",
+  "c72ec02e4d2e458d",
+  "48bc1fee88ef0a14",
+  "3e5b3d2ce3c3da4c",
+  "560143af2b134058",
+  "57a04d0de7ed14e0",
+  "34e52c7d9e7cadc1",
+  "15b3001e49ac0327",
+  "da14356de1640518",
+  "1300355e40c9e3b4",
+  "12e51ac695aac98c",
+  "a108ded1541ff02e",
+  "3cbbcad99956674e",
+  "b6c7710f9c2f65e7",
+  "10a248a929b16218",
+  "6a9c41d4ca5c76e2",
+  "0d2b7082e44a397c",
+  "e0150402b465974e",
+  "171d7229bc58196c",
+  "aa5208f07491ab0d",
+  "2148f042582fb51e",
+  "d36cff91e67d63ba",
+  "358e32a2a43b6f25",
+  "6b753bef1a8a7840",
+  "8fac8cbabd87e9e4",
+  "17a4ac49b0704235",
+  "575b09bbde052377",
+  "ad4ae98f389dde20",
+  "fa4186d8bd5f32a7",
+  "1091802513d8f030",
+  "87803f962fa4450a",
+  "9929bcd595245ada",
+  "41d2e57a34123b61",
+  "f282b1fceece2357"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 665,
+  "checked": 500,
+  "brokenCount": 4,
+  "broken": [
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.walsall.gov.uk%2Fbenefits%2Fhelp-with-bills-and-debt&data=05%7C01%7CJoan.Omionawele%40walsall.gov.uk%7C12b76676b6d547cd05a308db89d115a2%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638255303334898605%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=SD%2FUAiaajl0rq6kvV9YWMJ6vjEVhT8tMWp%2BMRmW0W70%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/walsall-council-launches-benefits-calculator-support-residents-access-benefits"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.walsall.gov.uk%2Fpeople-and-communities%2Fwalsall-connected-get-help-get-online&data=05%7C01%7CJoan.Omionawele%40walsall.gov.uk%7C12b76676b6d547cd05a308db89d115a2%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638255303334898605%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=ayK5c754scqNNBuwb4ocs%2BnBYbOOe63A7KLW765fRWI%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/walsall-council-launches-benefits-calculator-support-residents-access-benefits"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.walsall.gov.uk%2Fpeople-and-communities%2Fvolunteering%2Fcommunity-litter-picking&data=05%7C01%7CJoan.Omionawele%40walsall.gov.uk%7C634deaa0c4a1440bcbdd08db884338f4%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638253594517286146%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=03yY9%2FHMfgxf7RW0EwHdqyZKAdUYKzXp9Iky6zC4eYU%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/litter-picking-stations"
+    ]
+   },
+   {
+    "url": "https://www.tnlcommunityfund.org.uk/funding/programmes/building-better-opportunities",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/your-council/decision-making-in-walsall-borough/bcta/black-country-esif-programme"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 50,
+  "alfa": 26,
+  "resources": 50,
+  "images": 50,
+  "standards": 21,
+  "third-party": 17,
+  "link-check": 50,
+  "security": 6,
+  "lighthouse": 6,
+  "plain-language": 22,
+  "sustainability": 3,
+  "public-interest": 7,
+  "deprecated-html": 3,
+  "tech": 5
+ },
+ "tally": {
+  "ok": 50,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-03T12:23:29.189Z"
+}
