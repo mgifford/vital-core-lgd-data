@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-11-02T01:47:41.427Z",
+ "updatedAt": "2026-11-03T03:41:59.842Z",
  "checker": {
   "name": "pdf-crawler",
   "url": "https://github.com/mgifford/pdf-crawler",
@@ -1250,6 +1250,256 @@
   },
   "http://go.walsall.gov.uk/sites/default/files/2024-08/108090%20Care%20Leavers%20Newsletter%20May%202024.pdf": {
    "checkedAt": "2026-11-02T01:47:41.427Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/1%20SoS%20Decision%20Letter_1.pdf": {
+   "checkedAt": "2026-11-03T03:41:23.797Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/1HE_1SpRO_Order.pdf": {
+   "checkedAt": "2026-11-03T03:41:25.300Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/1HE_2SpRO_Plan.pdf": {
+   "checkedAt": "2026-11-03T03:41:26.802Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/1HE_3SiRO_Order.pdf": {
+   "checkedAt": "2026-11-03T03:41:28.303Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/1HE_4SiRO_Plan%28Overview%29.pdf": {
+   "checkedAt": "2026-11-03T03:41:29.805Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/1HE_5SiRO_Plan%28Sheet1%29.pdf": {
+   "checkedAt": "2026-11-03T03:41:31.307Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/1HE_6SiRO_Plan%28Sheet2%29.pdf": {
+   "checkedAt": "2026-11-03T03:41:32.809Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/1HE_7SpRO-SiRO_Notice%28Press_Site_Qualifying-Persons%29.pdf": {
+   "checkedAt": "2026-11-03T03:41:34.311Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/2%20190723-Registered%20numbered%20Certified%20copy%20SpRO_1.PDF": {
+   "checkedAt": "2026-11-03T03:41:35.813Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/2HE_2CPO_Plan.pdf": {
+   "checkedAt": "2026-11-03T03:41:37.315Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/2HE_3CPO_Notice%28Qualifying-Persons%29.pdf": {
+   "checkedAt": "2026-11-03T03:41:38.817Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/3WMBC_2CPO_Plan.pdf": {
+   "checkedAt": "2026-11-03T03:41:40.320Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/3WMBC_3CPO_Notice%28Qualifying-Persons%29.pdf": {
+   "checkedAt": "2026-11-03T03:41:41.822Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/4%20Slip%20Roads%2C%20Special%20Roads%20%28s18%29%20Plans%20x2.pdf": {
+   "checkedAt": "2026-11-03T03:41:43.323Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/4BOTH-CPO%27s_Plans%28composite_boundary_line%29.pdf": {
+   "checkedAt": "2026-11-03T03:41:44.825Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/5%20HE%20CPO%20_Plan.pdf": {
+   "checkedAt": "2026-11-03T03:41:46.327Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/5ALL-ORDERS_Statement_of_Reasons.pdf": {
+   "checkedAt": "2026-11-03T03:41:47.829Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/6%20WMBC%20CPO%20_%20Plan%20%28Red%20Comments%29.pdf": {
+   "checkedAt": "2026-11-03T03:41:49.331Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/%E2%80%8BEqIAs%20April%202016%20to%20March%202017.pdf": {
+   "checkedAt": "2026-11-03T03:41:50.833Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/2HE_1CPO_Order%26Schedule_0.pdf": {
+   "checkedAt": "2026-11-03T03:41:52.335Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/2HE_4CPO_Notice%28Press%26Site%29.pdf": {
+   "checkedAt": "2026-11-03T03:41:53.834Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/3%20Slip%20Roads%2C%20Special%20Roads%20%28s16%2C%2017%20%26%2019%29%20Plan_1.pdf": {
+   "checkedAt": "2026-11-03T03:41:55.336Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/3WMBC_1CPO_Order%26Schedule.pdf": {
+   "checkedAt": "2026-11-03T03:41:56.838Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/3WMBC_4CPO_Notice%28Press%26Site%29.pdf": {
+   "checkedAt": "2026-11-03T03:41:58.339Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/7%20HE%20CPO%20NoC%20Notice%20%28Express%20%26%20Star%2C%2020190725%29.pdf": {
+   "checkedAt": "2026-11-03T03:41:59.840Z",
    "week": "2026-W45",
    "httpStatus": null,
    "status": "error",
