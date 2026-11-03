@@ -1,0 +1,150 @@
+{
+ "runId": "2026-11-03T15-03-46-504Z-f69dd1",
+ "week": "2026-W45",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-03T15:03:48.152Z",
+ "scanned": [
+  "43487b227afa3524",
+  "90482d266fd081af",
+  "feea4dea342a9862",
+  "aea8dffaf924e4a0",
+  "8d14a098ca42be27",
+  "61ec3f5d464ffe9c",
+  "b679df7762f10e8d",
+  "11ff46bc0b799642",
+  "626722985ce8e6fe",
+  "0b964fc5bd7272ef",
+  "00d2b4fe5b132fab",
+  "044b5649c1ad65d2",
+  "173bf4eb9e981390",
+  "3383959bfefc406e",
+  "6bfb45e009949c7c",
+  "f6ec5617dbfe4f2e",
+  "3112c4161d22645a",
+  "3e7ee1ae4c1500bc",
+  "1327f440b6bd9c09",
+  "cb62cee5cf45b1e8",
+  "ca69f4a6762fe70f",
+  "2cddb799a45f6951",
+  "196028d25f7b3bca",
+  "cd2c1c0ff9281519",
+  "47e2f7085a09ccb9",
+  "974ca0a84648fcb1",
+  "cd42815229241675",
+  "54481bcb5fc31623",
+  "67ac86580d141c24",
+  "ae4a4cf1f262f3e2",
+  "c9435285db591c1b",
+  "f65aba0c43315fba",
+  "4c26e00fe3e9134b",
+  "e8477ede7ffe4094",
+  "2243640390fa14c8",
+  "e4a5d583c59cbbbe",
+  "1c430d05d23796c1",
+  "bfae1f8b357913ce",
+  "f1ce027e2c4b6d8a",
+  "e4777aca41aabe1f",
+  "6a814241a7652e61",
+  "5702dc5ce890bfa9",
+  "c6b39dd57f16e7a3",
+  "b95d9a603e363369",
+  "1587c59b395afbd5",
+  "a4bf8a71c996ea55",
+  "2bc368dfc6cb55f9",
+  "9ac93ade84351407"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 734,
+  "checked": 500,
+  "brokenCount": 4,
+  "broken": [
+   {
+    "url": "http://www.crg.uk.com/homecare/",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/choose-who-provides-your-social-care"
+    ]
+   },
+   {
+    "url": "https://trace.london/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.hackney.gov.uk/parking-streets-and-transport/enforcement-and-removal-vehicles/what-do-if-your-vehicle-has-been-removed",
+     "https://www.hackney.gov.uk/parking-streets-and-transport/enforcement-and-removal-vehicles/abandoned-vehicle-removal"
+    ]
+   },
+   {
+    "url": "https://www.hackneyicare.org.uk/kb5/hackney/asch/service.page?id=TC822IfVtQo",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/choose-who-provides-your-social-care"
+    ]
+   },
+   {
+    "url": "https://www.hackneyicare.org.uk/kb5/hackney/asch/service.page?id=PpOJW1HKzHk&adultchannel=0",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/choose-who-provides-your-social-care"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 48,
+  "plain-language": 26,
+  "deprecated-html": 8,
+  "resources": 48,
+  "images": 48,
+  "security": 8,
+  "lighthouse": 6,
+  "link-check": 48,
+  "alfa": 25,
+  "standards": 25,
+  "public-interest": 3,
+  "tech": 5,
+  "third-party": 16,
+  "sustainability": 2
+ },
+ "tally": {
+  "ok": 48,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 3,
+  "error": 0
+ },
+ "finishedAt": "2026-11-03T15:13:25.305Z"
+}
