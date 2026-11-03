@@ -1,0 +1,159 @@
+{
+ "runId": "2026-11-03T10-47-13-840Z-ac148c",
+ "week": "2026-W45",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-03T10:47:14.872Z",
+ "scanned": [
+  "6e1647288116e430",
+  "b2e3a5b3918bee0b",
+  "1a0a4bfc6853f635",
+  "f347d093ec7625cf",
+  "acd64568af45a0df",
+  "04ba1b539fc4abcd",
+  "ce6dff55f8ea8732",
+  "f6212727dc73f998",
+  "06789fdfed28b31a",
+  "0bc2a34162bf8833",
+  "fbb9f6c8f6f19649",
+  "e0483c0ce412c69d",
+  "4c13caabe11ddad9",
+  "f893b1f112e37f37",
+  "9f58c5140e72f853",
+  "91fe8ffffb6275bb",
+  "38771d3512266026",
+  "9f03c6c5ae7e0e89",
+  "b67938b99b533e67",
+  "3f74c4259ba5db2c",
+  "9566893fc7d9758b",
+  "5dfe424f558c90b0",
+  "209514bbefe8e490",
+  "62a69d85fbfda6da",
+  "666b340d39386ba2",
+  "5204e1465615caee",
+  "31e93524b14d7100",
+  "d62d3f84a6697c67",
+  "e25faa89b81e898d",
+  "215ae379b4936a7f",
+  "4cd7e1217ff3f379",
+  "5473d0e78f9662ec",
+  "38803efb13a90eb5",
+  "1f15cb43bf4d43da",
+  "5462aa0aeed09e9d",
+  "0fa27e0aed254b87",
+  "de368580fb85adde",
+  "5dc072f51aa20605",
+  "35f4daf090e38b37",
+  "37a31a927d19837a",
+  "b5780633d886d11e",
+  "416d9f025e623fda",
+  "007d36b9cba69623",
+  "6403364333070cad",
+  "d299accaeaf5e0f3",
+  "0bc41afa908d9de1",
+  "4e30eb27d74d967a",
+  "5761879ab2568745",
+  "5ceca6f43f3e9dbb",
+  "ddd646bd7e1286a4"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 781,
+  "checked": 500,
+  "brokenCount": 5,
+  "broken": [
+   {
+    "url": "https://www.labc.co.uk/news/installing-wood-burning-stoves",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/people-and-communities/protecting-our-environment/smoke-control-areas"
+    ]
+   },
+   {
+    "url": "https://smokecontrol.defra.gov.uk/appliances.php?country=england",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/people-and-communities/protecting-our-environment/smoke-control-areas"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.walsall.gov.uk%2Fhealth-and-social-care&data=05%7C02%7CBecky.Read%40walsall.gov.uk%7Ccb47dbf9cede4b7513a208de85009200%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639094434626574701%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=HlV%2FAnylb6LSXo13k8Y6U2KGod0vJKwcy%2FCk%2BbchMeI%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/council-kick-starts-social-work-week-celebrations-world-social-work-day"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.socialworkengland.org.uk%2Fsocial-work-week&data=05%7C02%7CBecky.Read%40walsall.gov.uk%7Ccb47dbf9cede4b7513a208de85009200%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639094434626601133%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=q%2Fc%2Fc4AcokiJl1QVIxjrNBcd%2FNC3fpkD3VC%2BRS22atU%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/council-kick-starts-social-work-week-celebrations-world-social-work-day"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fbasw.co.uk%2Fabout-social-work%2Fwhat-social-work%2Fworld-social-work-month-2026&data=05%7C02%7CBecky.Read%40walsall.gov.uk%7Ccb47dbf9cede4b7513a208de85009200%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639094434626622885%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=2Z3X%2B0tV9bGT%2FVx3cGArO%2BqYpm5wZlmeROvj4OyhNfw%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/council-kick-starts-social-work-week-celebrations-world-social-work-day"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "sustainability": 5,
+  "axe": 50,
+  "alfa": 26,
+  "plain-language": 29,
+  "resources": 50,
+  "images": 50,
+  "link-check": 50,
+  "security": 8,
+  "public-interest": 7,
+  "deprecated-html": 5,
+  "standards": 27,
+  "third-party": 13,
+  "tech": 4,
+  "lighthouse": 2
+ },
+ "tally": {
+  "ok": 50,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 2,
+  "error": 0
+ },
+ "finishedAt": "2026-11-03T11:02:26.509Z"
+}
