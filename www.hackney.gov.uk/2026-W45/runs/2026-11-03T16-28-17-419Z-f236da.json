@@ -1,0 +1,174 @@
+{
+ "runId": "2026-11-03T16-28-17-419Z-f236da",
+ "week": "2026-W45",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-03T16:28:18.853Z",
+ "scanned": [
+  "e00ff43395b29dcb",
+  "a8a5652b1a6d4da0",
+  "bd117f05d3faa462",
+  "f4b1cf93b8052b42",
+  "ff4f672a19f4e5a0",
+  "3295c2c34109a762",
+  "f4c8c28a605f3dcd",
+  "56662b1312203476",
+  "0fbc40ef314ae58a",
+  "3421a54fa0f364a4",
+  "2ed962ab5a86f3bb",
+  "6380411fe9ef943f",
+  "887469897501956e",
+  "6ad28d8547ab5d8d",
+  "85e0131a8ba4777a",
+  "a4db158501d19838",
+  "632787d62260a3ce",
+  "7cb22c69d7312487",
+  "e443dc93d80f3eaa",
+  "40a46d7bef098166",
+  "06316e3e9cb42f73",
+  "a7b85b3df0589ab5",
+  "00414b8f39f1bddc",
+  "b80801781f84c835",
+  "bcdea23efae24c62",
+  "77e64087cd1e7721",
+  "8c4516d2dc9d8f61",
+  "77bf85e2a2e04b09",
+  "8a6f9248c5ab5501",
+  "8c4143a06b181918",
+  "bfcfe155ab8fe643",
+  "ca8a5409fe47bb44",
+  "073ab35922e8dcc9",
+  "11ce8692368289d8",
+  "e97251f4bc3ca39e",
+  "b1efc3cd871ccb75",
+  "3c5b5c9f420e27e2",
+  "09a332132eb05bc0",
+  "3fe5f73154fd5201",
+  "1274fb08155aa764",
+  "d6faaa6a89da73cb",
+  "7051adf4927fab63",
+  "1feae16e5d2287fa",
+  "ff640f50a2a69052",
+  "b91ed8c140f931be",
+  "35d10ed2c172833c",
+  "105d3a63edb6c958",
+  "ffb8c9cd3cb4bf91",
+  "2cd0409e160bb1a2"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 840,
+  "checked": 500,
+  "brokenCount": 7,
+  "broken": [
+   {
+    "url": "https://adamkhan.co.uk/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/bridge-house-and-marian-court"
+    ]
+   },
+   {
+    "url": "http://getset.london2012.com/en/home",
+    "status": 0,
+    "reason": "timeout",
+    "foundOn": [
+     "https://www.hackney.gov.uk/parking-streets-and-transport/travel-plans/school-travel-plans/walking-school"
+    ]
+   },
+   {
+    "url": "https://drive.google.com/drive/u/1/folders/1tececvZhEYIqS7wNK1S36P0446jb3luW",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-and-elections/council-meetings/agendas-reports-decisions-and-minutes"
+    ]
+   },
+   {
+    "url": "https://www.communityenergy.london/how-to-guide/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/energy/community-energy-fund"
+    ]
+   },
+   {
+    "url": "http://mginternet.hackney.gov.uk/mgUserInfo.aspx?UID=1955",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/community-partnerships/strategic-partnership-board/hackney-community-strategy-partnership-inactive"
+    ]
+   },
+   {
+    "url": "http://mginternet.hackney.gov.uk/mgUserInfo.aspx?UID=136",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/community-partnerships/strategic-partnership-board/hackney-community-strategy-partnership-inactive"
+    ]
+   },
+   {
+    "url": "https://hackney.gov.uk/your-councillors",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/community-partnerships/strategic-partnership-board/hackney-community-strategy-partnership-inactive"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 48,
+  "resources": 48,
+  "images": 48,
+  "link-check": 48,
+  "alfa": 22,
+  "standards": 26,
+  "plain-language": 24,
+  "public-interest": 6,
+  "third-party": 15,
+  "security": 10,
+  "sustainability": 3,
+  "tech": 5,
+  "deprecated-html": 4,
+  "lighthouse": 3
+ },
+ "tally": {
+  "ok": 48,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 5,
+  "error": 0
+ },
+ "finishedAt": "2026-11-03T16:36:10.512Z"
+}
