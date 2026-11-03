@@ -1,6 +1,6 @@
 {
  "domain": "www.hackney.gov.uk",
- "updatedAt": "2026-11-02T21:58:10.073Z",
+ "updatedAt": "2026-11-03T19:49:10.616Z",
  "links": {
   "https://hackney.gov.uk/node/403": {
    "status": 404,
@@ -228,7 +228,8 @@
    ],
    "weeksBroken": 2,
    "foundOn": [
-    "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/help-home/home-care-providers"
+    "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/help-home/home-care-providers",
+    "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/choose-who-provides-your-social-care"
    ]
   },
   "https://www.hackneyicare.org.uk/kb5/hackney/asch/service.page?id=TC822IfVtQo": {
@@ -646,7 +647,8 @@
    ],
    "weeksBroken": 2,
    "foundOn": [
-    "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/view-your-housing-benefit-and-council-tax-reduction-account"
+    "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/view-your-housing-benefit-and-council-tax-reduction-account",
+    "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/view-your-landlord-payment-account"
    ]
   },
   "https://www.schoolvaccination.uk/catch-up-clinics/hackney": {
@@ -921,7 +923,9 @@
    "weeksBroken": 1,
    "foundOn": [
     "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/parkside-estate",
-    "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/de-beauvoir"
+    "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/de-beauvoir",
+    "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/selman-house-and-wellday-house-gascoyne-estate",
+    "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/hoxton-west"
    ]
   },
   "http://www.map.hackney.gov.uk/Find-My-Nearest-Internal/?CAT=CM03|CM02": {

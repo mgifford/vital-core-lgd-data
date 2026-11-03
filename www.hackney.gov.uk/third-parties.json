@@ -1,6 +1,6 @@
 {
  "domain": "www.hackney.gov.uk",
- "updatedAt": "2026-11-02T21:58:10.074Z",
+ "updatedAt": "2026-11-03T19:49:10.617Z",
  "vendors": {
   "hotjar.com": {
    "firstSeen": "2026-W44",
@@ -196,6 +196,15 @@
    ],
    "weeksSeen": 1,
    "isScriptVendor": false
+  },
+  "stonly.com": {
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": true
   }
  }
 }

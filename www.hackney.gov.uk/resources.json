@@ -1,6 +1,6 @@
 {
  "domain": "www.hackney.gov.uk",
- "updatedAt": "2026-11-02T21:58:10.073Z",
+ "updatedAt": "2026-11-03T19:49:10.616Z",
  "resources": {
   "https://consentcdn.cookiebot.com/sdk/bc-v5.min.html": {
    "type": "iframe",
@@ -11,13 +11,13 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPages": 290,
+   "lastPages": 530,
    "lastExamplePages": [
+    "https://www.hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/air-quality/improving-air-quality-supporting-sustainable-transport",
+    "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/how-council-works",
     "https://www.hackney.gov.uk/parking-streets-and-transport/travel-plans/school-travel-plans/school-travel-plans",
-    "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/commercial-extensions-and-alterations-supplementary-planning-document-spd",
-    "https://www.hackney.gov.uk/housing/homeowners/shared-owners",
-    "https://www.hackney.gov.uk/parking-streets-and-transport/school-streets",
-    "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/growing-hackney-child-friendly-places-supplementary-planning-document-spd"
+    "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/spring-hill-recreation-ground",
+    "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/morris-blitz-court"
    ]
   },
   "https://www.youtube.com/embed/VPH8SOUnduM": {
@@ -168,14 +168,15 @@
   "https://web-content-api.hackney.gov.uk/wp-content/uploads/Sustainable-Travel-To-School-Grants-application-form.doc": {
    "type": "document",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
-    "https://hackney.gov.uk/parking-streets-and-transport/travel-plans/school-travel-plans/school-travel-plan-funding-opportunities"
+    "https://www.hackney.gov.uk/parking-streets-and-transport/travel-plans/school-travel-plans/school-travel-plan-funding-opportunities"
    ]
   },
   "https://map2.hackney.gov.uk/maps/ev-network-plan-with-summary/embed.html": {
@@ -291,126 +292,126 @@
   "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/EN_JC_0308_Five_Ways_Wellbeing_Islam_AW_e04aa64189.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
-   "lastPages": 2,
+   "weeksSeen": 2,
+   "lastPages": 1,
    "lastExamplePages": [
-    "https://www.hackney.gov.uk/health-and-social-care/mental-health/get-mental-health-support",
     "https://www.hackney.gov.uk/community-safety-and-environment/welcome-hackney-refugee-migrant-and-asylum-seeker-service"
    ]
   },
   "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/BN_JC_0308_Five_Ways_Wellbeing_Islam_AW_cf938d3903.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
-   "lastPages": 2,
+   "weeksSeen": 2,
+   "lastPages": 1,
    "lastExamplePages": [
-    "https://www.hackney.gov.uk/health-and-social-care/mental-health/get-mental-health-support",
     "https://www.hackney.gov.uk/community-safety-and-environment/welcome-hackney-refugee-migrant-and-asylum-seeker-service"
    ]
   },
   "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/GU_JC_0308_Five_Ways_Wellbeing_Islam_AW_6ef69032ba.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
-   "lastPages": 2,
+   "weeksSeen": 2,
+   "lastPages": 1,
    "lastExamplePages": [
-    "https://www.hackney.gov.uk/health-and-social-care/mental-health/get-mental-health-support",
     "https://www.hackney.gov.uk/community-safety-and-environment/welcome-hackney-refugee-migrant-and-asylum-seeker-service"
    ]
   },
   "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/UR_JC_0308_Five_Ways_Wellbeing_Islam_AW_ef638654b1.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
-   "lastPages": 2,
+   "weeksSeen": 2,
+   "lastPages": 1,
    "lastExamplePages": [
-    "https://www.hackney.gov.uk/health-and-social-care/mental-health/get-mental-health-support",
     "https://www.hackney.gov.uk/community-safety-and-environment/welcome-hackney-refugee-migrant-and-asylum-seeker-service"
    ]
   },
   "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/HI_JC_0308_Five_Ways_Wellbeing_Islam_AW_d8ca32aac0.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
-   "lastPages": 2,
+   "weeksSeen": 2,
+   "lastPages": 1,
    "lastExamplePages": [
-    "https://www.hackney.gov.uk/health-and-social-care/mental-health/get-mental-health-support",
     "https://www.hackney.gov.uk/community-safety-and-environment/welcome-hackney-refugee-migrant-and-asylum-seeker-service"
    ]
   },
   "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/SO_JC_0308_Five_Ways_Wellbeing_Islam_AW_c3dff7a19b.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
-   "lastPages": 2,
+   "weeksSeen": 2,
+   "lastPages": 1,
    "lastExamplePages": [
-    "https://www.hackney.gov.uk/health-and-social-care/mental-health/get-mental-health-support",
     "https://www.hackney.gov.uk/community-safety-and-environment/welcome-hackney-refugee-migrant-and-asylum-seeker-service"
    ]
   },
   "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/AR_JC_0308_Five_Ways_Wellbeing_Islam_AW_0fdfc02acd.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
-   "lastPages": 2,
+   "weeksSeen": 2,
+   "lastPages": 1,
    "lastExamplePages": [
-    "https://www.hackney.gov.uk/health-and-social-care/mental-health/get-mental-health-support",
     "https://www.hackney.gov.uk/community-safety-and-environment/welcome-hackney-refugee-migrant-and-asylum-seeker-service"
    ]
   },
   "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/Pashto_Five_Ways_Wellbeing_Islam1_b0f630c346.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
-   "lastPages": 2,
+   "weeksSeen": 2,
+   "lastPages": 1,
    "lastExamplePages": [
-    "https://www.hackney.gov.uk/health-and-social-care/mental-health/get-mental-health-support",
     "https://www.hackney.gov.uk/community-safety-and-environment/welcome-hackney-refugee-migrant-and-asylum-seeker-service"
    ]
   },
   "https://goodthinking-strapi.s3.eu-west-2.amazonaws.com/Dari_five_ways_to_wellbeing1_5374172c1d.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
-   "lastPages": 2,
+   "weeksSeen": 2,
+   "lastPages": 1,
    "lastExamplePages": [
-    "https://www.hackney.gov.uk/health-and-social-care/mental-health/get-mental-health-support",
     "https://www.hackney.gov.uk/community-safety-and-environment/welcome-hackney-refugee-migrant-and-asylum-seeker-service"
    ]
   },
@@ -498,25 +499,26 @@
   "https://map2.hackney.gov.uk/maps/motorcycle-parking/embed.html": {
    "type": "iframe",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
-   "lastPages": 2,
+   "weeksSeen": 2,
+   "lastPages": 1,
    "lastExamplePages": [
-    "https://hackney.gov.uk/parking-streets-and-transport/where-park/two-wheeled-motorcycle-parking",
     "https://www.hackney.gov.uk/parking-streets-and-transport/where-park/two-wheeled-motorcycle-parking"
    ]
   },
   "https://map2.hackney.gov.uk/maps/cycle-parking/embed.html": {
    "type": "iframe",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/cycling/street-cycle-parking"
@@ -566,14 +568,15 @@
   "https://map2.hackney.gov.uk/maps/ltn-air-quality-receptors/embed.html": {
    "type": "iframe",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
-    "https://hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/air-quality/improving-air-quality-supporting-sustainable-transport"
+    "https://www.hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/air-quality/improving-air-quality-supporting-sustainable-transport"
    ]
   },
   "https://web-content-api.hackney.gov.uk/wp-content/uploads/Temporary-event-notice-2.docx": {
@@ -605,11 +608,12 @@
   "https://www.youtube.com/embed/bTBwVw_lEjY": {
    "type": "embedded-media",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/housing/stay-safe-your-home/fire-safety/general-fire-safety-advice"
@@ -618,11 +622,12 @@
   "https://www.youtube.com/embed/Vy4L8B7KI9k": {
    "type": "embedded-media",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/housing/stay-safe-your-home/fire-safety/general-fire-safety-advice"
@@ -767,11 +772,12 @@
   "https://www.youtube.com/embed/qRWwTTF7rjw": {
    "type": "embedded-media",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/libraries-parks-and-leisure/exercise-and-sport/exercise-over-50s"
@@ -793,14 +799,14 @@
   "https://r1.dotdigital-pages.com/p/6NIJ-KXM": {
    "type": "iframe",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
-   "lastPages": 2,
+   "weeksSeen": 2,
+   "lastPages": 1,
    "lastExamplePages": [
-    "https://hackney.gov.uk/more-us/subscribe-our-newsletters",
     "https://www.hackney.gov.uk/more-us/subscribe-our-newsletters"
    ]
   },
@@ -967,11 +973,12 @@
   "https://www.youtube.com/embed/dimstCXmujk?si=PbhB0GQ5wZTqOhof": {
    "type": "embedded-media",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/fairchilds-garden"
@@ -980,14 +987,14 @@
   "https://map2.hackney.gov.uk/maps/decentralised-energy/embed.html": {
    "type": "iframe",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
-   "lastPages": 2,
+   "weeksSeen": 2,
+   "lastPages": 1,
    "lastExamplePages": [
-    "https://hackney.gov.uk/community-safety-and-environment/energy/district-heat",
     "https://www.hackney.gov.uk/community-safety-and-environment/energy/district-heat"
    ]
   },
@@ -1035,27 +1042,29 @@
   "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/7821/138595.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
-    "https://hackney.gov.uk/council-and-elections/equality-and-diversity/hackneys-demographics/disability"
+    "https://www.hackney.gov.uk/council-and-elections/equality-and-diversity/hackneys-demographics/disability"
    ]
   },
   "http://www.nhshealthatwork.co.uk/images/library/files/Government%20policy/Mental_Health_Adjustments_Guidance_May_2012.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
-    "https://hackney.gov.uk/council-and-elections/equality-and-diversity/hackneys-demographics/disability"
+    "https://www.hackney.gov.uk/council-and-elections/equality-and-diversity/hackneys-demographics/disability"
    ]
   },
   "https://www.youtube.com/embed/_9TuJ5qs0IE": {
@@ -1075,14 +1084,15 @@
   "https://map2.hackney.gov.uk/maps/parklets/embed.html": {
    "type": "iframe",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
-    "https://hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/parklets/apply-create-parklet"
+    "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/parklets/apply-create-parklet"
    ]
   },
   "https://www.legislation.gov.uk/ukpga/1980/66/pdfs/ukpga_19800066_en.pdf": {
@@ -1154,11 +1164,12 @@
   "https://cityandhackneyneighbourhoods.org.uk/wp-content/uploads/2022/06/CNGuide.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/community-safety-and-environment/welcome-hackney-refugee-migrant-and-asylum-seeker-service"
@@ -1167,11 +1178,12 @@
   "https://stonly.com/embed/en/RFjwXVqD8U/view/": {
    "type": "iframe",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/parking-streets-and-transport/penalty-charge-notices/penalty-charge-notice-faqs"
@@ -1376,11 +1388,12 @@
   "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/3891/pdfmanforstreets.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/local-plan/superseded-planning-policies"
@@ -1389,11 +1402,12 @@
   "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/3695/inclusive-mobility.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/local-plan/superseded-planning-policies"
@@ -1402,11 +1416,12 @@
   "https://web-content-api.hackney.gov.uk/wp-content/uploads/DMLP-inspectors-examination-documents.zip": {
    "type": "archive",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/local-plan/superseded-planning-policies"
@@ -1415,11 +1430,12 @@
   "https://web-content-api.hackney.gov.uk/wp-content/uploads/DMLP-councils-examination-documents.zip": {
    "type": "archive",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/local-plan/superseded-planning-policies"
@@ -1428,11 +1444,12 @@
   "https://web-content-api.hackney.gov.uk/wp-content/uploads/DMLP-respondents-hearing-statements.zip": {
    "type": "archive",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/local-plan/superseded-planning-policies"
@@ -1441,11 +1458,12 @@
   "https://web-content-api.hackney.gov.uk/wp-content/uploads/DMLP-councils-hearing-statement.zip": {
    "type": "archive",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/local-plan/superseded-planning-policies"
@@ -1454,11 +1472,12 @@
   "https://web-content-api.hackney.gov.uk/wp-content/uploads/DMLP-previous-stages-key-documents-reg19.zip": {
    "type": "archive",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/local-plan/superseded-planning-policies"
@@ -1467,11 +1486,12 @@
   "https://web-content-api.hackney.gov.uk/wp-content/uploads/DMLP-publication_version-supporting-docs-reg19.zip": {
    "type": "archive",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/local-plan/superseded-planning-policies"
@@ -1480,11 +1500,12 @@
   "https://web-content-api.hackney.gov.uk/wp-content/uploads/DMLP-public-participation-stage-reg18.zip": {
    "type": "archive",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/local-plan/superseded-planning-policies"
@@ -1493,11 +1514,12 @@
   "https://web-content-api.hackney.gov.uk/wp-content/uploads/DMLP-representations-to-public-participation-stage-reg18.zip": {
    "type": "archive",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/local-plan/superseded-planning-policies"
@@ -1506,14 +1528,14 @@
   "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/335723/ESG_AnnexA_reformatted.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
-   "lastPages": 2,
+   "weeksSeen": 2,
+   "lastPages": 1,
    "lastExamplePages": [
-    "https://hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/education-privacy-notice",
     "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/education-privacy-notice"
    ]
   },
@@ -1561,11 +1583,12 @@
   "https://www.youtube.com/embed/E7GUu7Xa7Nw?si=FfXJb-CdHFzKVgNu": {
    "type": "embedded-media",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/benefits-explained/universal-credit-explained"
@@ -1587,11 +1610,12 @@
   "https://www.youtube.com/embed/dyQ-GHws_0M": {
    "type": "embedded-media",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/births-deaths-marriages-and-citizenship/deaths/bereavement-support"
@@ -1613,11 +1637,12 @@
   "https://maps.google.co.uk/maps?q=clapton+pond&ie=UTF8&hq=&hnear=Clapton+Pond&gl=uk&t=m&layer=c&cbll=51.556154,-0.054657&panoid=VVpUL9jvLVEif1ThjYSwJQ&cbp=13,286.85,,0,-0.14&source=embed&ll=51.551366,-0.054674&spn=0.016758,0.044804&z=14&output=svembed": {
    "type": "iframe",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/clapton-pond-conservation-area"
@@ -1626,40 +1651,43 @@
   "https://consultation.hackney.gov.uk/regeneration-capital-programme-delivery/cropley-court-development-proposal/user_uploads/cropley-court--new-homes-programme--sep-2024-1.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
-    "https://hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/hoxton-west"
+    "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/hoxton-west"
    ]
   },
   "https://consultation.hackney.gov.uk/++preview++/regeneration-capital-programme-delivery/buckland-court-development-proposal/supporting_documents/NHP2_240920_ARC_BUC_Engagement%20board%20111.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
-    "https://hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/hoxton-west"
+    "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/hoxton-west"
    ]
   },
   "https://www.youtube.com/embed/pNV0Alpj3Yk": {
    "type": "embedded-media",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
-    "https://hackney.gov.uk/business-and-licensing/markets-and-street-trading/ridley-road-market"
+    "https://www.hackney.gov.uk/business-and-licensing/markets-and-street-trading/ridley-road-market"
    ]
   },
   "https://environment.data.gov.uk/flood-widgets/widgets/widget-London-vertical.html": {
@@ -1773,11 +1801,12 @@
   "https://www.youtube.com/embed/C4mWEsT-WIY?si=YxSoVvpXNCyx7yjr": {
    "type": "embedded-media",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/parking-streets-and-transport/travel-plans/school-travel-plans/cycling-school"
@@ -1892,11 +1921,12 @@
   "https://map2.hackney.gov.uk/maps/parks-and-green-spaces/embed.html": {
    "type": "iframe",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/about-our-parks"
@@ -1987,14 +2017,15 @@
   "https://maps.google.co.uk/maps?ie=UTF8&q=clissold+park&fb=1&gl=uk&hq=clissold+park&hnear=clissold+park&cid=0,0,5260737761912252347&t=m&layer=c&cbll=51.560801,-0.085189&panoid=iM7Q_bMNDzOG6pmzrKgPag&cbp=13,107.22,,0,-27.4&source=embed&ll=51.558974,-0.086775&spn=0.004669,0.011201&z=16&output=svembed": {
    "type": "iframe",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
-    "https://hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/clissold-park-conservation-area"
+    "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/clissold-park-conservation-area"
    ]
   },
   "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/820133/PHE_Notifiable_diseases_poster_HPT.pdf": {
@@ -2121,27 +2152,29 @@
   "https://www.youtube.com/embed/sbBOqxGPMus?si=j6ENcN9PkHV0v6e3": {
    "type": "embedded-media",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
-    "https://hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/play-streets"
+    "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/play-streets"
    ]
   },
   "https://mapsengine.google.com/map/u/2/embed?mid=zb5D48SKYjcI.kUxDv2uRraV8": {
    "type": "iframe",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
-    "https://hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/play-streets"
+    "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/play-streets"
    ]
   },
   "https://www.youtube.com/embed/dhAZQrhQTz8": {

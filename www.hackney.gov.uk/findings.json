@@ -1,6 +1,6 @@
 {
  "domain": "www.hackney.gov.uk",
- "updatedAt": "2026-11-02T21:58:10.071Z",
+ "updatedAt": "2026-11-03T19:49:10.615Z",
  "findings": {
   "VS-9074b4dd": {
    "engine": "axe-core",
@@ -9,16 +9,16 @@
    "wcag": "1.1.1",
    "severity": "Critical",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPagesAffected": 1,
    "lastAffectedPages": [
     "https://www.hackney.gov.uk/museum"
-   ],
-   "_coverageLost": true
+   ]
   },
   "VS-a0bdbdf6": {
    "engine": "axe-core",
@@ -45,18 +45,16 @@
    "wcag": "2.4.4",
    "severity": "Serious",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
-   "lastPagesAffected": 3,
+   "weeksSeen": 2,
+   "lastPagesAffected": 1,
    "lastAffectedPages": [
-    "https://www.hackney.gov.uk/museum",
-    "https://hackney.gov.uk/council-tax-and-benefits/benefits/how-we-assess-your-benefits-claim/local-housing-allowance-lha-explained",
-    "https://www.hackney.gov.uk/community-safety-and-environment/energy/solar-power"
-   ],
-   "_coverageLost": true
+    "https://www.hackney.gov.uk/museum"
+   ]
   },
   "VS-28ebd979": {
    "engine": "Siteimprove Alfa",
@@ -90,33 +88,33 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 290,
+   "lastPagesAffected": 530,
    "lastAffectedPages": [
+    "https://www.hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/air-quality/improving-air-quality-supporting-sustainable-transport",
+    "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/how-council-works",
     "https://www.hackney.gov.uk/parking-streets-and-transport/travel-plans/school-travel-plans/school-travel-plans",
+    "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/spring-hill-recreation-ground",
+    "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/morris-blitz-court",
+    "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/help-home/personal-home-alarms-tech-enabled-living",
     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/commercial-extensions-and-alterations-supplementary-planning-document-spd",
     "https://www.hackney.gov.uk/housing/homeowners/shared-owners",
     "https://www.hackney.gov.uk/parking-streets-and-transport/school-streets",
     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/growing-hackney-child-friendly-places-supplementary-planning-document-spd",
+    "https://www.hackney.gov.uk/community-safety-and-environment/energy/energy-saving-advice-sessions",
+    "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/hoxton-west",
+    "https://www.hackney.gov.uk/housing/resident-participation",
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/sun-street-conservation-area",
+    "https://www.hackney.gov.uk/parking-streets-and-transport/roads-streets-and-pavements",
+    "https://www.hackney.gov.uk/planning-and-building/make-planning-application/after-submitting-planning-application",
+    "https://www.hackney.gov.uk/housing/repairs",
     "https://www.hackney.gov.uk/planning-and-building/regeneration/woodberry-down",
+    "https://www.hackney.gov.uk/health-and-social-care/children-and-families/fostering/hackney-kinship-care-local-offer",
     "https://www.hackney.gov.uk/planning-and-building/regeneration/regeneration-overview",
     "https://www.hackney.gov.uk/community-safety-and-environment/animals-and-pest-control/lost-and-stray-dogs-and-cats",
+    "https://www.hackney.gov.uk/council-tax-and-benefits/council-tax/pay-your-council-tax-bill/pay-your-council-tax-cash-or-cheque",
     "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/councillors/your-councillors",
     "https://www.hackney.gov.uk/housing/council-estate-services",
-    "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/electric-vehicles",
-    "https://www.hackney.gov.uk/housing/repairs/diy-repairs-videos",
-    "https://www.hackney.gov.uk/libraries-parks-and-leisure/libraries/reserve-and-renew-library-loans",
-    "https://www.hackney.gov.uk/housing/council-estate-services/rent-garage",
-    "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/charles-square",
-    "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/mayor-and-cabinet/hackney-cabinet-members",
-    "https://www.hackney.gov.uk/council-tax-and-benefits/council-tax/missed-council-tax-payments/request-payment-plan-council-tax",
-    "https://www.hackney.gov.uk/council-and-elections/policies-strategies-and-statistics/plans-and-strategies/plans-policies-and-strategies",
-    "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/mayor-and-cabinet/mayor-hackney",
-    "https://www.hackney.gov.uk/business-and-licensing/markets-and-street-trading/broadway-market",
-    "https://www.hackney.gov.uk/libraries-parks-and-leisure/libraries/stamford-hill-library",
-    "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/cycling/cycle-training",
-    "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/stoke-newington-reservoirs-filter-beds-and-new-river-conservation-area",
-    "https://www.hackney.gov.uk/business-and-licensing/licensing/animal-welfare-licences"
+    "https://www.hackney.gov.uk/rubbish-and-recycling/rubbish-recycling-and-food-waste-collections/what-bins-and-collections-you-get"
    ]
   },
   "VS-3f76c7ea": {
@@ -132,11 +130,16 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 7,
+   "lastPagesAffected": 12,
    "lastAffectedPages": [
     "https://www.hackney.gov.uk/parking-streets-and-transport/school-streets",
     "https://www.hackney.gov.uk/housing/repairs/diy-repairs-videos",
+    "https://www.hackney.gov.uk/housing/stay-safe-your-home/fire-safety/general-fire-safety-advice",
+    "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/clissold-park-conservation-area",
     "https://www.hackney.gov.uk/community-safety-and-environment/community-safety-and-crime-prevention/emergency-planning-and-response/flood-warnings-and-planning",
+    "https://www.hackney.gov.uk/community-safety-and-environment/energy/district-heat",
+    "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/play-streets",
+    "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/clapton-pond-conservation-area",
     "https://www.hackney.gov.uk/education/computers-and-digital-skills/free-wi-fi-and-computer-booking",
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/fremont-and-warneford-conservation-area",
     "https://www.hackney.gov.uk/community-safety-and-environment/windrush-generation-and-support-undocumented-migrants",
@@ -148,7 +151,7 @@
    "ruleId": "sia-r8",
    "summary": "Form field has accessible name (WCAG 4.1.2)",
    "wcag": "4.1.2",
-   "severity": "Serious",
+   "severity": "Moderate",
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W45",
    "_weeks": [
@@ -156,17 +159,24 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 157,
+   "lastPagesAffected": 274,
    "lastAffectedPages": [
+    "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/how-council-works",
     "https://www.hackney.gov.uk/parking-streets-and-transport/travel-plans/school-travel-plans/school-travel-plans",
+    "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/spring-hill-recreation-ground",
+    "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/help-home/personal-home-alarms-tech-enabled-living",
     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/commercial-extensions-and-alterations-supplementary-planning-document-spd",
     "https://www.hackney.gov.uk/housing/homeowners/shared-owners",
     "https://www.hackney.gov.uk/parking-streets-and-transport/school-streets",
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/sun-street-conservation-area",
+    "https://www.hackney.gov.uk/parking-streets-and-transport/roads-streets-and-pavements",
+    "https://www.hackney.gov.uk/planning-and-building/make-planning-application/after-submitting-planning-application",
     "https://www.hackney.gov.uk/planning-and-building/regeneration/woodberry-down",
     "https://www.hackney.gov.uk/community-safety-and-environment/animals-and-pest-control/lost-and-stray-dogs-and-cats",
+    "https://www.hackney.gov.uk/council-tax-and-benefits/council-tax/pay-your-council-tax-bill/pay-your-council-tax-cash-or-cheque",
     "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/councillors/your-councillors",
     "https://www.hackney.gov.uk/housing/council-estate-services/rent-garage",
+    "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/councillors/find-your-councillors",
     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/charles-square",
     "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/mayor-and-cabinet/hackney-cabinet-members",
     "https://www.hackney.gov.uk/council-tax-and-benefits/council-tax/missed-council-tax-payments/request-payment-plan-council-tax",
@@ -174,15 +184,8 @@
     "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/cycling/cycle-training",
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/stoke-newington-reservoirs-filter-beds-and-new-river-conservation-area",
     "https://www.hackney.gov.uk/business-and-licensing/licensing/animal-welfare-licences",
-    "https://www.hackney.gov.uk/business-and-licensing/markets-and-street-trading",
-    "https://www.hackney.gov.uk/council-and-elections/elections-and-voting/accessible-voting",
-    "https://www.hackney.gov.uk/housing/stay-safe-your-home/gas-safety",
-    "https://www.hackney.gov.uk/libraries-parks-and-leisure/exercise-and-sport/leisure-and-sports-centres",
-    "https://www.hackney.gov.uk/rubbish-and-recycling/rubbish-recycling-and-food-waste-collections/order-bins-and-bags",
-    "https://www.hackney.gov.uk/parking-streets-and-transport/where-park/disabled-parking/blue-badges",
-    "https://www.hackney.gov.uk/libraries-parks-and-leisure/libraries/clapton-library",
-    "https://www.hackney.gov.uk/council-tax-and-benefits/council-tax/council-tax-unoccupied-properties-and-second-homes",
-    "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/view-your-housing-benefit-and-council-tax-reduction-account"
+    "https://www.hackney.gov.uk/council-and-elections/finances-and-transparency/council-finances/council-finances-overview",
+    "https://www.hackney.gov.uk/health-and-social-care/support-disabled-people/short-breaks-children-and-young-people"
    ]
   },
   "VS-be8d563e": {
@@ -192,23 +195,23 @@
    "wcag": "1.4.3",
    "severity": "Serious",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPagesAffected": 1,
    "lastAffectedPages": [
     "https://www.hackney.gov.uk/museum"
-   ],
-   "_coverageLost": true
+   ]
   },
   "VS-646b1e0b": {
    "engine": "Siteimprove Alfa",
    "ruleId": "sia-r66",
    "summary": "Text has enhanced contrast (WCAG 1.4.6)",
    "wcag": "1.4.6",
-   "severity": "Serious",
+   "severity": "Moderate",
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W45",
    "_weeks": [
@@ -216,17 +219,24 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 158,
+   "lastPagesAffected": 275,
    "lastAffectedPages": [
+    "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/how-council-works",
     "https://www.hackney.gov.uk/parking-streets-and-transport/travel-plans/school-travel-plans/school-travel-plans",
+    "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/spring-hill-recreation-ground",
+    "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/help-home/personal-home-alarms-tech-enabled-living",
     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/commercial-extensions-and-alterations-supplementary-planning-document-spd",
     "https://www.hackney.gov.uk/housing/homeowners/shared-owners",
     "https://www.hackney.gov.uk/parking-streets-and-transport/school-streets",
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/sun-street-conservation-area",
+    "https://www.hackney.gov.uk/parking-streets-and-transport/roads-streets-and-pavements",
+    "https://www.hackney.gov.uk/planning-and-building/make-planning-application/after-submitting-planning-application",
     "https://www.hackney.gov.uk/planning-and-building/regeneration/woodberry-down",
     "https://www.hackney.gov.uk/community-safety-and-environment/animals-and-pest-control/lost-and-stray-dogs-and-cats",
+    "https://www.hackney.gov.uk/council-tax-and-benefits/council-tax/pay-your-council-tax-bill/pay-your-council-tax-cash-or-cheque",
     "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/councillors/your-councillors",
     "https://www.hackney.gov.uk/housing/council-estate-services/rent-garage",
+    "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/councillors/find-your-councillors",
     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/charles-square",
     "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/mayor-and-cabinet/hackney-cabinet-members",
     "https://www.hackney.gov.uk/payments",
@@ -235,14 +245,7 @@
     "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/cycling/cycle-training",
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/stoke-newington-reservoirs-filter-beds-and-new-river-conservation-area",
     "https://www.hackney.gov.uk/business-and-licensing/licensing/animal-welfare-licences",
-    "https://www.hackney.gov.uk/business-and-licensing/markets-and-street-trading",
-    "https://www.hackney.gov.uk/council-and-elections/elections-and-voting/accessible-voting",
-    "https://www.hackney.gov.uk/housing/stay-safe-your-home/gas-safety",
-    "https://www.hackney.gov.uk/libraries-parks-and-leisure/exercise-and-sport/leisure-and-sports-centres",
-    "https://www.hackney.gov.uk/rubbish-and-recycling/rubbish-recycling-and-food-waste-collections/order-bins-and-bags",
-    "https://www.hackney.gov.uk/parking-streets-and-transport/where-park/disabled-parking/blue-badges",
-    "https://www.hackney.gov.uk/libraries-parks-and-leisure/libraries/clapton-library",
-    "https://www.hackney.gov.uk/council-tax-and-benefits/council-tax/council-tax-unoccupied-properties-and-second-homes"
+    "https://www.hackney.gov.uk/council-and-elections/finances-and-transparency/council-finances/council-finances-overview"
    ]
   },
   "VS-2208081b": {
@@ -250,7 +253,7 @@
    "ruleId": "sia-r73",
    "summary": "Paragraph line height is at least 1.5 (WCAG 1.4.8)",
    "wcag": "1.4.8",
-   "severity": "Serious",
+   "severity": "Moderate",
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W45",
    "_weeks": [
@@ -258,17 +261,24 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 157,
+   "lastPagesAffected": 274,
    "lastAffectedPages": [
+    "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/how-council-works",
     "https://www.hackney.gov.uk/parking-streets-and-transport/travel-plans/school-travel-plans/school-travel-plans",
+    "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/spring-hill-recreation-ground",
+    "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/help-home/personal-home-alarms-tech-enabled-living",
     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/commercial-extensions-and-alterations-supplementary-planning-document-spd",
     "https://www.hackney.gov.uk/housing/homeowners/shared-owners",
     "https://www.hackney.gov.uk/parking-streets-and-transport/school-streets",
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/sun-street-conservation-area",
+    "https://www.hackney.gov.uk/parking-streets-and-transport/roads-streets-and-pavements",
+    "https://www.hackney.gov.uk/planning-and-building/make-planning-application/after-submitting-planning-application",
     "https://www.hackney.gov.uk/planning-and-building/regeneration/woodberry-down",
     "https://www.hackney.gov.uk/community-safety-and-environment/animals-and-pest-control/lost-and-stray-dogs-and-cats",
+    "https://www.hackney.gov.uk/council-tax-and-benefits/council-tax/pay-your-council-tax-bill/pay-your-council-tax-cash-or-cheque",
     "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/councillors/your-councillors",
     "https://www.hackney.gov.uk/housing/council-estate-services/rent-garage",
+    "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/councillors/find-your-councillors",
     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/charles-square",
     "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/mayor-and-cabinet/hackney-cabinet-members",
     "https://www.hackney.gov.uk/council-tax-and-benefits/council-tax/missed-council-tax-payments/request-payment-plan-council-tax",
@@ -276,15 +286,8 @@
     "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/cycling/cycle-training",
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/stoke-newington-reservoirs-filter-beds-and-new-river-conservation-area",
     "https://www.hackney.gov.uk/business-and-licensing/licensing/animal-welfare-licences",
-    "https://www.hackney.gov.uk/business-and-licensing/markets-and-street-trading",
-    "https://www.hackney.gov.uk/council-and-elections/elections-and-voting/accessible-voting",
-    "https://www.hackney.gov.uk/housing/stay-safe-your-home/gas-safety",
-    "https://www.hackney.gov.uk/libraries-parks-and-leisure/exercise-and-sport/leisure-and-sports-centres",
-    "https://www.hackney.gov.uk/rubbish-and-recycling/rubbish-recycling-and-food-waste-collections/order-bins-and-bags",
-    "https://www.hackney.gov.uk/parking-streets-and-transport/where-park/disabled-parking/blue-badges",
-    "https://www.hackney.gov.uk/libraries-parks-and-leisure/libraries/clapton-library",
-    "https://www.hackney.gov.uk/council-tax-and-benefits/council-tax/council-tax-unoccupied-properties-and-second-homes",
-    "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/view-your-housing-benefit-and-council-tax-reduction-account"
+    "https://www.hackney.gov.uk/council-and-elections/finances-and-transparency/council-finances/council-finances-overview",
+    "https://www.hackney.gov.uk/health-and-social-care/support-disabled-people/short-breaks-children-and-young-people"
    ]
   },
   "VS-388b5438": {
@@ -328,7 +331,7 @@
    "ruleId": "sia-r111",
    "summary": "Target size is at least 44×44 CSS pixels (Enhanced) (WCAG 2.5.5)",
    "wcag": "2.5.5",
-   "severity": "Serious",
+   "severity": "Moderate",
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W45",
    "_weeks": [
@@ -336,17 +339,24 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 158,
+   "lastPagesAffected": 275,
    "lastAffectedPages": [
+    "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/how-council-works",
     "https://www.hackney.gov.uk/parking-streets-and-transport/travel-plans/school-travel-plans/school-travel-plans",
+    "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/spring-hill-recreation-ground",
+    "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/help-home/personal-home-alarms-tech-enabled-living",
     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/commercial-extensions-and-alterations-supplementary-planning-document-spd",
     "https://www.hackney.gov.uk/housing/homeowners/shared-owners",
     "https://www.hackney.gov.uk/parking-streets-and-transport/school-streets",
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/sun-street-conservation-area",
+    "https://www.hackney.gov.uk/parking-streets-and-transport/roads-streets-and-pavements",
+    "https://www.hackney.gov.uk/planning-and-building/make-planning-application/after-submitting-planning-application",
     "https://www.hackney.gov.uk/planning-and-building/regeneration/woodberry-down",
     "https://www.hackney.gov.uk/community-safety-and-environment/animals-and-pest-control/lost-and-stray-dogs-and-cats",
+    "https://www.hackney.gov.uk/council-tax-and-benefits/council-tax/pay-your-council-tax-bill/pay-your-council-tax-cash-or-cheque",
     "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/councillors/your-councillors",
     "https://www.hackney.gov.uk/housing/council-estate-services/rent-garage",
+    "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/councillors/find-your-councillors",
     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/charles-square",
     "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/mayor-and-cabinet/hackney-cabinet-members",
     "https://www.hackney.gov.uk/payments",
@@ -355,14 +365,7 @@
     "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/cycling/cycle-training",
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/stoke-newington-reservoirs-filter-beds-and-new-river-conservation-area",
     "https://www.hackney.gov.uk/business-and-licensing/licensing/animal-welfare-licences",
-    "https://www.hackney.gov.uk/business-and-licensing/markets-and-street-trading",
-    "https://www.hackney.gov.uk/council-and-elections/elections-and-voting/accessible-voting",
-    "https://www.hackney.gov.uk/housing/stay-safe-your-home/gas-safety",
-    "https://www.hackney.gov.uk/libraries-parks-and-leisure/exercise-and-sport/leisure-and-sports-centres",
-    "https://www.hackney.gov.uk/rubbish-and-recycling/rubbish-recycling-and-food-waste-collections/order-bins-and-bags",
-    "https://www.hackney.gov.uk/parking-streets-and-transport/where-park/disabled-parking/blue-badges",
-    "https://www.hackney.gov.uk/libraries-parks-and-leisure/libraries/clapton-library",
-    "https://www.hackney.gov.uk/council-tax-and-benefits/council-tax/council-tax-unoccupied-properties-and-second-homes"
+    "https://www.hackney.gov.uk/council-and-elections/finances-and-transparency/council-finances/council-finances-overview"
    ]
   },
   "VS-2cd767ca": {
@@ -370,7 +373,7 @@
    "ruleId": "sia-r78",
    "summary": "There is content between headings (best practice, not a WCAG requirement)",
    "wcag": null,
-   "severity": "Serious",
+   "severity": "Moderate",
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W45",
    "_weeks": [
@@ -378,17 +381,24 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 157,
+   "lastPagesAffected": 274,
    "lastAffectedPages": [
+    "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/how-council-works",
     "https://www.hackney.gov.uk/parking-streets-and-transport/travel-plans/school-travel-plans/school-travel-plans",
+    "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/spring-hill-recreation-ground",
+    "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/help-home/personal-home-alarms-tech-enabled-living",
     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/commercial-extensions-and-alterations-supplementary-planning-document-spd",
     "https://www.hackney.gov.uk/housing/homeowners/shared-owners",
     "https://www.hackney.gov.uk/parking-streets-and-transport/school-streets",
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/sun-street-conservation-area",
+    "https://www.hackney.gov.uk/parking-streets-and-transport/roads-streets-and-pavements",
+    "https://www.hackney.gov.uk/planning-and-building/make-planning-application/after-submitting-planning-application",
     "https://www.hackney.gov.uk/planning-and-building/regeneration/woodberry-down",
     "https://www.hackney.gov.uk/community-safety-and-environment/animals-and-pest-control/lost-and-stray-dogs-and-cats",
+    "https://www.hackney.gov.uk/council-tax-and-benefits/council-tax/pay-your-council-tax-bill/pay-your-council-tax-cash-or-cheque",
     "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/councillors/your-councillors",
     "https://www.hackney.gov.uk/housing/council-estate-services/rent-garage",
+    "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/councillors/find-your-councillors",
     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/charles-square",
     "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/mayor-and-cabinet/hackney-cabinet-members",
     "https://www.hackney.gov.uk/council-tax-and-benefits/council-tax/missed-council-tax-payments/request-payment-plan-council-tax",
@@ -396,15 +406,8 @@
     "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/cycling/cycle-training",
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/stoke-newington-reservoirs-filter-beds-and-new-river-conservation-area",
     "https://www.hackney.gov.uk/business-and-licensing/licensing/animal-welfare-licences",
-    "https://www.hackney.gov.uk/business-and-licensing/markets-and-street-trading",
-    "https://www.hackney.gov.uk/council-and-elections/elections-and-voting/accessible-voting",
-    "https://www.hackney.gov.uk/housing/stay-safe-your-home/gas-safety",
-    "https://www.hackney.gov.uk/libraries-parks-and-leisure/exercise-and-sport/leisure-and-sports-centres",
-    "https://www.hackney.gov.uk/rubbish-and-recycling/rubbish-recycling-and-food-waste-collections/order-bins-and-bags",
-    "https://www.hackney.gov.uk/parking-streets-and-transport/where-park/disabled-parking/blue-badges",
-    "https://www.hackney.gov.uk/libraries-parks-and-leisure/libraries/clapton-library",
-    "https://www.hackney.gov.uk/council-tax-and-benefits/council-tax/council-tax-unoccupied-properties-and-second-homes",
-    "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/view-your-housing-benefit-and-council-tax-reduction-account"
+    "https://www.hackney.gov.uk/council-and-elections/finances-and-transparency/council-finances/council-finances-overview",
+    "https://www.hackney.gov.uk/health-and-social-care/support-disabled-people/short-breaks-children-and-young-people"
    ]
   },
   "VS-e05344b9": {
@@ -412,7 +415,7 @@
    "ruleId": "sia-r18",
    "summary": "aria attribute is permitted for element role (best practice, not a WCAG requirement)",
    "wcag": null,
-   "severity": "Serious",
+   "severity": "Moderate",
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W45",
    "_weeks": [
@@ -420,17 +423,24 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 158,
+   "lastPagesAffected": 275,
    "lastAffectedPages": [
+    "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/how-council-works",
     "https://www.hackney.gov.uk/parking-streets-and-transport/travel-plans/school-travel-plans/school-travel-plans",
+    "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/spring-hill-recreation-ground",
+    "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/help-home/personal-home-alarms-tech-enabled-living",
     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/commercial-extensions-and-alterations-supplementary-planning-document-spd",
     "https://www.hackney.gov.uk/housing/homeowners/shared-owners",
     "https://www.hackney.gov.uk/parking-streets-and-transport/school-streets",
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/sun-street-conservation-area",
+    "https://www.hackney.gov.uk/parking-streets-and-transport/roads-streets-and-pavements",
+    "https://www.hackney.gov.uk/planning-and-building/make-planning-application/after-submitting-planning-application",
     "https://www.hackney.gov.uk/planning-and-building/regeneration/woodberry-down",
     "https://www.hackney.gov.uk/community-safety-and-environment/animals-and-pest-control/lost-and-stray-dogs-and-cats",
+    "https://www.hackney.gov.uk/council-tax-and-benefits/council-tax/pay-your-council-tax-bill/pay-your-council-tax-cash-or-cheque",
     "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/councillors/your-councillors",
     "https://www.hackney.gov.uk/housing/council-estate-services/rent-garage",
+    "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/councillors/find-your-councillors",
     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/charles-square",
     "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/mayor-and-cabinet/hackney-cabinet-members",
     "https://www.hackney.gov.uk/payments",
@@ -439,14 +449,7 @@
     "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/cycling/cycle-training",
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/stoke-newington-reservoirs-filter-beds-and-new-river-conservation-area",
     "https://www.hackney.gov.uk/business-and-licensing/licensing/animal-welfare-licences",
-    "https://www.hackney.gov.uk/business-and-licensing/markets-and-street-trading",
-    "https://www.hackney.gov.uk/council-and-elections/elections-and-voting/accessible-voting",
-    "https://www.hackney.gov.uk/housing/stay-safe-your-home/gas-safety",
-    "https://www.hackney.gov.uk/libraries-parks-and-leisure/exercise-and-sport/leisure-and-sports-centres",
-    "https://www.hackney.gov.uk/rubbish-and-recycling/rubbish-recycling-and-food-waste-collections/order-bins-and-bags",
-    "https://www.hackney.gov.uk/parking-streets-and-transport/where-park/disabled-parking/blue-badges",
-    "https://www.hackney.gov.uk/libraries-parks-and-leisure/libraries/clapton-library",
-    "https://www.hackney.gov.uk/council-tax-and-benefits/council-tax/council-tax-unoccupied-properties-and-second-homes"
+    "https://www.hackney.gov.uk/council-and-elections/finances-and-transparency/council-finances/council-finances-overview"
    ]
   },
   "VS-7118fead": {
@@ -454,7 +457,7 @@
    "ruleId": "sia-r61",
    "summary": "Page starts with a level 1 heading (best practice, not a WCAG requirement)",
    "wcag": null,
-   "severity": "Serious",
+   "severity": "Moderate",
    "firstSeen": "2026-W44",
    "lastSeen": "2026-W45",
    "_weeks": [
@@ -462,17 +465,24 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 156,
+   "lastPagesAffected": 273,
    "lastAffectedPages": [
+    "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/how-council-works",
     "https://www.hackney.gov.uk/parking-streets-and-transport/travel-plans/school-travel-plans/school-travel-plans",
+    "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/spring-hill-recreation-ground",
+    "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/help-home/personal-home-alarms-tech-enabled-living",
     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/commercial-extensions-and-alterations-supplementary-planning-document-spd",
     "https://www.hackney.gov.uk/housing/homeowners/shared-owners",
     "https://www.hackney.gov.uk/parking-streets-and-transport/school-streets",
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/sun-street-conservation-area",
+    "https://www.hackney.gov.uk/parking-streets-and-transport/roads-streets-and-pavements",
+    "https://www.hackney.gov.uk/planning-and-building/make-planning-application/after-submitting-planning-application",
     "https://www.hackney.gov.uk/planning-and-building/regeneration/woodberry-down",
     "https://www.hackney.gov.uk/community-safety-and-environment/animals-and-pest-control/lost-and-stray-dogs-and-cats",
+    "https://www.hackney.gov.uk/council-tax-and-benefits/council-tax/pay-your-council-tax-bill/pay-your-council-tax-cash-or-cheque",
     "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/councillors/your-councillors",
     "https://www.hackney.gov.uk/housing/council-estate-services/rent-garage",
+    "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/councillors/find-your-councillors",
     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/charles-square",
     "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/mayor-and-cabinet/hackney-cabinet-members",
     "https://www.hackney.gov.uk/council-tax-and-benefits/council-tax/missed-council-tax-payments/request-payment-plan-council-tax",
@@ -480,15 +490,8 @@
     "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/cycling/cycle-training",
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/stoke-newington-reservoirs-filter-beds-and-new-river-conservation-area",
     "https://www.hackney.gov.uk/business-and-licensing/licensing/animal-welfare-licences",
-    "https://www.hackney.gov.uk/business-and-licensing/markets-and-street-trading",
-    "https://www.hackney.gov.uk/council-and-elections/elections-and-voting/accessible-voting",
-    "https://www.hackney.gov.uk/housing/stay-safe-your-home/gas-safety",
-    "https://www.hackney.gov.uk/libraries-parks-and-leisure/exercise-and-sport/leisure-and-sports-centres",
-    "https://www.hackney.gov.uk/rubbish-and-recycling/rubbish-recycling-and-food-waste-collections/order-bins-and-bags",
-    "https://www.hackney.gov.uk/parking-streets-and-transport/where-park/disabled-parking/blue-badges",
-    "https://www.hackney.gov.uk/libraries-parks-and-leisure/libraries/clapton-library",
-    "https://www.hackney.gov.uk/council-tax-and-benefits/council-tax/council-tax-unoccupied-properties-and-second-homes",
-    "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/view-your-housing-benefit-and-council-tax-reduction-account"
+    "https://www.hackney.gov.uk/council-and-elections/finances-and-transparency/council-finances/council-finances-overview",
+    "https://www.hackney.gov.uk/health-and-social-care/support-disabled-people/short-breaks-children-and-young-people"
    ]
   },
   "VS-d25f622d": {
@@ -504,33 +507,33 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 25,
+   "lastPagesAffected": 41,
    "lastAffectedPages": [
     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/commercial-extensions-and-alterations-supplementary-planning-document-spd",
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/sun-street-conservation-area",
     "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/councillors/your-councillors",
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/stoke-newington-reservoirs-filter-beds-and-new-river-conservation-area",
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/dalston-conservation-area",
+    "https://www.hackney.gov.uk/housing/council-tenants/tenancy-agreement/move-your-social-home",
     "https://www.hackney.gov.uk/housing/council-tenants/residents-additional-needs",
+    "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/clapton-common",
+    "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/newington-green-north-conservation-area",
+    "https://www.hackney.gov.uk/housing/resident-participation/hire-community-hall",
+    "https://www.hackney.gov.uk/libraries-parks-and-leisure/exercise-and-sport/london-youth-games",
+    "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/clissold-park-conservation-area",
+    "https://www.hackney.gov.uk/business-and-licensing/licensing/list-licence-applications",
     "https://www.hackney.gov.uk/business-and-licensing/filming-hackney/how-film-hackney",
     "https://www.hackney.gov.uk/council-and-elections/finances-and-transparency/transparency/council-spending-over-ps250",
+    "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/choose-how-manage-your-care",
     "https://www.hackney.gov.uk/council-and-elections/finances-and-transparency/council-finances/statement-accounts",
     "https://www.hackney.gov.uk/libraries-parks-and-leisure/hackney-archives/hackney-archives-collections",
+    "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/clapton-pond-conservation-area",
     "https://www.hackney.gov.uk/community-safety-and-environment/community-partnerships/strategic-partnership-board/community-safety-partnership",
+    "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/queensbridge-road-conservation-area",
+    "https://www.hackney.gov.uk/births-deaths-marriages-and-citizenship/deaths/mortuary-services",
     "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/low-traffic-neighbourhoods/chatsworth-road-liveable-neighbourhood",
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/clapton-common-conservation-area",
-    "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/fremont-and-warneford-conservation-area",
-    "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/article-4-directions",
-    "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/hackney-road-conservation-area",
-    "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/kingsland-conservation-area",
-    "https://www.hackney.gov.uk/parking-streets-and-transport/enforcement-and-removal-vehicles/disposing-vehicle",
-    "https://www.hackney.gov.uk/more-us/contact-us",
-    "https://www.hackney.gov.uk/housing/homeowners/service-charges/ground-rent",
-    "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/northwold-and-cazenove-conservation-area",
-    "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/albion-square-conservation-area",
-    "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/regents-canal-conservation-area",
-    "https://www.hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/environmental-permits/environmental-permits-pollution-prevention-and-control",
-    "https://www.hackney.gov.uk/parking-streets-and-transport/parking-consultations-policy-and-reports/parking-policy-and-reports/parking-reports"
+    "https://www.hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/contaminated-land/contaminated-land-planning-and-building"
    ]
   },
   "VS-f054f4a4": {
@@ -546,7 +549,7 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 17,
+   "lastPagesAffected": 24,
    "lastAffectedPages": [
     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/commercial-extensions-and-alterations-supplementary-planning-document-spd",
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/sun-street-conservation-area",
@@ -554,16 +557,23 @@
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/stoke-newington-reservoirs-filter-beds-and-new-river-conservation-area",
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/dalston-conservation-area",
     "https://www.hackney.gov.uk/housing/council-tenants/residents-additional-needs",
+    "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/newington-green-north-conservation-area",
+    "https://www.hackney.gov.uk/business-and-licensing/licensing/list-licence-applications",
     "https://www.hackney.gov.uk/business-and-licensing/filming-hackney/how-film-hackney",
     "https://www.hackney.gov.uk/council-and-elections/finances-and-transparency/transparency/council-spending-over-ps250",
+    "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/choose-how-manage-your-care",
+    "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/clapton-pond-conservation-area",
     "https://www.hackney.gov.uk/community-safety-and-environment/community-partnerships/strategic-partnership-board/community-safety-partnership",
     "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/low-traffic-neighbourhoods/chatsworth-road-liveable-neighbourhood",
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/clapton-common-conservation-area",
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/fremont-and-warneford-conservation-area",
     "https://www.hackney.gov.uk/parking-streets-and-transport/enforcement-and-removal-vehicles/disposing-vehicle",
     "https://www.hackney.gov.uk/housing/homeowners/service-charges/ground-rent",
+    "https://www.hackney.gov.uk/libraries-parks-and-leisure/libraries/stoke-newington-library",
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/albion-square-conservation-area",
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/regents-canal-conservation-area",
+    "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/victoria-park-conservation-area",
+    "https://www.hackney.gov.uk/health-and-social-care/outreach-services-community-wellbeing-space",
     "https://www.hackney.gov.uk/parking-streets-and-transport/parking-consultations-policy-and-reports/parking-policy-and-reports/parking-reports"
    ]
   },
@@ -580,9 +590,10 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 1,
+   "lastPagesAffected": 2,
    "lastAffectedPages": [
-    "https://www.hackney.gov.uk/payments"
+    "https://www.hackney.gov.uk/payments",
+    "https://www.hackney.gov.uk/museum"
    ]
   },
   "VS-30db094d": {
@@ -646,16 +657,16 @@
    "wcag": null,
    "severity": "Moderate",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPagesAffected": 1,
    "lastAffectedPages": [
     "https://www.hackney.gov.uk/museum"
-   ],
-   "_coverageLost": true
+   ]
   },
   "VS-096684ad": {
    "engine": "axe-core",
@@ -693,6 +704,23 @@
    ],
    "_coverageLost": true
   },
+  "VS-9425a266": {
+   "engine": "axe-core",
+   "ruleId": "aria-required-attr",
+   "summary": "Required ARIA attributes must be provided (WCAG 4.1.2)",
+   "wcag": "4.1.2",
+   "severity": "Critical",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 1,
+   "lastAffectedPages": [
+    "https://www.hackney.gov.uk/museum"
+   ]
+  },
   "VS-f7e99f4b": {
    "engine": "Siteimprove Alfa",
    "ruleId": "sia-r69",
@@ -725,6 +753,23 @@
    "lastPagesAffected": 1,
    "lastAffectedPages": [
     "https://www.hackney.gov.uk/payments"
+   ]
+  },
+  "VS-4fac2f41": {
+   "engine": "axe-core",
+   "ruleId": "aria-allowed-role",
+   "summary": "ARIA role should be appropriate for the element (best practice, not a WCAG requirement)",
+   "wcag": null,
+   "severity": "Minor",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksSeen": 1,
+   "lastPagesAffected": 1,
+   "lastAffectedPages": [
+    "https://www.hackney.gov.uk/museum"
    ]
   }
  }

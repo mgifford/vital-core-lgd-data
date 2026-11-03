@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-11-02T21:58:08.506Z",
+ "updatedAt": "2026-11-03T19:49:09.200Z",
  "links": {
   "https://wslc.walsall.gov.uk/leisurehub/identity/login": {
    "status": 0,
@@ -112,22 +112,16 @@
    "status": 0,
    "reason": "fetch failed",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "http://go.walsall.gov.uk/events/pool-inflatable-fun-session-bloxwich-active-living-centre-3",
-    "http://go.walsall.gov.uk/events/pool-inflatable-fun-session-bloxwich-active-living-centre-5",
-    "http://go.walsall.gov.uk/events/pool-inflatable-fun-session-oak-park-active-living-centre-2",
-    "http://go.walsall.gov.uk/events/splash-and-play-bloxwich-active-living-centre",
-    "http://go.walsall.gov.uk/events/roller-skating-oak-park-active-living-centre-1",
-    "http://go.walsall.gov.uk/events/pool-inflatable-fun-session-bloxwich-active-living-centre-7",
-    "https://go.walsall.gov.uk/events/roller-skating-bloxwich-active-living-centre",
-    "https://go.walsall.gov.uk/events/pool-floats-fun-session-oak-park-active-living-centre-1",
-    "https://go.walsall.gov.uk/events/pool-inflatable-fun-session-bloxwich-active-living-centre-4",
-    "https://go.walsall.gov.uk/events/pool-inflatable-fun-session-bloxwich-active-living-centre-2"
+    "https://go.walsall.gov.uk/events/roller-skating-bloxwich-active-living-centre-0",
+    "https://go.walsall.gov.uk/events/pool-floats-fun-session-oak-park-active-living-centre-5",
+    "https://go.walsall.gov.uk/events/pool-inflatable-fun-session-bloxwich-active-living-centre-6"
    ]
   },
   "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcarersuk.org%2Fnews-and-campaigns%2Four-campaigns%2Fcarers-rights-day&data=05%7C02%7CStevie.Cattell%40walsall.gov.uk%7C814425bad26a43b6d24408de278462b6%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638991646703290359%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Ld%2FP5HDoEaoiFkUtaZTznvd%2FsTe3nm5yDxsX3x4X7e4%3D&reserved=0": {
@@ -844,6 +838,188 @@
    "weeksBroken": 1,
    "foundOn": [
     "https://go.walsall.gov.uk/newsroom/women-walsall-invited-come-forward-breast-cancer-screening"
+   ]
+  },
+  "https://www.labc.co.uk/news/installing-wood-burning-stoves": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/people-and-communities/protecting-our-environment/smoke-control-areas"
+   ]
+  },
+  "https://smokecontrol.defra.gov.uk/appliances.php?country=england": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/people-and-communities/protecting-our-environment/smoke-control-areas"
+   ]
+  },
+  "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.walsall.gov.uk%2Fhealth-and-social-care&data=05%7C02%7CBecky.Read%40walsall.gov.uk%7Ccb47dbf9cede4b7513a208de85009200%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639094434626574701%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=HlV%2FAnylb6LSXo13k8Y6U2KGod0vJKwcy%2FCk%2BbchMeI%3D&reserved=0": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/newsroom/council-kick-starts-social-work-week-celebrations-world-social-work-day"
+   ]
+  },
+  "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.socialworkengland.org.uk%2Fsocial-work-week&data=05%7C02%7CBecky.Read%40walsall.gov.uk%7Ccb47dbf9cede4b7513a208de85009200%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639094434626601133%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=q%2Fc%2Fc4AcokiJl1QVIxjrNBcd%2FNC3fpkD3VC%2BRS22atU%3D&reserved=0": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/newsroom/council-kick-starts-social-work-week-celebrations-world-social-work-day"
+   ]
+  },
+  "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fbasw.co.uk%2Fabout-social-work%2Fwhat-social-work%2Fworld-social-work-month-2026&data=05%7C02%7CBecky.Read%40walsall.gov.uk%7Ccb47dbf9cede4b7513a208de85009200%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639094434626622885%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=2Z3X%2B0tV9bGT%2FVx3cGArO%2BqYpm5wZlmeROvj4OyhNfw%3D&reserved=0": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/newsroom/council-kick-starts-social-work-week-celebrations-world-social-work-day"
+   ]
+  },
+  "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.walsall.gov.uk%2Fbenefits%2Fhelp-with-bills-and-debt&data=05%7C01%7CJoan.Omionawele%40walsall.gov.uk%7C12b76676b6d547cd05a308db89d115a2%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638255303334898605%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=SD%2FUAiaajl0rq6kvV9YWMJ6vjEVhT8tMWp%2BMRmW0W70%3D&reserved=0": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/newsroom/walsall-council-launches-benefits-calculator-support-residents-access-benefits"
+   ]
+  },
+  "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.walsall.gov.uk%2Fpeople-and-communities%2Fwalsall-connected-get-help-get-online&data=05%7C01%7CJoan.Omionawele%40walsall.gov.uk%7C12b76676b6d547cd05a308db89d115a2%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638255303334898605%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=ayK5c754scqNNBuwb4ocs%2BnBYbOOe63A7KLW765fRWI%3D&reserved=0": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/newsroom/walsall-council-launches-benefits-calculator-support-residents-access-benefits"
+   ]
+  },
+  "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.walsall.gov.uk%2Fpeople-and-communities%2Fvolunteering%2Fcommunity-litter-picking&data=05%7C01%7CJoan.Omionawele%40walsall.gov.uk%7C634deaa0c4a1440bcbdd08db884338f4%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C638253594517286146%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=03yY9%2FHMfgxf7RW0EwHdqyZKAdUYKzXp9Iky6zC4eYU%3D&reserved=0": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/newsroom/litter-picking-stations"
+   ]
+  },
+  "https://www.tnlcommunityfund.org.uk/funding/programmes/building-better-opportunities": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/your-council/decision-making-in-walsall-borough/bcta/black-country-esif-programme"
+   ]
+  },
+  "https://live-ace-walsall.pantheonsite.io/walsall-libraries/our-libraries/streetly-district-library": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/events/reading-friends-26"
+   ]
+  },
+  "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.eventbrite.co.uk%2Fe%2Fwalsall-works-job-skills-expo-19032026-tickets-1980871692556&data=05%7C02%7CBecky.Read%40walsall.gov.uk%7Ca61aea38ca224875b21508de801a88e9%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639089048693170227%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=YtHQPqD16dLLUJvzRVoRd8iX9euJI9cgGehTt2h57lM%3D&reserved=0": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/newsroom/one-week-countdown-one-black-countrys-biggest-job-fairs"
+   ]
+  },
+  "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.walsall.gov.uk%2Fwalsall-works&data=05%7C02%7CBecky.Read%40walsall.gov.uk%7Ca61aea38ca224875b21508de801a88e9%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639089048693198072%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=SLDKmW9a%2BzkgVSVVU8PpYmhvsX7OWdFVeER3G%2FhuL3A%3D&reserved=0": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/newsroom/one-week-countdown-one-black-countrys-biggest-job-fairs"
+   ]
+  },
+  "https://ati.woodlandtrust.org.uk/": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/newsroom/walsall-arboretum-boasts-largest-number-veteran-trees-any-site-across-birmingham-and-black"
+   ]
+  },
+  "https://www.laurelandhardypresentedbyneilbrand.co.uk/tour-dates/": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/newsroom/laurel-hardy-centenary-tour-brings-100-years-comedy-walsall-arena"
    ]
   }
  }
