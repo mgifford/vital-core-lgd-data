@@ -1,0 +1,150 @@
+{
+ "runId": "2026-11-03T17-23-20-381Z-127c81",
+ "week": "2026-W45",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-03T17:23:20.708Z",
+ "scanned": [
+  "9e0d35f7e034b3c9",
+  "1efa3fc2e780e9e4",
+  "def7f9f6e6df8001",
+  "1acf52a3af840fcf",
+  "01cdaa7dae179a2f",
+  "2754a4c400cfd2a2",
+  "47bf331cfd33f46d",
+  "7fbcf43a3f7d3cce",
+  "1dc3363a77653e94",
+  "82302b853e32bc46",
+  "994477048ab95298",
+  "9c05a4f919d355a9",
+  "959ad13ccd6c238d",
+  "8dbf5d0727b0aa5e",
+  "2496c5e5d3e0557b",
+  "3e3aa0f72a5c9f02",
+  "01f0df857ce887dc",
+  "ba75410fd8b0ecc7",
+  "c211ee0d4a4ac258",
+  "3c324f856c2a5881",
+  "b5883fd13b59756b",
+  "ca9d895761e1f1b5",
+  "5baa01c8486a3e67",
+  "6488cc2c2d3b1ffa",
+  "d8438cabcf79515f",
+  "2111fcec6b44880e",
+  "dabdf25ffcb6df6f",
+  "a0d26fa5ced632b4",
+  "816f7856d32b770d",
+  "bed046ea2f3ab93f",
+  "79c0e500373073f3",
+  "f0f46fd838079370",
+  "f5ffbced7f451cb3",
+  "8a60cd7568b385e6",
+  "c9cfd68c9c97893c",
+  "19c5b0b1848f218c",
+  "3a975909cd5834a7",
+  "9a7d3976469998d3",
+  "059735ae773aa806",
+  "b5fee45bf3f229d3",
+  "c3714157fe90c55a",
+  "bcf6e9c8451a01de",
+  "9cbd0ab8ec05ecb0",
+  "d257a8c68d8ee673",
+  "943c26a0fd5026fb",
+  "98b879e7da74b860",
+  "9b7ec50743fb29a9",
+  "d22366af32e65e88",
+  "ed62ee0d69a30f39"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 419,
+  "checked": 419,
+  "brokenCount": 4,
+  "broken": [
+   {
+    "url": "http://www.london-fire.gov.uk/know-the-plan.asp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/housing/stay-safe-your-home/fire-safety/general-fire-safety-advice"
+    ]
+   },
+   {
+    "url": "https://www.london-fire.gov.uk/safety/the-home/book-a-home-fire-safety-visit/",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://www.hackney.gov.uk/housing/stay-safe-your-home/fire-safety/general-fire-safety-advice"
+    ]
+   },
+   {
+    "url": "https://www.ellcchoicehomes.org.uk/content/Ourpartners/Hackney",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/housing/find-home/bid-social-housing"
+    ]
+   },
+   {
+    "url": "https://developmentandhousing.hackney.gov.uk/planning/index.html",
+    "status": 406,
+    "reason": "HTTP 406",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/make-planning-application/after-submitting-planning-application"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 47,
+  "alfa": 24,
+  "resources": 47,
+  "images": 47,
+  "standards": 24,
+  "third-party": 9,
+  "link-check": 47,
+  "plain-language": 24,
+  "sustainability": 4,
+  "lighthouse": 5,
+  "security": 7,
+  "deprecated-html": 5,
+  "tech": 3,
+  "public-interest": 2
+ },
+ "tally": {
+  "ok": 47,
+  "blocked": 2,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-11-03T17:31:33.198Z"
+}
