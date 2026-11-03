@@ -1,0 +1,159 @@
+{
+ "runId": "2026-11-03T15-03-37-182Z-57b727",
+ "week": "2026-W45",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-03T15:03:37.860Z",
+ "scanned": [
+  "26592fd1bdb36c9b",
+  "c1a05325b63904d8",
+  "8acf6c04dca0348a",
+  "7a2e5d140b214430",
+  "967291f58d1af052",
+  "407060922bba7c21",
+  "236f9d325ec3541c",
+  "a1db054172e82a09",
+  "39fcbc7c088565b5",
+  "e99439acb4afd166",
+  "64ec6c7f8d8b0106",
+  "8b02c0791a920c94",
+  "08e0b0c8f2f23388",
+  "3c3da5fcd0c3ffb8",
+  "e6085393c4d15e48",
+  "65fc6a72803d2464",
+  "6b1fac7b2dafd330",
+  "58c4e472d0a016c8",
+  "6c909a6a2d5737b7",
+  "c2552d737262c9cb",
+  "9f35211d8284433c",
+  "01616aff7a5ecb61",
+  "f8e8c489d4c9547b",
+  "6cb08ca956640241",
+  "d8ec8dd5b3fe41b5",
+  "254004fb359bd6b8",
+  "f139412f9318fd58",
+  "9b1e3a956c0348f1",
+  "68ed54203ebef085",
+  "854ac417be6a981f",
+  "4bfa8766661b18f3",
+  "562e1471736db643",
+  "a85182afdbed5d71",
+  "f5becee818f371db",
+  "9907d0f7c0968e16",
+  "d3cacfdb93d64701",
+  "bd4d467ee267e265",
+  "1f3dcfe58b704560",
+  "0afcbd28db75a47e",
+  "ee76fc774532b2b7",
+  "3694574f2d3b4351",
+  "c7be3eeb54b58f8e",
+  "a09aa1cc922232f2",
+  "e2b58b53e17a5252",
+  "ef00b91df0468b39",
+  "21fe2f55e9b812a9",
+  "58fe2cd280a4335d",
+  "31b69c592554fb10",
+  "50d1d5d660cf0517"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 559,
+  "checked": 500,
+  "brokenCount": 5,
+  "broken": [
+   {
+    "url": "https://live-ace-walsall.pantheonsite.io/walsall-libraries/our-libraries/streetly-district-library",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/events/reading-friends-26"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.eventbrite.co.uk%2Fe%2Fwalsall-works-job-skills-expo-19032026-tickets-1980871692556&data=05%7C02%7CBecky.Read%40walsall.gov.uk%7Ca61aea38ca224875b21508de801a88e9%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639089048693170227%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=YtHQPqD16dLLUJvzRVoRd8iX9euJI9cgGehTt2h57lM%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/one-week-countdown-one-black-countrys-biggest-job-fairs"
+    ]
+   },
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.walsall.gov.uk%2Fwalsall-works&data=05%7C02%7CBecky.Read%40walsall.gov.uk%7Ca61aea38ca224875b21508de801a88e9%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639089048693198072%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=SLDKmW9a%2BzkgVSVVU8PpYmhvsX7OWdFVeER3G%2FhuL3A%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/one-week-countdown-one-black-countrys-biggest-job-fairs"
+    ]
+   },
+   {
+    "url": "https://ati.woodlandtrust.org.uk/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/walsall-arboretum-boasts-largest-number-veteran-trees-any-site-across-birmingham-and-black"
+    ]
+   },
+   {
+    "url": "https://wslc.walsall.gov.uk/leisurehub/identity/login?",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://go.walsall.gov.uk/events/roller-skating-bloxwich-active-living-centre-0",
+     "https://go.walsall.gov.uk/events/pool-floats-fun-session-oak-park-active-living-centre-5"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 46,
+  "resources": 46,
+  "images": 46,
+  "standards": 22,
+  "link-check": 46,
+  "sustainability": 9,
+  "plain-language": 24,
+  "security": 9,
+  "tech": 7,
+  "alfa": 26,
+  "third-party": 7,
+  "lighthouse": 6,
+  "public-interest": 5,
+  "deprecated-html": 3
+ },
+ "tally": {
+  "ok": 46,
+  "blocked": 3,
+  "timeout": 0,
+  "robots_skipped": 1,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-03T15:20:25.540Z"
+}
