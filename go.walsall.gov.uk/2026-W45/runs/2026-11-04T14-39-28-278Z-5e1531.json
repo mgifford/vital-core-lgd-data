@@ -1,0 +1,134 @@
+{
+ "runId": "2026-11-04T14-39-28-278Z-5e1531",
+ "week": "2026-W45",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-04T14:39:31.760Z",
+ "scanned": [
+  "b689c085f9a0162b",
+  "1173b59b2c0581d8",
+  "f4e1e647a5139cfe",
+  "5a60d0c899ee7aa0",
+  "fac8599586034261",
+  "50a1cf48aa301b4d",
+  "be5399039f901b03",
+  "f775c3a1dd1c41ba",
+  "5db8bb130149fc12",
+  "890fc610ab8b6141",
+  "0f976d2673255ac6",
+  "fdc2300d3359b8f3",
+  "78758bbdc3d8e64e",
+  "5c0e198e97676870",
+  "165192cb49e49952",
+  "8d1d8d1a3a2077a5",
+  "f1eba3c74372f728",
+  "0288c45c369d4615",
+  "c8943263e63766a7",
+  "fd4683e6d88f4567",
+  "6f7b10fe598aaadb",
+  "f51354afc66dc42c",
+  "8fde3dd341fc49ba",
+  "7b6d1faf6a6b0b9e",
+  "7434f2aa38d9f943",
+  "07329a3937a2d267",
+  "9ceb143ac1590c1c",
+  "457f6900367c337a",
+  "f020cb36ced9a019",
+  "1e5c1081bcdfa6fa",
+  "cd6306ad95e563fc",
+  "8284649feb0cecf5",
+  "6e596e6c460d9f2d",
+  "606533ad26ac79e1",
+  "48242a5d003deedc",
+  "afc7ba63c57cbf1b",
+  "37bec69f24891539",
+  "609e2e200bfadb9c",
+  "8d66ad045829b9df",
+  "d98d29252a8bb468",
+  "183ea65843258659",
+  "9ce599c7006a3577",
+  "43d266f5b9b6dede",
+  "577d2ad9eb659320",
+  "3819be1218d74e37",
+  "509c55eedabd82c4",
+  "6088b1e8a26c1536",
+  "4cd78a2053bdd8ce",
+  "fa79770ef5c00dea",
+  "5df1c399ccb34ffb"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 621,
+  "checked": 500,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "https://www.biteback2030.com/bite-back-in-schools/england-join-bite-back-in-schools/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/walsall-food-partnership-highlights-local-action-support-healthy-eating-schools-and"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 48,
+  "alfa": 22,
+  "deprecated-html": 4,
+  "resources": 48,
+  "images": 48,
+  "public-interest": 3,
+  "link-check": 48,
+  "plain-language": 24,
+  "sustainability": 4,
+  "standards": 25,
+  "tech": 5,
+  "third-party": 15,
+  "lighthouse": 3,
+  "security": 7
+ },
+ "tally": {
+  "ok": 48,
+  "blocked": 2,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-11-04T14:51:59.821Z"
+}
