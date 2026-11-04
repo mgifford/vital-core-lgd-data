@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-11-04T16:25:29.838Z",
+ "updatedAt": "2026-11-04T16:43:55.188Z",
  "links": {
   "https://wslc.walsall.gov.uk/leisurehub/identity/login": {
    "status": 0,
@@ -1044,6 +1044,19 @@
    "weeksBroken": 1,
    "foundOn": [
     "https://go.walsall.gov.uk/planning-and-building-control/building-control"
+   ]
+  },
+  "https://www.twitter.com/_LearnAndThriv": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/wellbeing-directory/learn-and-thrive-learning-life"
    ]
   }
  }
