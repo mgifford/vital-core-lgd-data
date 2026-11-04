@@ -1,0 +1,262 @@
+{
+ "runId": "2026-11-04T12-29-54-296Z-f0deec",
+ "week": "2026-W45",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-04T12:29:54.618Z",
+ "scanned": [
+  "9f04c0e7dba9e126",
+  "15e12e7fe7b4af40",
+  "bc0ebdfc6e6cfb45",
+  "270a0194ad048401",
+  "49dc5aca3a07523c",
+  "116911aaa11e99f7",
+  "715a159066e766a6",
+  "bc8aa70cf0b822b2",
+  "b75fc7df090f07e5",
+  "e56f53bc109e311c",
+  "f2a4ec6296d5d5d4",
+  "274c8cec59247a03",
+  "deda68da29e20803",
+  "67c4ab961b96c03b",
+  "c2ae4f6eb06fcf4f",
+  "5182c22e9efaf367",
+  "612213728a995f1f",
+  "5e3d9efdbbd4bdbc",
+  "851ba0216bfb35c7",
+  "d900671831c0a315",
+  "715d02a8a16a9a79",
+  "607f67fe68f35f42",
+  "938ff717681f659e",
+  "d044a3a7f259d4d5",
+  "deb1082f768aecdf",
+  "7d9b2af9f64d31e1",
+  "e3bf414a1a7cc4d0",
+  "0ce6186e9ba4d878",
+  "abf5f889690f8a19",
+  "444332761d8d3366",
+  "fede9c75fbd7aaaa",
+  "97c5be8821e46286",
+  "068ed8f09caaed2f",
+  "446a2b9c7e034724",
+  "e9d1cc8742b2c69b",
+  "5def3ebd892924e9",
+  "e2b2257cbd5f6745",
+  "47bb6019ceac5a1c",
+  "47343bcf47812893",
+  "4ff67d06036e1f44",
+  "32a7ffd4b15f719f",
+  "fae5bc4e325eb70f",
+  "252e41cf66dd2428",
+  "74e111240feb83b5",
+  "0ce5a027a11e171c",
+  "6cacd9666018a08e",
+  "ac289ef40beb80f6",
+  "5141eb36226aa97c",
+  "2bb2e2a2761a7b45"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 605,
+  "checked": 500,
+  "brokenCount": 12,
+  "broken": [
+   {
+    "url": "https://news.hackney.gov.uk/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-tax-and-benefits/council-tax/missed-and-late-council-tax-payments/if-you-get-council-tax-reminder-letter",
+     "https://www.hackney.gov.uk/council-tax-and-benefits/applying-extra-financial-help-council/ask-hackney-here-help-review-decision",
+     "https://www.hackney.gov.uk/News",
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/libraries/libraries-overview",
+     "https://www.hackney.gov.uk/rubbish-and-recycling/rubbish-recycling-and-food-waste-collections/what-put-each-bin",
+     "https://www.hackney.gov.uk/health-and-social-care/children-and-families/children-services-assessment-common-assessment-framework-caf",
+     "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/hoxton-east-travel-survey",
+     "https://www.hackney.gov.uk/planning-and-building/make-planning-application/submit-planning-application",
+     "https://www.hackney.gov.uk/rubbish-and-recycling/garden-waste-collections/other-ways-get-rid-garden-waste",
+     "https://www.hackney.gov.uk/council-tax-and-benefits/applying-extra-financial-help-council/get-help-crisis-and-resilience-fund",
+     "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/plans-improve-travel-dalston",
+     "https://www.hackney.gov.uk/planning-and-building/building-control/building-regulations-and-exemptions/regulations-exemptions-warranties-and-other-guidance",
+     "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/how-we-assess-your-benefits-claim/applicable-amounts-benefits",
+     "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/cycling/london-walking-wheeling-and-cycling-conference",
+     "https://www.hackney.gov.uk/council-tax-and-benefits/council-tax/council-tax-discounts-reductions-and-exemptions/apply-council-tax-exemption",
+     "https://www.hackney.gov.uk/housing/council-tenants/tenants",
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/hoxton-square",
+     "https://www.hackney.gov.uk/health-and-social-care/children-and-families/childhood-vaccinations",
+     "https://www.hackney.gov.uk/parking-streets-and-transport/parking-permits-and-vouchers/estate-resident-permits-and-vouchers",
+     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/brownfield-land-register",
+     "https://www.hackney.gov.uk/community-safety-and-environment/community-partnerships/hackney-armed-forces-community-covenant",
+     "https://www.hackney.gov.uk/planning-and-building/regeneration/hoxton-regeneration",
+     "https://www.hackney.gov.uk/business-and-licensing/procurement-tenders-and-contracts/working-council",
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/allens-gardens",
+     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/st-marks-conservation-area",
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/rowley-gardens",
+     "https://www.hackney.gov.uk/planning-and-building/regeneration/55-morning-lane",
+     "https://www.hackney.gov.uk/parking-streets-and-transport/parking-permits-and-vouchers/car-free-developments",
+     "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/low-traffic-neighbourhoods/gore-road-traffic-filter",
+     "https://www.hackney.gov.uk/council-tax-and-benefits/financial-advice-and-resources/watch-out-scams",
+     "https://www.hackney.gov.uk/business-and-licensing/procurement-tenders-and-contracts/tenders-and-contracts",
+     "https://www.hackney.gov.uk/housing/council-tenants/buying-your-council-home-london",
+     "https://www.hackney.gov.uk/council-and-elections/finances-and-transparency/members-allowances",
+     "https://www.hackney.gov.uk/council-tax-and-benefits/applying-extra-financial-help-council/help-rising-cost-living",
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/volunteering-parks-and-green-spaces",
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/libraries/whats-hackney-libraries",
+     "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors",
+     "https://www.hackney.gov.uk/parking-streets-and-transport/roads-streets-and-pavements/report-roads-streets-and-pavement-problems",
+     "https://www.hackney.gov.uk/business-and-licensing/markets-and-street-trading/privately-operated-markets",
+     "https://www.hackney.gov.uk/planning-and-building/building-control/building-control-service",
+     "https://www.hackney.gov.uk/education/adult-education",
+     "https://www.hackney.gov.uk/council-tax-and-benefits/council-tax/tell-us-about-change-your-council-tax/report-change-circumstances-if-you-get-council-tax-discount",
+     "https://www.hackney.gov.uk/planning-and-building/building-control/dangerous-structures-and-public-safety",
+     "https://www.hackney.gov.uk/community-safety-and-environment/community-safety-and-crime-prevention/report-antisocial-behaviour",
+     "https://www.hackney.gov.uk/community-safety-and-environment/community-safety-and-crime-prevention/emergency-planning-and-response/business-continuity-management",
+     "https://www.hackney.gov.uk/health-and-social-care/support-disabled-people/occupational-therapy",
+     "https://www.hackney.gov.uk/council-tax-and-benefits/council-tax/tell-us-about-change-your-council-tax/tell-us-someone-has-died",
+     "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/money-and-financial-advice/financial-arrangements-your-stay-residential-or-nursing-care-home"
+    ]
+   },
+   {
+    "url": "https://www.islington.gov.uk/benefits-and-support/cost-of-living-support/household-support-fund",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-tax-and-benefits/applying-extra-financial-help-council/get-help-crisis-and-resilience-fund"
+    ]
+   },
+   {
+    "url": "https://www.towerhamlets.gov.uk/lgnl/advice_and_benefits/cost-of-living/household-support-fund.aspx",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-tax-and-benefits/applying-extra-financial-help-council/get-help-crisis-and-resilience-fund"
+    ]
+   },
+   {
+    "url": "https://www.schoolvaccination.uk/catch-up-clinics/hackney",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/children-and-families/childhood-vaccinations"
+    ]
+   },
+   {
+    "url": "https://procontract.due-north.com/ContractsRegister/Index?p=2241eb95-058a-e511-80f7-000c29c9ba21&v=1",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/business-and-licensing/procurement-tenders-and-contracts/working-council",
+     "https://www.hackney.gov.uk/business-and-licensing/procurement-tenders-and-contracts/tenders-and-contracts"
+    ]
+   },
+   {
+    "url": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=HAC004",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/allens-gardens"
+    ]
+   },
+   {
+    "url": "https://suppliersupport.proactisservicedesk.com/s/?language=en_US",
+    "status": 503,
+    "reason": "HTTP 503",
+    "foundOn": [
+     "https://www.hackney.gov.uk/business-and-licensing/procurement-tenders-and-contracts/tenders-and-contracts"
+    ]
+   },
+   {
+    "url": "https://procontract.due-north.com/Opportunities/Index?p=2241eb95-058a-e511-80f7-000c29c9ba21&v=1",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/business-and-licensing/procurement-tenders-and-contracts/tenders-and-contracts"
+    ]
+   },
+   {
+    "url": "https://www.ownyourhome.gov.uk/scheme/right-to-buy/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/housing/council-tenants/buying-your-council-home-london"
+    ]
+   },
+   {
+    "url": "https://energyadvice.london/financial-support/",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-tax-and-benefits/applying-extra-financial-help-council/help-rising-cost-living"
+    ]
+   },
+   {
+    "url": "https://olioex.com/",
+    "status": 0,
+    "reason": "ERR_SSL_SSL/TLS_ALERT_HANDSHAKE_FAILURE",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-tax-and-benefits/applying-extra-financial-help-council/help-rising-cost-living"
+    ]
+   },
+   {
+    "url": "http://www.eastendcab.org.uk/hackney/",
+    "status": 0,
+    "reason": "timeout",
+    "foundOn": [
+     "https://www.hackney.gov.uk/housing/council-tenants/buying-your-council-home-london"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "sustainability": 4,
+  "axe": 48,
+  "alfa": 27,
+  "resources": 48,
+  "images": 48,
+  "standards": 21,
+  "third-party": 10,
+  "lighthouse": 6,
+  "link-check": 48,
+  "tech": 2,
+  "plain-language": 26,
+  "deprecated-html": 4,
+  "public-interest": 7,
+  "security": 3
+ },
+ "tally": {
+  "ok": 48,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 3,
+  "error": 0
+ },
+ "finishedAt": "2026-11-04T12:39:07.514Z"
+}
