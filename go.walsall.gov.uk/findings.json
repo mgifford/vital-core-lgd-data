@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-11-04T14:53:01.810Z",
+ "updatedAt": "2026-11-04T16:25:29.807Z",
  "findings": {
   "VS-179ad9b3": {
    "engine": "Siteimprove Alfa",
@@ -54,10 +54,11 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 823,
+   "lastPagesAffected": 919,
    "lastAffectedPages": [
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
     "https://go.walsall.gov.uk/feedback?page=%2Fhousing%2Fsaving-energy%2Fwalsall-heca-report-fuel-poverty&rating=Good&title=Walsall+HECA+report+on+fuel+poverty",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A35",
     "https://go.walsall.gov.uk/feedback?page=%2Fwalsall-libraries%2Flichfield-street-hub%2Fwalsall-archives-services%2Fresearch-resources%2Fdelves-churches&rating=Poor&title=Delves+churches",
     "https://go.walsall.gov.uk/events/adult-reading-group-20",
@@ -79,8 +80,7 @@
     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-town-centre-survey-inform-major-regeneration-projects&rating=Poor&title=Walsall+Town+Centre+Survey+to+Inform+Major+Regeneration+Projects",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A351",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A337&f%5B3%5D=localgov_directories_facets%3A31&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A355",
-    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A338&f%5B3%5D=localgov_directories_facets%3A33&f%5B4%5D=localgov_directories_facets%3A36",
-    "https://go.walsall.gov.uk/events/crafts-everyone-33"
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A338&f%5B3%5D=localgov_directories_facets%3A33&f%5B4%5D=localgov_directories_facets%3A36"
    ]
   },
   "VS-f6d344d5": {
@@ -96,10 +96,11 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 823,
+   "lastPagesAffected": 919,
    "lastAffectedPages": [
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
     "https://go.walsall.gov.uk/feedback?page=%2Fhousing%2Fsaving-energy%2Fwalsall-heca-report-fuel-poverty&rating=Good&title=Walsall+HECA+report+on+fuel+poverty",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A35",
     "https://go.walsall.gov.uk/feedback?page=%2Fwalsall-libraries%2Flichfield-street-hub%2Fwalsall-archives-services%2Fresearch-resources%2Fdelves-churches&rating=Poor&title=Delves+churches",
     "https://go.walsall.gov.uk/events/adult-reading-group-20",
@@ -121,8 +122,7 @@
     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-town-centre-survey-inform-major-regeneration-projects&rating=Poor&title=Walsall+Town+Centre+Survey+to+Inform+Major+Regeneration+Projects",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A351",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A337&f%5B3%5D=localgov_directories_facets%3A31&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A355",
-    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A338&f%5B3%5D=localgov_directories_facets%3A33&f%5B4%5D=localgov_directories_facets%3A36",
-    "https://go.walsall.gov.uk/events/crafts-everyone-33"
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A338&f%5B3%5D=localgov_directories_facets%3A33&f%5B4%5D=localgov_directories_facets%3A36"
    ]
   },
   "VS-a0bdbdf6": {
@@ -138,10 +138,11 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 823,
+   "lastPagesAffected": 919,
    "lastAffectedPages": [
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
     "https://go.walsall.gov.uk/feedback?page=%2Fhousing%2Fsaving-energy%2Fwalsall-heca-report-fuel-poverty&rating=Good&title=Walsall+HECA+report+on+fuel+poverty",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A35",
     "https://go.walsall.gov.uk/feedback?page=%2Fwalsall-libraries%2Flichfield-street-hub%2Fwalsall-archives-services%2Fresearch-resources%2Fdelves-churches&rating=Poor&title=Delves+churches",
     "https://go.walsall.gov.uk/events/adult-reading-group-20",
@@ -163,8 +164,7 @@
     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-town-centre-survey-inform-major-regeneration-projects&rating=Poor&title=Walsall+Town+Centre+Survey+to+Inform+Major+Regeneration+Projects",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A351",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A337&f%5B3%5D=localgov_directories_facets%3A31&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A355",
-    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A338&f%5B3%5D=localgov_directories_facets%3A33&f%5B4%5D=localgov_directories_facets%3A36",
-    "https://go.walsall.gov.uk/events/crafts-everyone-33"
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A338&f%5B3%5D=localgov_directories_facets%3A33&f%5B4%5D=localgov_directories_facets%3A36"
    ]
   },
   "VS-d6097011": {
@@ -180,9 +180,10 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 419,
+   "lastPagesAffected": 461,
    "lastAffectedPages": [
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
     "https://go.walsall.gov.uk/feedback?page=%2Fwalsall-libraries%2Flichfield-street-hub%2Fwalsall-archives-services%2Fresearch-resources%2Fdelves-churches&rating=Poor&title=Delves+churches",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=localgov_directories_facets%3A37&f%5B2%5D=service_type%3A352",
     "https://go.walsall.gov.uk/newsroom/walsall-council-receive-ps558010-through-public-sector-decarbonisation-scheme",
@@ -205,8 +206,7 @@
     "https://go.walsall.gov.uk/bins/check-your-bin-collection-dates",
     "https://go.walsall.gov.uk/newsroom/walsall-shop-fined-underage-vape-sale",
     "https://go.walsall.gov.uk/wellbeing-directory/scope-help-line-disabled-people-and-their-families",
-    "https://go.walsall.gov.uk/walsall-libraries/lichfield-street-hub/walsall-archives-services/research-resources/blakenall",
-    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A417&f%5B3%5D=service_type%3A351"
+    "https://go.walsall.gov.uk/feedback?page=%2Fchildren-and-young-people%2Fsocial-work-recruitment%2Fwalsall-childrens-social-care&rating=Ok&title=Walsall+children%27s+social+care"
    ]
   },
   "VS-0ddc2ac6": {
@@ -222,9 +222,10 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 419,
+   "lastPagesAffected": 461,
    "lastAffectedPages": [
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
     "https://go.walsall.gov.uk/feedback?page=%2Fwalsall-libraries%2Flichfield-street-hub%2Fwalsall-archives-services%2Fresearch-resources%2Fdelves-churches&rating=Poor&title=Delves+churches",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=localgov_directories_facets%3A37&f%5B2%5D=service_type%3A352",
     "https://go.walsall.gov.uk/newsroom/walsall-council-receive-ps558010-through-public-sector-decarbonisation-scheme",
@@ -247,8 +248,7 @@
     "https://go.walsall.gov.uk/bins/check-your-bin-collection-dates",
     "https://go.walsall.gov.uk/newsroom/walsall-shop-fined-underage-vape-sale",
     "https://go.walsall.gov.uk/wellbeing-directory/scope-help-line-disabled-people-and-their-families",
-    "https://go.walsall.gov.uk/walsall-libraries/lichfield-street-hub/walsall-archives-services/research-resources/blakenall",
-    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A417&f%5B3%5D=service_type%3A351"
+    "https://go.walsall.gov.uk/feedback?page=%2Fchildren-and-young-people%2Fsocial-work-recruitment%2Fwalsall-childrens-social-care&rating=Ok&title=Walsall+children%27s+social+care"
    ]
   },
   "VS-e9fe47ac": {
@@ -300,10 +300,11 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 823,
+   "lastPagesAffected": 919,
    "lastAffectedPages": [
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
     "https://go.walsall.gov.uk/feedback?page=%2Fhousing%2Fsaving-energy%2Fwalsall-heca-report-fuel-poverty&rating=Good&title=Walsall+HECA+report+on+fuel+poverty",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A35",
     "https://go.walsall.gov.uk/feedback?page=%2Fwalsall-libraries%2Flichfield-street-hub%2Fwalsall-archives-services%2Fresearch-resources%2Fdelves-churches&rating=Poor&title=Delves+churches",
     "https://go.walsall.gov.uk/events/adult-reading-group-20",
@@ -325,8 +326,7 @@
     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-town-centre-survey-inform-major-regeneration-projects&rating=Poor&title=Walsall+Town+Centre+Survey+to+Inform+Major+Regeneration+Projects",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A351",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A337&f%5B3%5D=localgov_directories_facets%3A31&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A355",
-    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A338&f%5B3%5D=localgov_directories_facets%3A33&f%5B4%5D=localgov_directories_facets%3A36",
-    "https://go.walsall.gov.uk/events/crafts-everyone-33"
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A338&f%5B3%5D=localgov_directories_facets%3A33&f%5B4%5D=localgov_directories_facets%3A36"
    ]
   },
   "VS-af36d20c": {
@@ -342,13 +342,17 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 11,
+   "lastPagesAffected": 15,
    "lastAffectedPages": [
     "https://go.walsall.gov.uk/business/doing-business-with-the-council/supplying-council",
+    "https://go.walsall.gov.uk/planning-and-building-control/building-control",
     "https://go.walsall.gov.uk/business/trading-standards",
     "https://go.walsall.gov.uk/node/1077/practitioner-resources/practitioner-support-directory",
+    "https://go.walsall.gov.uk/children-and-young-people/family-help/young-carers",
     "https://go.walsall.gov.uk/children-and-young-people/family-help",
+    "https://go.walsall.gov.uk/business/markets-street-trading-and-car-boot-sales/street-trading",
     "https://go.walsall.gov.uk/walsall-libraries/our-libraries/brownhills-district-library",
+    "https://go.walsall.gov.uk/housing/consultation-our-walsall-borough-housing-strategy",
     "https://go.walsall.gov.uk/business/licensing-and-regulation/list-licences/apply-scrap-metal-dealer-licence",
     "https://go.walsall.gov.uk/health-and-social-care/accessing-and-paying-your-adult-social-care/making-payments-your-care",
     "https://go.walsall.gov.uk/health-and-social-care",
@@ -370,9 +374,10 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 419,
+   "lastPagesAffected": 461,
    "lastAffectedPages": [
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
     "https://go.walsall.gov.uk/feedback?page=%2Fwalsall-libraries%2Flichfield-street-hub%2Fwalsall-archives-services%2Fresearch-resources%2Fdelves-churches&rating=Poor&title=Delves+churches",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=localgov_directories_facets%3A37&f%5B2%5D=service_type%3A352",
     "https://go.walsall.gov.uk/newsroom/walsall-council-receive-ps558010-through-public-sector-decarbonisation-scheme",
@@ -395,8 +400,7 @@
     "https://go.walsall.gov.uk/bins/check-your-bin-collection-dates",
     "https://go.walsall.gov.uk/newsroom/walsall-shop-fined-underage-vape-sale",
     "https://go.walsall.gov.uk/wellbeing-directory/scope-help-line-disabled-people-and-their-families",
-    "https://go.walsall.gov.uk/walsall-libraries/lichfield-street-hub/walsall-archives-services/research-resources/blakenall",
-    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A417&f%5B3%5D=service_type%3A351"
+    "https://go.walsall.gov.uk/feedback?page=%2Fchildren-and-young-people%2Fsocial-work-recruitment%2Fwalsall-childrens-social-care&rating=Ok&title=Walsall+children%27s+social+care"
    ]
   },
   "VS-ebb1c464": {
@@ -412,7 +416,7 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 184,
+   "lastPagesAffected": 202,
    "lastAffectedPages": [
     "https://go.walsall.gov.uk/feedback?page=%2Fhousing%2Fsaving-energy%2Fwalsall-heca-report-fuel-poverty&rating=Good&title=Walsall+HECA+report+on+fuel+poverty",
     "https://go.walsall.gov.uk/feedback?page=%2Fwalsall-libraries%2Flichfield-street-hub%2Fwalsall-archives-services%2Fresearch-resources%2Fdelves-churches&rating=Poor&title=Delves+churches",
@@ -423,9 +427,11 @@
     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Findependent-review-highlights-good-progress&rating=Good&title=Independent+review+highlights+good+progress",
     "https://go.walsall.gov.uk/feedback?page=%2Fwalsall-libraries%2Four-libraries%2Fstreetly-community-library&rating=Good&title=Streetly+Community+Library",
     "https://go.walsall.gov.uk/feedback?page=%2Fbusiness%2Flicensing-and-regulation%2Ftaxi-licences%2Ftaxi-and-private-hire-licensing-enforcement&rating=Good&title=Taxi+and+private+hire+licensing+enforcement",
+    "https://go.walsall.gov.uk/feedback?page=%2Fchildren-and-young-people%2Fsocial-work-recruitment%2Fwalsall-childrens-social-care&rating=Ok&title=Walsall+children%27s+social+care",
     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fstatement-drug-related-overdoses&rating=Poor&title=Statement+-+drug-related+overdoses",
     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fmayor-walsall-attends-st-matthews-church-watch-state-funeral&rating=Ok&title=Mayor+of+Walsall+attends+St+Matthew%E2%80%99s+Church+to+watch+State+Funeral",
     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-selected-one-six-systems-lead-national-creative-health-programme&rating=Poor&title=Walsall+selected+as+one+of+six+systems+to+lead+national+Creative+Health+programme",
+    "https://go.walsall.gov.uk/feedback?page=%2Fhealth-and-social-care%2Fmental-health-physical-health-and-wellbeing%2Frefer-someone-loneliness-and&rating=Poor&title=Refer+someone+for+loneliness+and+isolation+support",
     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwhats-walsall-november-2025&rating=Poor&title=What%E2%80%99s+On+Walsall+-+November+2025",
     "https://go.walsall.gov.uk/feedback?page=%2Fbusiness%2Fregeneration-and-investment%2Fregenerating-walsall-town-centre%2Fconnected-gateway-project&rating=Good&title=Connected+Gateway+Project",
     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fcouncil-briefing-will-outline-transformative-plans-regenerate-walsall-borough&rating=Poor&title=Council+briefing+will+outline+transformative+plans+to+regenerate+Walsall+borough",
@@ -433,12 +439,10 @@
     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Ftwo-walsall-residents-honoured-kings-new-year-honours-list&rating=Poor&title=Two+Walsall+residents+honoured+in+The+King%E2%80%99s+New+Year+Honours+List",
     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fhefty-fine-and-three-year-town-centre-ban-handed-prolific-street-drinker-walsall&rating=Ok&title=Hefty+fine+and+three-year+town+centre+ban+handed+to+prolific+street+drinker+in+Walsall",
     "https://go.walsall.gov.uk/feedback?page=%2Fsport-and-leisure%2Fcovid-19-information&rating=Good&title=COVID-19+information",
+    "https://go.walsall.gov.uk/feedback?page=%2Fpeople-and-communities%2Fprotecting-our-environment%2Fwalsall-strategic-noise-map&rating=Good&title=Walsall+strategic+noise+map",
     "https://go.walsall.gov.uk/feedback?page=%2Fbirths-marriages-and-deaths%2Fmarriages-and-civil-partnerships%2Fmarriage-schedule-system&rating=Good&title=Marriage+schedule+system",
     "https://go.walsall.gov.uk/feedback?page=%2Fyour-council%2Fdecision-making-in-walsall-borough%2Fblack-country-executive-joint-committee%2Fblack-country-executive-joint-committee-meetings%2Fblack-country-executive-joint-committee---reports-and-minutes---17-september-2014&rating=Poor&title=Black+Country+Executive+Joint+Committee+-+Reports+and+minutes+-+17+September+2014",
-    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fover-100-locals-attend-milestone-family-hub-events-walsall&rating=Ok&title=Over+100+locals+attend+milestone+Family+Hub+events+in+Walsall",
-    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fyear-regeneration-walsall-town-centre&rating=Poor&title=A+year+of+regeneration+in+Walsall+town+centre",
-    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fnew-art-gallery-walsall-joins-bloomberg-connects&rating=Ok&title=The+New+Art+Gallery+Walsall+joins+Bloomberg+Connects",
-    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-councils-catering-team-achieves-food-life-served-here-bronze-award&rating=Good&title=Walsall+Council%E2%80%99s+Catering+Team+achieves+Food+for+Life+Served+Here+Bronze+award"
+    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fover-100-locals-attend-milestone-family-hub-events-walsall&rating=Ok&title=Over+100+locals+attend+milestone+Family+Hub+events+in+Walsall"
    ]
   },
   "VS-3f76c7ea": {
@@ -475,10 +479,11 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 823,
+   "lastPagesAffected": 919,
    "lastAffectedPages": [
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
     "https://go.walsall.gov.uk/feedback?page=%2Fhousing%2Fsaving-energy%2Fwalsall-heca-report-fuel-poverty&rating=Good&title=Walsall+HECA+report+on+fuel+poverty",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A35",
     "https://go.walsall.gov.uk/feedback?page=%2Fwalsall-libraries%2Flichfield-street-hub%2Fwalsall-archives-services%2Fresearch-resources%2Fdelves-churches&rating=Poor&title=Delves+churches",
     "https://go.walsall.gov.uk/events/adult-reading-group-20",
@@ -500,8 +505,7 @@
     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-town-centre-survey-inform-major-regeneration-projects&rating=Poor&title=Walsall+Town+Centre+Survey+to+Inform+Major+Regeneration+Projects",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A351",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A337&f%5B3%5D=localgov_directories_facets%3A31&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A355",
-    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A338&f%5B3%5D=localgov_directories_facets%3A33&f%5B4%5D=localgov_directories_facets%3A36",
-    "https://go.walsall.gov.uk/events/crafts-everyone-33"
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A338&f%5B3%5D=localgov_directories_facets%3A33&f%5B4%5D=localgov_directories_facets%3A36"
    ]
   },
   "VS-f7e99f4b": {
@@ -517,9 +521,10 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 419,
+   "lastPagesAffected": 461,
    "lastAffectedPages": [
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
     "https://go.walsall.gov.uk/feedback?page=%2Fwalsall-libraries%2Flichfield-street-hub%2Fwalsall-archives-services%2Fresearch-resources%2Fdelves-churches&rating=Poor&title=Delves+churches",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=localgov_directories_facets%3A37&f%5B2%5D=service_type%3A352",
     "https://go.walsall.gov.uk/newsroom/walsall-council-receive-ps558010-through-public-sector-decarbonisation-scheme",
@@ -542,8 +547,7 @@
     "https://go.walsall.gov.uk/bins/check-your-bin-collection-dates",
     "https://go.walsall.gov.uk/newsroom/walsall-shop-fined-underage-vape-sale",
     "https://go.walsall.gov.uk/wellbeing-directory/scope-help-line-disabled-people-and-their-families",
-    "https://go.walsall.gov.uk/walsall-libraries/lichfield-street-hub/walsall-archives-services/research-resources/blakenall",
-    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A417&f%5B3%5D=service_type%3A351"
+    "https://go.walsall.gov.uk/feedback?page=%2Fchildren-and-young-people%2Fsocial-work-recruitment%2Fwalsall-childrens-social-care&rating=Ok&title=Walsall+children%27s+social+care"
    ]
   },
   "VS-646b1e0b": {
@@ -559,9 +563,10 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 419,
+   "lastPagesAffected": 461,
    "lastAffectedPages": [
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
     "https://go.walsall.gov.uk/feedback?page=%2Fwalsall-libraries%2Flichfield-street-hub%2Fwalsall-archives-services%2Fresearch-resources%2Fdelves-churches&rating=Poor&title=Delves+churches",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=localgov_directories_facets%3A37&f%5B2%5D=service_type%3A352",
     "https://go.walsall.gov.uk/newsroom/walsall-council-receive-ps558010-through-public-sector-decarbonisation-scheme",
@@ -584,8 +589,7 @@
     "https://go.walsall.gov.uk/bins/check-your-bin-collection-dates",
     "https://go.walsall.gov.uk/newsroom/walsall-shop-fined-underage-vape-sale",
     "https://go.walsall.gov.uk/wellbeing-directory/scope-help-line-disabled-people-and-their-families",
-    "https://go.walsall.gov.uk/walsall-libraries/lichfield-street-hub/walsall-archives-services/research-resources/blakenall",
-    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A417&f%5B3%5D=service_type%3A351"
+    "https://go.walsall.gov.uk/feedback?page=%2Fchildren-and-young-people%2Fsocial-work-recruitment%2Fwalsall-childrens-social-care&rating=Ok&title=Walsall+children%27s+social+care"
    ]
   },
   "VS-fbf54eba": {
@@ -601,9 +605,10 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 419,
+   "lastPagesAffected": 461,
    "lastAffectedPages": [
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
     "https://go.walsall.gov.uk/feedback?page=%2Fwalsall-libraries%2Flichfield-street-hub%2Fwalsall-archives-services%2Fresearch-resources%2Fdelves-churches&rating=Poor&title=Delves+churches",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=localgov_directories_facets%3A37&f%5B2%5D=service_type%3A352",
     "https://go.walsall.gov.uk/newsroom/walsall-council-receive-ps558010-through-public-sector-decarbonisation-scheme",
@@ -626,8 +631,7 @@
     "https://go.walsall.gov.uk/bins/check-your-bin-collection-dates",
     "https://go.walsall.gov.uk/newsroom/walsall-shop-fined-underage-vape-sale",
     "https://go.walsall.gov.uk/wellbeing-directory/scope-help-line-disabled-people-and-their-families",
-    "https://go.walsall.gov.uk/walsall-libraries/lichfield-street-hub/walsall-archives-services/research-resources/blakenall",
-    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A417&f%5B3%5D=service_type%3A351"
+    "https://go.walsall.gov.uk/feedback?page=%2Fchildren-and-young-people%2Fsocial-work-recruitment%2Fwalsall-childrens-social-care&rating=Ok&title=Walsall+children%27s+social+care"
    ]
   },
   "VS-2208081b": {
@@ -643,9 +647,10 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 419,
+   "lastPagesAffected": 461,
    "lastAffectedPages": [
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
     "https://go.walsall.gov.uk/feedback?page=%2Fwalsall-libraries%2Flichfield-street-hub%2Fwalsall-archives-services%2Fresearch-resources%2Fdelves-churches&rating=Poor&title=Delves+churches",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=localgov_directories_facets%3A37&f%5B2%5D=service_type%3A352",
     "https://go.walsall.gov.uk/newsroom/walsall-council-receive-ps558010-through-public-sector-decarbonisation-scheme",
@@ -668,8 +673,7 @@
     "https://go.walsall.gov.uk/bins/check-your-bin-collection-dates",
     "https://go.walsall.gov.uk/newsroom/walsall-shop-fined-underage-vape-sale",
     "https://go.walsall.gov.uk/wellbeing-directory/scope-help-line-disabled-people-and-their-families",
-    "https://go.walsall.gov.uk/walsall-libraries/lichfield-street-hub/walsall-archives-services/research-resources/blakenall",
-    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A417&f%5B3%5D=service_type%3A351"
+    "https://go.walsall.gov.uk/feedback?page=%2Fchildren-and-young-people%2Fsocial-work-recruitment%2Fwalsall-childrens-social-care&rating=Ok&title=Walsall+children%27s+social+care"
    ]
   },
   "VS-cb53cc4d": {
@@ -685,9 +689,10 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 419,
+   "lastPagesAffected": 461,
    "lastAffectedPages": [
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
     "https://go.walsall.gov.uk/feedback?page=%2Fwalsall-libraries%2Flichfield-street-hub%2Fwalsall-archives-services%2Fresearch-resources%2Fdelves-churches&rating=Poor&title=Delves+churches",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=localgov_directories_facets%3A37&f%5B2%5D=service_type%3A352",
     "https://go.walsall.gov.uk/newsroom/walsall-council-receive-ps558010-through-public-sector-decarbonisation-scheme",
@@ -710,8 +715,7 @@
     "https://go.walsall.gov.uk/bins/check-your-bin-collection-dates",
     "https://go.walsall.gov.uk/newsroom/walsall-shop-fined-underage-vape-sale",
     "https://go.walsall.gov.uk/wellbeing-directory/scope-help-line-disabled-people-and-their-families",
-    "https://go.walsall.gov.uk/walsall-libraries/lichfield-street-hub/walsall-archives-services/research-resources/blakenall",
-    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A417&f%5B3%5D=service_type%3A351"
+    "https://go.walsall.gov.uk/feedback?page=%2Fchildren-and-young-people%2Fsocial-work-recruitment%2Fwalsall-childrens-social-care&rating=Ok&title=Walsall+children%27s+social+care"
    ]
   },
   "VS-f18df681": {
@@ -727,10 +731,11 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 823,
+   "lastPagesAffected": 919,
    "lastAffectedPages": [
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
     "https://go.walsall.gov.uk/feedback?page=%2Fhousing%2Fsaving-energy%2Fwalsall-heca-report-fuel-poverty&rating=Good&title=Walsall+HECA+report+on+fuel+poverty",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A35",
     "https://go.walsall.gov.uk/feedback?page=%2Fwalsall-libraries%2Flichfield-street-hub%2Fwalsall-archives-services%2Fresearch-resources%2Fdelves-churches&rating=Poor&title=Delves+churches",
     "https://go.walsall.gov.uk/events/adult-reading-group-20",
@@ -752,8 +757,7 @@
     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-town-centre-survey-inform-major-regeneration-projects&rating=Poor&title=Walsall+Town+Centre+Survey+to+Inform+Major+Regeneration+Projects",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A351",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A337&f%5B3%5D=localgov_directories_facets%3A31&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A355",
-    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A338&f%5B3%5D=localgov_directories_facets%3A33&f%5B4%5D=localgov_directories_facets%3A36",
-    "https://go.walsall.gov.uk/events/crafts-everyone-33"
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A338&f%5B3%5D=localgov_directories_facets%3A33&f%5B4%5D=localgov_directories_facets%3A36"
    ]
   },
   "VS-e5ec42f0": {
@@ -769,9 +773,10 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 419,
+   "lastPagesAffected": 461,
    "lastAffectedPages": [
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
     "https://go.walsall.gov.uk/feedback?page=%2Fwalsall-libraries%2Flichfield-street-hub%2Fwalsall-archives-services%2Fresearch-resources%2Fdelves-churches&rating=Poor&title=Delves+churches",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=localgov_directories_facets%3A37&f%5B2%5D=service_type%3A352",
     "https://go.walsall.gov.uk/newsroom/walsall-council-receive-ps558010-through-public-sector-decarbonisation-scheme",
@@ -794,8 +799,7 @@
     "https://go.walsall.gov.uk/bins/check-your-bin-collection-dates",
     "https://go.walsall.gov.uk/newsroom/walsall-shop-fined-underage-vape-sale",
     "https://go.walsall.gov.uk/wellbeing-directory/scope-help-line-disabled-people-and-their-families",
-    "https://go.walsall.gov.uk/walsall-libraries/lichfield-street-hub/walsall-archives-services/research-resources/blakenall",
-    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A417&f%5B3%5D=service_type%3A351"
+    "https://go.walsall.gov.uk/feedback?page=%2Fchildren-and-young-people%2Fsocial-work-recruitment%2Fwalsall-childrens-social-care&rating=Ok&title=Walsall+children%27s+social+care"
    ]
   },
   "VS-c18be945": {
@@ -811,9 +815,10 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 419,
+   "lastPagesAffected": 461,
    "lastAffectedPages": [
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
     "https://go.walsall.gov.uk/feedback?page=%2Fwalsall-libraries%2Flichfield-street-hub%2Fwalsall-archives-services%2Fresearch-resources%2Fdelves-churches&rating=Poor&title=Delves+churches",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=localgov_directories_facets%3A37&f%5B2%5D=service_type%3A352",
     "https://go.walsall.gov.uk/newsroom/walsall-council-receive-ps558010-through-public-sector-decarbonisation-scheme",
@@ -836,8 +841,7 @@
     "https://go.walsall.gov.uk/bins/check-your-bin-collection-dates",
     "https://go.walsall.gov.uk/newsroom/walsall-shop-fined-underage-vape-sale",
     "https://go.walsall.gov.uk/wellbeing-directory/scope-help-line-disabled-people-and-their-families",
-    "https://go.walsall.gov.uk/walsall-libraries/lichfield-street-hub/walsall-archives-services/research-resources/blakenall",
-    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A417&f%5B3%5D=service_type%3A351"
+    "https://go.walsall.gov.uk/feedback?page=%2Fchildren-and-young-people%2Fsocial-work-recruitment%2Fwalsall-childrens-social-care&rating=Ok&title=Walsall+children%27s+social+care"
    ]
   },
   "VS-aa242c2d": {
@@ -853,9 +857,10 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 419,
+   "lastPagesAffected": 461,
    "lastAffectedPages": [
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
     "https://go.walsall.gov.uk/feedback?page=%2Fwalsall-libraries%2Flichfield-street-hub%2Fwalsall-archives-services%2Fresearch-resources%2Fdelves-churches&rating=Poor&title=Delves+churches",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=localgov_directories_facets%3A37&f%5B2%5D=service_type%3A352",
     "https://go.walsall.gov.uk/newsroom/walsall-council-receive-ps558010-through-public-sector-decarbonisation-scheme",
@@ -878,8 +883,7 @@
     "https://go.walsall.gov.uk/bins/check-your-bin-collection-dates",
     "https://go.walsall.gov.uk/newsroom/walsall-shop-fined-underage-vape-sale",
     "https://go.walsall.gov.uk/wellbeing-directory/scope-help-line-disabled-people-and-their-families",
-    "https://go.walsall.gov.uk/walsall-libraries/lichfield-street-hub/walsall-archives-services/research-resources/blakenall",
-    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A417&f%5B3%5D=service_type%3A351"
+    "https://go.walsall.gov.uk/feedback?page=%2Fchildren-and-young-people%2Fsocial-work-recruitment%2Fwalsall-childrens-social-care&rating=Ok&title=Walsall+children%27s+social+care"
    ]
   },
   "VS-4fac2f41": {
@@ -895,10 +899,11 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 823,
+   "lastPagesAffected": 919,
    "lastAffectedPages": [
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
     "https://go.walsall.gov.uk/feedback?page=%2Fhousing%2Fsaving-energy%2Fwalsall-heca-report-fuel-poverty&rating=Good&title=Walsall+HECA+report+on+fuel+poverty",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A35",
     "https://go.walsall.gov.uk/feedback?page=%2Fwalsall-libraries%2Flichfield-street-hub%2Fwalsall-archives-services%2Fresearch-resources%2Fdelves-churches&rating=Poor&title=Delves+churches",
     "https://go.walsall.gov.uk/events/adult-reading-group-20",
@@ -920,8 +925,7 @@
     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-town-centre-survey-inform-major-regeneration-projects&rating=Poor&title=Walsall+Town+Centre+Survey+to+Inform+Major+Regeneration+Projects",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A351",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A337&f%5B3%5D=localgov_directories_facets%3A31&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A355",
-    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A338&f%5B3%5D=localgov_directories_facets%3A33&f%5B4%5D=localgov_directories_facets%3A36",
-    "https://go.walsall.gov.uk/events/crafts-everyone-33"
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A338&f%5B3%5D=localgov_directories_facets%3A33&f%5B4%5D=localgov_directories_facets%3A36"
    ]
   },
   "VS-e05344b9": {
@@ -937,13 +941,14 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 106,
+   "lastPagesAffected": 117,
    "lastAffectedPages": [
     "https://go.walsall.gov.uk/feedback?page=%2Fwalsall-libraries%2Flichfield-street-hub%2Fwalsall-archives-services%2Fresearch-resources%2Fdelves-churches&rating=Poor&title=Delves+churches",
     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-families-encouraged-check-mmr-vaccinations-half-term&rating=Poor&title=Walsall+families+encouraged+to+check+MMR+vaccinations+this+half+term",
     "https://go.walsall.gov.uk/events?venue=414",
     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Froad-closure-enable-next-step-yorks-bridge-construction&rating=Poor&title=Road+closure+to+enable+next+step+of+York%E2%80%99s+Bridge+construction+++",
     "https://go.walsall.gov.uk/feedback?page=%2Fwalsall-libraries%2Four-libraries%2Fstreetly-community-library&rating=Good&title=Streetly+Community+Library",
+    "https://go.walsall.gov.uk/feedback?page=%2Fchildren-and-young-people%2Fsocial-work-recruitment%2Fwalsall-childrens-social-care&rating=Ok&title=Walsall+children%27s+social+care",
     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fmayor-walsall-attends-st-matthews-church-watch-state-funeral&rating=Ok&title=Mayor+of+Walsall+attends+St+Matthew%E2%80%99s+Church+to+watch+State+Funeral",
     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fhefty-fine-and-three-year-town-centre-ban-handed-prolific-street-drinker-walsall&rating=Ok&title=Hefty+fine+and+three-year+town+centre+ban+handed+to+prolific+street+drinker+in+Walsall",
     "https://go.walsall.gov.uk/feedback?page=%2Fbirths-marriages-and-deaths%2Fmarriages-and-civil-partnerships%2Fmarriage-schedule-system&rating=Good&title=Marriage+schedule+system",
@@ -954,16 +959,15 @@
     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-free-garden-waste-collections-resume&rating=Good&title=Walsall+free+garden+waste+collections+to+resume+",
     "https://go.walsall.gov.uk/feedback?page=%2Fmyaccount-online-services%2Freport-problem-street-light-or-belisha-beacon&rating=Good&title=Report+a+problem+with+a+street+light+or+Belisha+beacon",
     "https://go.walsall.gov.uk/events?page=2&venue=358",
+    "https://go.walsall.gov.uk/newsroom/canal-makeover-set-encourage-more-people-walk-and-cycle-around-walsall-borough",
     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fps44m-investment-increase-enforcement-across-walsall&rating=Poor&title=%C2%A34.4m+investment+to+increase+enforcement+across+Walsall+",
+    "https://go.walsall.gov.uk/feedback?page=%2Fsport-and-leisure&rating=Good&title=Sport+and+leisure",
     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fremembrance-day-parades-and-services-walsall-3&rating=Poor&title=Remembrance+Day+parades+and+services+in+Walsall",
     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fdont-forget-walsall-makerfest-saturday&rating=Good&title=Don%E2%80%99t+forget+Walsall+MakerFest+is+this+Saturday%21",
     "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fmore-community-support-officer-patrols-walsall-town-centre&rating=Poor&title=More+community+support+officer+patrols+in+Walsall+town+centre+",
     "https://go.walsall.gov.uk/feedback?page=%2Fsport-and-leisure&rating=Ok&title=Sport+and+leisure",
     "https://go.walsall.gov.uk/feedback?page=%2Froads-parking-and-travel%2Froadworks-and-road-maintenance%2Frename-your-house-or-street&rating=Good&title=Rename+your+house+or+street",
-    "https://go.walsall.gov.uk/feedback?page=%2Fmuseums-libraries-and-galleries%2Fwalsall-heritage-strategy&rating=Poor&title=Walsall+Heritage+Strategy",
-    "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwalsall-will-be-one-only-3-4-healthy-levelling-areas-country&rating=Ok&title=Walsall+will+be+one+of+only+3+%E2%80%93+4+%E2%80%98Healthy+Levelling+Up%E2%80%99+areas+in+the+country+",
-    "https://go.walsall.gov.uk/feedback?page=%2Fparks-and-green-spaces%2Fconservation-and-the-environment%2Fsites-of-importance-to-nature-conservation-sincs%2Fcorporation-wood-and-the-towers-covert&rating=Poor&title=Corporation+Wood+and+the+Towers+Covert",
-    "https://go.walsall.gov.uk/feedback?page=%2Fhealth-and-social-care%2Fgetting-around-and-places-go%2Fget-assessed-daycare-support&rating=Poor&title=Get+assessed+for+daycare+support"
+    "https://go.walsall.gov.uk/feedback?page=%2Fmuseums-libraries-and-galleries%2Fwalsall-heritage-strategy&rating=Poor&title=Walsall+Heritage+Strategy"
    ]
   },
   "VS-d25f622d": {
@@ -979,9 +983,10 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 303,
+   "lastPagesAffected": 343,
    "lastAffectedPages": [
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A35",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=localgov_directories_facets%3A37&f%5B2%5D=service_type%3A352",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A337&f%5B3%5D=localgov_directories_facets%3A31&f%5B4%5D=localgov_directories_facets%3A33&f%5B5%5D=service_type%3A352&page=0",
@@ -992,6 +997,7 @@
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A337&f%5B3%5D=localgov_directories_facets%3A31&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A355",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A338&f%5B3%5D=localgov_directories_facets%3A33&f%5B4%5D=localgov_directories_facets%3A36",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=service_type%3A353",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A36&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A357",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=service_type%3A349",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=service_type%3A351",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A337&f%5B3%5D=localgov_directories_facets%3A33&f%5B4%5D=service_type%3A351",
@@ -1000,12 +1006,10 @@
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=localgov_directories_facets%3A32&page=3",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A37",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A417&f%5B3%5D=service_type%3A351",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A32&f%5B2%5D=localgov_directories_facets%3A38&f%5B3%5D=service_type%3A357",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A34&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A350",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=service_type%3A355",
-    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A35&f%5B2%5D=localgov_directories_facets%3A38&f%5B3%5D=service_type%3A355",
-    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=localgov_directories_facets%3A35&f%5B5%5D=service_type%3A357",
-    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A357",
-    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=service_type%3A353"
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A35&f%5B2%5D=localgov_directories_facets%3A38&f%5B3%5D=service_type%3A355"
    ]
   },
   "VS-7118fead": {
@@ -1021,9 +1025,10 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 181,
+   "lastPagesAffected": 195,
    "lastAffectedPages": [
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=localgov_directories_facets%3A37&f%5B2%5D=service_type%3A352",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A337&f%5B3%5D=localgov_directories_facets%3A31&f%5B4%5D=localgov_directories_facets%3A33&f%5B5%5D=service_type%3A352&page=0",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A351",
@@ -1034,6 +1039,7 @@
     "https://go.walsall.gov.uk/wellbeing-directory/scope-help-line-disabled-people-and-their-families",
     "https://go.walsall.gov.uk/walsall-libraries/lichfield-street-hub/walsall-archives-services/research-resources/blakenall",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A417&f%5B3%5D=service_type%3A351",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A32&f%5B2%5D=localgov_directories_facets%3A38&f%5B3%5D=service_type%3A357",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=service_type%3A355",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A35&f%5B2%5D=localgov_directories_facets%3A38&f%5B3%5D=service_type%3A355",
     "https://go.walsall.gov.uk/care-and-support-statutory-guidance/choice-accommodation-and-mental-health-after-care",
@@ -1045,9 +1051,7 @@
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A416&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A33&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=localgov_directories_facets%3A38&f%5B6%5D=service_type%3A356",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A35&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A353",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A33&f%5B4%5D=localgov_directories_facets%3A36&f%5B5%5D=service_type%3A352",
-    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=localgov_directories_facets%3A36",
-    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A337&f%5B3%5D=age_range%3A338&f%5B4%5D=localgov_directories_facets%3A31&f%5B5%5D=localgov_directories_facets%3A37&f%5B6%5D=service_type%3A352",
-    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A417&f%5B3%5D=localgov_directories_facets%3A35"
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=localgov_directories_facets%3A36"
    ]
   },
   "VS-f054f4a4": {
@@ -1063,9 +1067,10 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 158,
+   "lastPagesAffected": 172,
    "lastAffectedPages": [
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A349",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=service_type%3A353",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=localgov_directories_facets%3A37&f%5B2%5D=service_type%3A352",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A337&f%5B3%5D=localgov_directories_facets%3A31&f%5B4%5D=localgov_directories_facets%3A33&f%5B5%5D=service_type%3A352&page=0",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=localgov_directories_facets%3A37&f%5B5%5D=service_type%3A351",
@@ -1073,6 +1078,7 @@
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=service_type%3A351",
     "https://go.walsall.gov.uk/bins/check-your-bin-collection-dates",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A417&f%5B3%5D=service_type%3A351",
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A32&f%5B2%5D=localgov_directories_facets%3A38&f%5B3%5D=service_type%3A357",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=service_type%3A355",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A35&f%5B2%5D=localgov_directories_facets%3A38&f%5B3%5D=service_type%3A355",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=localgov_directories_facets%3A33&f%5B3%5D=localgov_directories_facets%3A34&f%5B4%5D=localgov_directories_facets%3A35&f%5B5%5D=service_type%3A357",
@@ -1087,9 +1093,7 @@
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A417&f%5B3%5D=localgov_directories_facets%3A35",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A32&f%5B3%5D=localgov_directories_facets%3A36&f%5B4%5D=service_type%3A351&page=3",
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=localgov_directories_facets%3A32&f%5B4%5D=service_type%3A350",
-    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A355",
-    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A338&f%5B2%5D=localgov_directories_facets%3A31&f%5B3%5D=service_type%3A351",
-    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=localgov_directories_facets%3A32&page=0"
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=localgov_directories_facets%3A38&f%5B4%5D=service_type%3A355"
    ]
   },
   "VS-c4264d17": {
@@ -1105,10 +1109,12 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 5,
+   "lastPagesAffected": 7,
    "lastAffectedPages": [
     "https://go.walsall.gov.uk/business/doing-business-with-the-council/supplying-council",
+    "https://go.walsall.gov.uk/planning-and-building-control/building-control",
     "https://go.walsall.gov.uk/node/1077/practitioner-resources/practitioner-support-directory",
+    "https://go.walsall.gov.uk/children-and-young-people/family-help/young-carers",
     "https://go.walsall.gov.uk/children-and-young-people/family-help",
     "https://go.walsall.gov.uk/children-and-young-people/children-care-and-care-leavers/children-care-council-and-care-leavers",
     "https://go.walsall.gov.uk/business/support-your-business"
@@ -1127,8 +1133,9 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 3,
+   "lastPagesAffected": 4,
    "lastAffectedPages": [
+    "https://go.walsall.gov.uk/newsroom/canal-makeover-set-encourage-more-people-walk-and-cycle-around-walsall-borough",
     "https://go.walsall.gov.uk/newsroom/over-50000-flock-inaugural-walsall-makerfest-celebrating-local-creativity",
     "https://go.walsall.gov.uk/newsroom/canal-towpaths-across-walsall-borough-see-huge-improvement",
     "https://go.walsall.gov.uk/newsroom/pelsalls-polluters-prosecuted-litterbugs-face-court"

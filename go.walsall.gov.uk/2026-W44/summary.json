@@ -1,7 +1,7 @@
 {
  "domain": "go.walsall.gov.uk",
  "week": "2026-W44",
- "generatedAt": "2026-11-04T14:53:00.083Z",
+ "generatedAt": "2026-11-04T16:25:28.421Z",
  "pagesScanned": 1984,
  "pagesAudited": 1940,
  "coverage": {
@@ -211018,7 +211018,19 @@
   "page_component_usage": [],
   "drift_page_count": 0,
   "drift_pages": [],
-  "drift_clusters": []
+  "drift_clusters": [],
+  "top_action_ids_outside_components": [
+   "cc-0c84de0980bf",
+   "cc-e51963626057",
+   "cc-43f29669ff56",
+   "cc-ae14d9223a40",
+   "cc-25e8f32d2a90",
+   "cc-c491f866c67e",
+   "cc-4e54604123c0",
+   "cc-e42a67712442",
+   "cc-028ca4bea5aa",
+   "cc-5c552e6714ba"
+  ]
  },
  "sharedComponents": {
   "schema": 1,

@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-11-04T14:31:56.082Z",
+ "updatedAt": "2026-11-04T16:25:29.839Z",
  "vendors": {
   "pure.cloud": {
    "firstSeen": "2026-W44",
@@ -2480,11 +2480,12 @@
   },
   "adstanding.com": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "isScriptVendor": false
   },
   "om-meta.com": {
@@ -2539,11 +2540,12 @@
   },
   "aralego.com": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "isScriptVendor": false
   },
   "amazonaws.com": {
@@ -2812,15 +2814,6 @@
    "weeksSeen": 2,
    "isScriptVendor": false
   },
-  "nexx360.io": {
-   "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
-   "_weeks": [
-    "2026-W45"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
   "reson8.com": {
    "firstSeen": "2026-W45",
    "lastSeen": "2026-W45",
@@ -2831,6 +2824,24 @@
    "isScriptVendor": false
   },
   "spotify.com": {
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "nexx360.io": {
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "uncn.jp": {
    "firstSeen": "2026-W45",
    "lastSeen": "2026-W45",
    "_weeks": [
@@ -2921,15 +2932,6 @@
    "isScriptVendor": false
   },
   "mmtro.com": {
-   "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
-   "_weeks": [
-    "2026-W45"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
-  "uncn.jp": {
    "firstSeen": "2026-W45",
    "lastSeen": "2026-W45",
    "_weeks": [
