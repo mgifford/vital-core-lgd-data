@@ -1,6 +1,6 @@
 {
  "domain": "www.hackney.gov.uk",
- "updatedAt": "2026-11-04T14:31:57.144Z",
+ "updatedAt": "2026-11-04T14:53:03.714Z",
  "pages": {
   "https://hackney.gov.uk/parking-streets-and-transport/where-park/event-days-and-bank-holiday-parking/emirates-stadium-match-and-event-day-parking": {
    "pageId": "12c7b37102352edb",
@@ -850,8 +850,8 @@
   },
   "https://www.hackney.gov.uk/council-and-elections": {
    "pageId": "239b7406184f35d0",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-28T09:35:31.355Z",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T14:39:57.284Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": null,
@@ -967,8 +967,8 @@
   },
   "https://www.hackney.gov.uk/council-and-elections/get-involved-council-decisions/speak-licensing-sub-committees": {
    "pageId": "2c48b65c64359864",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-28T16:20:03.980Z",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T14:39:37.627Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": null,
@@ -1687,11 +1687,11 @@
   },
   "https://www.hackney.gov.uk/health-and-social-care/children-and-families/adoption": {
    "pageId": "5d2f30b208d02c29",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-28T15:24:48.887Z",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T14:40:55.479Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": 23,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://hackney.gov.uk/housing/homeowners": {
@@ -2227,8 +2227,8 @@
   },
   "https://www.hackney.gov.uk/council-and-elections/get-involved-council-decisions/petitions": {
    "pageId": "80237aae63e91f66",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-28T16:24:17.830Z",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T14:42:21.227Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": null,
@@ -3946,11 +3946,11 @@
   },
   "https://www.hackney.gov.uk/health-and-social-care/children-and-families/support-children-and-families": {
    "pageId": "f93f39194c1896c2",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-28T15:23:58.709Z",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T14:39:25.959Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": 96,
+   "alfaFailures": 95,
    "hasIssues": true
   },
   "https://hackney.gov.uk/council-tax-and-benefits/council-tax/pay-your-council-tax-bill/pay-your-council-tax-phone": {
@@ -4684,11 +4684,11 @@
   },
   "https://www.hackney.gov.uk/council-tax-and-benefits/applying-extra-financial-help-council/get-help-through-hackney-here-help": {
    "pageId": "7dafad2fd271bdf5",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-29T11:03:16.248Z",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T14:44:53.616Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": 52,
+   "alfaFailures": 51,
    "hasIssues": true
   },
   "https://hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/hoxton-west": {
@@ -4774,11 +4774,11 @@
   },
   "https://www.hackney.gov.uk/libraries-parks-and-leisure/libraries/community-library-service": {
    "pageId": "9786ce3078518314",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-29T11:01:30.520Z",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T14:45:30.055Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": 41,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://www.hackney.gov.uk/libraries-parks-and-leisure/libraries/homerton-library": {
@@ -4846,8 +4846,8 @@
   },
   "https://www.hackney.gov.uk/libraries-parks-and-leisure/hackney-archives": {
    "pageId": "acf225a24cfa8ace",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-29T09:54:52.622Z",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T14:41:21.530Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": null,
@@ -4927,8 +4927,8 @@
   },
   "https://www.hackney.gov.uk/libraries-parks-and-leisure/exercise-and-sport": {
    "pageId": "bae63994e320aa18",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-29T09:55:08.324Z",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T14:42:59.119Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": 29,
@@ -5746,11 +5746,11 @@
   },
   "https://www.hackney.gov.uk/housing/resident-participation/tenant-management-organisations": {
    "pageId": "260f026d6ca43c2e",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-29T22:22:51.649Z",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T14:41:48.833Z",
    "status": 200,
    "axeViolations": 2,
-   "alfaFailures": 34,
+   "alfaFailures": 33,
    "hasIssues": true
   },
   "https://www.hackney.gov.uk/housing/private-tenants-and-landlords/private-landlords/lease-your-property-us": {
@@ -5890,11 +5890,11 @@
   },
   "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/retrofit-supplementary-planning-document-spd": {
    "pageId": "3936233fc4de4242",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-30T06:54:49.207Z",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T14:43:26.382Z",
    "status": 200,
    "axeViolations": 2,
-   "alfaFailures": 33,
+   "alfaFailures": 32,
    "hasIssues": true
   },
   "https://hackney.gov.uk/housing/homeowners/how-request-external-wall-system-ews-form": {
@@ -6115,11 +6115,11 @@
   },
   "https://www.hackney.gov.uk/community-safety-and-environment/animals-and-pest-control": {
    "pageId": "547d742aaec22b18",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-30T06:49:46.778Z",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T14:41:25.835Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": null,
+   "alfaFailures": 25,
    "hasIssues": true
   },
   "https://hackney.gov.uk/business-and-licensing/procurement-tenders-and-contracts/procurement-faqs": {
@@ -6367,11 +6367,11 @@
   },
   "https://www.hackney.gov.uk/parking-streets-and-transport/where-park/parking-bay-suspensions-and-dispensations": {
    "pageId": "726eae16680c3c88",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-29T22:21:42.875Z",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T14:45:15.389Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": 21,
+   "alfaFailures": null,
    "hasIssues": true
   },
   "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/parklets/apply-business-parklet": {
@@ -6619,8 +6619,8 @@
   },
   "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/beck-road-conservation-area": {
    "pageId": "8ec11588091fb833",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-29T16:29:01.673Z",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T14:43:41.219Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": null,
@@ -7366,11 +7366,11 @@
   },
   "https://www.hackney.gov.uk/business-and-licensing/licensing/gambling/gambling-permits": {
    "pageId": "d75cb05df445bee9",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-30T06:37:52.841Z",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T14:42:30.565Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": 53,
+   "alfaFailures": 52,
    "hasIssues": true
   },
   "https://www.hackney.gov.uk/parking-streets-and-transport/penalty-charge-notices": {
@@ -7654,11 +7654,11 @@
   },
   "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-faqs": {
    "pageId": "f781b31df8dd5106",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-30T06:42:52.151Z",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T14:44:44.461Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": null,
+   "alfaFailures": 47,
    "hasIssues": true
   },
   "https://www.hackney.gov.uk/births-deaths-marriages-and-citizenship/marriage-civil-partnership-and-other-ceremonies/find-venue-your-marriage-or-civil-partnership": {
@@ -7717,11 +7717,11 @@
   },
   "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/parklets": {
    "pageId": "fc0b441564384f62",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-30T06:42:56.651Z",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T14:44:06.267Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": null,
+   "alfaFailures": 23,
    "hasIssues": true
   },
   "https://hackney.gov.uk/business-and-licensing/licensing/animal-welfare-licences": {
@@ -8284,8 +8284,8 @@
   },
   "https://www.hackney.gov.uk/rubbish-and-recycling/garden-waste-collections": {
    "pageId": "342cb56f08e39ce8",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-30T07:38:10.008Z",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T14:41:38.860Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": null,
@@ -8716,11 +8716,11 @@
   },
   "https://www.hackney.gov.uk/libraries-parks-and-leisure/exercise-and-sport/find-football-team": {
    "pageId": "1aaf4e3106ddf832",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-30T10:18:33.094Z",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T14:43:13.214Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": null,
+   "alfaFailures": 36,
    "hasIssues": true
   },
   "https://www.hackney.gov.uk/council-and-elections/elections-and-voting/constituencies-and-wards": {
@@ -8761,11 +8761,11 @@
   },
   "https://www.hackney.gov.uk/housing/homelessness/help-if-youre-homeless-or-rough-sleeping": {
    "pageId": "2febc8bcf14f499a",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-30T10:14:54.048Z",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T14:40:11.660Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": 22,
+   "alfaFailures": 21,
    "hasIssues": true
   },
   "https://www.hackney.gov.uk/community-safety-and-environment/domestic-abuse": {
@@ -8995,8 +8995,8 @@
   },
   "https://www.hackney.gov.uk/education": {
    "pageId": "8fc337f25c8cc158",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-30T10:19:33.701Z",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T14:44:29.974Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": null,
@@ -9031,8 +9031,8 @@
   },
   "https://www.hackney.gov.uk/housing/repairs/damp-mould-and-condensation": {
    "pageId": "9c2a07580ad22939",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-30T09:57:27.087Z",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T14:41:00.067Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": null,
@@ -9148,8 +9148,8 @@
   },
   "https://www.hackney.gov.uk/parking-streets-and-transport/parking-consultations-policy-and-reports/parking-policy-and-reports/parking-and-enforcement-plan": {
    "pageId": "c5f544de80c16e60",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-30T10:17:37.249Z",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T14:39:50.326Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": 24,
@@ -9355,8 +9355,8 @@
   },
   "https://www.hackney.gov.uk/business-and-licensing/licensing/temporary-event-notices-ten": {
    "pageId": "1f95b8182798c7b3",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-30T10:31:47.920Z",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T14:44:17.807Z",
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": null,
@@ -9364,11 +9364,11 @@
   },
   "https://www.hackney.gov.uk/council-tax-and-benefits/council-tax/understanding-council-tax/how-your-council-tax-band-and-charges-are-calculated": {
    "pageId": "30ec777c0de2a8fd",
-   "lastWeek": "2026-W44",
-   "lastScannedAt": "2026-10-30T10:35:49.470Z",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T14:44:22.498Z",
    "status": 200,
    "axeViolations": 1,
-   "alfaFailures": 23,
+   "alfaFailures": 22,
    "hasIssues": true
   },
   "https://www.hackney.gov.uk/housing/council-tenants/rent/help-paying-your-rent": {
@@ -12501,6 +12501,195 @@
    "status": 200,
    "axeViolations": 1,
    "alfaFailures": 45,
+   "hasIssues": true
+  },
+  "https://www.hackney.gov.uk/community-safety-and-environment/energy": {
+   "pageId": "06005436eed4f75b",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T14:42:45.328Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/safeguarding-adults": {
+   "pageId": "0bca2dd2425caa77",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T14:40:35.235Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 23,
+   "hasIssues": true
+  },
+  "https://www.hackney.gov.uk/parking-streets-and-transport/where-park/parking-zones": {
+   "pageId": "0fe5908c16817a66",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T14:42:40.304Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.hackney.gov.uk/housing/council-tenants/home-contents-insurance": {
+   "pageId": "12942e0383d76d29",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T14:43:50.824Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 42,
+   "hasIssues": true
+  },
+  "https://www.hackney.gov.uk/parking-streets-and-transport/roads-streets-and-pavements/roads-and-highways-enforcement/roads-and-highways-enforcement-overview": {
+   "pageId": "1b58c426488ed50e",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T14:43:58.366Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 37,
+   "hasIssues": true
+  },
+  "https://www.hackney.gov.uk/health-and-social-care/support-disabled-people/learning-disabilities": {
+   "pageId": "46b0b27dc6947bbe",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T14:41:14.604Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 20,
+   "hasIssues": true
+  },
+  "https://www.hackney.gov.uk/council-tax-and-benefits/benefits/how-we-assess-your-benefits-claim/local-housing-allowance-lha-explained": {
+   "pageId": "4c0f6194eef7267d",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T14:45:02.710Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.hackney.gov.uk/housing/private-tenants-and-landlords/private-landlords/check-which-property-licence-you-need": {
+   "pageId": "4c4c2a3feb915da4",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T14:40:30.486Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/car-clubs": {
+   "pageId": "606ac760cb82c969",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T14:39:16.881Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 42,
+   "hasIssues": true
+  },
+  "https://www.hackney.gov.uk/parking-streets-and-transport/where-park/parking-bay-suspensions-and-dispensations/parking-bay-suspension": {
+   "pageId": "64e8388ce5cb016d",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T14:44:13.055Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.hackney.gov.uk/business-and-licensing/commercial-property": {
+   "pageId": "73e3b2b79c241d9d",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T14:43:08.683Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.hackney.gov.uk/rubbish-and-recycling/rubbish-recycling-and-food-waste-collections/ask-us-remove-bin": {
+   "pageId": "82fc212e990c545f",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T14:43:45.926Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.hackney.gov.uk/business-and-licensing/fair-and-safe-trading/trading-standards": {
+   "pageId": "9810a99e37da51dd",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T14:43:21.385Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.hackney.gov.uk/rubbish-and-recycling/rubbish-recycling-and-food-waste-collections/check-your-collection-day": {
+   "pageId": "9b11d926098de5be",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T14:40:42.075Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.hackney.gov.uk/housing/stay-safe-your-home/fire-safety/council-homes-fire-safety": {
+   "pageId": "b60166fabde8b570",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T14:45:19.673Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 60,
+   "hasIssues": true
+  },
+  "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/playgrounds": {
+   "pageId": "b93b340609d61fc8",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T14:40:06.678Z",
+   "status": 200,
+   "axeViolations": 2,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/st-leonards-court": {
+   "pageId": "c1c81451362863a0",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T14:41:07.169Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 26,
+   "hasIssues": true
+  },
+  "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/make-complaint-about-how-we-use-your-personal-information": {
+   "pageId": "c7b21d7e87b9c7f8",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T14:43:34.174Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 24,
+   "hasIssues": true
+  },
+  "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/shoreditch-park": {
+   "pageId": "ea8c9244e920e110",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T14:42:25.860Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": null,
+   "hasIssues": true
+  },
+  "https://www.hackney.gov.uk/housing/homelessness/support-avoid-homelessness/advice-if-youre-thinking-asking-someone-move-out": {
+   "pageId": "f2f07b67c80ed91e",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T14:39:42.265Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 37,
+   "hasIssues": true
+  },
+  "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/low-traffic-neighbourhoods/walford-road-low-traffic-neighbourhood": {
+   "pageId": "fa3bb82ba2a45a1a",
+   "lastWeek": "2026-W45",
+   "lastScannedAt": "2026-11-04T14:45:07.409Z",
+   "status": 200,
+   "axeViolations": 1,
+   "alfaFailures": 42,
    "hasIssues": true
   }
  },

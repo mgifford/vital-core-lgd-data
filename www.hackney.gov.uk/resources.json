@@ -1,6 +1,6 @@
 {
  "domain": "www.hackney.gov.uk",
- "updatedAt": "2026-11-04T14:31:57.290Z",
+ "updatedAt": "2026-11-04T14:53:03.926Z",
  "resources": {
   "https://consentcdn.cookiebot.com/sdk/bc-v5.min.html": {
    "type": "iframe",
@@ -11,7 +11,7 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPages": 718,
+   "lastPages": 764,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/air-quality/improving-air-quality-supporting-sustainable-transport",
     "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/how-council-works",
@@ -583,11 +583,12 @@
   "https://web-content-api.hackney.gov.uk/wp-content/uploads/Temporary-event-notice-2.docx": {
    "type": "document",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/business-and-licensing/licensing/temporary-event-notices-ten"
@@ -722,11 +723,12 @@
   "https://www.youtube.com/embed/PWwNwWb0rsU": {
    "type": "embedded-media",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/housing/resident-participation/tenant-management-organisations"
@@ -735,11 +737,12 @@
   "https://map2.hackney.gov.uk/maps/tenant-management-org/embed.html": {
    "type": "iframe",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/housing/resident-participation/tenant-management-organisations"
@@ -1333,14 +1336,15 @@
   "https://map2.hackney.gov.uk/maps/parking-zones/embed.html": {
    "type": "iframe",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
-    "https://hackney.gov.uk/parking-streets-and-transport/where-park/parking-zones"
+    "https://www.hackney.gov.uk/parking-streets-and-transport/where-park/parking-zones"
    ]
   },
   "https://uk-air.defra.gov.uk/assets/documents/Air_Quality_Objectives_Update.pdf": {
@@ -1805,11 +1809,12 @@
   "https://www.youtube.com/embed/DjX2Ui6KgaA?si=H7Pe5N-8v8XaLVKB": {
    "type": "embedded-media",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/libraries-parks-and-leisure/libraries/community-library-service"
@@ -1958,14 +1963,15 @@
   "https://map2.hackney.gov.uk/lbh-licensing-register-selective-licence-lookup/": {
    "type": "iframe",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
-    "https://hackney.gov.uk/housing/private-tenants-and-landlords/private-landlords/check-which-property-licence-you-need"
+    "https://www.hackney.gov.uk/housing/private-tenants-and-landlords/private-landlords/check-which-property-licence-you-need"
    ]
   },
   "https://www.civictrustawards.org.uk/uploads/2020_NJP_Regional_Finalists.pdf": {
@@ -2163,11 +2169,12 @@
   "http://mginternet.hackney.gov.uk/documents/s48613/Appendix_5_PEP_2015-20_-_Consultation_Report.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/parking-streets-and-transport/parking-consultations-policy-and-reports/parking-policy-and-reports/parking-and-enforcement-plan"
@@ -2562,14 +2569,15 @@
   "https://map2.hackney.gov.uk/maps/car-clubs/embed.html": {
    "type": "iframe",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
-    "https://hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/car-clubs"
+    "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/car-clubs"
    ]
   },
   "https://map2.hackney.gov.uk/maps/connectivity/embed.html": {
@@ -2615,14 +2623,15 @@
   "https://map2.hackney.gov.uk/maps/playgrounds/embed.html": {
    "type": "iframe",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
-    "https://hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/playgrounds"
+    "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/playgrounds"
    ]
   },
   "https://www.facebook.com/v23.0/plugins/page.php?adapt_container_width=true&app_id=&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df6e7fa39a3a9f2d8e%26domain%3Dnews.hackney.gov.uk%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fnews.hackney.gov.uk%252Ffd26b5d692f3920ef%26relation%3Dparent.parent&container_width=500&height=500&hide_cover=false&href=https%3A%2F%2Fwww.facebook.com%2Fhackneycouncil%2F&locale=en_GB&sdk=joey&show_facepile=false&show_posts=true&small_header=true&width=500": {

@@ -1,7 +1,7 @@
 {
  "domain": "go.walsall.gov.uk",
  "week": "2026-W44",
- "generatedAt": "2026-11-04T14:31:55.113Z",
+ "generatedAt": "2026-11-04T14:53:00.083Z",
  "pagesScanned": 1984,
  "pagesAudited": 1940,
  "coverage": {
@@ -211061,6 +211061,7 @@
     ],
     "pages_with_component_evidence": 1940,
     "pages_audited": 1940,
+    "observation": null,
     "findings": [
      {
       "finding": "axe-core:aria-allowed-role",

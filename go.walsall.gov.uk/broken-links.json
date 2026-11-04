@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-11-03T19:49:09.200Z",
+ "updatedAt": "2026-11-04T14:53:01.847Z",
  "links": {
   "https://wslc.walsall.gov.uk/leisurehub/identity/login": {
    "status": 0,
@@ -1020,6 +1020,19 @@
    "weeksBroken": 1,
    "foundOn": [
     "https://go.walsall.gov.uk/newsroom/laurel-hardy-centenary-tour-brings-100-years-comedy-walsall-arena"
+   ]
+  },
+  "https://www.biteback2030.com/bite-back-in-schools/england-join-bite-back-in-schools/": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/newsroom/walsall-food-partnership-highlights-local-action-support-healthy-eating-schools-and"
    ]
   }
  }
