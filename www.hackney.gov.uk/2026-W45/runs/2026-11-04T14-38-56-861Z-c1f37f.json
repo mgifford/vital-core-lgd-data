@@ -1,0 +1,154 @@
+{
+ "runId": "2026-11-04T14-38-56-861Z-c1f37f",
+ "week": "2026-W45",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-04T14:38:57.173Z",
+ "scanned": [
+  "606ac760cb82c969",
+  "f93f39194c1896c2",
+  "2c48b65c64359864",
+  "f2f07b67c80ed91e",
+  "c5f544de80c16e60",
+  "239b7406184f35d0",
+  "b93b340609d61fc8",
+  "2febc8bcf14f499a",
+  "4c4c2a3feb915da4",
+  "0bca2dd2425caa77",
+  "9b11d926098de5be",
+  "5d2f30b208d02c29",
+  "9c2a07580ad22939",
+  "c1c81451362863a0",
+  "46b0b27dc6947bbe",
+  "acf225a24cfa8ace",
+  "547d742aaec22b18",
+  "342cb56f08e39ce8",
+  "260f026d6ca43c2e",
+  "80237aae63e91f66",
+  "ea8c9244e920e110",
+  "d75cb05df445bee9",
+  "0fe5908c16817a66",
+  "06005436eed4f75b",
+  "bae63994e320aa18",
+  "73e3b2b79c241d9d",
+  "1aaf4e3106ddf832",
+  "9810a99e37da51dd",
+  "3936233fc4de4242",
+  "c7b21d7e87b9c7f8",
+  "8ec11588091fb833",
+  "82fc212e990c545f",
+  "12942e0383d76d29",
+  "1b58c426488ed50e",
+  "fc0b441564384f62",
+  "64e8388ce5cb016d",
+  "1f95b8182798c7b3",
+  "30ec777c0de2a8fd",
+  "8fc337f25c8cc158",
+  "f781b31df8dd5106",
+  "7dafad2fd271bdf5",
+  "4c0f6194eef7267d",
+  "fa3bb82ba2a45a1a",
+  "726eae16680c3c88",
+  "b60166fabde8b570",
+  "9786ce3078518314"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 369,
+  "checked": 369,
+  "brokenCount": 4,
+  "broken": [
+   {
+    "url": "http://www.richardhouse.org.uk/",
+    "status": 0,
+    "reason": "ERR_SSL_TLSV1_ALERT_INTERNAL_ERROR",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/children-and-families/support-children-and-families"
+    ]
+   },
+   {
+    "url": "http://mginternet.hackney.gov.uk/documents/s48613/Appendix_5_PEP_2015-20_-_Consultation_Report.pdf",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/parking-streets-and-transport/parking-consultations-policy-and-reports/parking-policy-and-reports/parking-and-enforcement-plan"
+    ]
+   },
+   {
+    "url": "https://www.arsenal.com/the-club/community/social-inclusion/the-kickz-project",
+    "status": 410,
+    "reason": "HTTP 410",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/exercise-and-sport/find-football-team"
+    ]
+   },
+   {
+    "url": "https://drive.google.com/file/d/1pSiovCkrKIEP9emkIVqiaL6iC9AXTNok/view",
+    "status": 0,
+    "reason": "timeout",
+    "foundOn": [
+     "https://www.hackney.gov.uk/business-and-licensing/fair-and-safe-trading/trading-standards"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 46,
+  "alfa": 23,
+  "resources": 46,
+  "images": 46,
+  "link-check": 46,
+  "standards": 24,
+  "plain-language": 14,
+  "third-party": 8,
+  "tech": 6,
+  "lighthouse": 5,
+  "sustainability": 7,
+  "public-interest": 5,
+  "deprecated-html": 4,
+  "security": 4
+ },
+ "tally": {
+  "ok": 46,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 5,
+  "error": 0
+ },
+ "finishedAt": "2026-11-04T14:46:32.724Z"
+}
