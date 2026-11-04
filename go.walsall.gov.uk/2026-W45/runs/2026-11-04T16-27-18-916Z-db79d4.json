@@ -1,0 +1,134 @@
+{
+ "runId": "2026-11-04T16-27-18-916Z-db79d4",
+ "week": "2026-W45",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-04T16:27:19.545Z",
+ "scanned": [
+  "327dc5aaa5fdd6ce",
+  "3ed735d2df3499c8",
+  "754b24c708ca62fd",
+  "7603f7dbefaf682c",
+  "9b6b45758564e48e",
+  "bb58237f7c694306",
+  "a6289df376a03cc9",
+  "2f354cd2026dea63",
+  "5e2bf14e42820d36",
+  "f744860822413b51",
+  "5107bdd009cd2c58",
+  "245cb35bff4a18df",
+  "ab53740211c35a71",
+  "029b76f7dbc2035b",
+  "d806b3827562aafe",
+  "1db94f3800be6b82",
+  "8f4cf0dfe846b861",
+  "4f1c6cef856d354c",
+  "10f8f45a8da8f754",
+  "0abe0549fd8e481b",
+  "d14ab2f6fcb6d1a2",
+  "c09e5e35f9e65261",
+  "9b7887a0917dff63",
+  "d8acffca5528aba1",
+  "151e2e14b8eec977",
+  "79cb3c20d9e8b2ed",
+  "3831ed1403db4827",
+  "c5a60aa040376600",
+  "626b28cb1958942c",
+  "0db6851f23dc3126",
+  "772ed86e965a7f89",
+  "e0b2c78a6b744add",
+  "6f10dc8652821870",
+  "7832c375df1fe178",
+  "2ace54ffa3824117",
+  "7929a611ee4cc840",
+  "f734d38f5fcb3fd0",
+  "f6bb09defbde1710",
+  "c5cf768318e141cf",
+  "3c92f587beb9a1a1",
+  "0055a2aaa8456fa6",
+  "a6059ee24963a2b3",
+  "eca47a17d038102a",
+  "956b73ee85d2a22c",
+  "6be50d22fcbf05f4",
+  "5972eb06228bb01f",
+  "8d6d64e23eea68de",
+  "d6da8e001571323f",
+  "0b16996b65b0e955",
+  "111623f1c75d8d28"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 723,
+  "checked": 500,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "https://www.twitter.com/_LearnAndThriv",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/wellbeing-directory/learn-and-thrive-learning-life"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 49,
+  "alfa": 29,
+  "plain-language": 26,
+  "resources": 49,
+  "images": 49,
+  "standards": 24,
+  "link-check": 49,
+  "tech": 5,
+  "third-party": 18,
+  "deprecated-html": 3,
+  "sustainability": 2,
+  "security": 2,
+  "public-interest": 5,
+  "lighthouse": 4
+ },
+ "tally": {
+  "ok": 49,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-04T16:42:44.181Z"
+}
