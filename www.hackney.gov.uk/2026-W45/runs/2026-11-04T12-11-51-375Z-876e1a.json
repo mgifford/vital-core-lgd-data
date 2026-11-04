@@ -1,0 +1,235 @@
+{
+ "runId": "2026-11-04T12-11-51-375Z-876e1a",
+ "week": "2026-W45",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-04T12:11:51.687Z",
+ "scanned": [
+  "a154a9e7c3c6c9f8",
+  "4a423c09800d38f7",
+  "d5733e6e9294cbbe",
+  "db5f487238642ab4",
+  "76b588c59f2d41c1",
+  "3e20e691da11e67b",
+  "a25cf3695aad0357",
+  "91e43aaad326bb5d",
+  "b488ccebde5f1372",
+  "38a62c8a09f25850",
+  "bd7c7e860773c0e7",
+  "c891d9811c95b980",
+  "e25fa1c801ea7332",
+  "1add0cfb511624b0",
+  "4cd05d0fb4b11860",
+  "06bf243e6ce95cb3",
+  "7df77a4854b9fe9b",
+  "5d3a6f25a049d368",
+  "d491361a866ecb2b",
+  "cab23d4f971c89a0",
+  "03be09f446db1ed4",
+  "6ac032770bd08417",
+  "2107da7f3e8c3567",
+  "d0ac9229affcd72c",
+  "be2f536bbd23dfe1",
+  "0d90f869dce6de65",
+  "0304fe3e099a7159",
+  "e2b0809c09be8366",
+  "58ade3a243336144",
+  "a177921473748e86",
+  "f95ca137abfeb2cf",
+  "cb7933af56c31ce0",
+  "0b63397a71b55f08",
+  "afaec360f14faf02",
+  "d3e6e6d59806bda6",
+  "a1e60b6b40641e18",
+  "33e2efeb41b32528",
+  "5274774e35d0d9d2",
+  "82379a1be77c9660",
+  "68abba5a24ee6452",
+  "e6c880be63fd364e",
+  "ae0cae821c4d51b3",
+  "8dff817c79af3194",
+  "f939f29e8efb5b39",
+  "2385c6c327376d9b",
+  "b7c38ed35fa3248a"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 602,
+  "checked": 500,
+  "brokenCount": 15,
+  "broken": [
+   {
+    "url": "https://www.hta.co.uk/services/planning",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/clapton-park"
+    ]
+   },
+   {
+    "url": "http://webarchive.nationalarchives.gov.uk/20110322122009/http://www.dh.gov.uk/en/Publicationsandstatistics/Publications/PublicationsPolicyAndGuidance/DH_085476",
+    "status": 405,
+    "reason": "HTTP 405",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/safeguarding-adults/safeguarding-resources"
+    ]
+   },
+   {
+    "url": "http://www.ons.gov.uk/ons/rel/ashe/annual-survey-of-hours-and-earnings/2012-provisional-results/index.html",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-and-elections/equality-and-diversity/hackneys-demographics/age-and-sex-discrimination"
+    ]
+   },
+   {
+    "url": "https://www.waitrose.com/",
+    "status": 0,
+    "reason": "ERR_HTTP2_STREAM_ERROR",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/help-home/help-meals"
+    ]
+   },
+   {
+    "url": "https://www.hackney.gov.uk/update-on-cycle-superhighway-1/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/cycling/cycling-overview"
+    ]
+   },
+   {
+    "url": "https://llc.ulverscroftulibrary.com/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/libraries/e-library"
+    ]
+   },
+   {
+    "url": "http://www.eastendcab.org.uk/hackney/",
+    "status": 0,
+    "reason": "timeout",
+    "foundOn": [
+     "https://www.hackney.gov.uk/housing/private-tenants-and-landlords/private-tenants/help-private-sector-tenants"
+    ]
+   },
+   {
+    "url": "https://www.oxfordartonline.com/",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/libraries/e-library"
+    ]
+   },
+   {
+    "url": "https://www.oxfordmusiconline.com/",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/libraries/e-library"
+    ]
+   },
+   {
+    "url": "https://www.oxforddnb.com/",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/libraries/e-library"
+    ]
+   },
+   {
+    "url": "https://www.oxfordscholarlyeditions.com/nos",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/libraries/e-library"
+    ]
+   },
+   {
+    "url": "https://www.oxfordreference.com/",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/libraries/e-library"
+    ]
+   },
+   {
+    "url": "https://www.oxfordworldsclassics.com/",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/libraries/e-library"
+    ]
+   },
+   {
+    "url": "https://www.ukwhoswho.com/",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/libraries/e-library"
+    ]
+   },
+   {
+    "url": "http://mginternet.hackney.gov.uk/mgCalendarMonthView.aspx?GL=1&bcr=1",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/local-plan/local-plan-2033-lp33"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 46,
+  "resources": 46,
+  "images": 46,
+  "standards": 26,
+  "public-interest": 5,
+  "link-check": 46,
+  "sustainability": 4,
+  "alfa": 21,
+  "deprecated-html": 4,
+  "lighthouse": 7,
+  "plain-language": 19,
+  "third-party": 14,
+  "security": 8,
+  "tech": 5
+ },
+ "tally": {
+  "ok": 46,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 6,
+  "error": 0
+ },
+ "finishedAt": "2026-11-04T12:20:35.418Z"
+}
