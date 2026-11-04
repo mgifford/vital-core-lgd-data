@@ -1,0 +1,127 @@
+{
+ "runId": "2026-11-04T15-59-19-434Z-9a9ed6",
+ "week": "2026-W45",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-04T15:59:20.194Z",
+ "scanned": [
+  "ab98ca41c75f5eb7",
+  "8f185056c5132f3b",
+  "55545a7500aced90",
+  "477ccb5199d3e61b",
+  "d9517652d25317e9",
+  "315f770b401543b2",
+  "02df8fc4354cd5db",
+  "356ee5b2a37c0551",
+  "d9bc21eaaca2a785",
+  "d70ed69b9b12f2f8",
+  "9ba8e718f14b6328",
+  "ba72b0ab419dd5f9",
+  "65b2fda89a764d25",
+  "b353c22be81e1e82",
+  "d596163e431ba92f",
+  "d30f82f3f305d7a8",
+  "3035c9b95cb277e9",
+  "33d32372a63c0868",
+  "df2b0719034c9748",
+  "5f886cd3302726aa",
+  "ee87287b1a33ab9f",
+  "a7cb75b93f1c44e5",
+  "4fc4fe7919d51285",
+  "ce1c04a1699961dd",
+  "5f88bb5a8b07427b",
+  "54e36a4beea57a60",
+  "973a0576f7132851",
+  "4a2e5dfd975eb421",
+  "d4f64847dde67582",
+  "bb06c7c498d3d819",
+  "e6efd097be48abee",
+  "6d987a7cfa658649",
+  "30035b8c5ed63365",
+  "96a3f75363eed8fd",
+  "3db2bf37ad9f532e",
+  "117af06912e5208e",
+  "d055abcc48723acd",
+  "21b842cad9159097",
+  "874a8931f99a1663",
+  "0793a6b08d3e556d",
+  "785aaf5f07992553",
+  "f294d89ad2d55fbe",
+  "312eba5806739b3f"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 612,
+  "checked": 500,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "https://transform.england.nhs.uk/information-governance/guidance/records-management-code/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/public-health-privacy-notice"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 43,
+  "alfa": 21,
+  "resources": 43,
+  "images": 43,
+  "security": 5,
+  "link-check": 43,
+  "standards": 26,
+  "third-party": 9,
+  "plain-language": 16,
+  "deprecated-html": 7,
+  "sustainability": 1,
+  "lighthouse": 1,
+  "tech": 5,
+  "public-interest": 1
+ },
+ "tally": {
+  "ok": 43,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 7,
+  "error": 0
+ },
+ "finishedAt": "2026-11-04T16:06:58.783Z"
+}
