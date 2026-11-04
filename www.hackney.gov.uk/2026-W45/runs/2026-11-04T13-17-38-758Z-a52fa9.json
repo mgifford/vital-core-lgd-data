@@ -1,0 +1,183 @@
+{
+ "runId": "2026-11-04T13-17-38-758Z-a52fa9",
+ "week": "2026-W45",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-04T13:17:42.826Z",
+ "scanned": [
+  "959c46d09f38a293",
+  "7a9f5664c5a8118a",
+  "3f6d568dd86565a6",
+  "32748516f3fb0075",
+  "3fe2f2fae1e08dfe",
+  "53141c8652a319f4",
+  "e36917f6acab23d3",
+  "77d14c55aaf6c255",
+  "d2f9609cade96822",
+  "a1e3057b468ad715",
+  "cc2f7e2559cbf5f8",
+  "4ab63b8857286ce3",
+  "75d871ec1d098556",
+  "676e7a8402a97270",
+  "015617faf1168009",
+  "b01bd1c753008ffa",
+  "7d56f6ca2a170a14",
+  "9b952feff5ea4636",
+  "6129db08a84d9515",
+  "e36897c2c2f86b1d",
+  "a16006b0d4ca2e98",
+  "ec3dcc8dcef96cd0",
+  "3e31894b62d2bd23",
+  "0d638321f2bd97a7",
+  "81070446bd376d79",
+  "efe9b1da23903bfa",
+  "1ce74f85d746baba",
+  "0365f7713ac17c78",
+  "26ea0edf88760f90",
+  "5cd8bf22aa0cc456",
+  "66815a1b10c12bea",
+  "a1bf96e2f4bfb165",
+  "be16df9b2aecf2ad",
+  "f760e3463d395941",
+  "c5519b9f13fb1f17",
+  "9af356675a5debd5",
+  "79dc68d9e14d7e1c",
+  "d0ddab9af2cdd6a1",
+  "84c335bf4c1d0c1f",
+  "330f583c3f6d2a30",
+  "23f0923cd8460b46",
+  "f11d3755a6135227",
+  "52247776b0d5aab5",
+  "b2752a78932cef3e",
+  "49f7ad500c7ab309",
+  "4b04abeb10740710",
+  "c306e24307e36bf7",
+  "3b13b5705109a1cb",
+  "7cff57a27b53bdd9",
+  "95d1b662cc1ac262"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "linkCheck": {
+  "total": 547,
+  "checked": 500,
+  "brokenCount": 8,
+  "broken": [
+   {
+    "url": "https://developmentandhousing.hackney.gov.uk/",
+    "status": 406,
+    "reason": "HTTP 406",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/make-planning-application/pre-application-services/get-pre-application-advice"
+    ]
+   },
+   {
+    "url": "https://olioex.com/",
+    "status": 0,
+    "reason": "ERR_SSL_SSL/TLS_ALERT_HANDSHAKE_FAILURE",
+    "foundOn": [
+     "https://www.hackney.gov.uk/rubbish-and-recycling/other-ways-reduce-reuse-and-recycle/ways-reduce-waste-and-reuse-items"
+    ]
+   },
+   {
+    "url": "https://www.autismtas.org.au/about-autism/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/support-disabled-people/autism"
+    ]
+   },
+   {
+    "url": "https://www.autismtas.org.au/about-autism/autism-strengths/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/support-disabled-people/autism"
+    ]
+   },
+   {
+    "url": "https://www.autismtas.org.au/wp-content/uploads/2022/03/Autism-and-Communication-Poster.pdf",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/support-disabled-people/autism"
+    ]
+   },
+   {
+    "url": "https://web-content-api.hackney.gov.uk/wp-content/uploads/Hackney-SuDS-Proforma.xlsx",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/parking-streets-and-transport/roads-streets-and-pavements/roadworks-and-maintenance/sustainable-drainage-systems-suds"
+    ]
+   },
+   {
+    "url": "http://www.rac.co.uk/route-planner/",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/transport-hackney"
+    ]
+   },
+   {
+    "url": "https://www.hackneybusinessnetwork.co.uk/news/successful-hackney-high-streets-and-town-centres-fund-bids-revealed",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/regeneration/dalston"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 50,
+  "plain-language": 29,
+  "resources": 50,
+  "images": 50,
+  "standards": 26,
+  "link-check": 50,
+  "deprecated-html": 5,
+  "third-party": 12,
+  "lighthouse": 9,
+  "sustainability": 7,
+  "alfa": 19,
+  "public-interest": 5,
+  "security": 4,
+  "tech": 2
+ },
+ "tally": {
+  "ok": 50,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-04T13:25:36.972Z"
+}
