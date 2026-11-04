@@ -1,6 +1,6 @@
 {
  "domain": "www.luton.gov.uk",
- "updatedAt": "2026-11-02T21:58:11.138Z",
+ "updatedAt": "2026-11-04T14:31:58.148Z",
  "vendors": {
   "googletagmanager.com": {
    "firstSeen": "2026-W44",
@@ -267,6 +267,15 @@
    ],
    "weeksSeen": 1,
    "isScriptVendor": true
+  },
+  "openfpcdn.io": {
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
   }
  }
 }

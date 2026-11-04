@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-11-03T19:49:09.201Z",
+ "updatedAt": "2026-11-04T14:31:56.082Z",
  "vendors": {
   "pure.cloud": {
    "firstSeen": "2026-W44",
@@ -2311,11 +2311,12 @@
   },
   "adtech.ink": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "isScriptVendor": false
   },
   "springserve.com": {
@@ -2359,11 +2360,12 @@
   },
   "hotjar.io": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "isScriptVendor": false
   },
   "dmxleo.com": {
@@ -2398,11 +2400,12 @@
   },
   "avads.net": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "isScriptVendor": false
   },
   "marketiq.com": {
@@ -2457,11 +2460,12 @@
   },
   "venetixlabs.info": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "isScriptVendor": false
   },
   "2mdn.net": {
@@ -2505,29 +2509,32 @@
   },
   "synthesia.io": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "isScriptVendor": true
   },
   "mux.com": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "isScriptVendor": false
   },
   "launchdarkly.com": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "isScriptVendor": false
   },
   "aralego.com": {
@@ -2580,11 +2587,12 @@
   },
   "litix.io": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "isScriptVendor": false
   },
   "taptapnetworks.com": {
@@ -2626,20 +2634,22 @@
   },
   "youtube.com": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "isScriptVendor": true
   },
   "ytimg.com": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "isScriptVendor": false
   },
   "jetstre.am": {
@@ -2802,6 +2812,15 @@
    "weeksSeen": 2,
    "isScriptVendor": false
   },
+  "nexx360.io": {
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
   "reson8.com": {
    "firstSeen": "2026-W45",
    "lastSeen": "2026-W45",
@@ -2812,15 +2831,6 @@
    "isScriptVendor": false
   },
   "spotify.com": {
-   "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
-   "_weeks": [
-    "2026-W45"
-   ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
-  },
-  "nexx360.io": {
    "firstSeen": "2026-W45",
    "lastSeen": "2026-W45",
    "_weeks": [
@@ -2883,6 +2893,15 @@
    "weeksSeen": 1,
    "isScriptVendor": true
   },
+  "monetixads.com": {
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
   "sc.gl": {
    "firstSeen": "2026-W45",
    "lastSeen": "2026-W45",
@@ -2902,6 +2921,15 @@
    "isScriptVendor": false
   },
   "mmtro.com": {
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "uncn.jp": {
    "firstSeen": "2026-W45",
    "lastSeen": "2026-W45",
    "_weeks": [

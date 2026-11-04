@@ -1,7 +1,7 @@
 {
  "domain": "go.walsall.gov.uk",
  "week": "2026-W44",
- "generatedAt": "2026-10-31T17:21:58.989Z",
+ "generatedAt": "2026-11-04T14:31:55.113Z",
  "pagesScanned": 1984,
  "pagesAudited": 1940,
  "coverage": {
@@ -149869,7 +149869,10 @@
     "estimated_fix_impact": {
      "findings": 4995,
      "pages": 1940,
-     "statement": "Fix one place, resolve ~4995 finding(s) on 1940 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 4995 engine finding instance(s) on 1940 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
@@ -151835,7 +151838,10 @@
     "estimated_fix_impact": {
      "findings": 1940,
      "pages": 1940,
-     "statement": "Fix one place, resolve ~1940 finding(s) on 1940 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 1940 engine finding instance(s) on 1940 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
@@ -153801,7 +153807,10 @@
     "estimated_fix_impact": {
      "findings": 1940,
      "pages": 1940,
-     "statement": "Fix one place, resolve ~1940 finding(s) on 1940 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 1940 engine finding instance(s) on 1940 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
@@ -155767,7 +155776,10 @@
     "estimated_fix_impact": {
      "findings": 1940,
      "pages": 1940,
-     "statement": "Fix one place, resolve ~1940 finding(s) on 1940 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 1940 engine finding instance(s) on 1940 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
@@ -157733,7 +157745,10 @@
     "estimated_fix_impact": {
      "findings": 1940,
      "pages": 1940,
-     "statement": "Fix one place, resolve ~1940 finding(s) on 1940 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 1940 engine finding instance(s) on 1940 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
@@ -159699,7 +159714,10 @@
     "estimated_fix_impact": {
      "findings": 1940,
      "pages": 1940,
-     "statement": "Fix one place, resolve ~1940 finding(s) on 1940 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 1940 engine finding instance(s) on 1940 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
@@ -161665,7 +161683,10 @@
     "estimated_fix_impact": {
      "findings": 2997,
      "pages": 999,
-     "statement": "Fix one place, resolve ~2997 finding(s) on 999 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 2997 engine finding instance(s) on 999 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
@@ -162690,7 +162711,10 @@
     "estimated_fix_impact": {
      "findings": 999,
      "pages": 999,
-     "statement": "Fix one place, resolve ~999 finding(s) on 999 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 999 engine finding instance(s) on 999 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
@@ -163715,7 +163739,10 @@
     "estimated_fix_impact": {
      "findings": 999,
      "pages": 999,
-     "statement": "Fix one place, resolve ~999 finding(s) on 999 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 999 engine finding instance(s) on 999 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
@@ -164740,7 +164767,10 @@
     "estimated_fix_impact": {
      "findings": 3651,
      "pages": 1217,
-     "statement": "Fix one place, resolve ~3651 finding(s) on 1217 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 3651 engine finding instance(s) on 1217 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "http://go.walsall.gov.uk/events/saturday-storytime-6",
@@ -165983,7 +166013,10 @@
     "estimated_fix_impact": {
      "findings": 2169,
      "pages": 723,
-     "statement": "Fix one place, resolve ~2169 finding(s) on 723 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 2169 engine finding instance(s) on 723 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
@@ -166732,7 +166765,10 @@
     "estimated_fix_impact": {
      "findings": 1926,
      "pages": 1926,
-     "statement": "Fix one place, resolve ~1926 finding(s) on 1926 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 1926 engine finding instance(s) on 1926 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
@@ -168684,7 +168720,10 @@
     "estimated_fix_impact": {
      "findings": 1940,
      "pages": 1940,
-     "statement": "Fix one place, resolve ~1940 finding(s) on 1940 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 1940 engine finding instance(s) on 1940 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
@@ -170650,7 +170689,10 @@
     "estimated_fix_impact": {
      "findings": 1940,
      "pages": 1940,
-     "statement": "Fix one place, resolve ~1940 finding(s) on 1940 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 1940 engine finding instance(s) on 1940 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
@@ -172616,7 +172658,10 @@
     "estimated_fix_impact": {
      "findings": 1940,
      "pages": 1940,
-     "statement": "Fix one place, resolve ~1940 finding(s) on 1940 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 1940 engine finding instance(s) on 1940 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
@@ -174582,7 +174627,10 @@
     "estimated_fix_impact": {
      "findings": 419,
      "pages": 419,
-     "statement": "Fix one place, resolve ~419 finding(s) on 419 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 419 engine finding instance(s) on 419 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwhen-three-lions-play-he-strikes&rating=Ok&title=When+the+Three+Lions+play%2C+he+strikes%21",
@@ -175027,7 +175075,10 @@
     "estimated_fix_impact": {
      "findings": 1998,
      "pages": 999,
-     "statement": "Fix one place, resolve ~1998 finding(s) on 999 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 1998 engine finding instance(s) on 999 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
@@ -176052,7 +176103,10 @@
     "estimated_fix_impact": {
      "findings": 1998,
      "pages": 999,
-     "statement": "Fix one place, resolve ~1998 finding(s) on 999 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 1998 engine finding instance(s) on 999 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
@@ -177077,7 +177131,10 @@
     "estimated_fix_impact": {
      "findings": 1998,
      "pages": 999,
-     "statement": "Fix one place, resolve ~1998 finding(s) on 999 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 1998 engine finding instance(s) on 999 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
@@ -178102,7 +178159,10 @@
     "estimated_fix_impact": {
      "findings": 999,
      "pages": 999,
-     "statement": "Fix one place, resolve ~999 finding(s) on 999 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 999 engine finding instance(s) on 999 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
@@ -179127,7 +179187,10 @@
     "estimated_fix_impact": {
      "findings": 999,
      "pages": 999,
-     "statement": "Fix one place, resolve ~999 finding(s) on 999 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 999 engine finding instance(s) on 999 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
@@ -180152,7 +180215,10 @@
     "estimated_fix_impact": {
      "findings": 999,
      "pages": 999,
-     "statement": "Fix one place, resolve ~999 finding(s) on 999 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 999 engine finding instance(s) on 999 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
@@ -181177,7 +181243,10 @@
     "estimated_fix_impact": {
      "findings": 999,
      "pages": 999,
-     "statement": "Fix one place, resolve ~999 finding(s) on 999 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 999 engine finding instance(s) on 999 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
@@ -182202,7 +182271,10 @@
     "estimated_fix_impact": {
      "findings": 999,
      "pages": 999,
-     "statement": "Fix one place, resolve ~999 finding(s) on 999 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 999 engine finding instance(s) on 999 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
@@ -183227,7 +183299,10 @@
     "estimated_fix_impact": {
      "findings": 999,
      "pages": 999,
-     "statement": "Fix one place, resolve ~999 finding(s) on 999 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 999 engine finding instance(s) on 999 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
@@ -184252,7 +184327,10 @@
     "estimated_fix_impact": {
      "findings": 999,
      "pages": 999,
-     "statement": "Fix one place, resolve ~999 finding(s) on 999 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 999 engine finding instance(s) on 999 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
@@ -185277,7 +185355,10 @@
     "estimated_fix_impact": {
      "findings": 999,
      "pages": 999,
-     "statement": "Fix one place, resolve ~999 finding(s) on 999 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 999 engine finding instance(s) on 999 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
@@ -186302,7 +186383,10 @@
     "estimated_fix_impact": {
      "findings": 2549,
      "pages": 999,
-     "statement": "Fix one place, resolve ~2549 finding(s) on 999 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 2549 engine finding instance(s) on 999 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
@@ -187327,7 +187411,10 @@
     "estimated_fix_impact": {
      "findings": 999,
      "pages": 999,
-     "statement": "Fix one place, resolve ~999 finding(s) on 999 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 999 engine finding instance(s) on 999 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
@@ -188352,7 +188439,10 @@
     "estimated_fix_impact": {
      "findings": 999,
      "pages": 999,
-     "statement": "Fix one place, resolve ~999 finding(s) on 999 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 999 engine finding instance(s) on 999 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
@@ -189377,7 +189467,10 @@
     "estimated_fix_impact": {
      "findings": 165,
      "pages": 165,
-     "statement": "Fix one place, resolve ~165 finding(s) on 165 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 165 engine finding instance(s) on 165 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=service_type%3A350",
@@ -189568,7 +189661,10 @@
     "estimated_fix_impact": {
      "findings": 301,
      "pages": 301,
-     "statement": "Fix one place, resolve ~301 finding(s) on 301 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 301 engine finding instance(s) on 301 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=service_type%3A350",
@@ -189895,7 +189991,10 @@
     "estimated_fix_impact": {
      "findings": 46,
      "pages": 46,
-     "statement": "Fix one place, resolve ~46 finding(s) on 46 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 46 engine finding instance(s) on 46 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "http://go.walsall.gov.uk/health-and-social-care/adult-social-care-commissioning",
@@ -189967,7 +190066,10 @@
     "estimated_fix_impact": {
      "findings": 245,
      "pages": 245,
-     "statement": "Fix one place, resolve ~245 finding(s) on 245 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 245 engine finding instance(s) on 245 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=service_type%3A350",
@@ -190238,7 +190340,10 @@
     "estimated_fix_impact": {
      "findings": 999,
      "pages": 999,
-     "statement": "Fix one place, resolve ~999 finding(s) on 999 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 999 engine finding instance(s) on 999 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
@@ -191263,7 +191368,10 @@
     "estimated_fix_impact": {
      "findings": 226,
      "pages": 226,
-     "statement": "Fix one place, resolve ~226 finding(s) on 226 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 226 engine finding instance(s) on 226 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwhen-three-lions-play-he-strikes&rating=Ok&title=When+the+Three+Lions+play%2C+he+strikes%21",
@@ -191515,7 +191623,10 @@
     "estimated_fix_impact": {
      "findings": 226,
      "pages": 226,
-     "statement": "Fix one place, resolve ~226 finding(s) on 226 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 226 engine finding instance(s) on 226 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwhen-three-lions-play-he-strikes&rating=Ok&title=When+the+Three+Lions+play%2C+he+strikes%21",
@@ -191767,7 +191878,10 @@
     "estimated_fix_impact": {
      "findings": 226,
      "pages": 226,
-     "statement": "Fix one place, resolve ~226 finding(s) on 226 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 226 engine finding instance(s) on 226 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/feedback?page=%2Fnewsroom%2Fwhen-three-lions-play-he-strikes&rating=Ok&title=When+the+Three+Lions+play%2C+he+strikes%21",
@@ -192019,7 +192133,10 @@
     "estimated_fix_impact": {
      "findings": 124,
      "pages": 124,
-     "statement": "Fix one place, resolve ~124 finding(s) on 124 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 124 engine finding instance(s) on 124 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=service_type%3A350",
@@ -192169,7 +192286,10 @@
     "estimated_fix_impact": {
      "findings": 243,
      "pages": 243,
-     "statement": "Fix one place, resolve ~243 finding(s) on 243 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 243 engine finding instance(s) on 243 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=service_type%3A350",
@@ -192438,7 +192558,10 @@
     "estimated_fix_impact": {
      "findings": 22,
      "pages": 22,
-     "statement": "Fix one place, resolve ~22 finding(s) on 22 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 22 engine finding instance(s) on 22 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/schools-and-learning/school-meals/free-school-meals",
@@ -192486,7 +192609,10 @@
     "estimated_fix_impact": {
      "findings": 20,
      "pages": 18,
-     "statement": "Fix one place, resolve ~20 finding(s) on 18 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 20 engine finding instance(s) on 18 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "http://go.walsall.gov.uk/newsroom/whats-walsall-april-2026",
@@ -192530,7 +192656,10 @@
     "estimated_fix_impact": {
      "findings": 151,
      "pages": 151,
-     "statement": "Fix one place, resolve ~151 finding(s) on 151 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 151 engine finding instance(s) on 151 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=service_type%3A350",
@@ -192707,7 +192836,10 @@
     "estimated_fix_impact": {
      "findings": 151,
      "pages": 151,
-     "statement": "Fix one place, resolve ~151 finding(s) on 151 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 151 engine finding instance(s) on 151 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=localgov_directories_facets%3A31&f%5B2%5D=localgov_directories_facets%3A35&f%5B3%5D=service_type%3A350",
@@ -192884,7 +193016,10 @@
     "estimated_fix_impact": {
      "findings": 3,
      "pages": 3,
-     "statement": "Fix one place, resolve ~3 finding(s) on 3 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 3 engine finding instance(s) on 3 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/newsroom/walsall-council-flies-flag-commonwealth-day-2026",
@@ -192913,7 +193048,10 @@
     "estimated_fix_impact": {
      "findings": 49,
      "pages": 45,
-     "statement": "Fix one place, resolve ~49 finding(s) on 45 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 49 engine finding instance(s) on 45 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/newsroom/green-bloxwich-programme-transform-bloxwich-park-destination-choice",
@@ -192984,7 +193122,10 @@
     "estimated_fix_impact": {
      "findings": 14,
      "pages": 14,
-     "statement": "Fix one place, resolve ~14 finding(s) on 14 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 14 engine finding instance(s) on 14 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/your-council/comments-compliments-and-complaints/complaints/do-you-want-report-problem",
@@ -193024,7 +193165,10 @@
     "estimated_fix_impact": {
      "findings": 7,
      "pages": 7,
-     "statement": "Fix one place, resolve ~7 finding(s) on 7 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 7 engine finding instance(s) on 7 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/newsroom/explore-walsalls-great-outdoors-free-family-activities-summer",
@@ -193057,7 +193201,10 @@
     "estimated_fix_impact": {
      "findings": 9,
      "pages": 9,
-     "statement": "Fix one place, resolve ~9 finding(s) on 9 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 9 engine finding instance(s) on 9 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/children-and-young-people/safeguarding-walsall",
@@ -193092,7 +193239,10 @@
     "estimated_fix_impact": {
      "findings": 13,
      "pages": 13,
-     "statement": "Fix one place, resolve ~13 finding(s) on 13 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 13 engine finding instance(s) on 13 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/events?category=233",
@@ -193131,7 +193281,10 @@
     "estimated_fix_impact": {
      "findings": 13,
      "pages": 13,
-     "statement": "Fix one place, resolve ~13 finding(s) on 13 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 13 engine finding instance(s) on 13 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/events?category=233",
@@ -193170,7 +193323,10 @@
     "estimated_fix_impact": {
      "findings": 13,
      "pages": 13,
-     "statement": "Fix one place, resolve ~13 finding(s) on 13 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 13 engine finding instance(s) on 13 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/events?category=233",
@@ -193209,7 +193365,10 @@
     "estimated_fix_impact": {
      "findings": 12,
      "pages": 6,
-     "statement": "Fix one place, resolve ~12 finding(s) on 6 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 12 engine finding instance(s) on 6 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/walsall-libraries/lichfield-street-hub/walsall-archives-services/research-resources/aldridge",
@@ -193241,7 +193400,10 @@
     "estimated_fix_impact": {
      "findings": 2,
      "pages": 1,
-     "statement": "Fix one place, resolve ~2 finding(s) on 1 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 2 engine finding instance(s) on 1 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/newsroom/anticipation-builds-new-digital-skills-hub-coming-bloxwich-town-centre"
@@ -193268,7 +193430,10 @@
     "estimated_fix_impact": {
      "findings": 4,
      "pages": 4,
-     "statement": "Fix one place, resolve ~4 finding(s) on 4 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 4 engine finding instance(s) on 4 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "http://go.walsall.gov.uk/sport-and-leisure/activities",
@@ -193298,7 +193463,10 @@
     "estimated_fix_impact": {
      "findings": 13,
      "pages": 13,
-     "statement": "Fix one place, resolve ~13 finding(s) on 13 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 13 engine finding instance(s) on 13 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/children-and-young-people/safeguarding-walsall",
@@ -193337,7 +193505,10 @@
     "estimated_fix_impact": {
      "findings": 2,
      "pages": 2,
-     "statement": "Fix one place, resolve ~2 finding(s) on 2 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 2 engine finding instance(s) on 2 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/walsall-libraries/lichfield-street-hub/walsall-archives-services/research-resources/aldridge",
@@ -193365,7 +193536,10 @@
     "estimated_fix_impact": {
      "findings": 2,
      "pages": 2,
-     "statement": "Fix one place, resolve ~2 finding(s) on 2 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 2 engine finding instance(s) on 2 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/children-and-young-people/early-help/early-help-parents/emotional-health-and-wellbeing",
@@ -193393,7 +193567,10 @@
     "estimated_fix_impact": {
      "findings": 4,
      "pages": 3,
-     "statement": "Fix one place, resolve ~4 finding(s) on 3 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 4 engine finding instance(s) on 3 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "http://go.walsall.gov.uk/newsroom/construction-begins-walsalls-historic-guildhall-creative-hub",
@@ -193422,7 +193599,10 @@
     "estimated_fix_impact": {
      "findings": 2,
      "pages": 1,
-     "statement": "Fix one place, resolve ~2 finding(s) on 1 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 2 engine finding instance(s) on 1 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/newsroom/anticipation-builds-new-digital-skills-hub-coming-bloxwich-town-centre"
@@ -193449,7 +193629,10 @@
     "estimated_fix_impact": {
      "findings": 2,
      "pages": 2,
-     "statement": "Fix one place, resolve ~2 finding(s) on 2 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 2 engine finding instance(s) on 2 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/planning-and-building-control/planning-developers/check-planning-history-building-or-piece-land",
@@ -193477,7 +193660,10 @@
     "estimated_fix_impact": {
      "findings": 3,
      "pages": 1,
-     "statement": "Fix one place, resolve ~3 finding(s) on 1 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 3 engine finding instance(s) on 1 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/parks-and-green-spaces/visit-our-countryside-and-nature-reserves/barr-beacon-local-nature-reserve/barr-beacon-event-videos"
@@ -193504,7 +193690,10 @@
     "estimated_fix_impact": {
      "findings": 1,
      "pages": 1,
-     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 1 engine finding instance(s) on 1 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/business/regeneration-and-investment/darlaston-plan-neighbourhoods/about-darlaston-plan"
@@ -193531,7 +193720,10 @@
     "estimated_fix_impact": {
      "findings": 1,
      "pages": 1,
-     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 1 engine finding instance(s) on 1 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/business/regeneration-and-investment/darlaston-plan-neighbourhoods/about-darlaston-plan"
@@ -193558,7 +193750,10 @@
     "estimated_fix_impact": {
      "findings": 1,
      "pages": 1,
-     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 1 engine finding instance(s) on 1 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "http://go.walsall.gov.uk/bins/find-household-waste-recycling-centres-tips/fryers-road-household-waste-recycling-centre"
@@ -193585,7 +193780,10 @@
     "estimated_fix_impact": {
      "findings": 1,
      "pages": 1,
-     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 1 engine finding instance(s) on 1 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "http://go.walsall.gov.uk/bins/business-waste-"
@@ -193612,7 +193810,10 @@
     "estimated_fix_impact": {
      "findings": 1,
      "pages": 1,
-     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 1 engine finding instance(s) on 1 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "http://go.walsall.gov.uk/bins/business-waste-"
@@ -193639,7 +193840,10 @@
     "estimated_fix_impact": {
      "findings": 7,
      "pages": 7,
-     "statement": "Fix one place, resolve ~7 finding(s) on 7 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 7 engine finding instance(s) on 7 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/newsroom/explore-walsalls-great-outdoors-free-family-activities-summer",
@@ -193672,7 +193876,10 @@
     "estimated_fix_impact": {
      "findings": 7,
      "pages": 7,
-     "statement": "Fix one place, resolve ~7 finding(s) on 7 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 7 engine finding instance(s) on 7 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/newsroom/explore-walsalls-great-outdoors-free-family-activities-summer",
@@ -193705,7 +193912,10 @@
     "estimated_fix_impact": {
      "findings": 5,
      "pages": 5,
-     "statement": "Fix one place, resolve ~5 finding(s) on 5 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 5 engine finding instance(s) on 5 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "http://go.walsall.gov.uk/events/christmas-crafternoon",
@@ -193736,7 +193946,10 @@
     "estimated_fix_impact": {
      "findings": 2,
      "pages": 2,
-     "statement": "Fix one place, resolve ~2 finding(s) on 2 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 2 engine finding instance(s) on 2 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "http://go.walsall.gov.uk/newsroom/whats-walsall-december-2025",
@@ -193764,7 +193977,10 @@
     "estimated_fix_impact": {
      "findings": 2,
      "pages": 2,
-     "statement": "Fix one place, resolve ~2 finding(s) on 2 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 2 engine finding instance(s) on 2 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/newsroom/sculpture-made-seized-vapes-display-walsall-council-house",
@@ -193792,7 +194008,10 @@
     "estimated_fix_impact": {
      "findings": 1,
      "pages": 1,
-     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 1 engine finding instance(s) on 1 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "http://go.walsall.gov.uk/museums-libraries-and-galleries/walsall-archives-0/research-resources"
@@ -193819,7 +194038,10 @@
     "estimated_fix_impact": {
      "findings": 1,
      "pages": 1,
-     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 1 engine finding instance(s) on 1 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A337&f%5B1%5D=age_range%3A420&f%5B2%5D=localgov_directories_facets%3A35"
@@ -193846,7 +194068,10 @@
     "estimated_fix_impact": {
      "findings": 1,
      "pages": 1,
-     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 1 engine finding instance(s) on 1 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/schools-and-learning/school-meals/free-school-meals"
@@ -193873,7 +194098,10 @@
     "estimated_fix_impact": {
      "findings": 1,
      "pages": 1,
-     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 1 engine finding instance(s) on 1 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "http://go.walsall.gov.uk/walsall-libraries/lichfield-street-hub/walsall-archives-services/research-resources/bloxwich-0"
@@ -193900,7 +194128,10 @@
     "estimated_fix_impact": {
      "findings": 3,
      "pages": 1,
-     "statement": "Fix one place, resolve ~3 finding(s) on 1 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 3 engine finding instance(s) on 1 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "http://go.walsall.gov.uk/your-council/decision-making-in-walsall-borough/publications"
@@ -193927,7 +194158,10 @@
     "estimated_fix_impact": {
      "findings": 1,
      "pages": 1,
-     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 1 engine finding instance(s) on 1 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "http://go.walsall.gov.uk/newsroom/whats-walsall-december-2025"
@@ -193954,7 +194188,10 @@
     "estimated_fix_impact": {
      "findings": 2,
      "pages": 1,
-     "statement": "Fix one place, resolve ~2 finding(s) on 1 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 2 engine finding instance(s) on 1 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/walsall-libraries/lichfield-street-hub/walsall-archives-services/research-resources/delves-churches"
@@ -193981,7 +194218,10 @@
     "estimated_fix_impact": {
      "findings": 3,
      "pages": 3,
-     "statement": "Fix one place, resolve ~3 finding(s) on 3 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 3 engine finding instance(s) on 3 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "http://go.walsall.gov.uk/events/childrens-games-club-27",
@@ -194010,7 +194250,10 @@
     "estimated_fix_impact": {
      "findings": 3,
      "pages": 3,
-     "statement": "Fix one place, resolve ~3 finding(s) on 3 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 3 engine finding instance(s) on 3 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "http://go.walsall.gov.uk/events/childrens-games-club-27",
@@ -194039,7 +194282,10 @@
     "estimated_fix_impact": {
      "findings": 2,
      "pages": 2,
-     "statement": "Fix one place, resolve ~2 finding(s) on 2 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 2 engine finding instance(s) on 2 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "http://go.walsall.gov.uk/newsroom/small-grants-help-communities-celebrate-coronation-now-open",
@@ -194067,7 +194313,10 @@
     "estimated_fix_impact": {
      "findings": 2,
      "pages": 2,
-     "statement": "Fix one place, resolve ~2 finding(s) on 2 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 2 engine finding instance(s) on 2 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/newsroom/sculpture-made-seized-vapes-display-walsall-council-house",
@@ -194095,7 +194344,10 @@
     "estimated_fix_impact": {
      "findings": 2,
      "pages": 2,
-     "statement": "Fix one place, resolve ~2 finding(s) on 2 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 2 engine finding instance(s) on 2 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "http://go.walsall.gov.uk/events/health-walk-rough-wood-lnr",
@@ -194123,7 +194375,10 @@
     "estimated_fix_impact": {
      "findings": 2,
      "pages": 2,
-     "statement": "Fix one place, resolve ~2 finding(s) on 2 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 2 engine finding instance(s) on 2 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A337&f%5B2%5D=localgov_directories_facets%3A37&f%5B3%5D=service_type%3A353",
@@ -194151,7 +194406,10 @@
     "estimated_fix_impact": {
      "findings": 2,
      "pages": 2,
-     "statement": "Fix one place, resolve ~2 finding(s) on 2 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 2 engine finding instance(s) on 2 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/newsroom/walsall-residents-encouraged-access-local-services-world-health-day",
@@ -194179,7 +194437,10 @@
     "estimated_fix_impact": {
      "findings": 2,
      "pages": 2,
-     "statement": "Fix one place, resolve ~2 finding(s) on 2 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 2 engine finding instance(s) on 2 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "http://go.walsall.gov.uk/events/splash-and-play-bloxwich-active-living-centre",
@@ -194207,7 +194468,10 @@
     "estimated_fix_impact": {
      "findings": 1,
      "pages": 1,
-     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 1 engine finding instance(s) on 1 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "http://go.walsall.gov.uk/newsroom/whats-walsall-december-2025"
@@ -194234,7 +194498,10 @@
     "estimated_fix_impact": {
      "findings": 1,
      "pages": 1,
-     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 1 engine finding instance(s) on 1 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/newsroom/when-three-lions-play-he-strikes"
@@ -194261,7 +194528,10 @@
     "estimated_fix_impact": {
      "findings": 1,
      "pages": 1,
-     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 1 engine finding instance(s) on 1 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "http://go.walsall.gov.uk/newsroom/whats-walsall-november-2025"
@@ -194288,7 +194558,10 @@
     "estimated_fix_impact": {
      "findings": 1,
      "pages": 1,
-     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 1 engine finding instance(s) on 1 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "http://go.walsall.gov.uk/newsroom/programme-arrangements-remembrance-day-2026"
@@ -194315,7 +194588,10 @@
     "estimated_fix_impact": {
      "findings": 1,
      "pages": 1,
-     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 1 engine finding instance(s) on 1 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/schools-and-learning/school-meals/free-school-meals"
@@ -194342,7 +194618,10 @@
     "estimated_fix_impact": {
      "findings": 1,
      "pages": 1,
-     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 1 engine finding instance(s) on 1 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/schools-and-learning/school-meals/free-school-meals"
@@ -194369,7 +194648,10 @@
     "estimated_fix_impact": {
      "findings": 1,
      "pages": 1,
-     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 1 engine finding instance(s) on 1 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/events/knit-and-natter-willenhall-5"
@@ -194396,7 +194678,10 @@
     "estimated_fix_impact": {
      "findings": 1,
      "pages": 1,
-     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 1 engine finding instance(s) on 1 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/events/knit-and-natter-willenhall-5"
@@ -194423,7 +194708,10 @@
     "estimated_fix_impact": {
      "findings": 1,
      "pages": 1,
-     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 1 engine finding instance(s) on 1 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "http://go.walsall.gov.uk/events/stitchers-and-skivers-afternoon-session-0"
@@ -194450,7 +194738,10 @@
     "estimated_fix_impact": {
      "findings": 1,
      "pages": 1,
-     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 1 engine finding instance(s) on 1 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "http://go.walsall.gov.uk/events/stitchers-and-skivers-afternoon-session-0"
@@ -194477,7 +194768,10 @@
     "estimated_fix_impact": {
      "findings": 1,
      "pages": 1,
-     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 1 engine finding instance(s) on 1 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "http://go.walsall.gov.uk/events/splash-and-play-bloxwich-active-living-centre"
@@ -194504,7 +194798,10 @@
     "estimated_fix_impact": {
      "findings": 1,
      "pages": 1,
-     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 1 engine finding instance(s) on 1 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "http://go.walsall.gov.uk/newsroom/road-closure-enable-next-step-yorks-bridge-construction"
@@ -194531,7 +194828,10 @@
     "estimated_fix_impact": {
      "findings": 1,
      "pages": 1,
-     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 1 engine finding instance(s) on 1 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/newsroom/walsall-residents-encouraged-apply-household-support-fund-grants"
@@ -194558,7 +194858,10 @@
     "estimated_fix_impact": {
      "findings": 1,
      "pages": 1,
-     "statement": "Fix one place, resolve ~1 finding(s) on 1 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 1 engine finding instance(s) on 1 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/newsroom/walsall-residents-encouraged-apply-household-support-fund-grants"
@@ -194587,7 +194890,10 @@
     "estimated_fix_impact": {
      "findings": 4995,
      "pages": 1940,
-     "statement": "Fix one place, resolve ~4995 finding(s) on 1940 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 4995 engine finding instance(s) on 1940 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
@@ -196553,7 +196859,10 @@
     "estimated_fix_impact": {
      "findings": 1940,
      "pages": 1940,
-     "statement": "Fix one place, resolve ~1940 finding(s) on 1940 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 1940 engine finding instance(s) on 1940 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
@@ -198519,7 +198828,10 @@
     "estimated_fix_impact": {
      "findings": 1940,
      "pages": 1940,
-     "statement": "Fix one place, resolve ~1940 finding(s) on 1940 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 1940 engine finding instance(s) on 1940 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
@@ -200485,7 +200797,10 @@
     "estimated_fix_impact": {
      "findings": 1940,
      "pages": 1940,
-     "statement": "Fix one place, resolve ~1940 finding(s) on 1940 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 1940 engine finding instance(s) on 1940 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
@@ -202451,7 +202766,10 @@
     "estimated_fix_impact": {
      "findings": 1940,
      "pages": 1940,
-     "statement": "Fix one place, resolve ~1940 finding(s) on 1940 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 1940 engine finding instance(s) on 1940 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
@@ -204417,7 +204735,10 @@
     "estimated_fix_impact": {
      "findings": 1940,
      "pages": 1940,
-     "statement": "Fix one place, resolve ~1940 finding(s) on 1940 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 1940 engine finding instance(s) on 1940 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "http://go.walsall.gov.uk/events/junior-paint-master-workshop-rob-conway-morning",
@@ -206383,7 +206704,10 @@
     "estimated_fix_impact": {
      "findings": 2997,
      "pages": 999,
-     "statement": "Fix one place, resolve ~2997 finding(s) on 999 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 2997 engine finding instance(s) on 999 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
@@ -207408,7 +207732,10 @@
     "estimated_fix_impact": {
      "findings": 999,
      "pages": 999,
-     "statement": "Fix one place, resolve ~999 finding(s) on 999 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 999 engine finding instance(s) on 999 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
@@ -208433,7 +208760,10 @@
     "estimated_fix_impact": {
      "findings": 999,
      "pages": 999,
-     "statement": "Fix one place, resolve ~999 finding(s) on 999 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 999 engine finding instance(s) on 999 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "https://go.walsall.gov.uk/parks-and-green-spaces/avian-flu",
@@ -209458,7 +209788,10 @@
     "estimated_fix_impact": {
      "findings": 3651,
      "pages": 1217,
-     "statement": "Fix one place, resolve ~3651 finding(s) on 1217 page(s)."
+     "counting_basis": "engine_observations_not_tasks",
+     "remediation_task_count": null,
+     "ownership": "not_established",
+     "statement": "Observed 3651 engine finding instance(s) on 1217 page(s); number of fixes and ownership are not established."
     },
     "affected_pages": [
      "http://go.walsall.gov.uk/events/saturday-storytime-6",
@@ -210686,6 +211019,849 @@
   "drift_page_count": 0,
   "drift_pages": [],
   "drift_clusters": []
+ },
+ "sharedComponents": {
+  "schema": 1,
+  "basis": "Capped examples stored per rule and page. Attribution describes the stored examples, not every instance.",
+  "counts": {
+   "engine_findings": 36,
+   "shared_component": 7,
+   "mixed": 4,
+   "candidate_shared_component": 0,
+   "not_attributed": 22,
+   "undetermined": 3
+  },
+  "components": [
+   {
+    "id": "consent-dialog",
+    "label": "Cookie consent dialog",
+    "min_signals": 2,
+    "verified": true,
+    "confidence": "high",
+    "signals_observed": [
+     "class",
+     "ancestry",
+     "script_origin"
+    ],
+    "signal_examples": {
+     "class": 32329,
+     "ancestry": 5820
+    },
+    "script_origins": [
+     {
+      "origin": "inmobi.com",
+      "observed": true,
+      "pages_observed": 468
+     },
+     {
+      "origin": "quantserve.com",
+      "observed": true,
+      "pages_observed": 328
+     }
+    ],
+    "pages_with_component_evidence": 1940,
+    "pages_audited": 1940,
+    "findings": [
+     {
+      "finding": "axe-core:aria-allowed-role",
+      "classification": "shared_component",
+      "pages": 1940,
+      "pages_in_component": 1940,
+      "verified": true
+     },
+     {
+      "finding": "axe-core:aria-required-children",
+      "classification": "shared_component",
+      "pages": 1940,
+      "pages_in_component": 1940,
+      "verified": true
+     },
+     {
+      "finding": "axe-core:aria-required-parent",
+      "classification": "shared_component",
+      "pages": 1940,
+      "pages_in_component": 1940,
+      "verified": true
+     },
+     {
+      "finding": "axe-core:button-name",
+      "classification": "shared_component",
+      "pages": 1940,
+      "pages_in_component": 1940,
+      "verified": true
+     },
+     {
+      "finding": "axe-core:list",
+      "classification": "shared_component",
+      "pages": 1940,
+      "pages_in_component": 1940,
+      "verified": true
+     },
+     {
+      "finding": "alfa:sia-r8",
+      "classification": "shared_component",
+      "pages": 999,
+      "pages_in_component": 999,
+      "verified": true
+     },
+     {
+      "finding": "alfa:sia-r74",
+      "classification": "mixed",
+      "pages": 999,
+      "pages_in_component": 999,
+      "verified": true
+     },
+     {
+      "finding": "alfa:sia-r73",
+      "classification": "mixed",
+      "pages": 999,
+      "pages_in_component": 999,
+      "verified": true
+     },
+     {
+      "finding": "alfa:sia-r68",
+      "classification": "mixed",
+      "pages": 999,
+      "pages_in_component": 999,
+      "verified": true
+     },
+     {
+      "finding": "alfa:sia-r42",
+      "classification": "shared_component",
+      "pages": 999,
+      "pages_in_component": 999,
+      "verified": true
+     },
+     {
+      "finding": "alfa:sia-r111",
+      "classification": "mixed",
+      "pages": 999,
+      "pages_in_component": 999,
+      "verified": true
+     }
+    ]
+   }
+  ],
+  "rules": {
+   "axe-core:aria-allowed-role": {
+    "classification": "shared_component",
+    "component_id": "consent-dialog",
+    "component_label": "Cookie consent dialog",
+    "confidence": "medium",
+    "verified": true,
+    "signals": [
+     "class",
+     "script_origin"
+    ],
+    "pages": 1940,
+    "pages_in_component": 1940,
+    "pages_with_outside_examples": 0,
+    "examples_total": 5820,
+    "examples_in_component": 5820,
+    "examples_outside_component": 0,
+    "examples_undetermined": 0,
+    "instances_total": 5820,
+    "sample_complete": true,
+    "basis": "stored_examples"
+   },
+   "axe-core:aria-required-children": {
+    "classification": "shared_component",
+    "component_id": "consent-dialog",
+    "component_label": "Cookie consent dialog",
+    "confidence": "medium",
+    "verified": true,
+    "signals": [
+     "class",
+     "script_origin"
+    ],
+    "pages": 1940,
+    "pages_in_component": 1940,
+    "pages_with_outside_examples": 0,
+    "examples_total": 1940,
+    "examples_in_component": 1940,
+    "examples_outside_component": 0,
+    "examples_undetermined": 0,
+    "instances_total": 1940,
+    "sample_complete": true,
+    "basis": "stored_examples"
+   },
+   "axe-core:aria-required-parent": {
+    "classification": "shared_component",
+    "component_id": "consent-dialog",
+    "component_label": "Cookie consent dialog",
+    "confidence": "medium",
+    "verified": true,
+    "signals": [
+     "class",
+     "script_origin"
+    ],
+    "pages": 1940,
+    "pages_in_component": 1940,
+    "pages_with_outside_examples": 0,
+    "examples_total": 3880,
+    "examples_in_component": 3880,
+    "examples_outside_component": 0,
+    "examples_undetermined": 0,
+    "instances_total": 3880,
+    "sample_complete": true,
+    "basis": "stored_examples"
+   },
+   "axe-core:button-name": {
+    "classification": "shared_component",
+    "component_id": "consent-dialog",
+    "component_label": "Cookie consent dialog",
+    "confidence": "high",
+    "verified": true,
+    "signals": [
+     "class",
+     "ancestry",
+     "script_origin"
+    ],
+    "pages": 1940,
+    "pages_in_component": 1940,
+    "pages_with_outside_examples": 0,
+    "examples_total": 5820,
+    "examples_in_component": 5820,
+    "examples_outside_component": 0,
+    "examples_undetermined": 0,
+    "instances_total": 13580,
+    "sample_complete": false,
+    "basis": "stored_examples"
+   },
+   "axe-core:color-contrast": {
+    "classification": "not_attributed",
+    "component_id": null,
+    "component_label": null,
+    "confidence": null,
+    "verified": false,
+    "signals": [],
+    "pages": 1940,
+    "pages_in_component": 0,
+    "pages_with_outside_examples": 1940,
+    "examples_total": 4995,
+    "examples_in_component": 0,
+    "examples_outside_component": 4995,
+    "examples_undetermined": 0,
+    "instances_total": 4995,
+    "sample_complete": true,
+    "basis": "stored_examples"
+   },
+   "axe-core:list": {
+    "classification": "shared_component",
+    "component_id": "consent-dialog",
+    "component_label": "Cookie consent dialog",
+    "confidence": "medium",
+    "verified": true,
+    "signals": [
+     "class",
+     "script_origin"
+    ],
+    "pages": 1940,
+    "pages_in_component": 1940,
+    "pages_with_outside_examples": 0,
+    "examples_total": 3880,
+    "examples_in_component": 3880,
+    "examples_outside_component": 0,
+    "examples_undetermined": 0,
+    "instances_total": 3880,
+    "sample_complete": true,
+    "basis": "stored_examples"
+   },
+   "axe-core:region": {
+    "classification": "not_attributed",
+    "component_id": null,
+    "component_label": null,
+    "confidence": null,
+    "verified": false,
+    "signals": [],
+    "pages": 1940,
+    "pages_in_component": 0,
+    "pages_with_outside_examples": 1940,
+    "examples_total": 2486,
+    "examples_in_component": 0,
+    "examples_outside_component": 2486,
+    "examples_undetermined": 0,
+    "instances_total": 2486,
+    "sample_complete": true,
+    "basis": "stored_examples"
+   },
+   "alfa:sia-r66": {
+    "classification": "undetermined",
+    "component_id": null,
+    "component_label": null,
+    "confidence": null,
+    "verified": false,
+    "signals": [],
+    "pages": 999,
+    "pages_in_component": 0,
+    "pages_with_outside_examples": 0,
+    "examples_total": 2997,
+    "examples_in_component": 0,
+    "examples_outside_component": 0,
+    "examples_undetermined": 2997,
+    "instances_total": 20839,
+    "sample_complete": false,
+    "basis": "stored_examples"
+   },
+   "alfa:sia-r8": {
+    "classification": "shared_component",
+    "component_id": "consent-dialog",
+    "component_label": "Cookie consent dialog",
+    "confidence": "medium",
+    "verified": true,
+    "signals": [
+     "class",
+     "script_origin"
+    ],
+    "pages": 999,
+    "pages_in_component": 999,
+    "pages_with_outside_examples": 0,
+    "examples_total": 2997,
+    "examples_in_component": 2997,
+    "examples_outside_component": 0,
+    "examples_undetermined": 0,
+    "instances_total": 6993,
+    "sample_complete": false,
+    "basis": "stored_examples"
+   },
+   "alfa:sia-r74": {
+    "classification": "mixed",
+    "component_id": "consent-dialog",
+    "component_label": "Cookie consent dialog",
+    "confidence": "medium",
+    "verified": true,
+    "signals": [
+     "class",
+     "script_origin"
+    ],
+    "pages": 999,
+    "pages_in_component": 999,
+    "pages_with_outside_examples": 999,
+    "examples_total": 2997,
+    "examples_in_component": 999,
+    "examples_outside_component": 1998,
+    "examples_undetermined": 0,
+    "instances_total": 11387,
+    "sample_complete": false,
+    "basis": "stored_examples"
+   },
+   "alfa:sia-r73": {
+    "classification": "mixed",
+    "component_id": "consent-dialog",
+    "component_label": "Cookie consent dialog",
+    "confidence": "medium",
+    "verified": true,
+    "signals": [
+     "class",
+     "script_origin"
+    ],
+    "pages": 999,
+    "pages_in_component": 999,
+    "pages_with_outside_examples": 999,
+    "examples_total": 2997,
+    "examples_in_component": 999,
+    "examples_outside_component": 1998,
+    "examples_undetermined": 0,
+    "instances_total": 7843,
+    "sample_complete": false,
+    "basis": "stored_examples"
+   },
+   "alfa:sia-r68": {
+    "classification": "mixed",
+    "component_id": "consent-dialog",
+    "component_label": "Cookie consent dialog",
+    "confidence": "medium",
+    "verified": true,
+    "signals": [
+     "class",
+     "script_origin"
+    ],
+    "pages": 999,
+    "pages_in_component": 999,
+    "pages_with_outside_examples": 6,
+    "examples_total": 2004,
+    "examples_in_component": 1998,
+    "examples_outside_component": 6,
+    "examples_undetermined": 0,
+    "instances_total": 2004,
+    "sample_complete": true,
+    "basis": "stored_examples"
+   },
+   "alfa:sia-r42": {
+    "classification": "shared_component",
+    "component_id": "consent-dialog",
+    "component_label": "Cookie consent dialog",
+    "confidence": "medium",
+    "verified": true,
+    "signals": [
+     "class",
+     "script_origin"
+    ],
+    "pages": 999,
+    "pages_in_component": 999,
+    "pages_with_outside_examples": 0,
+    "examples_total": 1998,
+    "examples_in_component": 1998,
+    "examples_outside_component": 0,
+    "examples_undetermined": 0,
+    "instances_total": 1998,
+    "sample_complete": true,
+    "basis": "stored_examples"
+   },
+   "alfa:sia-r72": {
+    "classification": "not_attributed",
+    "component_id": null,
+    "component_label": null,
+    "confidence": null,
+    "verified": false,
+    "signals": [],
+    "pages": 999,
+    "pages_in_component": 0,
+    "pages_with_outside_examples": 999,
+    "examples_total": 999,
+    "examples_in_component": 0,
+    "examples_outside_component": 999,
+    "examples_undetermined": 0,
+    "instances_total": 999,
+    "sample_complete": true,
+    "basis": "stored_examples"
+   },
+   "alfa:sia-r57": {
+    "classification": "undetermined",
+    "component_id": null,
+    "component_label": null,
+    "confidence": null,
+    "verified": false,
+    "signals": [],
+    "pages": 999,
+    "pages_in_component": 0,
+    "pages_with_outside_examples": 0,
+    "examples_total": 1333,
+    "examples_in_component": 0,
+    "examples_outside_component": 0,
+    "examples_undetermined": 1333,
+    "instances_total": 1915,
+    "sample_complete": false,
+    "basis": "stored_examples"
+   },
+   "alfa:sia-r69": {
+    "classification": "undetermined",
+    "component_id": null,
+    "component_label": null,
+    "confidence": null,
+    "verified": false,
+    "signals": [],
+    "pages": 999,
+    "pages_in_component": 0,
+    "pages_with_outside_examples": 0,
+    "examples_total": 2558,
+    "examples_in_component": 0,
+    "examples_outside_component": 0,
+    "examples_undetermined": 2558,
+    "instances_total": 2558,
+    "sample_complete": true,
+    "basis": "stored_examples"
+   },
+   "alfa:sia-r87": {
+    "classification": "not_attributed",
+    "component_id": null,
+    "component_label": null,
+    "confidence": null,
+    "verified": false,
+    "signals": [],
+    "pages": 999,
+    "pages_in_component": 0,
+    "pages_with_outside_examples": 999,
+    "examples_total": 999,
+    "examples_in_component": 0,
+    "examples_outside_component": 999,
+    "examples_undetermined": 0,
+    "instances_total": 999,
+    "sample_complete": true,
+    "basis": "stored_examples"
+   },
+   "alfa:sia-r111": {
+    "classification": "mixed",
+    "component_id": "consent-dialog",
+    "component_label": "Cookie consent dialog",
+    "confidence": "medium",
+    "verified": true,
+    "signals": [
+     "class",
+     "script_origin"
+    ],
+    "pages": 999,
+    "pages_in_component": 999,
+    "pages_with_outside_examples": 999,
+    "examples_total": 2997,
+    "examples_in_component": 1998,
+    "examples_outside_component": 999,
+    "examples_undetermined": 0,
+    "instances_total": 21249,
+    "sample_complete": false,
+    "basis": "stored_examples"
+   },
+   "axe-core:aria-prohibited-attr": {
+    "classification": "not_attributed",
+    "component_id": null,
+    "component_label": null,
+    "confidence": null,
+    "verified": false,
+    "signals": [],
+    "pages": 419,
+    "pages_in_component": 0,
+    "pages_with_outside_examples": 419,
+    "examples_total": 419,
+    "examples_in_component": 0,
+    "examples_outside_component": 419,
+    "examples_undetermined": 0,
+    "instances_total": 419,
+    "sample_complete": true,
+    "basis": "stored_examples"
+   },
+   "alfa:sia-r18": {
+    "classification": "not_attributed",
+    "component_id": null,
+    "component_label": null,
+    "confidence": null,
+    "verified": false,
+    "signals": [],
+    "pages": 284,
+    "pages_in_component": 0,
+    "pages_with_outside_examples": 284,
+    "examples_total": 766,
+    "examples_in_component": 0,
+    "examples_outside_component": 766,
+    "examples_undetermined": 0,
+    "instances_total": 1683,
+    "sample_complete": false,
+    "basis": "stored_examples"
+   },
+   "axe-core:heading-order": {
+    "classification": "not_attributed",
+    "component_id": null,
+    "component_label": null,
+    "confidence": null,
+    "verified": false,
+    "signals": [],
+    "pages": 274,
+    "pages_in_component": 0,
+    "pages_with_outside_examples": 274,
+    "examples_total": 275,
+    "examples_in_component": 0,
+    "examples_outside_component": 275,
+    "examples_undetermined": 0,
+    "instances_total": 275,
+    "sample_complete": true,
+    "basis": "stored_examples"
+   },
+   "alfa:sia-r53": {
+    "classification": "not_attributed",
+    "component_id": null,
+    "component_label": null,
+    "confidence": null,
+    "verified": false,
+    "signals": [],
+    "pages": 137,
+    "pages_in_component": 0,
+    "pages_with_outside_examples": 137,
+    "examples_total": 137,
+    "examples_in_component": 0,
+    "examples_outside_component": 137,
+    "examples_undetermined": 0,
+    "instances_total": 137,
+    "sample_complete": true,
+    "basis": "stored_examples"
+   },
+   "alfa:sia-r61": {
+    "classification": "not_attributed",
+    "component_id": null,
+    "component_label": null,
+    "confidence": null,
+    "verified": false,
+    "signals": [],
+    "pages": 165,
+    "pages_in_component": 0,
+    "pages_with_outside_examples": 165,
+    "examples_total": 165,
+    "examples_in_component": 0,
+    "examples_outside_component": 165,
+    "examples_undetermined": 0,
+    "instances_total": 165,
+    "sample_complete": true,
+    "basis": "stored_examples"
+   },
+   "axe-core:frame-title": {
+    "classification": "not_attributed",
+    "component_id": null,
+    "component_label": null,
+    "confidence": null,
+    "verified": false,
+    "signals": [],
+    "pages": 4,
+    "pages_in_component": 0,
+    "pages_with_outside_examples": 4,
+    "examples_total": 6,
+    "examples_in_component": 0,
+    "examples_outside_component": 6,
+    "examples_undetermined": 0,
+    "instances_total": 8,
+    "sample_complete": false,
+    "basis": "stored_examples"
+   },
+   "alfa:sia-r85": {
+    "classification": "not_attributed",
+    "component_id": null,
+    "component_label": null,
+    "confidence": null,
+    "verified": false,
+    "signals": [],
+    "pages": 18,
+    "pages_in_component": 0,
+    "pages_with_outside_examples": 18,
+    "examples_total": 20,
+    "examples_in_component": 0,
+    "examples_outside_component": 20,
+    "examples_undetermined": 0,
+    "instances_total": 20,
+    "sample_complete": true,
+    "basis": "stored_examples"
+   },
+   "axe-core:aria-valid-attr-value": {
+    "classification": "not_attributed",
+    "component_id": null,
+    "component_label": null,
+    "confidence": null,
+    "verified": false,
+    "signals": [],
+    "pages": 46,
+    "pages_in_component": 0,
+    "pages_with_outside_examples": 46,
+    "examples_total": 46,
+    "examples_in_component": 0,
+    "examples_outside_component": 46,
+    "examples_undetermined": 0,
+    "instances_total": 46,
+    "sample_complete": true,
+    "basis": "stored_examples"
+   },
+   "alfa:sia-r78": {
+    "classification": "not_attributed",
+    "component_id": null,
+    "component_label": null,
+    "confidence": null,
+    "verified": false,
+    "signals": [],
+    "pages": 5,
+    "pages_in_component": 0,
+    "pages_with_outside_examples": 5,
+    "examples_total": 8,
+    "examples_in_component": 0,
+    "examples_outside_component": 8,
+    "examples_undetermined": 0,
+    "instances_total": 9,
+    "sample_complete": false,
+    "basis": "stored_examples"
+   },
+   "alfa:sia-r19": {
+    "classification": "not_attributed",
+    "component_id": null,
+    "component_label": null,
+    "confidence": null,
+    "verified": false,
+    "signals": [],
+    "pages": 22,
+    "pages_in_component": 0,
+    "pages_with_outside_examples": 22,
+    "examples_total": 22,
+    "examples_in_component": 0,
+    "examples_outside_component": 22,
+    "examples_undetermined": 0,
+    "instances_total": 22,
+    "sample_complete": true,
+    "basis": "stored_examples"
+   },
+   "axe-core:image-alt": {
+    "classification": "not_attributed",
+    "component_id": null,
+    "component_label": null,
+    "confidence": null,
+    "verified": false,
+    "signals": [],
+    "pages": 3,
+    "pages_in_component": 0,
+    "pages_with_outside_examples": 3,
+    "examples_total": 3,
+    "examples_in_component": 0,
+    "examples_outside_component": 3,
+    "examples_undetermined": 0,
+    "instances_total": 3,
+    "sample_complete": true,
+    "basis": "stored_examples"
+   },
+   "axe-core:empty-heading": {
+    "classification": "not_attributed",
+    "component_id": null,
+    "component_label": null,
+    "confidence": null,
+    "verified": false,
+    "signals": [],
+    "pages": 2,
+    "pages_in_component": 0,
+    "pages_with_outside_examples": 2,
+    "examples_total": 2,
+    "examples_in_component": 0,
+    "examples_outside_component": 2,
+    "examples_undetermined": 0,
+    "instances_total": 2,
+    "sample_complete": true,
+    "basis": "stored_examples"
+   },
+   "axe-core:empty-table-header": {
+    "classification": "not_attributed",
+    "component_id": null,
+    "component_label": null,
+    "confidence": null,
+    "verified": false,
+    "signals": [],
+    "pages": 7,
+    "pages_in_component": 0,
+    "pages_with_outside_examples": 7,
+    "examples_total": 14,
+    "examples_in_component": 0,
+    "examples_outside_component": 14,
+    "examples_undetermined": 0,
+    "instances_total": 15,
+    "sample_complete": false,
+    "basis": "stored_examples"
+   },
+   "axe-core:link-name": {
+    "classification": "not_attributed",
+    "component_id": null,
+    "component_label": null,
+    "confidence": null,
+    "verified": false,
+    "signals": [],
+    "pages": 1,
+    "pages_in_component": 0,
+    "pages_with_outside_examples": 1,
+    "examples_total": 2,
+    "examples_in_component": 0,
+    "examples_outside_component": 2,
+    "examples_undetermined": 0,
+    "instances_total": 2,
+    "sample_complete": true,
+    "basis": "stored_examples"
+   },
+   "alfa:sia-r11": {
+    "classification": "not_attributed",
+    "component_id": null,
+    "component_label": null,
+    "confidence": null,
+    "verified": false,
+    "signals": [],
+    "pages": 1,
+    "pages_in_component": 0,
+    "pages_with_outside_examples": 1,
+    "examples_total": 2,
+    "examples_in_component": 0,
+    "examples_outside_component": 2,
+    "examples_undetermined": 0,
+    "instances_total": 2,
+    "sample_complete": true,
+    "basis": "stored_examples"
+   },
+   "axe-core:landmark-contentinfo-is-top-level": {
+    "classification": "not_attributed",
+    "component_id": null,
+    "component_label": null,
+    "confidence": null,
+    "verified": false,
+    "signals": [],
+    "pages": 2,
+    "pages_in_component": 0,
+    "pages_with_outside_examples": 2,
+    "examples_total": 2,
+    "examples_in_component": 0,
+    "examples_outside_component": 2,
+    "examples_undetermined": 0,
+    "instances_total": 2,
+    "sample_complete": true,
+    "basis": "stored_examples"
+   },
+   "axe-core:landmark-no-duplicate-contentinfo": {
+    "classification": "not_attributed",
+    "component_id": null,
+    "component_label": null,
+    "confidence": null,
+    "verified": false,
+    "signals": [],
+    "pages": 2,
+    "pages_in_component": 0,
+    "pages_with_outside_examples": 2,
+    "examples_total": 2,
+    "examples_in_component": 0,
+    "examples_outside_component": 2,
+    "examples_undetermined": 0,
+    "instances_total": 2,
+    "sample_complete": true,
+    "basis": "stored_examples"
+   },
+   "alfa:sia-r113": {
+    "classification": "not_attributed",
+    "component_id": null,
+    "component_label": null,
+    "confidence": null,
+    "verified": false,
+    "signals": [],
+    "pages": 2,
+    "pages_in_component": 0,
+    "pages_with_outside_examples": 2,
+    "examples_total": 2,
+    "examples_in_component": 0,
+    "examples_outside_component": 2,
+    "examples_undetermined": 0,
+    "instances_total": 2,
+    "sample_complete": true,
+    "basis": "stored_examples"
+   }
+  }
+ },
+ "pageFamilies": {
+  "schema": 1,
+  "urls_total": 1984,
+  "urls_in_families": 419,
+  "urls_outside_families": 1565,
+  "known_implementation_count": 1,
+  "basis": "Implementation counts come from declared routes. URLs outside a declared family have no established implementation count.",
+  "families": [
+   {
+    "id": "feedback-form",
+    "label": "Page feedback form",
+    "route": "/feedback",
+    "url_count": 419,
+    "audited_url_count": 419,
+    "implementation_count": 1,
+    "implementation_basis": "configured_route",
+    "states": {
+     "rating": {
+      "Ok": 146,
+      "Good": 141,
+      "Poor": 131,
+      "(absent)": 1
+     }
+    },
+    "variants": {
+     "page": {
+      "distinct_values": 334
+     },
+     "title": {
+      "distinct_values": 335
+     }
+    },
+    "representative_sampling": "not_applied"
+   }
+  ]
  },
  "pagesAttempted": 1963,
  "pagesSucceeded": 1916,

@@ -1,7 +1,7 @@
 {
  "domain": "www.lbhf.gov.uk",
  "week": "2026-W45",
- "generatedAt": "2026-11-02T21:58:06.608Z",
+ "generatedAt": "2026-11-04T14:31:54.484Z",
  "pagesScanned": 41,
  "pagesAudited": 0,
  "coverage": {
@@ -170,6 +170,8 @@
   "drift_pages": [],
   "drift_clusters": []
  },
+ "sharedComponents": null,
+ "pageFamilies": null,
  "pagesAttempted": 41,
  "pagesSucceeded": 0,
  "access": {

@@ -1,6 +1,6 @@
 {
  "domain": "www.hackney.gov.uk",
- "updatedAt": "2026-11-03T19:49:10.617Z",
+ "updatedAt": "2026-11-04T14:31:57.290Z",
  "vendors": {
   "hotjar.com": {
    "firstSeen": "2026-W44",
@@ -114,11 +114,12 @@
   },
   "os.uk": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "isScriptVendor": false
   },
   "doubleclick.net": {
@@ -181,12 +182,13 @@
   },
   "cloudflare.com": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
-   "isScriptVendor": false
+   "weeksSeen": 2,
+   "isScriptVendor": true
   },
   "withgoogle.com": {
    "firstSeen": "2026-W44",
@@ -198,6 +200,15 @@
    "isScriptVendor": false
   },
   "stonly.com": {
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": true
+  },
+  "vimeo.com": {
    "firstSeen": "2026-W45",
    "lastSeen": "2026-W45",
    "_weeks": [
