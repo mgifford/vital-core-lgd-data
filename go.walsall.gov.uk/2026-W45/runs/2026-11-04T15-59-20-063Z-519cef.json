@@ -1,0 +1,134 @@
+{
+ "runId": "2026-11-04T15-59-20-063Z-519cef",
+ "week": "2026-W45",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-04T15:59:21.456Z",
+ "scanned": [
+  "5dba5b64b32afe8c",
+  "cf7f80231c941878",
+  "069452f882070cb6",
+  "b9b9746044c61237",
+  "687a8ec588d2c5d4",
+  "64770d1aeb67a8b1",
+  "8d3e6794267a77a7",
+  "a3ace4aeeb2bb610",
+  "e8ec6fa30f08e47f",
+  "4bba8b9d2c452e3b",
+  "d7ca5590573bae4c",
+  "e5f68b039fb85c67",
+  "5e7d7cac10aa0b10",
+  "cef99e45f09affc4",
+  "66855d077820aed8",
+  "743c86404e8f713e",
+  "2b26845c080b8e0b",
+  "5952757036a74cee",
+  "ebef6fc94b6ffb7e",
+  "9a2ac67886dfc496",
+  "fef074ad46ac6a43",
+  "b436774cc47580f3",
+  "264b94180852b299",
+  "b23681afe4526964",
+  "5174fa9ca0e7d300",
+  "b698c6df910cb6d7",
+  "8a6ae5f9ba3969af",
+  "15adf2476a1f5cf9",
+  "eed7e9929f3cbb8d",
+  "2af020458a5471be",
+  "25eff93ac70263dd",
+  "97279bbdab29c68b",
+  "438af36b25bed7c3",
+  "103f0e24f3c46c13",
+  "ba6b424b1eb9218c",
+  "1bb2fc901a246082",
+  "e0f13ad0b394c3f8",
+  "f3ad2bcb26c4c440",
+  "98207dddc8aa8322",
+  "3a7f5772d3bc7f68",
+  "a6afc4e67495ef42",
+  "2f82ec49f2cc292a",
+  "55c07ed69c3a9b27",
+  "8aa53fd8b630384f",
+  "5d9278e7f7b73ab7",
+  "849b87c6ca472ef5",
+  "b2aa3540cadf8ab0",
+  "a9edcd0edb9c1ca3",
+  "f9e85e212ba66149",
+  "7ba3d66181956a56"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 651,
+  "checked": 500,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "https://www.stwater.co.uk/building-and-developing/estimators-and-maps/request-a-water-sewer-map/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/planning-and-building-control/building-control"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 47,
+  "alfa": 20,
+  "resources": 47,
+  "images": 47,
+  "lighthouse": 10,
+  "link-check": 47,
+  "plain-language": 23,
+  "standards": 25,
+  "third-party": 12,
+  "sustainability": 6,
+  "deprecated-html": 4,
+  "public-interest": 4,
+  "tech": 3,
+  "security": 1
+ },
+ "tally": {
+  "ok": 47,
+  "blocked": 3,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-04T16:14:35.897Z"
+}
