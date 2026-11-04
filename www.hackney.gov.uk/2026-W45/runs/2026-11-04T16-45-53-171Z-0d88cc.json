@@ -1,0 +1,163 @@
+{
+ "runId": "2026-11-04T16-45-53-171Z-0d88cc",
+ "week": "2026-W45",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-04T16:45:53.465Z",
+ "scanned": [
+  "c6907255de575402",
+  "051565b97ba4b417",
+  "ed367b296b88849e",
+  "9f4fe69ad866bf6d",
+  "dad06f9ebaa4c471",
+  "0b9057e674c55895",
+  "4d398088215e10c2",
+  "b75994309c6a54ca",
+  "fdd18c8e15f0a489",
+  "ce2f22db4ff9ca8a",
+  "40529f1d70041a36",
+  "d0bd792b32ba4710",
+  "e5c43cbc497f769e",
+  "2cce9d9f1222c420",
+  "412da9b9548cd740",
+  "76baafeeb1659363",
+  "6af815c33b95b14d",
+  "d56ed1bc0a6935f8",
+  "8faf575905788d79",
+  "b11d752053f4c3f3",
+  "2fbaf2ed128d5468",
+  "58c660827bbe2faa",
+  "fec34b7af2463074",
+  "b1a8fb948e53a142",
+  "491766b08a8ea4a0",
+  "76026204b4621c11",
+  "4fa79281a2c0634f",
+  "b146b302ebeb55b2",
+  "ee4bbc69987d72c6",
+  "0f998830ff4cc436",
+  "1878d51e280a77d0",
+  "cff6a9ca4809bb55",
+  "1eb15c02599f9e98",
+  "e09c0111a16241d4",
+  "4f29a35354cd8c58",
+  "9b2ee4ace47842a1",
+  "71f7a0dc15490ec3",
+  "54b7b5aab4b15022",
+  "08ef8b1b80149952",
+  "77228b64843373e1",
+  "16f407782cec1584",
+  "f639e7906f4e43fb",
+  "2dbc13252cef15ed",
+  "76d86718668b74ed",
+  "aa709419befb5375",
+  "3fed5486f8b6dd17",
+  "e45ba39de6f28052"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 605,
+  "checked": 500,
+  "brokenCount": 5,
+  "broken": [
+   {
+    "url": "https://www.thameswater.co.uk/help/emergencies/blockages/report-a-blockage",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/community-safety-and-crime-prevention/emergency-planning-and-response/what-do-if-your-property-flooded"
+    ]
+   },
+   {
+    "url": "https://www.food.gov.uk/business-guidance/food-safety-after-a-flood",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/community-safety-and-crime-prevention/emergency-planning-and-response/what-do-if-your-property-flooded"
+    ]
+   },
+   {
+    "url": "https://www.roomgo.net/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/housing/find-home/get-privately-rented-home"
+    ]
+   },
+   {
+    "url": "http://www.twitter.com/movetogetherkp",
+    "status": 520,
+    "reason": "HTTP 520",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/community-partnerships/kings-park-moving-together"
+    ]
+   },
+   {
+    "url": "https://drive.google.com/open?id=1-ktXV3DeRViH3yX8ldkkjNm3azx-DqFe",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/business-and-licensing/markets-and-street-trading/market-trading-licence"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 47,
+  "resources": 47,
+  "images": 47,
+  "standards": 28,
+  "link-check": 47,
+  "alfa": 24,
+  "plain-language": 26,
+  "deprecated-html": 3,
+  "security": 4,
+  "public-interest": 4,
+  "sustainability": 3,
+  "third-party": 10,
+  "lighthouse": 4,
+  "tech": 5
+ },
+ "tally": {
+  "ok": 47,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 3,
+  "error": 0
+ },
+ "finishedAt": "2026-11-04T16:53:59.267Z"
+}
