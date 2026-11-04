@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-11-03T03:41:59.842Z",
+ "updatedAt": "2026-11-04T02:41:06.052Z",
  "checker": {
   "name": "pdf-crawler",
   "url": "https://github.com/mgifford/pdf-crawler",
@@ -1500,6 +1500,256 @@
   },
   "https://go.walsall.gov.uk/sites/default/files/2022-08/7%20HE%20CPO%20NoC%20Notice%20%28Express%20%26%20Star%2C%2020190725%29.pdf": {
    "checkedAt": "2026-11-03T03:41:59.840Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/2022%20Application%20for%20a%20Scrap%20Metal%20Licence.pdf": {
+   "checkedAt": "2026-11-04T02:40:30.007Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/60387%20Minimum%20EPC%20Leaflet%20A5%20Web.pdf": {
+   "checkedAt": "2026-11-04T02:40:31.509Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/8%20WMBC%20CPO%20NoC%20Notice%20%28Express%20%26%20Star%2C%2020190725%29.pdf": {
+   "checkedAt": "2026-11-04T02:40:33.011Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/Acceptable%20Use%20Policy%20%28Rev%20Jan%202022%29%20HD%20version_docx.pdf": {
+   "checkedAt": "2026-11-04T02:40:34.512Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/bcjc_agenda_-_3-12-15.pdf": {
+   "checkedAt": "2026-11-04T02:40:36.014Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/Black_Country_EUSIF_Strategy_Jan2016_0.pdf": {
+   "checkedAt": "2026-11-04T02:40:37.516Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/Cohesion%20and%20Integration%20Strategy.pdf": {
+   "checkedAt": "2026-11-04T02:40:39.018Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/committee_s106_quarter_4_of_2013-14_report.pdf": {
+   "checkedAt": "2026-11-04T02:40:40.519Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/EqIAs%20April%202012%20to%20March%202013.pdf": {
+   "checkedAt": "2026-11-04T02:40:42.021Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/EqIAs%20April%202013%20to%20March%202014.pdf": {
+   "checkedAt": "2026-11-04T02:40:43.524Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/EqIAs%20April%202014%20to%20March%202015.pdf": {
+   "checkedAt": "2026-11-04T02:40:45.026Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/EqIAs%20April%202015%20to%20March%202016.pdf": {
+   "checkedAt": "2026-11-04T02:40:46.528Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/EqIAs%20April%202017%20to%20March%202018.pdf": {
+   "checkedAt": "2026-11-04T02:40:48.030Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/EqIAs%20April%202018%20to%20March%202019.pdf": {
+   "checkedAt": "2026-11-04T02:40:49.531Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/EqIAs%20April%202019%20to%20March%202020.pdf": {
+   "checkedAt": "2026-11-04T02:40:51.033Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/Food%20Law%20Enforcement%20Service%20Plan.pdf": {
+   "checkedAt": "2026-11-04T02:40:52.535Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/Health%20and%20Wellbeing%20Strategy.pdf": {
+   "checkedAt": "2026-11-04T02:40:54.037Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/item_10_-__bentley_lane_remediation.pdf": {
+   "checkedAt": "2026-11-04T02:40:55.539Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/item_11_-__m6_junction_10_improvement_programme.pdf": {
+   "checkedAt": "2026-11-04T02:40:57.041Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/item_12_-_growing_priority_sectors.pdf": {
+   "checkedAt": "2026-11-04T02:40:58.543Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/item_14_-__fab_kit.pdf": {
+   "checkedAt": "2026-11-04T02:41:00.043Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/item_15_-__regeneration_of_bilston_centre.pdf": {
+   "checkedAt": "2026-11-04T02:41:01.545Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/item_16_-__growing_the_wolverhampton_city_centre_offer-2.pdf": {
+   "checkedAt": "2026-11-04T02:41:03.047Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/item_17_-_wolverhampton_interchange-3.pdf": {
+   "checkedAt": "2026-11-04T02:41:04.549Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/item_19_-_managing_short_trips.pdf": {
+   "checkedAt": "2026-11-04T02:41:06.051Z",
    "week": "2026-W45",
    "httpStatus": null,
    "status": "error",
