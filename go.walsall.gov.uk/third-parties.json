@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-11-04T16:25:29.839Z",
+ "updatedAt": "2026-11-05T18:41:30.990Z",
  "vendors": {
   "pure.cloud": {
    "firstSeen": "2026-W44",
@@ -2723,11 +2723,12 @@
   },
   "nexverse.ai": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "isScriptVendor": false
   },
   "advolve.io": {
@@ -2814,6 +2815,24 @@
    "weeksSeen": 2,
    "isScriptVendor": false
   },
+  "ads-pubsfusion.com": {
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "nexx360.io": {
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
   "reson8.com": {
    "firstSeen": "2026-W45",
    "lastSeen": "2026-W45",
@@ -2832,7 +2851,7 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "nexx360.io": {
+  "clinch.co": {
    "firstSeen": "2026-W45",
    "lastSeen": "2026-W45",
    "_weeks": [
@@ -2850,7 +2869,7 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "clinch.co": {
+  "apolloprogram.io": {
    "firstSeen": "2026-W45",
    "lastSeen": "2026-W45",
    "_weeks": [
@@ -2859,7 +2878,7 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "apolloprogram.io": {
+  "rkdms.com": {
    "firstSeen": "2026-W45",
    "lastSeen": "2026-W45",
    "_weeks": [
@@ -2940,7 +2959,7 @@
    "weeksSeen": 1,
    "isScriptVendor": false
   },
-  "rkdms.com": {
+  "ladsp.com": {
    "firstSeen": "2026-W45",
    "lastSeen": "2026-W45",
    "_weeks": [

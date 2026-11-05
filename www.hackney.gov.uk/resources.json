@@ -1,6 +1,6 @@
 {
  "domain": "www.hackney.gov.uk",
- "updatedAt": "2026-11-04T16:43:57.518Z",
+ "updatedAt": "2026-11-05T18:41:32.671Z",
  "resources": {
   "https://consentcdn.cookiebot.com/sdk/bc-v5.min.html": {
    "type": "iframe",
@@ -11,7 +11,7 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPages": 856,
+   "lastPages": 903,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/air-quality/improving-air-quality-supporting-sustainable-transport",
     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/memorials-abney-park-cemetery",
@@ -205,11 +205,12 @@
   "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/740441/National_Planning_Policy_Framework_web_accessible_version.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/planning-and-building/conservation-heritage-and-design/listed-buildings"
@@ -218,11 +219,12 @@
   "https://map2.hackney.gov.uk/maps/statutory-listed-buildings/embed.html": {
    "type": "iframe",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/planning-and-building/conservation-heritage-and-design/listed-buildings"
@@ -487,8 +489,9 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPages": 2,
+   "lastPages": 3,
    "lastExamplePages": [
+    "https://www.hackney.gov.uk/business-and-licensing/markets-and-street-trading/market-trading-licence",
     "https://www.hackney.gov.uk/business-and-licensing/licensing/shop-front-trading-licence",
     "https://www.hackney.gov.uk/business-and-licensing/markets-and-street-trading/privately-operated-markets"
    ]
@@ -1122,8 +1125,9 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPages": 1,
+   "lastPages": 2,
    "lastExamplePages": [
+    "https://www.hackney.gov.uk/business-and-licensing/markets-and-street-trading/market-trading-licence",
     "https://www.hackney.gov.uk/business-and-licensing/markets-and-street-trading/privately-operated-markets"
    ]
   },
@@ -2229,11 +2233,12 @@
   "https://www.youtube.com/embed/dhAZQrhQTz8": {
    "type": "embedded-media",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/health-and-social-care/children-and-families/reducing-parental-conflict"
@@ -2242,11 +2247,12 @@
   "https://www.youtube.com/embed/vhcx6q4XMQI": {
    "type": "embedded-media",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/health-and-social-care/children-and-families/reducing-parental-conflict"
@@ -2605,14 +2611,15 @@
   "https://map2.hackney.gov.uk/maps/connectivity/embed.html": {
    "type": "iframe",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
-    "https://hackney.gov.uk/housing/council-estate-services/better-broadband"
+    "https://www.hackney.gov.uk/housing/council-estate-services/better-broadband"
    ]
   },
   "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/6077/2116950.pdf": {
@@ -2632,11 +2639,12 @@
   "https://www.google.com/maps/d/u/0/embed?mid=1beMPx92Qh5VvNiMEsOGeXHDGGr6R9KF8&ehbc=2E312F": {
    "type": "iframe",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/community-safety-and-environment/community-partnerships/kings-park-moving-together"

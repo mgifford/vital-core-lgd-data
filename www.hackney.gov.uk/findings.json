@@ -1,6 +1,6 @@
 {
  "domain": "www.hackney.gov.uk",
- "updatedAt": "2026-11-04T16:43:57.517Z",
+ "updatedAt": "2026-11-05T18:41:32.670Z",
  "findings": {
   "VS-9074b4dd": {
    "engine": "axe-core",
@@ -89,7 +89,7 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 856,
+   "lastPagesAffected": 903,
    "lastAffectedPages": [
     "https://www.hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/air-quality/improving-air-quality-supporting-sustainable-transport",
     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/memorials-abney-park-cemetery",
@@ -112,10 +112,10 @@
     "https://www.hackney.gov.uk/libraries-parks-and-leisure/hackney-archives/hackneys-heritage",
     "https://www.hackney.gov.uk/housing/resident-participation",
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/sun-street-conservation-area",
+    "https://www.hackney.gov.uk/council-and-elections/policies-strategies-and-statistics/population/hackney-ward-profiles",
     "https://www.hackney.gov.uk/parking-streets-and-transport/roads-streets-and-pavements",
     "https://www.hackney.gov.uk/planning-and-building/make-planning-application/after-submitting-planning-application",
-    "https://www.hackney.gov.uk/housing/repairs",
-    "https://www.hackney.gov.uk/planning-and-building/regeneration/woodberry-down"
+    "https://www.hackney.gov.uk/housing/repairs"
    ]
   },
   "VS-3f76c7ea": {
@@ -131,9 +131,10 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 21,
+   "lastPagesAffected": 23,
    "lastAffectedPages": [
     "https://www.hackney.gov.uk/parking-streets-and-transport/school-streets",
+    "https://www.hackney.gov.uk/planning-and-building/conservation-heritage-and-design/listed-buildings",
     "https://www.hackney.gov.uk/housing/repairs/diy-repairs-videos",
     "https://www.hackney.gov.uk/libraries-parks-and-leisure/hackney-leisure-map",
     "https://www.hackney.gov.uk/housing/stay-safe-your-home/fire-safety/general-fire-safety-advice",
@@ -153,7 +154,8 @@
     "https://www.hackney.gov.uk/community-safety-and-environment/windrush-generation-and-support-undocumented-migrants",
     "https://www.hackney.gov.uk/council-and-elections/policies-strategies-and-statistics/plans-and-strategies/community-strategy",
     "https://www.hackney.gov.uk/parking-streets-and-transport/roads-streets-and-pavements/roads-and-highways-enforcement/red-routes",
-    "https://www.hackney.gov.uk/education/computers-and-digital-skills/improve-your-digital-skills"
+    "https://www.hackney.gov.uk/education/computers-and-digital-skills/improve-your-digital-skills",
+    "https://www.hackney.gov.uk/community-safety-and-environment/community-partnerships/kings-park-moving-together"
    ]
   },
   "VS-a48e6078": {
@@ -169,7 +171,7 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 432,
+   "lastPagesAffected": 456,
    "lastAffectedPages": [
     "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/how-council-works",
     "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/recruitment-privacy-notice",
@@ -191,11 +193,11 @@
     "https://www.hackney.gov.uk/council-tax-and-benefits/council-tax/pay-your-council-tax-bill/pay-your-council-tax-cash-or-cheque",
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/brownswood-conservation-area",
     "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/councillors/your-councillors",
+    "https://www.hackney.gov.uk/planning-and-building/conservation-heritage-and-design/listed-buildings",
     "https://www.hackney.gov.uk/housing/council-estate-services/rent-garage",
     "https://www.hackney.gov.uk/council-and-elections/consultations-and-complaints/feedback-and-complaints",
     "https://www.hackney.gov.uk/health-and-social-care/support-disabled-people/support-disabled-children-and-their-families",
-    "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/councillors/find-your-councillors",
-    "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/safeguarding-adults"
+    "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/councillors/find-your-councillors"
    ]
   },
   "VS-be8d563e": {
@@ -229,7 +231,7 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 434,
+   "lastPagesAffected": 458,
    "lastAffectedPages": [
     "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/how-council-works",
     "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/recruitment-privacy-notice",
@@ -251,11 +253,11 @@
     "https://www.hackney.gov.uk/council-tax-and-benefits/council-tax/pay-your-council-tax-bill/pay-your-council-tax-cash-or-cheque",
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/brownswood-conservation-area",
     "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/councillors/your-councillors",
+    "https://www.hackney.gov.uk/planning-and-building/conservation-heritage-and-design/listed-buildings",
     "https://www.hackney.gov.uk/housing/council-estate-services/rent-garage",
     "https://www.hackney.gov.uk/council-and-elections/consultations-and-complaints/feedback-and-complaints",
     "https://www.hackney.gov.uk/health-and-social-care/support-disabled-people/support-disabled-children-and-their-families",
-    "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/councillors/find-your-councillors",
-    "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/safeguarding-adults"
+    "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/councillors/find-your-councillors"
    ]
   },
   "VS-2208081b": {
@@ -271,7 +273,7 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 432,
+   "lastPagesAffected": 456,
    "lastAffectedPages": [
     "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/how-council-works",
     "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/recruitment-privacy-notice",
@@ -293,11 +295,11 @@
     "https://www.hackney.gov.uk/council-tax-and-benefits/council-tax/pay-your-council-tax-bill/pay-your-council-tax-cash-or-cheque",
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/brownswood-conservation-area",
     "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/councillors/your-councillors",
+    "https://www.hackney.gov.uk/planning-and-building/conservation-heritage-and-design/listed-buildings",
     "https://www.hackney.gov.uk/housing/council-estate-services/rent-garage",
     "https://www.hackney.gov.uk/council-and-elections/consultations-and-complaints/feedback-and-complaints",
     "https://www.hackney.gov.uk/health-and-social-care/support-disabled-people/support-disabled-children-and-their-families",
-    "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/councillors/find-your-councillors",
-    "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/safeguarding-adults"
+    "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/councillors/find-your-councillors"
    ]
   },
   "VS-388b5438": {
@@ -349,7 +351,7 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 434,
+   "lastPagesAffected": 458,
    "lastAffectedPages": [
     "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/how-council-works",
     "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/recruitment-privacy-notice",
@@ -371,11 +373,11 @@
     "https://www.hackney.gov.uk/council-tax-and-benefits/council-tax/pay-your-council-tax-bill/pay-your-council-tax-cash-or-cheque",
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/brownswood-conservation-area",
     "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/councillors/your-councillors",
+    "https://www.hackney.gov.uk/planning-and-building/conservation-heritage-and-design/listed-buildings",
     "https://www.hackney.gov.uk/housing/council-estate-services/rent-garage",
     "https://www.hackney.gov.uk/council-and-elections/consultations-and-complaints/feedback-and-complaints",
     "https://www.hackney.gov.uk/health-and-social-care/support-disabled-people/support-disabled-children-and-their-families",
-    "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/councillors/find-your-councillors",
-    "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/safeguarding-adults"
+    "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/councillors/find-your-councillors"
    ]
   },
   "VS-2cd767ca": {
@@ -391,7 +393,7 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 432,
+   "lastPagesAffected": 456,
    "lastAffectedPages": [
     "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/how-council-works",
     "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/recruitment-privacy-notice",
@@ -413,11 +415,11 @@
     "https://www.hackney.gov.uk/council-tax-and-benefits/council-tax/pay-your-council-tax-bill/pay-your-council-tax-cash-or-cheque",
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/brownswood-conservation-area",
     "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/councillors/your-councillors",
+    "https://www.hackney.gov.uk/planning-and-building/conservation-heritage-and-design/listed-buildings",
     "https://www.hackney.gov.uk/housing/council-estate-services/rent-garage",
     "https://www.hackney.gov.uk/council-and-elections/consultations-and-complaints/feedback-and-complaints",
     "https://www.hackney.gov.uk/health-and-social-care/support-disabled-people/support-disabled-children-and-their-families",
-    "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/councillors/find-your-councillors",
-    "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/safeguarding-adults"
+    "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/councillors/find-your-councillors"
    ]
   },
   "VS-e05344b9": {
@@ -433,7 +435,7 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 434,
+   "lastPagesAffected": 458,
    "lastAffectedPages": [
     "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/how-council-works",
     "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/recruitment-privacy-notice",
@@ -455,11 +457,11 @@
     "https://www.hackney.gov.uk/council-tax-and-benefits/council-tax/pay-your-council-tax-bill/pay-your-council-tax-cash-or-cheque",
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/brownswood-conservation-area",
     "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/councillors/your-councillors",
+    "https://www.hackney.gov.uk/planning-and-building/conservation-heritage-and-design/listed-buildings",
     "https://www.hackney.gov.uk/housing/council-estate-services/rent-garage",
     "https://www.hackney.gov.uk/council-and-elections/consultations-and-complaints/feedback-and-complaints",
     "https://www.hackney.gov.uk/health-and-social-care/support-disabled-people/support-disabled-children-and-their-families",
-    "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/councillors/find-your-councillors",
-    "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/safeguarding-adults"
+    "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/councillors/find-your-councillors"
    ]
   },
   "VS-7118fead": {
@@ -475,7 +477,7 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 431,
+   "lastPagesAffected": 455,
    "lastAffectedPages": [
     "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/how-council-works",
     "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/recruitment-privacy-notice",
@@ -497,11 +499,11 @@
     "https://www.hackney.gov.uk/council-tax-and-benefits/council-tax/pay-your-council-tax-bill/pay-your-council-tax-cash-or-cheque",
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/brownswood-conservation-area",
     "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/councillors/your-councillors",
+    "https://www.hackney.gov.uk/planning-and-building/conservation-heritage-and-design/listed-buildings",
     "https://www.hackney.gov.uk/housing/council-estate-services/rent-garage",
     "https://www.hackney.gov.uk/council-and-elections/consultations-and-complaints/feedback-and-complaints",
     "https://www.hackney.gov.uk/health-and-social-care/support-disabled-people/support-disabled-children-and-their-families",
-    "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/councillors/find-your-councillors",
-    "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/safeguarding-adults"
+    "https://www.hackney.gov.uk/council-and-elections/mayor-cabinet-and-councillors/councillors/find-your-councillors"
    ]
   },
   "VS-d25f622d": {
@@ -517,7 +519,7 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 65,
+   "lastPagesAffected": 68,
    "lastAffectedPages": [
     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/commercial-extensions-and-alterations-supplementary-planning-document-spd",
     "https://www.hackney.gov.uk/libraries-parks-and-leisure/hackney-archives/hackneys-heritage",
@@ -559,7 +561,7 @@
     "2026-W45"
    ],
    "weeksSeen": 2,
-   "lastPagesAffected": 32,
+   "lastPagesAffected": 34,
    "lastAffectedPages": [
     "https://www.hackney.gov.uk/planning-and-building/planning-policies-and-local-plan/supplementary-planning-documents-and-guidance/commercial-extensions-and-alterations-supplementary-planning-document-spd",
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/sun-street-conservation-area",
@@ -579,13 +581,13 @@
     "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/low-traffic-neighbourhoods/chatsworth-road-liveable-neighbourhood",
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/clapton-common-conservation-area",
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/fremont-and-warneford-conservation-area",
+    "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/clapton-square-conservation-area",
     "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/broadway-market-conservation-area",
+    "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/stoke-newington-conservation-area",
     "https://www.hackney.gov.uk/parking-streets-and-transport/enforcement-and-removal-vehicles/disposing-vehicle",
     "https://www.hackney.gov.uk/housing/homeowners/service-charges/ground-rent",
     "https://www.hackney.gov.uk/libraries-parks-and-leisure/libraries/stoke-newington-library",
-    "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/albion-square-conservation-area",
-    "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/lea-bridge-conservation-area",
-    "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/regents-canal-conservation-area"
+    "https://www.hackney.gov.uk/planning-and-building/conservation-and-urban-design/conservation-areas/albion-square-conservation-area"
    ]
   },
   "VS-8806389c": {
@@ -705,16 +707,16 @@
    "wcag": null,
    "severity": "Minor",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "lastPagesAffected": 1,
    "lastAffectedPages": [
     "https://www.hackney.gov.uk/council-tax-and-benefits/council-tax/tell-us-about-change-your-council-tax/tell-us-youre-moving"
-   ],
-   "_coverageLost": true
+   ]
   },
   "VS-9425a266": {
    "engine": "axe-core",
