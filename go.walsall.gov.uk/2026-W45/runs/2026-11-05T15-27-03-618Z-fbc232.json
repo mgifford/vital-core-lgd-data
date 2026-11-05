@@ -1,0 +1,136 @@
+{
+ "runId": "2026-11-05T15-27-03-618Z-fbc232",
+ "week": "2026-W45",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-05T15:27:05.506Z",
+ "scanned": [
+  "e4389b8dc38d3563",
+  "a6f66ec2e8dcd345",
+  "3eca4117f5e08b03",
+  "2964a02417562700",
+  "dcc2449507ce6b40",
+  "dd3ed88e28f2473b",
+  "14806f25277e3e36",
+  "c7d2c56cca102d78",
+  "6e2c2de2bd98c4a5",
+  "2834d1c315f7bc05",
+  "10eb22eb55459608",
+  "16fd987a98cb2c27",
+  "a7a0f090cd313cea",
+  "9c8f922e7310f00a",
+  "8fbed86428e78f2d",
+  "b3ec0f6d16f6b99e",
+  "55037bf84cfce76c",
+  "bc0bcf17949e8bb2",
+  "fd776346cdd3fc65",
+  "f7552eb6cf07ea11",
+  "4da823ae28e20675",
+  "6372b098b2e78816",
+  "3ab0da45e9b58c8f",
+  "210c48a42a7d43c4",
+  "6f01517ae1774d7e",
+  "95c781b6e4afdaa0",
+  "fd20f789597d1933",
+  "fc513330cf5aa41e",
+  "265bde05c41569a0",
+  "da089eda528235eb",
+  "bf5abb7fb44cf024",
+  "4975cf55306b4ae3",
+  "5bfb5edceb52077a",
+  "7a5591774fdc9caa",
+  "c1b960c57831772f",
+  "5851ce022a90a841",
+  "b5104062f35a103b",
+  "b6ef479e7f4d1e11",
+  "c9e8eeea2a0546f2",
+  "a6ab036511b96d6d",
+  "cfd8eec1030924b9",
+  "46b265f47e3ed861",
+  "6769c7d63b69b3d9",
+  "e72b9c1760739af1",
+  "8f5c797523346f50",
+  "eb4d73a134b364d0",
+  "4c033f2f6bd59bc9",
+  "3135ce91cba88d8c",
+  "2abbc15625246592",
+  "0b52839d7f36418b"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 838,
+  "checked": 500,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "https://wslc.walsall.gov.uk/leisurehub/identity/login",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://go.walsall.gov.uk/events/roller-skating-oak-park-active-living-centre-6",
+     "https://go.walsall.gov.uk/sport-and-leisure/centres",
+     "https://go.walsall.gov.uk/events/pool-inflatable-fun-session-bloxwich-active-living-centre-15"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 50,
+  "resources": 50,
+  "images": 50,
+  "standards": 30,
+  "third-party": 10,
+  "link-check": 50,
+  "tech": 5,
+  "security": 9,
+  "public-interest": 5,
+  "alfa": 20,
+  "plain-language": 22,
+  "deprecated-html": 5,
+  "lighthouse": 2,
+  "sustainability": 7
+ },
+ "tally": {
+  "ok": 50,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-05T15:41:39.032Z"
+}
