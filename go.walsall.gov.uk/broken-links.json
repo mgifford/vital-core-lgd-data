@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-11-05T18:41:30.989Z",
+ "updatedAt": "2026-11-06T19:40:01.151Z",
  "links": {
   "https://wslc.walsall.gov.uk/leisurehub/identity/login": {
    "status": 0,
@@ -445,15 +445,15 @@
    "status": 500,
    "reason": "HTTP 500",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W45",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W45"
    ],
-   "weeksBroken": 1,
+   "weeksBroken": 2,
    "foundOn": [
-    "http://go.walsall.gov.uk/health-and-social-care/looking-after-your-mental-health/mental-health-and-wellbeing-support",
-    "https://go.walsall.gov.uk/newsroom/walsall-residents-encouraged-access-local-services-world-health-day",
-    "https://go.walsall.gov.uk/newsroom/walsall-residents-urged-talk-listen-and-make-every-voice-count-world-mental-health-day"
+    "https://go.walsall.gov.uk/wellbeing-directory/rethink-mental-illness-walsall-rethink-mental-health-hub-no-wrong-door",
+    "https://go.walsall.gov.uk/wellbeing-directory/rethink-mental-illness-walsall-sanctuary-hub"
    ]
   },
   "https://www.rethink.org/help-in-your-area/services/community-support/sanctuary-community-mental-health-service-walsall/": {
