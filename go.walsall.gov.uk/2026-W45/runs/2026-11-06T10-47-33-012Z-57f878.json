@@ -1,0 +1,135 @@
+{
+ "runId": "2026-11-06T10-47-33-012Z-57f878",
+ "week": "2026-W45",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-06T10:47:33.615Z",
+ "scanned": [
+  "cd26c3a865d8cb13",
+  "4dfb2dbde2e56f83",
+  "dfc724851b8f0e20",
+  "ca0f99a3b8de71e9",
+  "3a86496cdda13e4d",
+  "4a28f226fb34eb4d",
+  "19e79ae10ca47a38",
+  "e0bc8c002add321a",
+  "f3c12d79bbd00f35",
+  "42e40ee1124ba76b",
+  "5821a06c07fb3827",
+  "18d1d55367ffc678",
+  "a602cff0456481e1",
+  "de976215e42e6e65",
+  "ad682813fa0ca0d0",
+  "b7dc4f9302daa041",
+  "a65e49c0b57ef4cc",
+  "5b21b43ed1e5cdb9",
+  "68a4e836925585e8",
+  "fb827e59447b9d8c",
+  "2bd87687cbcd6d18",
+  "20cf55ed819c77a4",
+  "dd1b86af44761a30",
+  "d787b8884cea6456",
+  "dc567061735f3520",
+  "ee9f5122f15ab0c0",
+  "aca533bc4fcd7507",
+  "49bd342833717cf4",
+  "dccb1c54e1c00fe8",
+  "60bd2a215be70b27",
+  "3737901c568e6500",
+  "063f923d38f6618c",
+  "cf05f50f3e914ec8",
+  "a47afe261f1e3351",
+  "4e9330aeeef4b1a2",
+  "b6507f58a2b047d5",
+  "3e70345db009419f",
+  "791de75463db9bce",
+  "c80a60e2089e2d47",
+  "92325607d19afd72",
+  "e5864c9265c9a59c",
+  "6168817ea080b749",
+  "1568efc055bdb907",
+  "91189d12b75f89b4",
+  "67067200423c79fb",
+  "c23f716e4d2dc765",
+  "d40a416d00d66644",
+  "02ad98dc309a3ec9",
+  "9fe2cfa58561f39c",
+  "c341bb11c9f625d7"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 843,
+  "checked": 500,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "https://www.rethink.org/help-in-your-area/services/community-support/walsall-sanctuary-hub/",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/wellbeing-directory/rethink-mental-illness-walsall-rethink-mental-health-hub-no-wrong-door",
+     "https://go.walsall.gov.uk/wellbeing-directory/rethink-mental-illness-walsall-sanctuary-hub"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 49,
+  "alfa": 25,
+  "plain-language": 27,
+  "resources": 49,
+  "images": 49,
+  "standards": 28,
+  "tech": 6,
+  "third-party": 18,
+  "link-check": 49,
+  "security": 7,
+  "lighthouse": 4,
+  "sustainability": 5,
+  "deprecated-html": 5,
+  "public-interest": 2
+ },
+ "tally": {
+  "ok": 49,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-06T11:02:09.800Z"
+}
