@@ -1,0 +1,130 @@
+{
+ "runId": "2026-11-06T17-02-34-753Z-b00454",
+ "week": "2026-W45",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-06T17:02:35.486Z",
+ "scanned": [
+  "25eca072134c8deb",
+  "0a8a8e6f8b56b04d",
+  "6aa0086e4240ca2f",
+  "3e7795be9b5a5cdb",
+  "d38895de1f3e4a64",
+  "67ead8fbd719929d",
+  "44310b9a14569f8e",
+  "cfcde7a8d4e6380b",
+  "49ade83ded762acd",
+  "6be437d4d1595d78",
+  "fe067f36a307ec72",
+  "638067656d04e37a",
+  "e0a5032660a8ce0e",
+  "929a2ec66c5d26f7",
+  "f0969421664362a6",
+  "b684f59c4190ff6b",
+  "da95992c796c7fd4",
+  "8331625616750163",
+  "aea7a0f86ec6e94e",
+  "6eb1d75679e4ca6e",
+  "913702604de6c156",
+  "716e34414d41a15b",
+  "3863d10b4e460fc0",
+  "a62675e106da6259",
+  "7b4179219996db64",
+  "4a859cbe2f898319",
+  "c68ea40a8ccf4032",
+  "852bcf231aea3a89",
+  "38c21e714be3c59c",
+  "c022bf28dbba36b0",
+  "9395afeee2c94ab1",
+  "f5e106ee5af27af1",
+  "ce04b47ffc0aa517",
+  "69624bb244754080",
+  "7ec28826b0186163",
+  "f733bd3bc9f0eed1",
+  "ba5c7405c1d318af",
+  "51305ee76ec8cd8d",
+  "b1d7b470c0879d60",
+  "ddaca3d65b0abd70",
+  "ed7bc77655b4c492",
+  "d7ec45a613a1a819",
+  "07e9f207ff7acf99",
+  "3418ea8583464ddd",
+  "758a67a32b8e787e",
+  "7e045d8c28b55078",
+  "57adab5c74f8a822",
+  "d2b78ccc1d740167",
+  "78cac5bbbfa28d2b"
+ ],
+ "errors": [
+  {
+   "pageId": "95d6b61f70a8d70a",
+   "url": "https://go.walsall.gov.uk/newsroom/levelling-fund-bid-successfully-secures-ps20m-transform-willenhall",
+   "error": "TimeoutError: page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://go.walsall.gov.uk/newsroom/levelling-fund-bid-successfully-secures-ps20m-transform-willenhall\", waiting until \"load\"\n"
+  }
+ ],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 1085,
+  "checked": 500,
+  "brokenCount": 0,
+  "broken": []
+ },
+ "enginesRun": {
+  "sustainability": 3,
+  "axe": 47,
+  "plain-language": 21,
+  "resources": 47,
+  "images": 47,
+  "link-check": 47,
+  "standards": 30,
+  "lighthouse": 6,
+  "third-party": 13,
+  "alfa": 15,
+  "public-interest": 4,
+  "security": 7,
+  "tech": 5,
+  "deprecated-html": 3
+ },
+ "tally": {
+  "ok": 47,
+  "blocked": 2,
+  "timeout": 1,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-06T17:16:05.259Z"
+}
