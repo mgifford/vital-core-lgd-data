@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-11-06T19:40:01.151Z",
+ "updatedAt": "2026-11-07T17:51:03.998Z",
  "links": {
   "https://wslc.walsall.gov.uk/leisurehub/identity/login": {
    "status": 0,
@@ -1060,6 +1060,71 @@
    "weeksBroken": 1,
    "foundOn": [
     "https://go.walsall.gov.uk/wellbeing-directory/learn-and-thrive-learning-life"
+   ]
+  },
+  "https://espws.necsws.com/ords/pwslive/call_initial_apex_page.nes_selfsrv?service=CAR&la=WAL&language=ENG&options=CT": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/myaccount-online-services"
+   ]
+  },
+  "https://espws.necsws.com/ords/pwslive/call_initial_apex_page.nes_selfsrv?service=CAR&la=WAL&language=ENG&options=BR": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/myaccount-online-services"
+   ]
+  },
+  "https://walsallsp.co.uk/contact-us/concerned-about-an-adult/": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/myaccount-online-services"
+   ]
+  },
+  "https://friendsofwillenhallmemorialpark.co.uk/": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/parks-and-green-spaces/visit-our-parks-and-play-areas/willenhall-memorial-park"
+   ]
+  },
+  "https://go.walsall.gov.uk/directories/wwo/signs-for-worship-walsall---place-of-worship-and-community-in-walsall.-website-for-registration-http%3A//tiny.cc/sfwwzoom": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W45",
+   "lastSeen": "2026-W45",
+   "_weeks": [
+    "2026-W45"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&page=6"
    ]
   }
  }
