@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-11-06T02:48:09.402Z",
+ "updatedAt": "2026-11-07T02:20:29.619Z",
  "checker": {
   "name": "pdf-crawler",
   "url": "https://github.com/mgifford/pdf-crawler",
@@ -2250,6 +2250,256 @@
   },
   "https://go.walsall.gov.uk/sites/default/files/2022-08/View%20agenda.pdf": {
    "checkedAt": "2026-11-06T02:48:09.401Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/View%20Agenda%205%20August%202015_0.pdf": {
+   "checkedAt": "2026-11-07T02:19:53.573Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/View%20Agenda%20September%202015%20%20.pdf": {
+   "checkedAt": "2026-11-07T02:19:55.075Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/View%20Approved%20Minutes%20of%2020%20November%202015.pdf": {
+   "checkedAt": "2026-11-07T02:19:56.577Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/View%20Approved%20Minutes%20of%205%20August%202015_0.pdf": {
+   "checkedAt": "2026-11-07T02:19:58.079Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/View%20ITEM%2010-BC%20LGF-Dudley%20Town%20Centre%20Building%20and%20Sites%20Improvements%20Programme%20.pdf": {
+   "checkedAt": "2026-11-07T02:19:59.582Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/View%20ITEM%2010%20BC%20LGF%20Specialist%20Equipment%20for%20Advanced%20Manufacturing%20Technology%20Training%20Outline%20Business%20Case.pdf": {
+   "checkedAt": "2026-11-07T02:20:01.084Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/View%20ITEM%2010%20BC%20LGF%20Specialist%20Equipment%20for%20Advanced%20Manufacturing%20Technology%20Traning%20Grant%20Agreement%20Approval_0.pdf": {
+   "checkedAt": "2026-11-07T02:20:02.586Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/View%20ITEM%2010%20M6%20J10%20Resilience%20Package%20Junction%20Improvements.pdf": {
+   "checkedAt": "2026-11-07T02:20:04.086Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/View%20ITEM%2011-BC%20LGF%20Pipeline%20Generation%20Fund.pdf": {
+   "checkedAt": "2026-11-07T02:20:05.588Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/View%20ITEM%2011%20Chances%20Glassworks%20Heritage%20Site%20Assembly%20Project.pdf": {
+   "checkedAt": "2026-11-07T02:20:07.090Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/View%20ITEM%2012-Delegated%20Authority-BC%20LGF-InComm%20Phase%202%20.pdf": {
+   "checkedAt": "2026-11-07T02:20:08.592Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/View%20ITEM%2012-Delegated%20Authority-InComm%20Report%20Attachment%201%20BCLEP%20Outline%20Business%20Case%20.pdf": {
+   "checkedAt": "2026-11-07T02:20:10.094Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/View%20ITEM%2012-Delgated%20Authority-BC%20LGF%20InComm%20Phased-Request%20for%20use%20of%20DA%20.pdf": {
+   "checkedAt": "2026-11-07T02:20:11.596Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/View%20ITEM%2012%20City%20Deal%20Audit%20of%20Outputs%20Action%20Plan.pdf": {
+   "checkedAt": "2026-11-07T02:20:13.098Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/View%20ITEM%2012%20City%20Deal%20Revised%20Proposition%20Request%20%20.pdf": {
+   "checkedAt": "2026-11-07T02:20:14.600Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/View%20ITEM%2013-Delegated%20Authority-BC%20LGF-Ruskin%20Mill%20Glasshouse%20Phase%203%20.pdf": {
+   "checkedAt": "2026-11-07T02:20:16.102Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/View%20ITEM%2013-Delegated%20Authority-Ruskin%20Mill%20Glasshouse%20Development%20Phase%203-Request%20for%20use%20of%20DA%20.pdf": {
+   "checkedAt": "2026-11-07T02:20:17.604Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/View%20ITEM%2013-Delegated%20Authority-Ruskin%20Mill%20Report%20Attachment%201%20BCLEP%20Full%20Business%20Case.pdf": {
+   "checkedAt": "2026-11-07T02:20:19.106Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/View%20ITEM%202-Notes%20of%20previous%20meeting%20.pdf": {
+   "checkedAt": "2026-11-07T02:20:20.608Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/View%20ITEM%203%20Notes%20of%20Previous%20Meeting%2017.06.15_0.pdf": {
+   "checkedAt": "2026-11-07T02:20:22.110Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/View%20ITEM%206-BC%20LGF-Wolverhampton%20City%20Centre%20Coach%20Station.pdf": {
+   "checkedAt": "2026-11-07T02:20:23.610Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/View%20ITEM%207-BC%20LGF-Relocation%20of%20Wolverhampton%20City%20College-Feasibility%20Study%20.pdf": {
+   "checkedAt": "2026-11-07T02:20:25.112Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/View%20ITEM%207%20A4101%20Pensnett%20High%20Street.pdf": {
+   "checkedAt": "2026-11-07T02:20:26.614Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/View%20ITEM%207%20BC%20LGF%20Managing%20Short%20Trips%20Additional%20Schemes%20Grant%20Agreement%20Approval_0.pdf": {
+   "checkedAt": "2026-11-07T02:20:28.116Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/View%20ITEM%207%20BC%20LGF%20Managing%20Short%20Trips%20Attachment%201%20Business%20Case%20Summary_0.pdf": {
+   "checkedAt": "2026-11-07T02:20:29.618Z",
    "week": "2026-W45",
    "httpStatus": null,
    "status": "error",
