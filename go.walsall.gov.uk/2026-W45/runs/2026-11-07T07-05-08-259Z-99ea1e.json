@@ -1,0 +1,157 @@
+{
+ "runId": "2026-11-07T07-05-08-259Z-99ea1e",
+ "week": "2026-W45",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-07T07:05:09.169Z",
+ "scanned": [
+  "682b95af6338bba0",
+  "146e2361db5e3b73",
+  "81a5bb1a1b461c40",
+  "c30159427013bf33",
+  "e829b0847410c973",
+  "0f3f5d0c45cf1c47",
+  "24cf393b8f54266d",
+  "85279dc8fb07ccfa",
+  "4a50768288389bff",
+  "3286a01c73739b91",
+  "df7618be96b726ba",
+  "95d6b61f70a8d70a",
+  "35cf207143e4be99",
+  "37bee83c2aa96996",
+  "db375030de8f11c3",
+  "b0c030623c5abac9",
+  "b2788aa1b06481ed",
+  "31c657de63b7d8a3",
+  "8fc40ce62c4a4e09",
+  "91b71e2118b18a85",
+  "202b0d08e8f0b28c",
+  "0dd81145ff57d416",
+  "09009bee917e521c",
+  "b0817984e21a43ca",
+  "db6544afa80e7ce7",
+  "6d6a69482ea0b63d",
+  "9478bc9761d9d907",
+  "3ef0762e179dd6a7",
+  "1cfb7cd338a4870f",
+  "d6531b727751b43f",
+  "c32be238d6db2934",
+  "b3be45597bd5d5a2",
+  "222e54507fed0c38",
+  "7b4958509d94632b",
+  "4da52c9a599017b1",
+  "9398130cc7c108ca",
+  "46545dccefca3408",
+  "469e4746ec740b98",
+  "1847e7e88754d81e",
+  "bbfbe10ca2662ec0",
+  "2c4da9b1ee8b5440",
+  "5ec41301d41e3042",
+  "e8e6a7f7487049d1",
+  "8c10eb48de16a300",
+  "64428b1597c088fd",
+  "536af9600209302a",
+  "e9f2082b82848bfa",
+  "4a650f1e01375054",
+  "397431d842f5db7a"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 837,
+  "checked": 500,
+  "brokenCount": 4,
+  "broken": [
+   {
+    "url": "https://espws.necsws.com/ords/pwslive/call_initial_apex_page.nes_selfsrv?service=CAR&la=WAL&language=ENG&options=CT",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/myaccount-online-services"
+    ]
+   },
+   {
+    "url": "https://espws.necsws.com/ords/pwslive/call_initial_apex_page.nes_selfsrv?service=CAR&la=WAL&language=ENG&options=BR",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/myaccount-online-services"
+    ]
+   },
+   {
+    "url": "https://walsallsp.co.uk/contact-us/concerned-about-an-adult/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/myaccount-online-services"
+    ]
+   },
+   {
+    "url": "https://friendsofwillenhallmemorialpark.co.uk/",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/parks-and-green-spaces/visit-our-parks-and-play-areas/willenhall-memorial-park"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "sustainability": 2,
+  "axe": 49,
+  "alfa": 20,
+  "resources": 49,
+  "images": 49,
+  "standards": 25,
+  "third-party": 14,
+  "lighthouse": 4,
+  "link-check": 49,
+  "security": 7,
+  "public-interest": 5,
+  "plain-language": 22,
+  "tech": 3,
+  "deprecated-html": 3
+ },
+ "tally": {
+  "ok": 49,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 1,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 2,
+  "error": 0
+ },
+ "finishedAt": "2026-11-07T07:19:15.035Z"
+}
