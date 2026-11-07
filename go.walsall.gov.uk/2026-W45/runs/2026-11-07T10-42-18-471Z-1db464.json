@@ -1,0 +1,133 @@
+{
+ "runId": "2026-11-07T10-42-18-471Z-1db464",
+ "week": "2026-W45",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-07T10:42:19.193Z",
+ "scanned": [
+  "29634949f00c46d6",
+  "2fe6c9dc4456d53e",
+  "cde36f1166dec484",
+  "c978aa3b9abbc9cc",
+  "8b295bf83df015ba",
+  "3ccec73f63ff396a",
+  "068d73c3dcffcf2c",
+  "d92521876b55a4af",
+  "4b0620b197cefc4e",
+  "b192e3523e5f2d1b",
+  "bf9cb7d081e3aa79",
+  "d474d65dbdae571e",
+  "5bfc1413a5d5821c",
+  "824fda465cd8c921",
+  "68eaaec13dd48967",
+  "aa9726cbe150b069",
+  "677ac68cc42e4c63",
+  "282434c2ef9e28ca",
+  "eb1af6c4e72a18f8",
+  "4132d7776eee034a",
+  "709b08a67c0eba59",
+  "7625eee7bb1921fa",
+  "7cde2b2a2748a3ab",
+  "a694afa9b880a409",
+  "f2125b8ebe39937f",
+  "91defc3715c1f5cd",
+  "72e906c18e5e0668",
+  "e211569492a8e6ea",
+  "69054cb2aa36c6cc",
+  "89ae95efdbb94101",
+  "87480bc019f97c54",
+  "57682692c0478006",
+  "b5173bcc5c040090",
+  "a2255f815894221a",
+  "6b1ca7f0d217985d",
+  "581b5dfcd1371a81",
+  "94ac6716f1084941",
+  "d67aeb0e9cb02442",
+  "acf3208b9147faf5",
+  "5d51840f70de13d1",
+  "b2e920991fb7e3ba",
+  "5dbbb957731b01d7",
+  "ecbadf7445cf39e8",
+  "7be668434eb3c2c5",
+  "4bbdd40e948199de",
+  "3790fdddce05115d",
+  "291a216d3f9dfd27",
+  "53a3725d3300bcb5",
+  "25f21750134313fd"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 947,
+  "checked": 500,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "https://go.walsall.gov.uk/directories/wwo/signs-for-worship-walsall---place-of-worship-and-community-in-walsall.-website-for-registration-http%3A//tiny.cc/sfwwzoom",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&page=6"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "sustainability": 5,
+  "axe": 49,
+  "plain-language": 27,
+  "resources": 49,
+  "images": 49,
+  "standards": 20,
+  "third-party": 19,
+  "link-check": 49,
+  "alfa": 20,
+  "security": 4,
+  "public-interest": 5,
+  "lighthouse": 6,
+  "tech": 5,
+  "deprecated-html": 3
+ },
+ "tally": {
+  "ok": 49,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-11-07T10:58:11.951Z"
+}
