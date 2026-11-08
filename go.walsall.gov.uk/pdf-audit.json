@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-11-07T02:20:29.619Z",
+ "updatedAt": "2026-11-08T01:46:53.919Z",
  "checker": {
   "name": "pdf-crawler",
   "url": "https://github.com/mgifford/pdf-crawler",
@@ -2500,6 +2500,256 @@
   },
   "https://go.walsall.gov.uk/sites/default/files/2022-08/View%20ITEM%207%20BC%20LGF%20Managing%20Short%20Trips%20Attachment%201%20Business%20Case%20Summary_0.pdf": {
    "checkedAt": "2026-11-07T02:20:29.618Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/View%20ITEM%207%20BC%20LGF%20Managing%20Short%20Trips%20Attachment%202%20Canal%20Schemes%20Existing%20and%20Proposed_0.pdf": {
+   "checkedAt": "2026-11-08T01:46:17.876Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/View%20ITEM%208-Building%20on%20the%20BC%20Green%20Growth%20Plan-Smart%20City%20Strategy%20.pdf": {
+   "checkedAt": "2026-11-08T01:46:19.378Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/View%20ITEM%208%20BC%20LGF%20Walsall%20Waterfront%20Lex%20Site%20Remediation%20Project%20and%20Funding%20Approval_0.pdf": {
+   "checkedAt": "2026-11-08T01:46:20.880Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/View%20ITEM%208%20BC%20LGF%20Walsall%20Waterfront%20Outline%20Business%20Case_0.pdf": {
+   "checkedAt": "2026-11-08T01:46:22.382Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/View%20ITEM%208%20Walsall%20College%20Improving%20Engineering%20Capacity.pdf": {
+   "checkedAt": "2026-11-08T01:46:23.884Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/View%20ITEM%209-BC%20Green%20Growth%20Project%20Pipeline%20Update.pdf": {
+   "checkedAt": "2026-11-08T01:46:25.385Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/View%20ITEM%209%20BC%20LGF%20FAB%20Kit%20Performance%20Through%20People%20Increase%20of%20Grant%20Award_0.pdf": {
+   "checkedAt": "2026-11-08T01:46:26.887Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/View%20ITEM%209%20BC%20LGF%20FAB%20Kit%20Performance%20Through%20People%20Request%20Letter%20for%20Additional%20Grant_0.pdf": {
+   "checkedAt": "2026-11-08T01:46:28.388Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/View%20ITEM%209%20Elite%20Centre%20for%20Manufacturing%20for%20Manufacturing%20Skills%20Design%20Proposals.pdf": {
+   "checkedAt": "2026-11-08T01:46:29.891Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/View%20ITEM%209%20Elite%20Centre%20for%20Manufacturing%20Skills.pdf": {
+   "checkedAt": "2026-11-08T01:46:31.391Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/West%20Midlands%20Combined%20Authority-%20Movement%20for%20Growth.pdf": {
+   "checkedAt": "2026-11-08T01:46:32.893Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/Youth%20Justice%20Plan.pdf": {
+   "checkedAt": "2026-11-08T01:46:34.395Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/AAP%20Adoption%20Statement_0.pdf": {
+   "checkedAt": "2026-11-08T01:46:35.897Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/AAP%20Draft%20Plan.pdf": {
+   "checkedAt": "2026-11-08T01:46:37.399Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/AAP%20Draft%20Policies%20Map%20Publication%20Version%20with%20Pre-Submission%20Modifications.pdf": {
+   "checkedAt": "2026-11-08T01:46:38.901Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/AAP%20Inset%20of%20the%20Local%20Plan%20Policies%20Map%20Adopted%20January%202019_0.pdf": {
+   "checkedAt": "2026-11-08T01:46:40.403Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/AAP%20Preferred%20Options%20Document.pdf": {
+   "checkedAt": "2026-11-08T01:46:41.904Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/AAP%20Publication%20Draft%20Plan%20with%20Pre-Submission%20Modifications.pdf": {
+   "checkedAt": "2026-11-08T01:46:43.406Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/AAP%20schedule%20of%20modifications.pdf": {
+   "checkedAt": "2026-11-08T01:46:44.908Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/AAP%20Statement%20of%20Representations%20Procedure.pdf": {
+   "checkedAt": "2026-11-08T01:46:46.410Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/AAP%20Submission%20Plan.pdf": {
+   "checkedAt": "2026-11-08T01:46:47.911Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/AAP%20Submission%20Policies%20Map.pdf": {
+   "checkedAt": "2026-11-08T01:46:49.412Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/AAP%20Technical%20Appendices.pdf": {
+   "checkedAt": "2026-11-08T01:46:50.914Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Affordable%20Housing%20SEA%20Determination.pdf": {
+   "checkedAt": "2026-11-08T01:46:52.415Z",
+   "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Affordable%20Housing%20SEA%20Screening%20Statement.pdf": {
+   "checkedAt": "2026-11-08T01:46:53.917Z",
    "week": "2026-W45",
    "httpStatus": null,
    "status": "error",
