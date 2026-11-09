@@ -1,0 +1,134 @@
+{
+ "runId": "2026-11-09T13-06-54-091Z-3c6821",
+ "week": "2026-W46",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-09T13:06:54.841Z",
+ "scanned": [
+  "751535cb056580ac",
+  "0b623371f1f03a24",
+  "abe03584e325a56e",
+  "5a0d661dce314d75",
+  "f232b78cc2d26c78",
+  "eaaef1a3567d27d8",
+  "b33e6ef557b9acfb",
+  "c12f4470b81b833c",
+  "0b2036ebcdaebd91",
+  "cb3844178d7494a1",
+  "a996b7b65053c814",
+  "f47e5337f1df39f5",
+  "30fd8cda233cc7f9",
+  "1c85e0cb642e41a7",
+  "edeeaf559b3b55f6",
+  "ad2c9c7651e5589b",
+  "9aa60af89540d437",
+  "7d4a51bbd63879a9",
+  "5eea810252b3b733",
+  "4b82d49fdd521683",
+  "6afd6d335a12cd76",
+  "1cf3f92738da163e",
+  "fb92bd2705607c59",
+  "147160693b2f3bfb",
+  "55244e29ffd1756f",
+  "2f2ab4ad8aeb09b4",
+  "e8c3feb8a328ffc7",
+  "1dd0e0c5cbd1cd92",
+  "bd671f97f568f70e",
+  "9de8ef9df96cf46e",
+  "a6a6e4268b8f5c15",
+  "84cb8c18e9d58cea",
+  "e54072d607f4bfff",
+  "b4247736b7029588",
+  "1db95ce1a8c55f4c",
+  "2f0a901761694e4d",
+  "71dc4c9e3462c884",
+  "2a8e2d8d951f69f9",
+  "534e5f85c92afce7",
+  "7ec08d221d3204cf",
+  "6b83613a70d3c221",
+  "9e3b683b1ff5bd7c",
+  "2252b2fadaef25b9",
+  "64360e862b16324c",
+  "2e43198644aa6b3e",
+  "344bcd19d5ba2592",
+  "aff91c404a18f26e",
+  "a42922d3070a626d",
+  "513b4b4a51dc149e",
+  "5ce1d32d01a628b5"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 813,
+  "checked": 500,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "http://centsa.org.uk/anonymous-hotline/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/business/trading-standards/consumer-advice-and-protection"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 50,
+  "alfa": 27,
+  "resources": 50,
+  "images": 50,
+  "public-interest": 7,
+  "link-check": 50,
+  "plain-language": 21,
+  "tech": 8,
+  "third-party": 11,
+  "standards": 28,
+  "lighthouse": 4,
+  "deprecated-html": 6,
+  "security": 6,
+  "sustainability": 6
+ },
+ "tally": {
+  "ok": 50,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-09T13:22:51.830Z"
+}
