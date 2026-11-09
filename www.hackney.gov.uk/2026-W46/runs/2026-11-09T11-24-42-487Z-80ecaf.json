@@ -1,0 +1,171 @@
+{
+ "runId": "2026-11-09T11-24-42-487Z-80ecaf",
+ "week": "2026-W46",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-09T11:24:42.829Z",
+ "scanned": [
+  "871162be8c62e530",
+  "7ff4a808c43028c1",
+  "ae10fdb4a68a0c85",
+  "e475a2cec5c645e1",
+  "650becc91c7a8754",
+  "490df0ca0284d4c6",
+  "358e463120c2b0ae",
+  "82302b853e32bc46",
+  "bd7c7e860773c0e7",
+  "412da9b9548cd740",
+  "b75fc7df090f07e5",
+  "98824e04c1331847",
+  "1ce74f85d746baba",
+  "97c5be8821e46286",
+  "f8d61e8506c11a2a",
+  "72722b61e0a25fa5",
+  "8faf575905788d79",
+  "d41da598eaa7c68f",
+  "7dafad2fd271bdf5",
+  "58ade3a243336144",
+  "1c430d05d23796c1",
+  "77e64087cd1e7721",
+  "853f886798d111b8",
+  "83dbe1fb616334cf",
+  "2394701c5deba6ff",
+  "9de56b19f4cb70dc",
+  "6ac032770bd08417",
+  "726ad299e104e57c",
+  "1d8998e173971db3",
+  "d596163e431ba92f",
+  "def7f9f6e6df8001",
+  "5702dc5ce890bfa9",
+  "179052110b63c632",
+  "cf03f1ad31bf7419",
+  "7548caf03b47a18f",
+  "26ea0edf88760f90",
+  "73e3b2b79c241d9d",
+  "f639e7906f4e43fb",
+  "3164206e601792b7",
+  "7d3f77a4c2f72b2d",
+  "a177921473748e86",
+  "5ccd637db76ff27e",
+  "4cd05d0fb4b11860",
+  "33d32372a63c0868",
+  "79463659714f57d4",
+  "93531ddd5e0fd369",
+  "d6faaa6a89da73cb",
+  "9786ce3078518314",
+  "5b5135422378a3ae"
+ ],
+ "errors": [
+  {
+   "pageId": "013f76bf273fca94",
+   "url": "https://www.hackney.gov.uk/air-quality",
+   "error": "TimeoutError: page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.hackney.gov.uk/air-quality\", waiting until \"load\"\n"
+  }
+ ],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 658,
+  "checked": 500,
+  "brokenCount": 5,
+  "broken": [
+   {
+    "url": "https://www.metoffice.gov.uk/weather/climate-change/effects-of-climate-change",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/greener-hackney"
+    ]
+   },
+   {
+    "url": "https://www.ownyourhome.gov.uk/scheme/right-to-buy/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/housing/council-tenants/buying-your-council-home-london"
+    ]
+   },
+   {
+    "url": "http://www.finalfarewell.org/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/births-deaths-marriages-and-citizenship/deaths/bereavement-support"
+    ]
+   },
+   {
+    "url": "http://www.eastendcab.org.uk/hackney/",
+    "status": 0,
+    "reason": "timeout",
+    "foundOn": [
+     "https://www.hackney.gov.uk/housing/council-tenants/buying-your-council-home-london"
+    ]
+   },
+   {
+    "url": "https://procontract.due-north.com/ContractsRegister/Index?p=2241eb95-058a-e511-80f7-000c29c9ba21&v=1",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/publication-scheme"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 49,
+  "alfa": 21,
+  "resources": 49,
+  "images": 49,
+  "standards": 29,
+  "public-interest": 5,
+  "third-party": 19,
+  "link-check": 49,
+  "plain-language": 27,
+  "tech": 4,
+  "deprecated-html": 9,
+  "sustainability": 4,
+  "security": 3,
+  "lighthouse": 6
+ },
+ "tally": {
+  "ok": 49,
+  "blocked": 0,
+  "timeout": 1,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 4,
+  "error": 0
+ },
+ "finishedAt": "2026-11-09T11:33:21.339Z"
+}
