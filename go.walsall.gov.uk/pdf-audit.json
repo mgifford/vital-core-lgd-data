@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-11-08T01:46:53.919Z",
+ "updatedAt": "2026-11-09T01:56:21.141Z",
  "checker": {
   "name": "pdf-crawler",
   "url": "https://github.com/mgifford/pdf-crawler",
@@ -2751,6 +2751,256 @@
   "https://go.walsall.gov.uk/sites/default/files/2022-09/Affordable%20Housing%20SEA%20Screening%20Statement.pdf": {
    "checkedAt": "2026-11-08T01:46:53.917Z",
    "week": "2026-W45",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Affordable%20Housing%20SPD%20April%202008.pdf": {
+   "checkedAt": "2026-11-09T01:55:45.094Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Air%20Quality_0.pdf": {
+   "checkedAt": "2026-11-09T01:55:46.597Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Air%20Quality%20Adoption%20Statement.pdf": {
+   "checkedAt": "2026-11-09T01:55:48.099Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Air%20Quality%20Consultation%20Statement.pdf": {
+   "checkedAt": "2026-11-09T01:55:49.600Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Air%20Quality%20SEA%20Screening%20Statement.pdf": {
+   "checkedAt": "2026-11-09T01:55:51.103Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Appendix%201%20-%20Site%20Summary%20Tables.pdf": {
+   "checkedAt": "2026-11-09T01:55:52.605Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Appendix%202%20-%20Site%20Constraints.pdf": {
+   "checkedAt": "2026-11-09T01:55:54.107Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Appendix%203%20-%20Options%20Rejected.pdf": {
+   "checkedAt": "2026-11-09T01:55:55.608Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Black%20Country%20Air%20Quality%20SPD.pdf": {
+   "checkedAt": "2026-11-09T01:55:57.110Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Chapter%2010%20-%20The%20Sites.pdf": {
+   "checkedAt": "2026-11-09T01:55:58.612Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Chapter%204%20-%20A%20Place%20for%20Shopping.pdf": {
+   "checkedAt": "2026-11-09T01:56:00.114Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Chapter%205%20-%20A%20Place%20for%20Business.pdf": {
+   "checkedAt": "2026-11-09T01:56:01.616Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Chapter%206%20-%20A%20Place%20for%20Leisure.pdf": {
+   "checkedAt": "2026-11-09T01:56:03.118Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Chapter%207%20-%20A%20Place%20for%20Living.pdf": {
+   "checkedAt": "2026-11-09T01:56:04.620Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Chapter%208%20-%20Transport%2C%20Movement%20and%20Accessibility.pdf": {
+   "checkedAt": "2026-11-09T01:56:06.122Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Chapter%209%20-%20A%20Place%20for%20Investment.pdf": {
+   "checkedAt": "2026-11-09T01:56:07.624Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Chapters%2011%20to%2012%20-%20Delivery%20and%20Get%20Involved.pdf": {
+   "checkedAt": "2026-11-09T01:56:09.125Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Chapters%20to%201%20to%203%20-%20Introduction%2C%20What%20is%20Walsall%20and%20The%20Vision.pdf": {
+   "checkedAt": "2026-11-09T01:56:10.627Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Contamination%2C%20Landfill_0.pdf": {
+   "checkedAt": "2026-11-09T01:56:12.129Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Designing%20in%20Walsall%20The%20Vision.pdf": {
+   "checkedAt": "2026-11-09T01:56:13.631Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Draft%20Policies%20Map_0.pdf": {
+   "checkedAt": "2026-11-09T01:56:15.132Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Draft%20Policies%20Map.pdf": {
+   "checkedAt": "2026-11-09T01:56:16.634Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Flood%20Risk%2C%20Source%20Protection_0.pdf": {
+   "checkedAt": "2026-11-09T01:56:18.136Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Flood%20Risk%2C%20Source%20Protections.pdf": {
+   "checkedAt": "2026-11-09T01:56:19.638Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Geological%20Constraints_0.pdf": {
+   "checkedAt": "2026-11-09T01:56:21.139Z",
+   "week": "2026-W46",
    "httpStatus": null,
    "status": "error",
    "attempts": 1,
