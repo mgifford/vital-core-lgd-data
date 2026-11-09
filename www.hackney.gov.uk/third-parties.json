@@ -1,155 +1,170 @@
 {
  "domain": "www.hackney.gov.uk",
- "updatedAt": "2026-11-04T14:31:57.290Z",
+ "updatedAt": "2026-11-09T22:40:22.414Z",
  "vendors": {
   "hotjar.com": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "isScriptVendor": true
   },
   "googletagmanager.com": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "isScriptVendor": true
   },
   "gstatic.com": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "isScriptVendor": true
   },
   "googleapis.com": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "isScriptVendor": true
   },
   "google.com": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "isScriptVendor": true
   },
   "hotjar.io": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "isScriptVendor": false
   },
   "cookiebot.com": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "isScriptVendor": true
   },
   "clarity.ms": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "isScriptVendor": true
   },
   "gtranslate.net": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "isScriptVendor": true
   },
   "jsdelivr.net": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "isScriptVendor": true
   },
   "google-analytics.com": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "isScriptVendor": false
   },
   "os.uk": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "isScriptVendor": false
   },
   "doubleclick.net": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "isScriptVendor": true
   },
   "youtube.com": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "isScriptVendor": true
   },
   "ytimg.com": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "isScriptVendor": false
   },
   "dotdigital-pages.com": {
@@ -201,11 +216,12 @@
   },
   "stonly.com": {
    "firstSeen": "2026-W45",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "isScriptVendor": true
   },
   "vimeo.com": {
@@ -216,6 +232,15 @@
    ],
    "weeksSeen": 1,
    "isScriptVendor": true
+  },
+  "googleusercontent.com": {
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
   }
  }
 }

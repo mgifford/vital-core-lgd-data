@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-11-07T17:51:03.998Z",
+ "updatedAt": "2026-11-09T22:40:20.427Z",
  "links": {
   "https://wslc.walsall.gov.uk/leisurehub/identity/login": {
    "status": 0,
@@ -1125,6 +1125,32 @@
    "weeksBroken": 1,
    "foundOn": [
     "https://go.walsall.gov.uk/wellbeing-directory?f%5B0%5D=age_range%3A335&f%5B1%5D=age_range%3A336&f%5B2%5D=age_range%3A416&f%5B3%5D=localgov_directories_facets%3A34&page=6"
+   ]
+  },
+  "http://centsa.org.uk/anonymous-hotline/": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/business/trading-standards/consumer-advice-and-protection"
+   ]
+  },
+  "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fforms.office.com%2Fe%2F2wNnKgHP23&data=05%7C02%7CCharlotte.Gough%40walsall.gov.uk%7C73b5ef3557dc460d16c308de5f4258e2%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639052935828829310%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=LXyZGx7JPdnUUhvRHbNIS0%2Fqezv82AJ5crs%2FzY0KotE%3D&reserved=0": {
+   "status": 500,
+   "reason": "HTTP 500",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://go.walsall.gov.uk/newsroom/know-signs-and-get-checked-early-world-cancer-day"
    ]
   }
  }

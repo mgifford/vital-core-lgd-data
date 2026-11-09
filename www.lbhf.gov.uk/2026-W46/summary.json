@@ -1,0 +1,204 @@
+{
+ "domain": "www.lbhf.gov.uk",
+ "week": "2026-W46",
+ "generatedAt": "2026-11-09T22:40:15.839Z",
+ "pagesScanned": 41,
+ "pagesAudited": 0,
+ "coverage": {
+  "sustainability": 5
+ },
+ "blocked": null,
+ "axe": {
+  "violationTotal": 0,
+  "pagesWithViolations": 0,
+  "pagesScanned": 0,
+  "medianViolations": null,
+  "rules": {}
+ },
+ "alfa": {
+  "failedTotal": 0,
+  "pagesWithFailures": 0,
+  "pagesScanned": 0,
+  "medianFailures": null,
+  "rules": {}
+ },
+ "consensus": {
+  "uniqueIssues": 0,
+  "consensus": 0,
+  "axeOnly": 0,
+  "alfaOnly": 0,
+  "rawAxe": 0,
+  "rawAlfa": 0,
+  "byKey": {}
+ },
+ "sustainability": {
+  "pages": 5,
+  "medianBytes": 1656450,
+  "meanBytes": 1656450,
+  "medianRequests": 23,
+  "totalCo2g": 1.23,
+  "meanCo2g": 0.2455,
+  "totalEnergyWh": 2.48,
+  "meanEnergyWh": 0.4969
+ },
+ "deprecatedHtml": null,
+ "resources": null,
+ "standards": null,
+ "resilience": null,
+ "security": null,
+ "publicInterest": null,
+ "plainLanguage": null,
+ "lighthouse": null,
+ "linkCheck": null,
+ "errorPages": [
+  {
+   "url": "https://www.lbhf.gov.uk/web-advertising",
+   "status": 404
+  },
+  {
+   "url": "https://www.lbhf.gov.uk/environment",
+   "status": 404
+  },
+  {
+   "url": "https://www.lbhf.gov.uk/children-and-young-people",
+   "status": 404
+  },
+  {
+   "url": "https://www.lbhf.gov.uk/health-and-care",
+   "status": 404
+  },
+  {
+   "url": "https://www.lbhf.gov.uk/recycling-and-rubbish",
+   "status": 404
+  },
+  {
+   "url": "https://www.lbhf.gov.uk/",
+   "status": 404
+  },
+  {
+   "url": "https://www.lbhf.gov.uk/book-it",
+   "status": 404
+  },
+  {
+   "url": "https://www.lbhf.gov.uk/apply-it",
+   "status": 404
+  },
+  {
+   "url": "https://www.lbhf.gov.uk/website-statistics",
+   "status": 404
+  },
+  {
+   "url": "https://www.lbhf.gov.uk/councillors-and-democracy/data-and-information/freedom-information/copyright-re-using-our-information",
+   "status": 404
+  },
+  {
+   "url": "https://www.lbhf.gov.uk/contact-us",
+   "status": 405
+  },
+  {
+   "url": "https://www.lbhf.gov.uk/transport-and-roads",
+   "status": 404
+  },
+  {
+   "url": "https://www.lbhf.gov.uk/say-it",
+   "status": 404
+  },
+  {
+   "url": "https://www.lbhf.gov.uk/news",
+   "status": 404
+  },
+  {
+   "url": "https://www.lbhf.gov.uk/business",
+   "status": 404
+  },
+  {
+   "url": "https://www.lbhf.gov.uk/benefits",
+   "status": 404
+  },
+  {
+   "url": "https://www.lbhf.gov.uk/council-tax",
+   "status": 404
+  },
+  {
+   "url": "https://www.lbhf.gov.uk/councillors-and-democracy",
+   "status": 404
+  },
+  {
+   "url": "https://www.lbhf.gov.uk/adult-learning-and-skills",
+   "status": 404
+  },
+  {
+   "url": "https://www.lbhf.gov.uk/culture-and-events",
+   "status": 404
+  },
+  {
+   "url": "https://www.lbhf.gov.uk/councillors-and-democracy/data-and-information/hf-privacy-notice",
+   "status": 404
+  },
+  {
+   "url": "https://www.lbhf.gov.uk/jobs",
+   "status": 404
+  },
+  {
+   "url": "https://www.lbhf.gov.uk/libraries",
+   "status": 404
+  },
+  {
+   "url": "https://www.lbhf.gov.uk/parking",
+   "status": 404
+  },
+  {
+   "url": "https://www.lbhf.gov.uk/community",
+   "status": 404
+  }
+ ],
+ "tech": null,
+ "images": null,
+ "techFindings": null,
+ "thirdParty": null,
+ "componentClusters": {
+  "design_system": "none",
+  "design_system_label": "none",
+  "design_system_theme": null,
+  "template_page_threshold": 10,
+  "total_clusters": 0,
+  "clusters": [],
+  "top_actions": [],
+  "design_component_usage": [],
+  "page_component_usage": [],
+  "drift_page_count": 0,
+  "drift_pages": [],
+  "drift_clusters": []
+ },
+ "sharedComponents": null,
+ "pageFamilies": null,
+ "pagesAttempted": 41,
+ "pagesSucceeded": 0,
+ "access": {
+  "level": "blocked",
+  "audited": 0,
+  "attempted": 41,
+  "firewall": {
+   "pages": 2,
+   "challenges": 2,
+   "refusals": 0,
+   "statuses": {
+    "202": 1,
+    "405": 1
+   },
+   "by": [
+    "AWS WAF captcha (x-amzn-waf-action)",
+    "Amazon CloudFront",
+    "AWS WAF challenge (x-amzn-waf-action)"
+   ]
+  },
+  "robots": {
+   "rootBlocked": false,
+   "skipped": 0
+  },
+  "connection": null,
+  "errorStatuses": {
+   "404": 39
+  }
+ }
+}
