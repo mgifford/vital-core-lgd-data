@@ -1,0 +1,150 @@
+{
+ "runId": "2026-11-09T13-06-53-226Z-4c2a0f",
+ "week": "2026-W46",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-09T13:06:53.631Z",
+ "scanned": [
+  "0f121b662968a0aa",
+  "a0d26fa5ced632b4",
+  "196028d25f7b3bca",
+  "9e0d35f7e034b3c9",
+  "37d28065fb36b49c",
+  "c3667da12dfd7240",
+  "238d50523f7c1df5",
+  "00d2b4fe5b132fab",
+  "d57c9b33f37c30cf",
+  "b7617981dcafdb50",
+  "45af9343f9a8d36a",
+  "495a9cfc741443a4",
+  "6129db08a84d9515",
+  "374105a3f7c85b46",
+  "13a1e431dbe81447",
+  "fe517d3c41ca7137",
+  "698f3bf1b2d1f7b5",
+  "a6ec9c8e0f0aec95",
+  "49f7ad500c7ab309",
+  "b80801781f84c835",
+  "e9ad67d5b8af6c41",
+  "b4612d662feb65e1",
+  "57b2a88c8a57ac62",
+  "71f7a0dc15490ec3",
+  "09a332132eb05bc0",
+  "2e33436b092d3469",
+  "1dde517d52aa69c2",
+  "d728e4e490052d2c",
+  "3b057ecac66b350b",
+  "32a2b389c7a47257",
+  "f132e1c2a55e6f30",
+  "1efa3fc2e780e9e4",
+  "55ae6ebc6dabc645",
+  "b51477e83994c087",
+  "386c241b9a60fc36",
+  "b49a0a6f35d66709",
+  "07f42bb75184a1b0",
+  "f781b31df8dd5106",
+  "342cb56f08e39ce8",
+  "fcf5135bf7cb3b87",
+  "068ed8f09caaed2f",
+  "a16006b0d4ca2e98",
+  "23e1892cc24628f9",
+  "7cd4d367519cadd4",
+  "816f7856d32b770d",
+  "44677a91e65edf34",
+  "4b3c6d616e5bfac4",
+  "c9435285db591c1b",
+  "93442233322ba308",
+  "728d57b6a4ee7f62"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 586,
+  "checked": 500,
+  "brokenCount": 3,
+  "broken": [
+   {
+    "url": "https://web-content-api.hackney.gov.uk/wp-content/uploads/Hackney-SuDS-Proforma.xlsx",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/parking-streets-and-transport/roads-streets-and-pavements/roadworks-and-maintenance/sustainable-drainage-systems-suds"
+    ]
+   },
+   {
+    "url": "https://developmentandhousing.hackney.gov.uk/planning/index.html",
+    "status": 406,
+    "reason": "HTTP 406",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/view-and-comment-planning-applications"
+    ]
+   },
+   {
+    "url": "https://news.hackney.gov.uk/download/70203/wetlandsmap-2.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/connecting-green-spaces"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 50,
+  "alfa": 30,
+  "plain-language": 28,
+  "resources": 50,
+  "images": 50,
+  "link-check": 50,
+  "standards": 25,
+  "security": 3,
+  "lighthouse": 6,
+  "third-party": 13,
+  "sustainability": 7,
+  "public-interest": 3,
+  "tech": 5,
+  "deprecated-html": 3
+ },
+ "tally": {
+  "ok": 50,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 5,
+  "error": 0
+ },
+ "finishedAt": "2026-11-09T13:15:51.492Z"
+}
