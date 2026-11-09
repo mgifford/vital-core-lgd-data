@@ -1,0 +1,174 @@
+{
+ "runId": "2026-11-09T17-26-56-480Z-6ff69a",
+ "week": "2026-W46",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-09T17:26:57.375Z",
+ "scanned": [
+  "e9a0ec011f993bac",
+  "3e3aa0f72a5c9f02",
+  "b1141f204ac8d45d",
+  "2864a3bb46ac6ebd",
+  "0f998830ff4cc436",
+  "68b88c38a5e4bbeb",
+  "0d6f5014029cc55d",
+  "e41ab6eada27d1a1",
+  "20352569801bbeb1",
+  "dad06f9ebaa4c471",
+  "436ec31db808c299",
+  "47bb6019ceac5a1c",
+  "6f3e3f79439cb63b",
+  "92df44cf57a5f3d9",
+  "b2752a78932cef3e",
+  "2ac30551697d1093",
+  "7be6c0724d89f206",
+  "4bd635ad2313ddf9",
+  "06005436eed4f75b",
+  "24abdd5f97659ec4",
+  "74d2d89e087283f9",
+  "0da9addf1f1b8592",
+  "8c4516d2dc9d8f61",
+  "00ce3875ea4b73d2",
+  "30ec777c0de2a8fd",
+  "47343bcf47812893",
+  "ac289ef40beb80f6",
+  "3f2b459fd661874a",
+  "ffb8c9cd3cb4bf91",
+  "b31b572cc7a6fde2",
+  "7151ef344483b624",
+  "3c541c06d29f7520",
+  "e443dc93d80f3eaa",
+  "150be082788d5ac4",
+  "4549681f4a497713",
+  "b507cbd42f4652cb",
+  "895a3ee144af8b42",
+  "3c880a788899bd9a",
+  "d1ed002d11cf6e50",
+  "330f583c3f6d2a30",
+  "9a25b1b496a32189",
+  "be6342196a5ee387",
+  "aa48e89467ccf8c1",
+  "26d10bf26eddcbd3",
+  "117af06912e5208e",
+  "b435cafe7c1ba4b1",
+  "04b3418dba70d8e7",
+  "9c05a4f919d355a9",
+  "b8904f424fbe7942",
+  "6e6999d31464328b"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 531,
+  "checked": 500,
+  "brokenCount": 6,
+  "broken": [
+   {
+    "url": "https://drive.google.com/open?id=1-ktXV3DeRViH3yX8ldkkjNm3azx-DqFe",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/business-and-licensing/markets-and-street-trading/market-trading-licence"
+    ]
+   },
+   {
+    "url": "https://libraries-resources/",
+    "status": 0,
+    "reason": "EAI_AGAIN",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/hackney-archives/hackney-archives-collections"
+    ]
+   },
+   {
+    "url": "http://www.londonsscreenarchives.org.uk/public/index.php",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/hackney-archives/hackney-archives-collections"
+    ]
+   },
+   {
+    "url": "http://mginternet.hackney.gov.uk/mgUserInfo.aspx?UID=1955",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/community-partnerships/strategic-partnership-board/hackney-community-strategy-partnership-inactive"
+    ]
+   },
+   {
+    "url": "http://mginternet.hackney.gov.uk/mgUserInfo.aspx?UID=136",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/community-partnerships/strategic-partnership-board/hackney-community-strategy-partnership-inactive"
+    ]
+   },
+   {
+    "url": "https://hackney.gov.uk/your-councillors",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/community-partnerships/strategic-partnership-board/hackney-community-strategy-partnership-inactive"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 49,
+  "alfa": 25,
+  "plain-language": 33,
+  "resources": 49,
+  "images": 49,
+  "security": 8,
+  "link-check": 49,
+  "sustainability": 5,
+  "third-party": 20,
+  "standards": 22,
+  "deprecated-html": 5,
+  "public-interest": 4,
+  "tech": 4,
+  "lighthouse": 3
+ },
+ "tally": {
+  "ok": 49,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 2,
+  "error": 0
+ },
+ "finishedAt": "2026-11-09T17:34:26.579Z"
+}
