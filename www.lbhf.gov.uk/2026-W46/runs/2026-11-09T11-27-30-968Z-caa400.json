@@ -1,0 +1,97 @@
+{
+ "runId": "2026-11-09T11-27-30-968Z-caa400",
+ "week": "2026-W46",
+ "domain": "www.lbhf.gov.uk",
+ "canonical": {
+  "origin": "https://www.lbhf.gov.uk",
+  "configured": "https://www.lbhf.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-09T11:27:31.542Z",
+ "scanned": [
+  "6b0a92113db547e7",
+  "d2e7470c36617f65",
+  "dd5917b98faae8d7",
+  "eeff10c8addf64f9",
+  "70fe1e86e0477e59",
+  "13b9377e9bf06190",
+  "badac177e729ce3f",
+  "5bbd5ae92267365c",
+  "4572951835d2d172",
+  "fb3d96f80222142d",
+  "b93995f00e8ab2b0",
+  "d725f9ddc04105d1",
+  "390248303bba59c7",
+  "daa53bd33797f177",
+  "2fe6ace4d1e6f19b",
+  "c9c77b1a0f93bf34",
+  "b1f8d2c974d4af83",
+  "5d14b9bdb21eb93e",
+  "d4543ea81a72ed3b",
+  "d54bbe40bc28d1b6",
+  "d152a75f862ad6df",
+  "62c6e9d67061bd72",
+  "92bfbdf516e8481d",
+  "db782af57d06cae2",
+  "a66a1cca554f2a4a",
+  "1c5c7e5678a4f47f",
+  "a01278bd2f454c36",
+  "6f8b5061c18c5376",
+  "7010654ccb2b7ce9",
+  "8f34fae25282ac60",
+  "9a0817395762b90f",
+  "32df04a08396ab1a",
+  "d759adf16fdd1dc0",
+  "98a15f69a9dd2a5d",
+  "f3510c649f86e163",
+  "e5d0e6cda07c8791",
+  "469885feb1c53344",
+  "b33bd38610bb69c0",
+  "471d946236c75df8",
+  "9ac9c34dea9d6673",
+  "b4a67fed70f6c2a2"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "enginesRun": {
+  "sustainability": 5
+ },
+ "tally": {
+  "ok": 0,
+  "blocked": 41,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-09T11:30:24.090Z"
+}
