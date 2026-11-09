@@ -1,0 +1,134 @@
+{
+ "runId": "2026-11-09T17-26-45-523Z-a65c41",
+ "week": "2026-W46",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-09T17:26:46.063Z",
+ "scanned": [
+  "f39c345ffee441ed",
+  "4a20d1dc08aebeaa",
+  "ee6bf6cbf6bb0e30",
+  "953e3b46af8c23a5",
+  "6dd4b88c17bc18cc",
+  "d9ec488cf05f169e",
+  "295bc4e81ecb8eb0",
+  "f1763f79d1aa97e3",
+  "2c72e79d7f9e7110",
+  "0bdd137d45c844de",
+  "965acf2c1eade0d1",
+  "a710ce728ecd3c7d",
+  "ac1a50d65bf75900",
+  "c9bbfc2b2863133f",
+  "bb10c8ea61f3b5ff",
+  "6605736742fd1f73",
+  "12b0be9c83d144ac",
+  "02660f15c950bf3a",
+  "cc83b0f25ae4a7b1",
+  "b3116ae0ee16fd46",
+  "000b5ec3bb5b24c3",
+  "3cdba4c85876ddd2",
+  "60710153f50d7d6b",
+  "06ca0d5087523368",
+  "9079499bad278f6f",
+  "0ef05fdee730908f",
+  "eb7f059d2576482c",
+  "d88a54418dbe1c1b",
+  "a94088ee95dd9bde",
+  "d4814798a3916c2d",
+  "45ad6e477e15f1c8",
+  "aa46a77454644d79",
+  "b72a440956285126",
+  "33524093139484a6",
+  "acb6f9eb8d714d18",
+  "ed8cda8f70508451",
+  "817d2783439c1b66",
+  "8a267722cbc01284",
+  "3dd2ff5e493b6307",
+  "bc7db4b96033e205",
+  "a3d5ef4a5355aee2",
+  "c0d25f888f1c9cb5",
+  "188988bed1e1f262",
+  "f7be380b7dccee08",
+  "5cd743dd4030f77e",
+  "7b7053ecff10d1a3",
+  "c9429fba9e04d71b",
+  "8b247b5457025f73",
+  "a1a48bc86ce2aa99",
+  "46f9556b00a688c2"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 963,
+  "checked": 500,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fforms.office.com%2Fe%2F2wNnKgHP23&data=05%7C02%7CCharlotte.Gough%40walsall.gov.uk%7C73b5ef3557dc460d16c308de5f4258e2%7C5ddc79c77e69428fba3084b24a1ad994%7C0%7C0%7C639052935828829310%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=LXyZGx7JPdnUUhvRHbNIS0%2Fqezv82AJ5crs%2FzY0KotE%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/know-signs-and-get-checked-early-world-cancer-day"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 49,
+  "resources": 49,
+  "images": 49,
+  "standards": 28,
+  "third-party": 14,
+  "lighthouse": 7,
+  "link-check": 49,
+  "alfa": 25,
+  "plain-language": 25,
+  "deprecated-html": 6,
+  "security": 5,
+  "sustainability": 7,
+  "public-interest": 4,
+  "tech": 3
+ },
+ "tally": {
+  "ok": 49,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 2,
+  "error": 0
+ },
+ "finishedAt": "2026-11-09T17:41:53.272Z"
+}
