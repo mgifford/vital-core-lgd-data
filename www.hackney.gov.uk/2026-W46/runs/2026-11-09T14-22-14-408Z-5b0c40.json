@@ -1,0 +1,245 @@
+{
+ "runId": "2026-11-09T14-22-14-408Z-5b0c40",
+ "week": "2026-W46",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-09T14:22:14.944Z",
+ "scanned": [
+  "53141c8652a319f4",
+  "ed367b296b88849e",
+  "3b95d2eecbb12908",
+  "0bd49a7093928585",
+  "7b5efa9a2164127b",
+  "0365f7713ac17c78",
+  "355bea630dba65a6",
+  "77bf85e2a2e04b09",
+  "9d92a451cce6d821",
+  "ea8c9244e920e110",
+  "dd911920fc906c5d",
+  "0d90f869dce6de65",
+  "747824d609d2a83e",
+  "e09c0111a16241d4",
+  "d7e4ebd356a9ff60",
+  "06b57097428b281f",
+  "01cdaa7dae179a2f",
+  "c610f0c9289f806f",
+  "2cd0409e160bb1a2",
+  "19d7f5a52bafdf15",
+  "c430255ef37f8496",
+  "c1c81451362863a0",
+  "16f407782cec1584",
+  "fec34b7af2463074",
+  "fa0cda8c11d48e9b",
+  "312eba5806739b3f",
+  "fa3bb82ba2a45a1a",
+  "e00ff43395b29dcb",
+  "deb1082f768aecdf",
+  "1653776ac32f395d",
+  "943c26a0fd5026fb",
+  "9d1429d06b9182b9",
+  "6f3a4906521490dc",
+  "78f4df29c126a53f",
+  "506d981a9bb4af95",
+  "36f5f0ff59db6d63",
+  "54b7b5aab4b15022",
+  "0fbc40ef314ae58a",
+  "f72ab7c0e2d6f368",
+  "7c63fe9a4bd06407",
+  "9810a99e37da51dd",
+  "bcacec081e25ae41",
+  "173bf4eb9e981390",
+  "f11d3755a6135227",
+  "81bd5e80df1d042e",
+  "5baa01c8486a3e67",
+  "dabdf25ffcb6df6f",
+  "02df8fc4354cd5db",
+  "d57930e51e6b2a5b"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 444,
+  "checked": 444,
+  "brokenCount": 15,
+  "broken": [
+   {
+    "url": "https://www.thameswater.co.uk/help/emergencies/blockages/report-a-blockage",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/community-safety-and-crime-prevention/emergency-planning-and-response/what-do-if-your-property-flooded"
+    ]
+   },
+   {
+    "url": "https://www.food.gov.uk/business-guidance/food-safety-after-a-flood",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/community-safety-and-crime-prevention/emergency-planning-and-response/what-do-if-your-property-flooded"
+    ]
+   },
+   {
+    "url": "http://www.stonewall.org.uk/our-work",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-and-elections/equality-and-diversity/hackneys-demographics/sexual-orientation"
+    ]
+   },
+   {
+    "url": "https://www.stonewall.org.uk/about-us/blog/communities/black-lgbtq-organisations-you-should-know-about",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-and-elections/equality-and-diversity/hackneys-demographics/sexual-orientation"
+    ]
+   },
+   {
+    "url": "https://moodspark.org.uk/lgbtqi-mental-health-booklet/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-and-elections/equality-and-diversity/hackneys-demographics/sexual-orientation"
+    ]
+   },
+   {
+    "url": "https://www.theopenmindsproject.org/",
+    "status": 0,
+    "reason": "ECONNRESET",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-and-elections/equality-and-diversity/hackneys-demographics/sexual-orientation"
+    ]
+   },
+   {
+    "url": "https://www.grantrequest.co.uk/Login.aspx?ReturnUrl=%2faccountmanager.aspx%3fSA%3dAM%26sid%3d24&SA=AM&sid=24",
+    "status": 503,
+    "reason": "HTTP 503",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/community-partnerships/community-grants/what-grants-are-available"
+    ]
+   },
+   {
+    "url": "http://webarchive.nationalarchives.gov.uk/20130107105354/http://www.dh.gov.uk/en/Publicationsandstatistics/Publications/PublicationsPolicyAndGuidance/DH_095895",
+    "status": 405,
+    "reason": "HTTP 405",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/mental-health/deprivation-liberties-safeguards"
+    ]
+   },
+   {
+    "url": "http://webarchive.nationalarchives.gov.uk/20130107105354/http://www.dh.gov.uk/en/Publicationsandstatistics/Publications/PublicationsPolicyAndGuidance/DH_094346",
+    "status": 405,
+    "reason": "HTTP 405",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/mental-health/deprivation-liberties-safeguards"
+    ]
+   },
+   {
+    "url": "https://www.hta.co.uk/services/planning",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/fellows-court-and-weymouth-court"
+    ]
+   },
+   {
+    "url": "http://www.twitter.com/movetogetherkp",
+    "status": 520,
+    "reason": "HTTP 520",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/community-partnerships/kings-park-moving-together"
+    ]
+   },
+   {
+    "url": "https://www.sih.org/our-homes/supported-temporary-accommodation/bethany-house/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/housing/homelessness/help-if-youre-homeless-or-rough-sleeping/find-somewhere-stay-tonight"
+    ]
+   },
+   {
+    "url": "https://www.whufc.com/fixtures/first-team/fixtures-and-results",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://www.hackney.gov.uk/parking-streets-and-transport/where-park/event-days-and-bank-holiday-parking/queen-elizabeth-olympic-park-events"
+    ]
+   },
+   {
+    "url": "https://planningapps.hackney.gov.uk/planning/index.html",
+    "status": 406,
+    "reason": "HTTP 406",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/local-land-charges-search"
+    ]
+   },
+   {
+    "url": "https://www.ellcchoicehomes.org.uk/content/Ourpartners/Hackney",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/housing/find-home/bid-social-housing"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 47,
+  "alfa": 23,
+  "resources": 47,
+  "images": 47,
+  "tech": 4,
+  "third-party": 11,
+  "link-check": 47,
+  "standards": 19,
+  "plain-language": 28,
+  "deprecated-html": 6,
+  "security": 3,
+  "public-interest": 5,
+  "lighthouse": 5,
+  "sustainability": 3
+ },
+ "tally": {
+  "ok": 47,
+  "blocked": 2,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 5,
+  "error": 0
+ },
+ "finishedAt": "2026-11-09T14:29:36.769Z"
+}
