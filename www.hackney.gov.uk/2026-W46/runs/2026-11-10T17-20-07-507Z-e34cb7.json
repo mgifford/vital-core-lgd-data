@@ -1,0 +1,138 @@
+{
+ "runId": "2026-11-10T17-20-07-507Z-e34cb7",
+ "week": "2026-W46",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-10T17:20:07.857Z",
+ "scanned": [
+  "d0ddab9af2cdd6a1",
+  "d0e4aa8a8a35899b",
+  "1d8ee0753de14d9f",
+  "e7f1eb690cc34fd4",
+  "612213728a995f1f",
+  "9cbd0ab8ec05ecb0",
+  "cdb5674b15aec53e",
+  "252e41cf66dd2428",
+  "d049fe311fc14254",
+  "76122146e6df7654",
+  "9ccaef4651636f74",
+  "fa7807273b7d51e4",
+  "0ce4bade78967e14",
+  "e09dfe453f937985",
+  "0fe5908c16817a66",
+  "9510d3f83c5495e2",
+  "4ff67d06036e1f44",
+  "fcb2ad8a4be37267",
+  "a9efe1e7c2d93c08",
+  "1ab8b762de3b5f91",
+  "0b26b7c25a2e7faf",
+  "b19ed7f8f66e0b29",
+  "3cc4ec5f132d1c72",
+  "8f185056c5132f3b",
+  "3e20e691da11e67b",
+  "4834abf24a577c8d",
+  "17aba72334946385",
+  "be4613452bcb1b30",
+  "85e0131a8ba4777a",
+  "239b7406184f35d0",
+  "acc4fde4a389e7ad",
+  "7aad26476f9d066d",
+  "f27e872498dcbea2",
+  "112850a7dfc9f700",
+  "8f41332e14b7c8e3",
+  "be16df9b2aecf2ad",
+  "cff6a9ca4809bb55",
+  "2bb2e2a2761a7b45",
+  "982d92ce0da3883e",
+  "46b0b27dc6947bbe",
+  "81a574060039faf0",
+  "c8e269a25df439dd",
+  "e45ba39de6f28052",
+  "059735ae773aa806",
+  "11ff46bc0b799642",
+  "6bcc506aac6c0b17"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 439,
+  "checked": 439,
+  "brokenCount": 2,
+  "broken": [
+   {
+    "url": "https://www.crewenergy.london/free-energy-advice.html",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/energy/green-homes"
+    ]
+   },
+   {
+    "url": "https://developmentandhousing.hackney.gov.uk/planning/index.html",
+    "status": 406,
+    "reason": "HTTP 406",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/make-planning-application/after-submitting-planning-application"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 46,
+  "alfa": 20,
+  "plain-language": 23,
+  "resources": 46,
+  "images": 46,
+  "standards": 24,
+  "link-check": 46,
+  "security": 4,
+  "tech": 6,
+  "sustainability": 5,
+  "deprecated-html": 4,
+  "third-party": 11,
+  "public-interest": 2,
+  "lighthouse": 5
+ },
+ "tally": {
+  "ok": 46,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 4,
+  "error": 0
+ },
+ "finishedAt": "2026-11-10T17:26:43.724Z"
+}
