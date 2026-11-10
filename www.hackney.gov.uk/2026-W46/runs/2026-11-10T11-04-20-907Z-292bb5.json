@@ -1,0 +1,222 @@
+{
+ "runId": "2026-11-10T11-04-20-907Z-292bb5",
+ "week": "2026-W46",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-10T11:04:21.585Z",
+ "scanned": [
+  "25dd50182da1af20",
+  "cb7933af56c31ce0",
+  "085aab9b08039f55",
+  "1587c59b395afbd5",
+  "9d12771117c08c58",
+  "2c04dc29f7556b69",
+  "0aea0b00496b9f6a",
+  "ee44a6b5bf7c128e",
+  "1f95b8182798c7b3",
+  "3d89809549648259",
+  "eaff2bbd71c3feeb",
+  "c7b21d7e87b9c7f8",
+  "f7532123e3dc5fa7",
+  "f5b6c6bd1bb8553f",
+  "d3e6e6d59806bda6",
+  "2cce9d9f1222c420",
+  "274c8cec59247a03",
+  "4f777b28c98b745f",
+  "983956bdc5348a56",
+  "785aaf5f07992553",
+  "f5846193a9ecd466",
+  "771d70243e61ae74",
+  "8c117eee787ebe12",
+  "216aea98612cf4f9",
+  "f4b1cf93b8052b42",
+  "f2679cb3a9a28b42",
+  "cc9337dc1f29a42a",
+  "4ab63b8857286ce3",
+  "79dc68d9e14d7e1c",
+  "98b879e7da74b860",
+  "7bb95b9bad257e1d",
+  "e18c07a62e47a4e2",
+  "b6e925ea5ee8745d",
+  "1ac3d47dc9adb73a",
+  "14b849a3f3fbf15f",
+  "3d3a6ccc001b96cc",
+  "96a3f75363eed8fd",
+  "453acd938ab1a329",
+  "b2d2a7bbff4913df",
+  "6af815c33b95b14d",
+  "5380f9dc859ece05",
+  "a7b85b3df0589ab5",
+  "5311a39975d5a535",
+  "77d14c55aaf6c255",
+  "f0f46fd838079370",
+  "972aa070d7179a5f",
+  "2c9cc28935f49340",
+  "28c89ddc15ee1cc5",
+  "809347e6329934f2",
+  "044b5649c1ad65d2"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 531,
+  "checked": 500,
+  "brokenCount": 12,
+  "broken": [
+   {
+    "url": "https://support.google.com/mail/answer/56256?hl=en-GB",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/education/computers-and-digital-skills/improve-your-digital-skills"
+    ]
+   },
+   {
+    "url": "https://support.google.com/a/users/answer/9259846",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/education/computers-and-digital-skills/improve-your-digital-skills"
+    ]
+   },
+   {
+    "url": "https://support.google.com/a/users/answer/10197229?hl=en&ref_topic=9247638,7394060,2938454,&visit_id=637436344922760359-2990019082&rd=1",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/education/computers-and-digital-skills/improve-your-digital-skills"
+    ]
+   },
+   {
+    "url": "https://www.learnmyway.com/explore-the-subjects/using-email",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/education/computers-and-digital-skills/improve-your-digital-skills"
+    ]
+   },
+   {
+    "url": "https://www.cityoflondon.gov.uk/services/waste-and-recycling/commercial-waste/hazardous-waste-collection",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/asbestos-management"
+    ]
+   },
+   {
+    "url": "https://webforms.hackney.gov.uk/ufs/ufsmain?formid=GEN_SERVICE_REQUEST2&SUBCATEGORY=Planning%20decision%20notices",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/make-planning-application/submit-planning-application/planning-decision-notices"
+    ]
+   },
+   {
+    "url": "https://developmentandhousing.hackney.gov.uk/planning/index.html?fa=search",
+    "status": 406,
+    "reason": "HTTP 406",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/make-planning-application/submit-planning-application/planning-decision-notices"
+    ]
+   },
+   {
+    "url": "https://rise.articulate.com/share/nwfNRMbVqoXgYxTlRUed2JsNq-ZC_K15",
+    "status": 410,
+    "reason": "HTTP 410",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/drug-and-alcohol-support-and-advice/alcohol-support-and-advice"
+    ]
+   },
+   {
+    "url": "https://www.homerton.nhs.uk/learning-disabilities-and-autism-service",
+    "status": 0,
+    "reason": "UND_ERR_SOCKET",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/support-disabled-people/autism"
+    ]
+   },
+   {
+    "url": "https://www.autismtas.org.au/about-autism/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/support-disabled-people/autism"
+    ]
+   },
+   {
+    "url": "https://www.autismtas.org.au/about-autism/autism-strengths/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/support-disabled-people/autism"
+    ]
+   },
+   {
+    "url": "https://www.autismtas.org.au/wp-content/uploads/2022/03/Autism-and-Communication-Poster.pdf",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/support-disabled-people/autism"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 50,
+  "alfa": 24,
+  "resources": 50,
+  "images": 50,
+  "standards": 26,
+  "lighthouse": 5,
+  "link-check": 50,
+  "plain-language": 21,
+  "tech": 4,
+  "third-party": 16,
+  "public-interest": 8,
+  "security": 3,
+  "deprecated-html": 4,
+  "sustainability": 4
+ },
+ "tally": {
+  "ok": 50,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 3,
+  "error": 0
+ },
+ "finishedAt": "2026-11-10T11:12:23.453Z"
+}
