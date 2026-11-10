@@ -1,6 +1,6 @@
 {
  "domain": "www.hackney.gov.uk",
- "updatedAt": "2026-11-09T22:40:22.414Z",
+ "updatedAt": "2026-11-10T19:58:58.762Z",
  "links": {
   "https://hackney.gov.uk/node/403": {
    "status": 404,
@@ -378,7 +378,8 @@
    ],
    "weeksBroken": 2,
    "foundOn": [
-    "https://www.hackney.gov.uk/planning-and-building/view-and-comment-planning-applications"
+    "https://www.hackney.gov.uk/planning-and-building/view-and-comment-planning-applications",
+    "https://www.hackney.gov.uk/planning-and-building/make-planning-application/after-submitting-planning-application"
    ]
   },
   "https://www.teensagainstabuse.org/index.php?q=controlWheel": {
@@ -939,7 +940,8 @@
    ],
    "weeksBroken": 2,
    "foundOn": [
-    "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/fellows-court-and-weymouth-court"
+    "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/fellows-court-and-weymouth-court",
+    "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/clapton-park"
    ]
   },
   "http://www.map.hackney.gov.uk/Find-My-Nearest-Internal/?CAT=CM03|CM02": {
@@ -1347,6 +1349,188 @@
    "weeksBroken": 1,
    "foundOn": [
     "https://www.hackney.gov.uk/community-safety-and-environment/get-involved-your-community/eco-schools-programme"
+   ]
+  },
+  "https://support.google.com/mail/answer/56256?hl=en-GB": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/education/computers-and-digital-skills/improve-your-digital-skills"
+   ]
+  },
+  "https://support.google.com/a/users/answer/9259846": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/education/computers-and-digital-skills/improve-your-digital-skills"
+   ]
+  },
+  "https://support.google.com/a/users/answer/10197229?hl=en&ref_topic=9247638,7394060,2938454,&visit_id=637436344922760359-2990019082&rd=1": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/education/computers-and-digital-skills/improve-your-digital-skills"
+   ]
+  },
+  "https://www.learnmyway.com/explore-the-subjects/using-email": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/education/computers-and-digital-skills/improve-your-digital-skills"
+   ]
+  },
+  "https://www.cityoflondon.gov.uk/services/waste-and-recycling/commercial-waste/hazardous-waste-collection": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/asbestos-management"
+   ]
+  },
+  "https://webforms.hackney.gov.uk/ufs/ufsmain?formid=GEN_SERVICE_REQUEST2&SUBCATEGORY=Planning%20decision%20notices": {
+   "status": 0,
+   "reason": "ENOTFOUND",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/planning-and-building/make-planning-application/submit-planning-application/planning-decision-notices"
+   ]
+  },
+  "https://developmentandhousing.hackney.gov.uk/planning/index.html?fa=search": {
+   "status": 406,
+   "reason": "HTTP 406",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/planning-and-building/make-planning-application/submit-planning-application/planning-decision-notices"
+   ]
+  },
+  "https://rise.articulate.com/share/nwfNRMbVqoXgYxTlRUed2JsNq-ZC_K15": {
+   "status": 410,
+   "reason": "HTTP 410",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/health-and-social-care/drug-and-alcohol-support-and-advice/alcohol-support-and-advice"
+   ]
+  },
+  "https://www.homerton.nhs.uk/learning-disabilities-and-autism-service": {
+   "status": 0,
+   "reason": "UND_ERR_SOCKET",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/health-and-social-care/support-disabled-people/autism"
+   ]
+  },
+  "https://www.autismtas.org.au/about-autism/": {
+   "status": 0,
+   "reason": "ENOTFOUND",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/health-and-social-care/support-disabled-people/autism"
+   ]
+  },
+  "https://www.autismtas.org.au/about-autism/autism-strengths/": {
+   "status": 0,
+   "reason": "ENOTFOUND",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/health-and-social-care/support-disabled-people/autism"
+   ]
+  },
+  "https://www.autismtas.org.au/wp-content/uploads/2022/03/Autism-and-Communication-Poster.pdf": {
+   "status": 0,
+   "reason": "ENOTFOUND",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/health-and-social-care/support-disabled-people/autism"
+   ]
+  },
+  "https://twitter.com/wellstmarket": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/business-and-licensing/markets-and-street-trading/well-street-market"
+   ]
+  },
+  "https://bsky.app/profile/greenerhackney.bsky.social": {
+   "status": 404,
+   "reason": "HTTP 404",
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksBroken": 1,
+   "foundOn": [
+    "https://www.hackney.gov.uk/rubbish-and-recycling/other-ways-reduce-reuse-and-recycle/repair-events-and-clothes-swaps"
    ]
   }
  }
