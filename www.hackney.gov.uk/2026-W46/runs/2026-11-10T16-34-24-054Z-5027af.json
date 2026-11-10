@@ -1,0 +1,244 @@
+{
+ "runId": "2026-11-10T16-34-24-054Z-5027af",
+ "week": "2026-W46",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-10T16:34:24.408Z",
+ "scanned": [
+  "a154a9e7c3c6c9f8",
+  "4e4efdd88514ab20",
+  "1327f440b6bd9c09",
+  "e2b2257cbd5f6745",
+  "6430ca272c23118b",
+  "8d14a098ca42be27",
+  "66c83c37b577ee87",
+  "f00c713d2ecf9063",
+  "9409c61a4f1d8858",
+  "abf5f889690f8a19",
+  "887469897501956e",
+  "bf4baed6866a4c95",
+  "54481bcb5fc31623",
+  "2243640390fa14c8",
+  "0378f1c084093130",
+  "9b952feff5ea4636",
+  "f0acf6dda243b813",
+  "e91e32443e5117e6",
+  "60944d4bd790ff81",
+  "c211ee0d4a4ac258",
+  "ba75410fd8b0ecc7",
+  "073ab35922e8dcc9",
+  "e4a5d583c59cbbbe",
+  "8ba4d58d40676960",
+  "6ec0a4156eaadc8f",
+  "3421a54fa0f364a4",
+  "9eabaa75bf925f7f",
+  "e8477ede7ffe4094",
+  "3e7ee1ae4c1500bc",
+  "a45e3843b088342e",
+  "e34459661f928b3f",
+  "116911aaa11e99f7",
+  "5d2f30b208d02c29",
+  "444332761d8d3366",
+  "47c3f9724e768cd6",
+  "2dfaef16db4de62a",
+  "7d9b2af9f64d31e1",
+  "2b641f40af37116c",
+  "b71f3b3be9220a59",
+  "f409c924622a56b4",
+  "ab90efe49f42ff7f",
+  "4ba75c621c8e92d3",
+  "05dffe008c389835",
+  "e3cb90cf26f17498",
+  "f1c1ef1118d001e4",
+  "5274774e35d0d9d2",
+  "9085c48dd5dbbbe8",
+  "bb06c7c498d3d819"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 495,
+  "checked": 495,
+  "brokenCount": 15,
+  "broken": [
+   {
+    "url": "https://www.hta.co.uk/services/planning",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/clapton-park"
+    ]
+   },
+   {
+    "url": "http://www.windowsphone.com/en-gb/store/app/ringgo/b7105f7c-4239-4f60-8793-c2f045bfca29",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/parking-streets-and-transport/where-park/paying-short-stay-parking"
+    ]
+   },
+   {
+    "url": "https://adamkhan.co.uk/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/bridge-house-and-marian-court"
+    ]
+   },
+   {
+    "url": "https://www.saneukraine.org/en/home/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/welcome-hackney-refugee-migrant-and-asylum-seeker-service"
+    ]
+   },
+   {
+    "url": "https://gbr01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fthriveldn.co.uk%2Fcommunications%2Ftoolkits-and-resources%2Ftoolkit%2Fwellbeing-guidance-in-36-languages%2F&data=05%7C01%7Cjames.ludley%40nhs.net%7C280af55265444725995308db0f75c4e3%7C37c354b285b047f5b22207b48d774ee3%7C0%7C0%7C638120770700820981%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=3aJr87luiPXypdnQWaoR4%2BQVV62pNKhtG3mJF4MjM7U%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/welcome-hackney-refugee-migrant-and-asylum-seeker-service"
+    ]
+   },
+   {
+    "url": "https://gbr01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.good-thinking.uk%2Ffaith-and-belief-communities%2Fislam&data=05%7C01%7Cjames.ludley%40nhs.net%7C280af55265444725995308db0f75c4e3%7C37c354b285b047f5b22207b48d774ee3%7C0%7C0%7C638120770700977732%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=00NvE%2Bmgem8Co7HlYZYFIhP2BZj3vUjdUavY4mQhGw0%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/welcome-hackney-refugee-migrant-and-asylum-seeker-service"
+    ]
+   },
+   {
+    "url": "https://gbr01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.good-thinking.uk%2Fcoping-trauma-better-mental-health&data=05%7C01%7Cjames.ludley%40nhs.net%7C280af55265444725995308db0f75c4e3%7C37c354b285b047f5b22207b48d774ee3%7C0%7C0%7C638120770700977732%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=YC%2B7UkUxOl%2B3YkOG9W2BcklShejRvhyFjVedw73ey94%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/welcome-hackney-refugee-migrant-and-asylum-seeker-service"
+    ]
+   },
+   {
+    "url": "https://gbr01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.good-thinking.uk%2Fbereavement&data=05%7C01%7Cjames.ludley%40nhs.net%7C280af55265444725995308db0f75c4e3%7C37c354b285b047f5b22207b48d774ee3%7C0%7C0%7C638120770700977732%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=5H449L9TzaGhHQkyD4kDdb7tBMWThCPcY105vQUl%2B7w%3D&reserved=0",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/welcome-hackney-refugee-migrant-and-asylum-seeker-service"
+    ]
+   },
+   {
+    "url": "https://advice-ukraine.co.uk/",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/welcome-hackney-refugee-migrant-and-asylum-seeker-service"
+    ]
+   },
+   {
+    "url": "https://quakersocialaction.org.uk/we-can-help/helping-funerals/down-earth/information-guidance/raising-money-toward",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/births-deaths-marriages-and-citizenship/deaths/paying-funeral"
+    ]
+   },
+   {
+    "url": "http://www.event-insurance-online.com/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/get-involved-your-community/street-parties-or-large-or-commercial-events"
+    ]
+   },
+   {
+    "url": "https://www.nationalarchives.gov.uk/archives-sector/finding-funding/covid-19-archives-fund/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/hackney-archives/projects-events-and-exhibitions"
+    ]
+   },
+   {
+    "url": "http://twitter.com/ArchivesHackney",
+    "status": 520,
+    "reason": "HTTP 520",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/hackney-archives/projects-events-and-exhibitions"
+    ]
+   },
+   {
+    "url": "https://luisevormittag.com/Cracks",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/hackney-archives/projects-events-and-exhibitions"
+    ]
+   },
+   {
+    "url": "http://www.sebright.hackney.sch.uk/childrens-centre",
+    "status": 0,
+    "reason": "timeout",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/parks-list/haggerston-park"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "sustainability": 6,
+  "axe": 46,
+  "plain-language": 24,
+  "resources": 46,
+  "images": 46,
+  "link-check": 46,
+  "standards": 21,
+  "tech": 3,
+  "alfa": 23,
+  "third-party": 8,
+  "public-interest": 6,
+  "security": 7,
+  "lighthouse": 5,
+  "deprecated-html": 6
+ },
+ "tally": {
+  "ok": 46,
+  "blocked": 2,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 4,
+  "error": 0
+ },
+ "finishedAt": "2026-11-10T16:42:10.673Z"
+}
