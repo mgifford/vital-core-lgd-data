@@ -1,0 +1,134 @@
+{
+ "runId": "2026-11-10T13-49-16-964Z-091af5",
+ "week": "2026-W46",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-10T13:49:17.649Z",
+ "scanned": [
+  "534a2718ba9ee558",
+  "56fc1b45b3e078ca",
+  "b94cfc166d907db5",
+  "7fe32f910c83d696",
+  "84a3ed862db2835f",
+  "8d99654c8a2560ba",
+  "7ae0f1421dd3d050",
+  "6d3b1230240febd1",
+  "7943cc8e06689d29",
+  "f0228828999e534d",
+  "4a88502b074d43af",
+  "865772c8bcd5f050",
+  "36c5a959291ced0c",
+  "ec4d6c193ddd9f49",
+  "4a4a9bd1ef46924e",
+  "88961e4138b2d54a",
+  "4e053aea366abb9d",
+  "b23df5c5e1e51e4c",
+  "85b773d2945c5066",
+  "3dc3551d94d22d6a",
+  "bd156e41ef4ba5f2",
+  "6d74a0218d24d311",
+  "0edaa17d8b527e40",
+  "4a8cb43949f4abb3",
+  "a6bf2905c83c9c94",
+  "e9b933d5de24561c",
+  "c4753c7be115491d",
+  "e22b1f63324f6042",
+  "8aae55f6403e79ed",
+  "ca4aa81ffcc4f2dd",
+  "6cc1cd809b876b0f",
+  "691f3716450b6e35",
+  "c584a1f49370c16b",
+  "3c831e9f17cd36bb",
+  "8649e0eee49260e2",
+  "648d7464c60ebe44",
+  "cd51467ca186bb8d",
+  "e1dd1ddff41a1d46",
+  "def5a3d6f603945b",
+  "c69b7e99862a79a4",
+  "c4510486e43dd05f",
+  "5764ad983e99284a",
+  "5dd2855c5f591534",
+  "724de7c572f76928",
+  "f681e18b73fb9b9e",
+  "fabd2a27a5db0e32",
+  "0eb9ac53a6be2e02",
+  "bfe3ab6557a2a3f7",
+  "ea5c89c61db5fd58",
+  "0df900a716ce731d"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 1026,
+  "checked": 500,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "https://www.dudley.gov.uk/news/dudley-will-go-it-alone-on-housing-and-employment-plan/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/response-announcement-today-dudley-council-regarding-black-country-plan"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 48,
+  "alfa": 21,
+  "plain-language": 20,
+  "resources": 48,
+  "images": 48,
+  "standards": 18,
+  "link-check": 48,
+  "third-party": 11,
+  "lighthouse": 9,
+  "sustainability": 4,
+  "public-interest": 3,
+  "deprecated-html": 3,
+  "tech": 3,
+  "security": 3
+ },
+ "tally": {
+  "ok": 48,
+  "blocked": 2,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-11-10T14:06:08.487Z"
+}
