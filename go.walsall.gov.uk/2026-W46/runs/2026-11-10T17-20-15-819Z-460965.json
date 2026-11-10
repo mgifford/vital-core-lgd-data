@@ -1,0 +1,134 @@
+{
+ "runId": "2026-11-10T17-20-15-819Z-460965",
+ "week": "2026-W46",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-10T17:20:16.457Z",
+ "scanned": [
+  "7957a854cba3e01c",
+  "4ebcf59bd6852121",
+  "ef3b9eceac802579",
+  "5649ab5447b42f92",
+  "bd20c95f74c23c54",
+  "0cb8ae6a74e99a8c",
+  "b97713bafa54b63d",
+  "e0b95e4b2de3924a",
+  "98262828b0282b19",
+  "8f5b90a62d2e06d9",
+  "0193a380b0b0ceb0",
+  "97386dc0c315b986",
+  "f6a6925d3ec39cef",
+  "2b5e89d2051675f7",
+  "1fa98998df6a8c6b",
+  "0ea2647a912f28ed",
+  "4563305bdc494b02",
+  "592aa5784acd6f6f",
+  "be12dd4c7fcd4832",
+  "ca0f8f5aa77ee8e4",
+  "efb07667dd4e830d",
+  "0df9086ca59fc66a",
+  "b593359677340801",
+  "a7d54a3102e71016",
+  "c9b06b8c256665bc",
+  "f6e7f92995402e6f",
+  "aad0edcfd42c01ff",
+  "9a34cbd6548442de",
+  "efdebfde6488e528",
+  "62ff618eb2287c10",
+  "dc53b3150ec0c8d5",
+  "4a71314d610eb82c",
+  "08f0255c48b6d9fb",
+  "2df42c73ccdb5d39",
+  "34f3710d5188237b",
+  "3ca0f0a014293a43",
+  "de81123131933d17",
+  "69f610aeb6d0520d",
+  "37daf2ca0a9664fa",
+  "5e79eff901ffd20c",
+  "0c33a16364a70405",
+  "84510e7f09022f06",
+  "68adc4357c48a444",
+  "eb479cc89df606b0",
+  "4926e412c3748f5f",
+  "5f6ec70c68f27020",
+  "a2b06e1e4f113158",
+  "7589092451f1d735",
+  "dee7e1f6649deee8",
+  "5c73408b6c5ce884"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 929,
+  "checked": 500,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "http://www.brownhillssmusicaltheatre.co.uk/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://go.walsall.gov.uk/wellbeing-directory/brownhills-community-association-bmtc-youth"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 49,
+  "alfa": 20,
+  "plain-language": 26,
+  "resources": 49,
+  "images": 49,
+  "standards": 18,
+  "link-check": 49,
+  "third-party": 13,
+  "public-interest": 5,
+  "security": 4,
+  "tech": 6,
+  "deprecated-html": 7,
+  "sustainability": 2,
+  "lighthouse": 2
+ },
+ "tally": {
+  "ok": 49,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 0,
+  "error": 0
+ },
+ "finishedAt": "2026-11-10T17:31:57.301Z"
+}
