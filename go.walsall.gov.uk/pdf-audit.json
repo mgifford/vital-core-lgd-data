@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-11-09T01:56:21.141Z",
+ "updatedAt": "2026-11-10T04:18:43.499Z",
  "checker": {
   "name": "pdf-crawler",
   "url": "https://github.com/mgifford/pdf-crawler",
@@ -3000,6 +3000,256 @@
   },
   "https://go.walsall.gov.uk/sites/default/files/2022-09/Geological%20Constraints_0.pdf": {
    "checkedAt": "2026-11-09T01:56:21.139Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/ESF%20Community%20Grants%20Guidance%202019-2023%20v10%20.pdf": {
+   "checkedAt": "2026-11-10T04:18:07.453Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2025-07/Guidance%20to%20the%20role%20of%20duty%20holders.pdf": {
+   "checkedAt": "2026-11-10T04:18:08.955Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Guidance%20on%20Urban%20Design%20in%20the%20Planning%20Process.pdf": {
+   "checkedAt": "2026-11-10T04:18:10.457Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Heritage%20Assets_0.pdf": {
+   "checkedAt": "2026-11-10T04:18:11.959Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Heritage%20Assets_1.pdf": {
+   "checkedAt": "2026-11-10T04:18:13.461Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Heritage%20Assets%20Map.pdf": {
+   "checkedAt": "2026-11-10T04:18:14.963Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Introduction%202013.pdf": {
+   "checkedAt": "2026-11-10T04:18:16.465Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Issues%20and%20Options%20Consultation%20Summary%20document.pdf": {
+   "checkedAt": "2026-11-10T04:18:17.967Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Local%20Character%20Guidance.pdf": {
+   "checkedAt": "2026-11-10T04:18:19.469Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Map%201%20-%20Course%201%20-%20a%20short%20beginner%27s%20course%2C%201.1km%20long.pdf": {
+   "checkedAt": "2026-11-10T04:18:20.971Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Map%201%20-%20Course%20A%20-%20a%20short%2C%20easy%20course%2C%201.4km%20long.pdf": {
+   "checkedAt": "2026-11-10T04:18:22.473Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Map%202%20-%20Course%202%20-%20a%20short%2C%20easy%20course%2C%201.7km%20long.pdf": {
+   "checkedAt": "2026-11-10T04:18:23.975Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Map%202%20-%20Course%20B%20-%20a%20short%2C%20easy%20course%2C%201.1km%20long.pdf": {
+   "checkedAt": "2026-11-10T04:18:25.477Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Map%203%20-%20Course%203%20-%20a%20medium%20difficulty%20course%2C%202.4km%20long.pdf": {
+   "checkedAt": "2026-11-10T04:18:26.979Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Map%203%20-%20Course%20C%20-%20a%20medium%20difficulty%20course%2C%201.5km%20long.pdf": {
+   "checkedAt": "2026-11-10T04:18:28.481Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Map%204%20-%20Course%204%20-%20a%20medium%2C%20trickier%C2%A0course%2C%201.8km%20long.pdf": {
+   "checkedAt": "2026-11-10T04:18:29.983Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Map%204%20-%20Course%20D%20-%20a%20trickier%2C%20medium%20difficulty%20course%2C%202.0km%20long.pdf": {
+   "checkedAt": "2026-11-10T04:18:31.485Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Map%205%20-%20Course%205%20-%20a%20medium%2C%20trickier%20course%2C%203.1km%20long.pdf": {
+   "checkedAt": "2026-11-10T04:18:32.987Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Map%205%20-%20Course%20E%20-%20a%20difficult%20course%2C%20medium%20length.pdf": {
+   "checkedAt": "2026-11-10T04:18:34.489Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Map%206%20-%20Course%206%20-%20a%20difficult%20course%2C%203.2km%20long.pdf": {
+   "checkedAt": "2026-11-10T04:18:35.991Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Map%207%20-%20Course%207%20-%20a%20difficult%2C%20longer%20course%2C%204.5km%20long.pdf": {
+   "checkedAt": "2026-11-10T04:18:37.491Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Map%208%20-%20Course%208%20-%20a%20difficult%2C%20longer%20course%2C%204.5km%20long.pdf": {
+   "checkedAt": "2026-11-10T04:18:38.993Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/National%20Design%20Guidance.pdf": {
+   "checkedAt": "2026-11-10T04:18:40.495Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Natural%20Environment%20Assets_0.pdf": {
+   "checkedAt": "2026-11-10T04:18:41.997Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Natural%20Environment%20Assets_1.pdf": {
+   "checkedAt": "2026-11-10T04:18:43.497Z",
    "week": "2026-W46",
    "httpStatus": null,
    "status": "error",
