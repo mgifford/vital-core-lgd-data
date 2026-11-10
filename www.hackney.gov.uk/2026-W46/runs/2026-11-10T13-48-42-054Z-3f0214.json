@@ -1,0 +1,161 @@
+{
+ "runId": "2026-11-10T13-48-42-054Z-3f0214",
+ "week": "2026-W46",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-10T13:48:42.978Z",
+ "scanned": [
+  "9f04c0e7dba9e126",
+  "12bef4a88912f471",
+  "973a0576f7132851",
+  "b7c38ed35fa3248a",
+  "a0691a634c3ce6c9",
+  "bed046ea2f3ab93f",
+  "6f66d93cb10276c6",
+  "efdcfe5e134e9243",
+  "ca8a5409fe47bb44",
+  "a1e3057b468ad715",
+  "3b969fb2ef824da7",
+  "5c3be841e972db61",
+  "e3baff799c645e62",
+  "bfae1f8b357913ce",
+  "1b1db3b89743525c",
+  "9b6ab9f5a8262f60",
+  "4b41d90bf0f643c6",
+  "e2b0809c09be8366",
+  "5439d1db67b402ea",
+  "76b588c59f2d41c1",
+  "5767c4a770e30f97",
+  "4d398088215e10c2",
+  "5f88bb5a8b07427b",
+  "ab2a564390a507b1",
+  "953a443ad317252b",
+  "cd2c1c0ff9281519",
+  "01f0df857ce887dc",
+  "91e43aaad326bb5d",
+  "477ccb5199d3e61b",
+  "d6ab5d179731ec0a",
+  "7bc9c066deef7882",
+  "552f51f9048d9828",
+  "1acf52a3af840fcf",
+  "0a846aa880b3bee7",
+  "cab23d4f971c89a0",
+  "ba72b0ab419dd5f9",
+  "8f7707a67c8513b1",
+  "b5fee45bf3f229d3",
+  "df62cf12bee141e1",
+  "ff4f672a19f4e5a0",
+  "3acdd47c85577f6c",
+  "8dff817c79af3194",
+  "4ee66a1362bb964c",
+  "3c9f94689fb3641c",
+  "fd8e7debddb09a44",
+  "5f95ad11347ac7a7",
+  "d42d19f12d2c39a1"
+ ],
+ "errors": [
+  {
+   "pageId": "606ac760cb82c969",
+   "url": "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/car-clubs",
+   "error": "TimeoutError: page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/car-clubs\", waiting until \"load\"\n"
+  }
+ ],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 422,
+  "checked": 422,
+  "brokenCount": 4,
+  "broken": [
+   {
+    "url": "https://twitter.com/wellstmarket",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/business-and-licensing/markets-and-street-trading/well-street-market"
+    ]
+   },
+   {
+    "url": "https://bsky.app/profile/greenerhackney.bsky.social",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/rubbish-and-recycling/other-ways-reduce-reuse-and-recycle/repair-events-and-clothes-swaps"
+    ]
+   },
+   {
+    "url": "http://www.healthwatchhackney.co.uk/",
+    "status": 0,
+    "reason": "UND_ERR_SOCKET",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/health-professionals/health-and-wellbeing-board"
+    ]
+   },
+   {
+    "url": "https://transform.england.nhs.uk/information-governance/guidance/records-management-code/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/council-and-elections/data-protection-and-freedom-information/privacy-statements/public-health-privacy-notice"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 47,
+  "alfa": 26,
+  "resources": 47,
+  "images": 47,
+  "standards": 21,
+  "link-check": 47,
+  "third-party": 9,
+  "plain-language": 27,
+  "public-interest": 7,
+  "security": 5,
+  "tech": 4,
+  "deprecated-html": 6,
+  "lighthouse": 4,
+  "sustainability": 1
+ },
+ "tally": {
+  "ok": 47,
+  "blocked": 0,
+  "timeout": 1,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 2,
+  "error": 0
+ },
+ "finishedAt": "2026-11-10T13:56:38.389Z"
+}
