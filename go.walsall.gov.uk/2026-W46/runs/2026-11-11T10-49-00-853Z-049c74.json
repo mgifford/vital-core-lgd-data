@@ -1,0 +1,132 @@
+{
+ "runId": "2026-11-11T10-49-00-853Z-049c74",
+ "week": "2026-W46",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-11T10:49:01.644Z",
+ "scanned": [
+  "76f92c33513cae8b",
+  "bbfbbb3603cbb932",
+  "4ec742c14ed8473b",
+  "955a76e7b13f320e",
+  "0aa0ed560239229e",
+  "0a9ed5a12feca6e1",
+  "566c2510aed9291a",
+  "5df2c9c3d311e313",
+  "7e954f90d704f3af",
+  "64d34ed926213735",
+  "de4e0f8af93f7529",
+  "4cc12fc28be55381",
+  "a99c0e568771e6d5",
+  "3f3f56a2bf0c1e7a",
+  "4f3eb2b02783067a",
+  "ad7ef8a83b321bab",
+  "15d11864b294e10a",
+  "40bbffcf797dc843",
+  "7e09bcc6df7765a4",
+  "d97eb0d7a5207a7e",
+  "8de3bfc7a4a441fd",
+  "0239919cd883f1d3",
+  "40b75aaf9dca6f8c",
+  "08a4e3bb96f1888b",
+  "9a2959daf977ac03",
+  "99c30b9575abdf86",
+  "9ac3c55862f657bd",
+  "c9e7c83ee306b49c",
+  "6a2f5080ba33bc5e",
+  "f32d90cae84dac25",
+  "7211dc1ecb0aec09",
+  "d079e720374fd454",
+  "86cb79c7671456df",
+  "5a01f1cf5035c019",
+  "bae0381c3d7ea0b0",
+  "8252c89be832b685",
+  "872340a243519dd6",
+  "14eb56b1bc76cfe6",
+  "f81847bd00700b70",
+  "9b27e32e32a87dcb",
+  "0f02df93959b76e7",
+  "7fd27e0c1f4dbceb",
+  "8af49f21f50efc06",
+  "52d89c7f8f08e94f",
+  "e544a151695a6381",
+  "d8c5d6169c21c494",
+  "d8c9f84013074b5d",
+  "d45ac979a636804e",
+  "06703a555066662a"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 931,
+  "checked": 500,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "https://wslc.walsall.gov.uk/leisurehub/identity/login?",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://go.walsall.gov.uk/events/pool-floats-fun-session-bloxwich-active-living-centre-1"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 49,
+  "alfa": 26,
+  "resources": 49,
+  "images": 49,
+  "standards": 20,
+  "link-check": 49,
+  "sustainability": 6,
+  "third-party": 15,
+  "lighthouse": 9,
+  "public-interest": 6,
+  "plain-language": 21,
+  "deprecated-html": 4,
+  "tech": 1
+ },
+ "tally": {
+  "ok": 49,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 1,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-11-11T11:07:21.936Z"
+}
