@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-11-10T04:18:43.499Z",
+ "updatedAt": "2026-11-11T02:13:21.395Z",
  "checker": {
   "name": "pdf-crawler",
   "url": "https://github.com/mgifford/pdf-crawler",
@@ -3250,6 +3250,256 @@
   },
   "https://go.walsall.gov.uk/sites/default/files/2022-09/Natural%20Environment%20Assets_1.pdf": {
    "checkedAt": "2026-11-10T04:18:43.497Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-06/A%20history%20of%20the%20leather%20industry%20in%20Walsall.pdf": {
+   "checkedAt": "2026-11-11T02:12:45.346Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-06/A%20Walsall%20Timeline.pdf": {
+   "checkedAt": "2026-11-11T02:12:46.849Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-06/Image%20Charges%20April%202019.pdf": {
+   "checkedAt": "2026-11-11T02:12:48.351Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-06/Leather%20Bibliography%20v2.pdf": {
+   "checkedAt": "2026-11-11T02:12:49.853Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-07/Walsall%20Road%20Safety%20Strategy.pdf": {
+   "checkedAt": "2026-11-11T02:12:51.356Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/aet-transition-toolkit_4539F72B-B61F-432D-828C-040AB7866B782022-05-13T07-08-32.pdf": {
+   "checkedAt": "2026-11-11T02:12:52.858Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-08/Litter%20Picking%20Volunteer%20Booklet%20%281%29.pdf": {
+   "checkedAt": "2026-11-11T02:12:54.360Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/the_local_list_updated_february10.pdf": {
+   "checkedAt": "2026-11-11T02:12:55.861Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-10/Scheme%20one%20area%20streets.pdf": {
+   "checkedAt": "2026-11-11T02:12:57.363Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-10/Walsall%20HMO%20LICENCE%20CONDITIONS%20Oct%2022.pdf": {
+   "checkedAt": "2026-11-11T02:12:58.865Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2023-04/Additional%20licensing%20proposed%20fees%202023-24.pdf": {
+   "checkedAt": "2026-11-11T02:13:00.368Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2024-11/Available%20relocation%20properties%20Nov%202024.pdf": {
+   "checkedAt": "2026-11-11T02:13:01.869Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2025-01/Aldi%20Brownhills%20FAQ%206%20Jan%202025.pdf": {
+   "checkedAt": "2026-11-11T02:13:03.372Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Orienteering%20barr%20beacon%20permanent%20controls_A-%20Short%20beginners.pdf": {
+   "checkedAt": "2026-11-11T02:13:04.874Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Orienteering%20barr%20beacon%20permanent%20controls_B-Medium%20beginners.pdf": {
+   "checkedAt": "2026-11-11T02:13:06.376Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Orienteering%20barr%20beacon%20permanent%20controls_C-%20Short%20trickier.pdf": {
+   "checkedAt": "2026-11-11T02:13:07.878Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Orienteering%20barr%20beacon%20permanent%20controls_D-%20Medium%20trickier.pdf": {
+   "checkedAt": "2026-11-11T02:13:09.380Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Orienteering%20barr%20beacon%20permanent%20controls_E-%20Long%20hard.pdf": {
+   "checkedAt": "2026-11-11T02:13:10.882Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Revoked%20SPD%20letter%20February%202012.pdf": {
+   "checkedAt": "2026-11-11T02:13:12.384Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Schedule%20of%20Further%20Proposed%20Modifications.pdf": {
+   "checkedAt": "2026-11-11T02:13:13.886Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Shop%20Front%20Determination%20Statement.pdf": {
+   "checkedAt": "2026-11-11T02:13:15.386Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Shop%20Front%20SEA%20Screening%20Statement.pdf": {
+   "checkedAt": "2026-11-11T02:13:16.887Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Shop%20Front%20SPD%20April%202015.pdf": {
+   "checkedAt": "2026-11-11T02:13:18.389Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Site%20Changes.pdf": {
+   "checkedAt": "2026-11-11T02:13:19.891Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/stan_ball_room_hire_information.pdf": {
+   "checkedAt": "2026-11-11T02:13:21.393Z",
    "week": "2026-W46",
    "httpStatus": null,
    "status": "error",
