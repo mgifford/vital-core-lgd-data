@@ -1,0 +1,131 @@
+{
+ "runId": "2026-11-11T12-57-43-014Z-10f15a",
+ "week": "2026-W46",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-11T12:57:43.998Z",
+ "scanned": [
+  "56662b1312203476",
+  "258d1ba77d61f403",
+  "5973ed4a55516925",
+  "5944e849169c455d",
+  "e4777aca41aabe1f",
+  "a1bf96e2f4bfb165",
+  "38bda29aa4e0ea4f",
+  "db88a81f029d3f6e",
+  "7f5984aae4143017",
+  "089fe9813ef3edc4",
+  "ca9d895761e1f1b5",
+  "2de6cd5ec0581f51",
+  "9ba8e718f14b6328",
+  "acf225a24cfa8ace",
+  "959ad13ccd6c238d",
+  "0b9057e674c55895",
+  "5cd8bf22aa0cc456",
+  "356ee5b2a37c0551",
+  "d94d6a5b105adc29",
+  "d56ed1bc0a6935f8",
+  "3c5b5c9f420e27e2",
+  "e3bf414a1a7cc4d0",
+  "6802dc8dfce22734",
+  "ce2f22db4ff9ca8a",
+  "632787d62260a3ce",
+  "2a1da162aab45313",
+  "f5ffbced7f451cb3",
+  "3a88aa20ff69f448",
+  "9b2ee4ace47842a1",
+  "f95ca137abfeb2cf",
+  "bcf6e9c8451a01de",
+  "3becedc3febc6011",
+  "e25fa1c801ea7332",
+  "a25cf3695aad0357",
+  "7fbcf43a3f7d3cce",
+  "08ef8b1b80149952",
+  "26eab47d0575e634",
+  "f1ce027e2c4b6d8a",
+  "f760e3463d395941",
+  "90482d266fd081af",
+  "0d638321f2bd97a7",
+  "1dc04abc05fcff85",
+  "cd24a7d0c87a24c9",
+  "b488ccebde5f1372",
+  "b60166fabde8b570",
+  "31200e87c94c3c96",
+  "ec6045c561313566"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 988,
+  "checked": 500,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "https://www.hta.co.uk/services/planning",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/hackney-building/where-hackney-building/wayman-court"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 47,
+  "alfa": 22,
+  "resources": 47,
+  "images": 47,
+  "link-check": 47,
+  "standards": 20,
+  "plain-language": 22,
+  "security": 7,
+  "third-party": 6,
+  "tech": 5,
+  "lighthouse": 5,
+  "public-interest": 7,
+  "sustainability": 5,
+  "deprecated-html": 3
+ },
+ "tally": {
+  "ok": 47,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 4,
+  "error": 0
+ },
+ "finishedAt": "2026-11-11T13:05:11.436Z"
+}
