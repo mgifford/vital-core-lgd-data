@@ -1,0 +1,224 @@
+{
+ "runId": "2026-11-11T17-29-45-953Z-bf1f22",
+ "week": "2026-W46",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-11T17:29:46.353Z",
+ "scanned": [
+  "0b0ea65219251eae",
+  "06316e3e9cb42f73",
+  "a4db158501d19838",
+  "d4f64847dde67582",
+  "a7e54e4bb5cbc275",
+  "c3714157fe90c55a",
+  "199ce9948dfac47f",
+  "8c0e6b72e59b7faa",
+  "d8438cabcf79515f",
+  "4f29a35354cd8c58",
+  "6583b078bc0dfec6",
+  "fdd18c8e15f0a489",
+  "bfcfe155ab8fe643",
+  "8dc6c095ee3b20cf",
+  "3b5cdead0910806f",
+  "4646d0496f62f3ab",
+  "0f0f61285458fd25",
+  "6ab587cc48421228",
+  "798978a367cca058",
+  "f9790239e4e05de7",
+  "e0e89fb44f77d724",
+  "3f6d568dd86565a6",
+  "e086e17a960015d2",
+  "a9891570743c3686",
+  "8e0a62978f514b2d",
+  "be694e79918f8a6f",
+  "8034c4d86eeb6431",
+  "614118e27689fea3",
+  "2dbc13252cef15ed",
+  "7ba98c26ce5252a4",
+  "0304fe3e099a7159",
+  "4fa79281a2c0634f",
+  "15e12e7fe7b4af40",
+  "e6efd097be48abee",
+  "3112c4161d22645a",
+  "a19de9ae990aacac",
+  "184ee8c3d37797ef",
+  "da93d79166390166",
+  "03be09f446db1ed4",
+  "2cddb799a45f6951",
+  "7df77a4854b9fe9b",
+  "9fddafea454e356d",
+  "ab6022931ea1e739",
+  "52247776b0d5aab5",
+  "146a47234083210f",
+  "43487b227afa3524"
+ ],
+ "errors": [
+  {
+   "pageId": "ccba3ac2c08884b2",
+   "url": "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/cycling/cycle-hangars",
+   "error": "TimeoutError: page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/cycling/cycle-hangars\", waiting until \"load\"\n"
+  }
+ ],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 657,
+  "checked": 500,
+  "brokenCount": 12,
+  "broken": [
+   {
+    "url": "https://www.specialguardiansnorthlondon.co.uk/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/children-and-families/fostering/hackney-kinship-care-local-offer"
+    ]
+   },
+   {
+    "url": "https://www.chatworkshackney.co.uk/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/children-and-families/fostering/hackney-kinship-care-local-offer"
+    ]
+   },
+   {
+    "url": "https://www.houseexchange.org.uk/",
+    "status": 0,
+    "reason": "ENOTFOUND",
+    "foundOn": [
+     "https://www.hackney.gov.uk/housing/council-tenants/tenancy-agreement/move-your-social-home"
+    ]
+   },
+   {
+    "url": "http://www.crg.uk.com/homecare/",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/help-home/home-care-providers"
+    ]
+   },
+   {
+    "url": "https://www.hackneycircle.co.uk/",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/culture/culture-activities-events-and-funding-opportunities-hackney"
+    ]
+   },
+   {
+    "url": "https://www.lovehackney.uk/culturalhackney",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/libraries-parks-and-leisure/culture/culture-activities-events-and-funding-opportunities-hackney"
+    ]
+   },
+   {
+    "url": "https://www.hackneyicare.org.uk/kb5/hackney/asch/service.page?id=b6TaNEd6lf0",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/help-home/home-care-providers"
+    ]
+   },
+   {
+    "url": "https://developmentandhousing.hackney.gov.uk/building_control/building_applications/index.html",
+    "status": 406,
+    "reason": "HTTP 406",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/building-control/building-control-application-types"
+    ]
+   },
+   {
+    "url": "https://olioex.com/",
+    "status": 0,
+    "reason": "ERR_SSL_SSL/TLS_ALERT_HANDSHAKE_FAILURE",
+    "foundOn": [
+     "https://www.hackney.gov.uk/rubbish-and-recycling/other-ways-reduce-reuse-and-recycle/ways-reduce-waste-and-reuse-items"
+    ]
+   },
+   {
+    "url": "https://www.teensagainstabuse.org/index.php?q=controlWheel",
+    "status": 0,
+    "reason": "EAI_AGAIN",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/domestic-abuse/domestic-abuse-support"
+    ]
+   },
+   {
+    "url": "https://web.archive.org/web/20230329102040mp_/http://claudiajones.org/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/domestic-abuse/domestic-abuse-support"
+    ]
+   },
+   {
+    "url": "https://web.archive.org/web/20230329102040mp_/https://www.hackneyicare.org.uk/kb5/hackney/asch/service.page?id=xKLqkZIEk2o",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/domestic-abuse/domestic-abuse-support"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 46,
+  "resources": 46,
+  "images": 46,
+  "standards": 20,
+  "link-check": 46,
+  "alfa": 19,
+  "plain-language": 23,
+  "third-party": 13,
+  "sustainability": 5,
+  "tech": 8,
+  "security": 5,
+  "public-interest": 7,
+  "deprecated-html": 3,
+  "lighthouse": 4
+ },
+ "tally": {
+  "ok": 46,
+  "blocked": 0,
+  "timeout": 1,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 5,
+  "error": 0
+ },
+ "finishedAt": "2026-11-11T17:40:20.697Z"
+}
