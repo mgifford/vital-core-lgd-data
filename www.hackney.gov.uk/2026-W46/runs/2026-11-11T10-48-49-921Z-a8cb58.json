@@ -1,0 +1,277 @@
+{
+ "runId": "2026-11-11T10-48-49-921Z-a8cb58",
+ "week": "2026-W46",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-11T10:48:50.299Z",
+ "scanned": [
+  "bc0ebdfc6e6cfb45",
+  "61310dfa0212742f",
+  "b894c2ca35fb6958",
+  "19c36bb2ae203b9b",
+  "80237aae63e91f66",
+  "0c3802314a455be2",
+  "9aa2c9e35738c3c5",
+  "7414bd836ec3c67a",
+  "a80310ab44d142a4",
+  "f65aba0c43315fba",
+  "4c4c2a3feb915da4",
+  "2111fcec6b44880e",
+  "d9517652d25317e9",
+  "3fed5486f8b6dd17",
+  "315f770b401543b2",
+  "12942e0383d76d29",
+  "f7b4db28f32f68c9",
+  "01a524492e6bae49",
+  "86865a52d6ad33c6",
+  "6c46d6c9a8f14fa6",
+  "4560f045a99a2655",
+  "45f7fa9e26d5a57e",
+  "9f4fe69ad866bf6d",
+  "d7d6dcd179fbb588",
+  "3eeff22bef250eb7",
+  "d30f82f3f305d7a8",
+  "2ed962ab5a86f3bb",
+  "321e505fc3092df2",
+  "43be08c4670f7544",
+  "3a20d991f3286f04",
+  "874a8931f99a1663",
+  "3df16a69d7530dc8",
+  "d911b608cdf0ceda",
+  "481269480fdfc80e",
+  "f9fb1bf9770d47c6",
+  "b679df7762f10e8d",
+  "64e8388ce5cb016d",
+  "6d987a7cfa658649",
+  "8a6f9248c5ab5501",
+  "1322d48bf5b6cc0b",
+  "654a929dab0a722d",
+  "fde77f13f3c011b1",
+  "da61f6ee7be50442",
+  "5f886cd3302726aa",
+  "31bc9eb78a9f6a82",
+  "27c5dc9be2c84249",
+  "960d8edc627e575f",
+  "e62cb218830639d5",
+  "fbdc675298f9e4f5"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 499,
+  "checked": 499,
+  "brokenCount": 19,
+  "broken": [
+   {
+    "url": "https://developmentandhousing.hackney.gov.uk/registers/index.html?fa=enforcement_register",
+    "status": 406,
+    "reason": "HTTP 406",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/planning-enforcement/planning-control-breaches"
+    ]
+   },
+   {
+    "url": "https://developmentandhousing.hackney.gov.uk/",
+    "status": 406,
+    "reason": "HTTP 406",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/planning-enforcement/planning-control-breaches"
+    ]
+   },
+   {
+    "url": "https://www.civicaepay.co.uk/HackneyEstore/estore/default/Basket/ViewBasket",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/payments"
+    ]
+   },
+   {
+    "url": "https://www.civicaepay.co.uk/HackneyEstore/estore/default/Account/Login?Area=",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/payments"
+    ]
+   },
+   {
+    "url": "https://www.civicaepay.co.uk/HackneyEstore/estore/default/Account/Login",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/payments"
+    ]
+   },
+   {
+    "url": "https://hackney.gov.uk/apps",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/payments"
+    ]
+   },
+   {
+    "url": "https://www.civicaepay.co.uk/HackneyEstore/estore/default/Footer/AccessibilityStatement",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/payments"
+    ]
+   },
+   {
+    "url": "https://www.civicaepay.co.uk/HackneyEstore/estore/default/Footer/CookiePage",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/payments"
+    ]
+   },
+   {
+    "url": "https://www.civicaepay.co.uk/HackneyEstore/estore/default/Footer/SiteMap",
+    "status": 0,
+    "reason": "fetch failed",
+    "foundOn": [
+     "https://www.hackney.gov.uk/payments"
+    ]
+   },
+   {
+    "url": "http://content.tfl.gov.uk/strategic-cycling-analysis.pdf",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/cycling/cycleway-23"
+    ]
+   },
+   {
+    "url": "http://www.london-fire.gov.uk/know-the-plan.asp",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/housing/stay-safe-your-home/fire-safety/general-fire-safety-advice"
+    ]
+   },
+   {
+    "url": "https://www.london-fire.gov.uk/safety/the-home/book-a-home-fire-safety-visit/",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://www.hackney.gov.uk/housing/stay-safe-your-home/fire-safety/general-fire-safety-advice"
+    ]
+   },
+   {
+    "url": "https://trace.london/",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.hackney.gov.uk/parking-streets-and-transport/enforcement-and-removal-vehicles/abandoned-vehicle-removal"
+    ]
+   },
+   {
+    "url": "https://www.holbornstudios.com/events/",
+    "status": 0,
+    "reason": "CERT_HAS_EXPIRED",
+    "foundOn": [
+     "https://www.hackney.gov.uk/births-deaths-marriages-and-citizenship/marriage-civil-partnership-and-other-ceremonies/find-venue-your-marriage-or-civil-partnership"
+    ]
+   },
+   {
+    "url": "https://weather.metoffice.gov.uk/warnings-and-advice/uk-warnings",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/community-safety-and-crime-prevention/emergency-planning-and-response/flood-warnings-and-planning"
+    ]
+   },
+   {
+    "url": "https://www.metoffice.gov.uk/weather/warnings-and-advice/uk-warnings",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/community-safety-and-crime-prevention/emergency-planning-and-response/flood-warnings-and-planning"
+    ]
+   },
+   {
+    "url": "https://nationalfloodforum.org.uk/about-flooding/preparing/emergency-flood-kit/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/community-safety-and-crime-prevention/emergency-planning-and-response/flood-warnings-and-planning"
+    ]
+   },
+   {
+    "url": "https://nationalfloodforum.org.uk/about-flooding/reducing-your-risk/protecting-your-property/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/community-safety-and-crime-prevention/emergency-planning-and-response/flood-warnings-and-planning"
+    ]
+   },
+   {
+    "url": "https://nationalfloodforum.org.uk/about-flooding/reducing-your-risk/property-protection-advisor/",
+    "status": 404,
+    "reason": "HTTP 404",
+    "foundOn": [
+     "https://www.hackney.gov.uk/community-safety-and-environment/community-safety-and-crime-prevention/emergency-planning-and-response/flood-warnings-and-planning"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 49,
+  "plain-language": 23,
+  "resources": 49,
+  "images": 49,
+  "standards": 24,
+  "third-party": 18,
+  "lighthouse": 4,
+  "link-check": 49,
+  "alfa": 23,
+  "security": 5,
+  "deprecated-html": 6,
+  "tech": 5,
+  "public-interest": 5,
+  "sustainability": 3
+ },
+ "tally": {
+  "ok": 49,
+  "blocked": 0,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-11-11T10:56:49.507Z"
+}
