@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-11-10T19:58:56.651Z",
+ "updatedAt": "2026-11-11T19:50:55.237Z",
  "vendors": {
   "pure.cloud": {
    "firstSeen": "2026-W44",
@@ -2069,12 +2069,13 @@
   },
   "digitaleast.mobi": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "isScriptVendor": false
   },
   "media6degrees.com": {
@@ -2545,12 +2546,13 @@
   },
   "springserve.com": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "isScriptVendor": false
   },
   "trafmag.com": {
@@ -3009,11 +3011,12 @@
   },
   "tappx.com": {
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W46"
    ],
-   "weeksSeen": 1,
+   "weeksSeen": 2,
    "isScriptVendor": false
   },
   "travelaudience.com": {

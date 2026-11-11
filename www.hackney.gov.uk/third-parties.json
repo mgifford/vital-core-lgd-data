@@ -1,6 +1,6 @@
 {
  "domain": "www.hackney.gov.uk",
- "updatedAt": "2026-11-10T19:58:58.762Z",
+ "updatedAt": "2026-11-11T19:50:57.448Z",
  "vendors": {
   "hotjar.com": {
    "firstSeen": "2026-W44",
@@ -231,6 +231,60 @@
    "lastSeen": "2026-W45",
    "_weeks": [
     "2026-W45"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": true
+  },
+  "fbcdn.net": {
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": true
+  },
+  "civicaepay.co.uk": {
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": true
+  },
+  "prgloo.com": {
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "facebook.com": {
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": false
+  },
+  "facebook.net": {
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
+   ],
+   "weeksSeen": 1,
+   "isScriptVendor": true
+  },
+  "cloudflareinsights.com": {
+   "firstSeen": "2026-W46",
+   "lastSeen": "2026-W46",
+   "_weeks": [
+    "2026-W46"
    ],
    "weeksSeen": 1,
    "isScriptVendor": true
