@@ -1,0 +1,163 @@
+{
+ "runId": "2026-11-12T10-58-35-224Z-363e69",
+ "week": "2026-W46",
+ "domain": "www.hackney.gov.uk",
+ "canonical": {
+  "origin": "https://www.hackney.gov.uk",
+  "configured": "https://www.hackney.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-12T10:58:35.582Z",
+ "scanned": [
+  "ccba3ac2c08884b2",
+  "4a2e5dfd975eb421",
+  "1878d51e280a77d0",
+  "f9440894e15de444",
+  "3b13b5705109a1cb",
+  "8dbf5d0727b0aa5e",
+  "715a159066e766a6",
+  "2c788466610f96bd",
+  "20fad5080f86f497",
+  "4b04abeb10740710",
+  "f5188b443789a03b",
+  "84c335bf4c1d0c1f",
+  "726eae16680c3c88",
+  "d0bd792b32ba4710",
+  "4c0f6194eef7267d",
+  "2a9314fda4014b5c",
+  "a1f88555a9832d28",
+  "607f67fe68f35f42",
+  "037599cabfadcfb0",
+  "0afb399793b3c5d0",
+  "582f8b2f68e6ac4f",
+  "d5f78a9280fb0416",
+  "8ec11588091fb833",
+  "01fdb23a7c512f3a",
+  "d396b38a543dc9f7",
+  "082447223dd77c75",
+  "e36897c2c2f86b1d",
+  "5def3ebd892924e9",
+  "ac53715535168b7d",
+  "d22366af32e65e88",
+  "2dd2222e253ddb61",
+  "1b58c426488ed50e",
+  "676e7a8402a97270",
+  "c2de984016471364",
+  "ed62ee0d69a30f39",
+  "e49e239487629b61",
+  "7cff57a27b53bdd9",
+  "971cfa0ba20f051f",
+  "9b11d926098de5be",
+  "959c46d09f38a293",
+  "23087d8b6efeec80",
+  "79c0e500373073f3",
+  "c38f3f6e38c06643",
+  "974ca0a84648fcb1",
+  "46875c59624ca8c6",
+  "66815a1b10c12bea",
+  "3fe5f73154fd5201"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 406,
+  "checked": 406,
+  "brokenCount": 5,
+  "broken": [
+   {
+    "url": "http://www.rac.co.uk/route-planner/",
+    "status": 500,
+    "reason": "HTTP 500",
+    "foundOn": [
+     "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/transport-hackney"
+    ]
+   },
+   {
+    "url": "https://developmentandhousing.hackney.gov.uk/",
+    "status": 406,
+    "reason": "HTTP 406",
+    "foundOn": [
+     "https://www.hackney.gov.uk/planning-and-building/make-planning-application/pre-application-services/get-pre-application-advice"
+    ]
+   },
+   {
+    "url": "http://www.crg.uk.com/homecare/",
+    "status": 0,
+    "reason": "ERR_TLS_CERT_ALTNAME_INVALID",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/choose-who-provides-your-social-care"
+    ]
+   },
+   {
+    "url": "https://www.hackneyicare.org.uk/kb5/hackney/asch/service.page?id=TC822IfVtQo",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/choose-who-provides-your-social-care"
+    ]
+   },
+   {
+    "url": "https://www.hackneyicare.org.uk/kb5/hackney/asch/service.page?id=PpOJW1HKzHk&adultchannel=0",
+    "status": 0,
+    "reason": "UND_ERR_CONNECT_TIMEOUT",
+    "foundOn": [
+     "https://www.hackney.gov.uk/health-and-social-care/adult-social-care/choose-who-provides-your-social-care"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "sustainability": 10,
+  "axe": 45,
+  "alfa": 20,
+  "resources": 45,
+  "images": 45,
+  "link-check": 45,
+  "plain-language": 24,
+  "standards": 26,
+  "public-interest": 7,
+  "lighthouse": 5,
+  "tech": 6,
+  "deprecated-html": 4,
+  "third-party": 6,
+  "security": 2
+ },
+ "tally": {
+  "ok": 45,
+  "blocked": 2,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 3,
+  "error": 0
+ },
+ "finishedAt": "2026-11-12T11:06:11.237Z"
+}
