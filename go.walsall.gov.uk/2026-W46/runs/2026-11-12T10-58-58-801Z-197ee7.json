@@ -1,0 +1,134 @@
+{
+ "runId": "2026-11-12T10-58-58-801Z-197ee7",
+ "week": "2026-W46",
+ "domain": "go.walsall.gov.uk",
+ "canonical": {
+  "origin": "https://go.walsall.gov.uk",
+  "configured": "https://go.walsall.gov.uk",
+  "httpsProblem": null,
+  "note": null
+ },
+ "robots": {
+  "rootAllowed": true
+ },
+ "startedAt": "2026-11-12T10:58:59.607Z",
+ "scanned": [
+  "f37720a02bb475b0",
+  "0018869ca6c189d2",
+  "1299f69456e0e148",
+  "a56c2f29c763ef82",
+  "cf99ba02429c4b44",
+  "f3e78ecb0b789c2a",
+  "f63d2443a0695393",
+  "4c11efbb866df7b5",
+  "25cba0959c430e5e",
+  "b068c0cbf664ae8b",
+  "5c6437b2b9f72edc",
+  "84e383e3dbb26c2f",
+  "a5c61ccaa4370118",
+  "d50cb61e66154f1a",
+  "7aaf1d5ab81a2e80",
+  "27e240ec672199c6",
+  "c53ab28abe497032",
+  "b665586e7ec2e1f3",
+  "462804384574cb5e",
+  "a30308b0b0ec94f3",
+  "9d8e1605224efcaa",
+  "bfc7f23ee1d9623f",
+  "fcca9fceb95600d7",
+  "1a5707f48b4c6986",
+  "c34171745e1eff7c",
+  "dac4b70c4e01c80c",
+  "d97610e97ff96a74",
+  "1117898d2f8fbfbf",
+  "d3406d9913c41732",
+  "30f48eb803545d19",
+  "e1124c6f1377989e",
+  "5525e5e06da9fd2b",
+  "0ed4c09fc52b9a1e",
+  "053d867dbed47c4a",
+  "73d3c64e207ec4eb",
+  "f527bac78d9a25c2",
+  "0608a704a91376af",
+  "0c146b3da681fc83",
+  "3f4d97852063e44e",
+  "e78b7a58153a1834",
+  "2acb306f741eb4db",
+  "361ae48c0718bcef",
+  "c524d7d22c2e73ce",
+  "0038048deb3de9f7",
+  "75b45e5af452e75b",
+  "53f15daf2641ea06",
+  "179b2b27881b5a86",
+  "26cfcb565a873047",
+  "36138f412ad14f87",
+  "1e66644b90d022e9"
+ ],
+ "errors": [],
+ "sampling": {
+  "axe": 100,
+  "alfa": 50,
+  "plain-language": 50,
+  "link-check": 100,
+  "lighthouse": 10,
+  "deprecated-html": 10,
+  "resources": 100,
+  "images": 100,
+  "standards": 50,
+  "security": 10,
+  "public-interest": 10,
+  "offline-resilience": 0,
+  "sustainability": 10,
+  "tech": 10,
+  "third-party": 25
+ },
+ "browser": {
+  "userAgent": "vital-scans/0.1 (+https://github.com/mgifford/vital-core-lgd; accessibility and sustainability monitoring)",
+  "viewport": {
+   "width": 1280,
+   "height": 800
+  }
+ },
+ "linkCheck": {
+  "total": 940,
+  "checked": 500,
+  "brokenCount": 1,
+  "broken": [
+   {
+    "url": "http://www.twitter.com/wolvescouncil",
+    "status": 520,
+    "reason": "HTTP 520",
+    "foundOn": [
+     "https://go.walsall.gov.uk/newsroom/councils-and-police-seek-extended-street-racing-injunction"
+    ]
+   }
+  ]
+ },
+ "enginesRun": {
+  "axe": 49,
+  "resources": 49,
+  "images": 49,
+  "standards": 24,
+  "tech": 6,
+  "link-check": 49,
+  "alfa": 21,
+  "plain-language": 23,
+  "deprecated-html": 7,
+  "security": 5,
+  "public-interest": 6,
+  "sustainability": 7,
+  "lighthouse": 6,
+  "third-party": 9
+ },
+ "tally": {
+  "ok": 49,
+  "blocked": 1,
+  "timeout": 0,
+  "robots_skipped": 0,
+  "url_filtered": 0,
+  "non_html": 0,
+  "redirect": 1,
+  "error": 0
+ },
+ "finishedAt": "2026-11-12T11:16:58.003Z"
+}
