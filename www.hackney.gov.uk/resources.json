@@ -1,6 +1,6 @@
 {
  "domain": "www.hackney.gov.uk",
- "updatedAt": "2026-11-11T19:50:57.446Z",
+ "updatedAt": "2026-11-12T20:23:00.281Z",
  "resources": {
   "https://consentcdn.cookiebot.com/sdk/bc-v5.min.html": {
    "type": "iframe",
@@ -12,7 +12,7 @@
     "2026-W46"
    ],
    "weeksSeen": 3,
-   "lastPages": 717,
+   "lastPages": 762,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/community-safety-and-environment/pollution-noise-and-environmental-problems/air-quality/improving-air-quality-supporting-sustainable-transport",
     "https://www.hackney.gov.uk/libraries-parks-and-leisure/parks-and-green-spaces/memorials-abney-park-cemetery",
@@ -548,12 +548,13 @@
   "https://map2.hackney.gov.uk/maps/motorcycle-parking/embed.html": {
    "type": "iframe",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/parking-streets-and-transport/where-park/two-wheeled-motorcycle-parking"
@@ -814,12 +815,13 @@
   "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/652379/Application_form_to_correct_a_death_registration_v2.0.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/births-deaths-marriages-and-citizenship/deaths/what-do-when-someone-dies-hackney"
@@ -828,12 +830,13 @@
   "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/782404/How_to_apply_for_a_correction_to_a_death_registration_v2.0.pdf": {
    "type": "pdf",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/births-deaths-marriages-and-citizenship/deaths/what-do-when-someone-dies-hackney"
@@ -1874,12 +1877,13 @@
   "https://map2.hackney.gov.uk/maps/cycle-hangars/embed.html": {
    "type": "iframe",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/cycling/cycle-hangars"
@@ -1888,12 +1892,13 @@
   "https://www.youtube.com/embed/V48HpkCgFzY?si=daewvhnJvWlK-BLl": {
    "type": "embedded-media",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/cycling/cycle-hangars"
@@ -1902,12 +1907,13 @@
   "https://map2.hackney.gov.uk/maps/cycle-hangar-status/embed.html": {
    "type": "iframe",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W45",
+   "lastSeen": "2026-W46",
    "_weeks": [
     "2026-W44",
-    "2026-W45"
+    "2026-W45",
+    "2026-W46"
    ],
-   "weeksSeen": 2,
+   "weeksSeen": 3,
    "lastPages": 1,
    "lastExamplePages": [
     "https://www.hackney.gov.uk/parking-streets-and-transport/sustainable-transport-and-parking/cycling/cycle-hangars"
@@ -2669,28 +2675,28 @@
   "https://www.hackney.gov.uk/media/oembed?url=https%3A//youtu.be/MVJ9o4_-sSg&max_width=0&max_height=0&hash=tdmWDYIaJCYQ-8XMlgOtOUNth_D0poY2TxAZFXRHYUQ": {
    "type": "embedded-media",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W46"
    ],
-   "weeksSeen": 1,
-   "lastPages": 2,
+   "weeksSeen": 2,
+   "lastPages": 1,
    "lastExamplePages": [
-    "https://hackney.gov.uk/libraries-parks-and-leisure/biodiversity-and-nature-conservation",
     "https://www.hackney.gov.uk/libraries-parks-and-leisure/biodiversity-and-nature-conservation"
    ]
   },
   "https://www.hackney.gov.uk/media/oembed?url=https%3A//youtu.be/lsie7fvXS_8&max_width=0&max_height=0&hash=V6y8g53rWBRc9hNBz1a4Lqp0J8s4TYJAGo9gs83NaAg": {
    "type": "embedded-media",
    "firstSeen": "2026-W44",
-   "lastSeen": "2026-W44",
+   "lastSeen": "2026-W46",
    "_weeks": [
-    "2026-W44"
+    "2026-W44",
+    "2026-W46"
    ],
-   "weeksSeen": 1,
-   "lastPages": 2,
+   "weeksSeen": 2,
+   "lastPages": 1,
    "lastExamplePages": [
-    "https://hackney.gov.uk/libraries-parks-and-leisure/biodiversity-and-nature-conservation",
     "https://www.hackney.gov.uk/libraries-parks-and-leisure/biodiversity-and-nature-conservation"
    ]
   },
