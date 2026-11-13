@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-11-12T03:19:28.068Z",
+ "updatedAt": "2026-11-13T02:53:20.985Z",
  "checker": {
   "name": "pdf-crawler",
   "url": "https://github.com/mgifford/pdf-crawler",
@@ -3750,6 +3750,256 @@
   },
   "https://go.walsall.gov.uk/sites/default/files/2022-09/Waterfront%20SPD%20Consultation%20Statement.pdf": {
    "checkedAt": "2026-11-12T03:19:28.067Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Waterfront%20SPD%20Consultation%20Statement%20Annex%201.pdf": {
+   "checkedAt": "2026-11-13T02:52:44.942Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Waterfront%20SPD%20Consultation%20Statement%20Annex%202.pdf": {
+   "checkedAt": "2026-11-13T02:52:46.443Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/Waterfront%20SPD%20November%202006.pdf": {
+   "checkedAt": "2026-11-13T02:52:47.945Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-09/What%20is%20designing%20Walsall.pdf": {
+   "checkedAt": "2026-11-13T02:52:49.446Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2022-12/Walsall%20Policy%20to%20discharge%20duty%20owed%20to%20homeless%20households%20into%20the%20Private%20Rented%20Sector%20%281%29.pdf": {
+   "checkedAt": "2026-11-13T02:52:50.948Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2023-06/104513%20%5BReview%5D%20Homelessness%20Rough%20Sleeping%20Review%202023-2028.pdf": {
+   "checkedAt": "2026-11-13T02:52:52.450Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2023-06/104513%20Homelessness%20Rough%20Sleeping%20Strategy%202.pdf": {
+   "checkedAt": "2026-11-13T02:52:53.952Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2023-06/Cannock-Chase-SAC-Planning-Application-FAQ-Ap1.pdf": {
+   "checkedAt": "2026-11-13T02:52:55.453Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2023-06/WM5452_Draft_Notice.pdf": {
+   "checkedAt": "2026-11-13T02:52:56.955Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2023-06/WM5452_Draft_Order.pdf": {
+   "checkedAt": "2026-11-13T02:52:58.457Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2023-06/WM5452_Draft_Plan.pdf": {
+   "checkedAt": "2026-11-13T02:52:59.959Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2023-10/Treasury%20Management%20%26%20Investment%20Strategy%202023-24%203.pdf": {
+   "checkedAt": "2026-11-13T02:53:01.461Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2023-10/Walsall%20Cannock%20Chase%20SAC%20Mitigation%20Guidance.pdf": {
+   "checkedAt": "2026-11-13T02:53:02.963Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2023-12/105072%20Young%20Carers%20Assessment%20Form%20-%20Design%20Only.pdf": {
+   "checkedAt": "2026-11-13T02:53:04.465Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2024-05/Guide%20to%20completing%20Section%20106%20planning%20obligations.pdf": {
+   "checkedAt": "2026-11-13T02:53:05.967Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2024-05/HM910-RL-GAa_Eden%20Turley.pdf": {
+   "checkedAt": "2026-11-13T02:53:07.469Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2024-05/Resolution%20of%20adoption_Eden%20Turley.pdf": {
+   "checkedAt": "2026-11-13T02:53:08.971Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2024-05/S228%20Notice_Eden%20Turley.pdf": {
+   "checkedAt": "2026-11-13T02:53:10.473Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2024-09/107601%20Historic%20Building%20Maintenance%20Guidance%20%28Accessible%29_0.pdf": {
+   "checkedAt": "2026-11-13T02:53:11.974Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2024-09/Walsall%20IG%20Policy%20November%202023%20V1.0%20Final_Natalie%20Wilkinson.pdf": {
+   "checkedAt": "2026-11-13T02:53:13.475Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2024-12/Infrastructure%20funding%20statement%202023-2024.pdf": {
+   "checkedAt": "2026-11-13T02:53:14.975Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2025-01/109229%20Street%20Trading%20Application%20Form%20-%20Design%20Only.pdf": {
+   "checkedAt": "2026-11-13T02:53:16.477Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2025-02/Walsall%20planning%20enforcement%20notice%20register.pdf": {
+   "checkedAt": "2026-11-13T02:53:17.979Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2025-06/Temporary%20Accommodation%20Policy.pdf": {
+   "checkedAt": "2026-11-13T02:53:19.481Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2025-07/03%20Customer%20Experience%20Strategy%202021%202026%20Interim%20Update%20Approved%201.pdf": {
+   "checkedAt": "2026-11-13T02:53:20.983Z",
    "week": "2026-W46",
    "httpStatus": null,
    "status": "error",
