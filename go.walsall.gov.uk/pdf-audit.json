@@ -1,6 +1,6 @@
 {
  "domain": "go.walsall.gov.uk",
- "updatedAt": "2026-11-13T02:53:20.985Z",
+ "updatedAt": "2026-11-14T02:40:41.857Z",
  "checker": {
   "name": "pdf-crawler",
   "url": "https://github.com/mgifford/pdf-crawler",
@@ -4000,6 +4000,256 @@
   },
   "https://go.walsall.gov.uk/sites/default/files/2025-07/03%20Customer%20Experience%20Strategy%202021%202026%20Interim%20Update%20Approved%201.pdf": {
    "checkedAt": "2026-11-13T02:53:20.983Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2025-08/Council4Kids%20Newsletter%20July%202025.pdf": {
+   "checkedAt": "2026-11-14T02:40:05.809Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2025-10/Notification%20of%20an%20interest%20in%20premises%20under%20section%20178.pdf": {
+   "checkedAt": "2026-11-14T02:40:07.311Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2025-11/Guide%20to%20making%20a%20representation.pdf": {
+   "checkedAt": "2026-11-14T02:40:08.813Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2025-11/Infrastructure%20Funding%20Statement%202024-2025.pdf": {
+   "checkedAt": "2026-11-14T02:40:10.314Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2025-11/Licencing%20act%202003%20representation%20form%20%281%29.pdf": {
+   "checkedAt": "2026-11-14T02:40:11.817Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2025-12/Register%20of%20breach%20of%20planning%20condition%28s%29%20notices%20in%20walsall.pdf": {
+   "checkedAt": "2026-11-14T02:40:13.319Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-01/Planning%20Obligations%20Supplementary%20Planning%20Document%20%28SPD%29%20Adoption%20Statement_1.pdf": {
+   "checkedAt": "2026-11-14T02:40:14.821Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-01/Planning%20Obligations%20Supplementary%20Planning%20Document%20%28SPD%29%20Consultation%20Summary%20Report%20Dec%202025.pdf": {
+   "checkedAt": "2026-11-14T02:40:16.322Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-01/Planning%20obligations%20supplementary%20planning%20document%20Dec%202025.pdf": {
+   "checkedAt": "2026-11-14T02:40:17.825Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-02/Secondary%20appeals%20information%202026.pdf": {
+   "checkedAt": "2026-11-14T02:40:19.327Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-03/112323%20Temporary%20Accommodation%20Tenant%20Satisfaction%20Measures%202025%20Booklet%20%28Accessible%29.pdf": {
+   "checkedAt": "2026-11-14T02:40:20.829Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-06/Adoption%20Statement%20Natural%20Environment%20%20SPD%20.pdf": {
+   "checkedAt": "2026-11-14T02:40:22.331Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-06/Consultation%20Statement%20Natural%20Environment%20SPD.pdf": {
+   "checkedAt": "2026-11-14T02:40:23.833Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-06/Natural%20Environment%20Supplementary%20Planning%20Document%20adopted.pdf": {
+   "checkedAt": "2026-11-14T02:40:25.335Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-07/Walsall%20Gala%20Class%20Programme%20Leaflet%20%28was%20106164%29.pdf": {
+   "checkedAt": "2026-11-14T02:40:26.837Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-08/Bloxwich%20term%20time%20pool%20programme%20september%202026%20accessible.pdf": {
+   "checkedAt": "2026-11-14T02:40:28.339Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-08/Darlaston%20pool%20programme%20from%201%20September%202026.pdf": {
+   "checkedAt": "2026-11-14T02:40:29.841Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-08/Darlaston%20pool%20programme%20from%201%20September%202026%20%28accessible%29.pdf": {
+   "checkedAt": "2026-11-14T02:40:31.343Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-08/Oak%20Park%20pool%20programme%20from%201%20September%202026%20%28accessible%29.pdf": {
+   "checkedAt": "2026-11-14T02:40:32.845Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-09/114318%20Bloxwich%20Term%20Time%20Pool%20Programme%20Sept%202026%20non%20accessible.pdf": {
+   "checkedAt": "2026-11-14T02:40:34.347Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-09/114368%20Oak%20Park%20Term%20Time%20Pool%20Programme%20September%202026%20non%20accessible%28002%29.pdf": {
+   "checkedAt": "2026-11-14T02:40:35.847Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-09/Bloxwich%20Class%20Timetable%20September%202026.pdf": {
+   "checkedAt": "2026-11-14T02:40:37.349Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-09/Digital%2C%20Data%20and%20Technology%20Strategy%202025-2029.pdf": {
+   "checkedAt": "2026-11-14T02:40:38.851Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-09/Green%20Belt%20Amendments.pdf": {
+   "checkedAt": "2026-11-14T02:40:40.353Z",
+   "week": "2026-W46",
+   "httpStatus": null,
+   "status": "error",
+   "attempts": 1,
+   "errors": [
+    "disallowed by robots.txt for the scanner"
+   ]
+  },
+  "https://go.walsall.gov.uk/sites/default/files/2026-09/Oak%20Park%20Studio%20Timetable%20September%202026.pdf": {
+   "checkedAt": "2026-11-14T02:40:41.855Z",
    "week": "2026-W46",
    "httpStatus": null,
    "status": "error",
